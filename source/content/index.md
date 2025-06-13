@@ -17,3 +17,6 @@ I'm going to log my process of "learning how to think". My newest project re: th
 # Day 2
 - [[It's care, probably (??)]]
 - [[Documenting yesterday's interactions]]
+- [[Day 2 - bottom up learning - America & Immigration]]
+# Day 3
+- [[Day 3 - top-down learning via twitter]]
