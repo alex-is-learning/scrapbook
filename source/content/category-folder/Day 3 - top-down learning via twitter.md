@@ -94,3 +94,10 @@ First tweet I saw:
 - I wonder about this - writing it down ahead of time felt useful to extract maximum questions from the tweet, but then porting to Fateboot and then porting my answers back to here feels a little clunky...
 - Useful though! So much juice in one tweet!
 - I also have a sense that this was too much. I feel like I had too many predictions, and it doesn't feel super salient. Vs if I really zeroed in on trying to richly model one specific facet...
+# This took ~1 hour
+- Literally chose the first tweet on my timeline
+- Pull out ~15 things I didn't know, predicted them
+- Put them in Fatebook so that I could cash them out as YES or NO
+- Wrote about my updates here
+- Feel kinda drained... (I've done a bunch of other stuff today too)
+- I think tweeting _at_ people feels more fun, this feels fairly inert. But still got a bunch of useful updates to my very shoddy model
