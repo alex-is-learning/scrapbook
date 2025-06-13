@@ -55,7 +55,7 @@ First tweet I saw:
 ## Updates
 
 1. Andrew Cuomo is a member of the Democratic party - 70% sure
-		1. ✅ TRUE
+	- ✅ TRUE
 2. Andrew Cuomo is currently the Governor of the state of New York - 40%
 	1. ❌ FALSE 
 	2. He was the Governor, he resigned, now he's running for Mayor 
