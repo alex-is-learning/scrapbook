@@ -61,6 +61,13 @@
 - I didn't do very well lol, but that's fine, I know barely anything about this! 
 - This has taken me ~30 minutes (including writing all of this here) - feels SO much more rich than like "I'll read the entire thing all at once"
 - Feels so much more interactive, engaging, adult. I'm still so thrilled about this whole thing! (That is, learning to think)
+- All of the above is from this source text. 30 minutes on so few words!! 
+
+> In the early hours of June 13, 2025, [Israeli F-35I Adir stealth fighters crossed into Iranian airspace](https://www.washingtonpost.com/national-security/2025/06/12/iran-israel-nuclear-us-trump/), launching precision strikes against Iranian nuclear facilities at Natanz and Isfahan, while conspicuously avoiding the mountain fortress of Fordow.
+
+> Called [Operation Rising Lion](https://en.wikipedia.org/wiki/June_2025_Israeli_strikes_on_Iran), this attack involved the Israeli Air Force using over 200 aircraft dropping 330+ munitions on 100 targets. Israeli officials revealed [Mossad had established a secret drone base near Tehran](https://www.timesofisrael.com/liveblog_entry/mossad-set-up-a-drone-base-in-iran-uavs-were-activated-overnight-to-strike-surface-to-surface-missile-launchers-aimed-at-israel/) months in advance, activating them to destroy missile launchers threatening Israeli cities.
+
+> **These attacks represent a seismic shift in a decades-long standoff over Iran's nuclear ambitions.**
 ## Biggest updates
 - Damn, Israel's CIA (Mossad (?)) as very effective. Sniping nuclear scientists, covert attacks, stuxnet. 
 # WAVE 2
