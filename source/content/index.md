@@ -1,5 +1,7 @@
 ---
 title: Home Page
+aliases:
+  - Home Page
 ---
 *My main website is [here](https://www.alexislearning.me/) - this website is my notebook for learning how to think the Open Research Institute way* 😎
 
@@ -20,3 +22,5 @@ I'm going to log my process of "learning how to think". My newest project re: th
 - [[Day 2 - bottom up learning - America & Immigration]]
 # Day 3
 - [[Day 3 - top-down learning via twitter]]
+# Day 4
+- [[Israel & Iran]]
