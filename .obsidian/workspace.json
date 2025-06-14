@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/week-01/Israel & Iran.md",
+                "file": "source/content/week-01/Israel & Iran (session 2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Israel & Iran"
+              "title": "Israel & Iran (session 2)"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "adfdf894a6d1d9c7",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/week-01/Israel & Iran.md",
+                "file": "source/content/week-01/Israel & Iran (session 2).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Israel & Iran"
+              "title": "Backlinks for Israel & Iran (session 2)"
             }
           },
           {
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/week-01/Israel & Iran.md",
+                "file": "source/content/week-01/Israel & Iran (session 2).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Israel & Iran"
+              "title": "Outline of Israel & Iran (session 2)"
             }
           }
         ],
@@ -157,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,9 +172,10 @@
   "active": "16dae9173c4a2f7a",
   "lastOpenFiles": [
     "source/content/index.md",
-    "source/content/week-01/Israel & Iran.md",
+    "source/content/week-01/Israel & Iran (session 2).md",
+    "source/content/week-01/Israel & Iran (session 1).md",
     "source/content/week-01/Day 3 - top-down learning via twitter.md",
-    "Pasted image 20250613175257.png",
+    "source/content/week-01/Pasted image 20250613175257.png",
     "source/content/week-01/Pasted image 20250613171403.png",
     "source/content/week-01/index.md",
     "source/content/week-01/Day 2 - bottom up learning - America & Immigration.md",

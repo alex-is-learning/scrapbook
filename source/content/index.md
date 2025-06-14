@@ -23,4 +23,5 @@ I'm going to log my process of "learning how to think". My newest project re: th
 # Day 3
 - [[Day 3 - top-down learning via twitter]]
 # Day 4
-- [[Israel & Iran]]
+- [[Israel & Iran (session 1)]]
+- [[Israel & Iran (session 2)]]
