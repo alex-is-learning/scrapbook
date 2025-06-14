@@ -1,6 +1,6 @@
 - Israel is attacking Iran
 - Why? 
-# My current model
+# 1. MY CURRENT MODEL
 ## My model of nuclear
 - *I spent ~20 hours learning about nuclear for a job application, and thanks to anki, it's all still in my brain ~2 months later, so so cool!!!*
 - *Below is incomplete and probably wrong in various places - I'm just writing out what is currently relevant - to write out everything would be tedious. It's very cool to me how this is all in my head!!! The below is with 0 internet/ChatGPT*
@@ -63,7 +63,7 @@
 - I would assume that any capitalist country would be on Israel + America's side, and any religious state would be pro-Iran? So like, Saudi Arabia may be allied with Israel? (I'm pretty sure Saudi is very religious, but also very like... pro-luxury...)
 # I feel like I could do this forever
 - There are so many questions to ask, but it feels kinda draining so I'll stop there
-# Predictions
+# 2. PREDICTIONS
 ## 1. One of the top 3 reasons ChatGPT gives for Israel striking Iran is to slow Iran's progress re: nuclear armament
 - I'm gonna give this a... 70%. Seems pretty likely. 
 - ✅ - ok, I realised that I can't ask ChatGPT about something that literally happened ~yesterday, but from reading the BBC news article, the strikes are literally strikes on their nuclear facilities (all I knew was that Israel struck Iran)
