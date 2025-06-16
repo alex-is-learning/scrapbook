@@ -137,3 +137,140 @@
 		- The U.S. uses it as a **long-range bomber base**, including for **B-2 stealth bombers**, which can reach the Middle East quickly from Diego Garcia.
 ## Biggest update from round 2
 - Mossad set up a drone base IN Iran, that is crazy shit
+# WAVE 3
+- It's 22:40 and I'm back for a lil bit more, this is very addictive
+- From [here](https://www.timesofisrael.com/liveblog_entry/mossad-set-up-a-drone-base-in-iran-uavs-were-activated-overnight-to-strike-surface-to-surface-missile-launchers-aimed-at-israel/):
+  
+>Israel spent years preparing for the operation against Iran’s nuclear and missile programs, a security official tells The Times of Israel, including building a drone base inside Iran and smuggling precision weapons systems and commandos into the country.
+
+> The effort hinged on tight joint planning between the IDF and the Mossad intelligence agency.
+
+> According to the official, Mossad agents set up a drone base on Iranian soil near Tehran. The drones were activated overnight, striking surface-to-surface missile launchers aimed at Israel.
+
+> In addition, vehicles carrying weapons systems were smuggled into Iran.
+> These systems took out Iran’s air defenses and gave Israeli planes air supremacy and freedom of action over Iran.
+
+> The third covert effort was Mossad commandos deploying precision missiles near anti-aircraft sites in central Iran.
+
+> The operations relied on “groundbreaking thinking, bold planning and surgical operation of advanced technologies, special forces and agents operating in the heart of Iran while totally evading the eyes of local intelligence,” says the official.
+
+## ❓ Initial questions
+1. I imagine these are ultra-high tech, very much not like the consumer drones that I'm picturing  
+2. What kinds of weapons do they carry?  
+3. Are they human-operated, 1 person, 1 drone?  
+4. Are they semi-autonomous (1 person, multiple drones)?  
+5. Are they fully autonomous?  
+6. What is their payload? Do they drop bombs? Shoot missiles?  
+7. How much do they cost?  
+8. Were they destroyed?  
+9. How do you smuggle weapon systems into Iran?  
+10. What do you mean by "weapon systems"?  
+11. So no ground troops? Was this all done like... over the internet? Or were there drone "pilots" in Iran?  
+## 🤔 Turned to predictions
+1. The drones used cost >$10k per unit
+	1. 40% -- god knows. I have a sense that military hardware is very expensive, so this could be wildly conservative. But also, drones are cheap, right? I may be too influenced by a strong prior of consumer drones
+2. The drones fire missiles 
+	1. 30% -- seems right (vs dropping bombs) - more accurate? But setting a low credence because there's so much I don't know
+3. Each drone is operated by 1 person
+	1. 20% -- seems costly/inefficient. There'd be a strong incentive to allow a person to direct multiple at once?
+4. One person can operate multiple drones at once
+	1. 40% -- I don't feel confident either way...
+5. The drones are fully autonomous
+	- 1% -- that'd be crazy
+6. Weapons systems are smuggled into Iran partially via having spies in the Iranian... importing... infrastructure?
+	- 30% -- I just don't know shit. There could be other ways for sure. But it does seem like smuggling stuff in via border checkpoints, having spies who work there... there's a scene in The Wire where this happens, lol
+7. Weapons systems (smuggled in) primarily means... missile launchers
+	- 30% -- seems legit, but I just know so little
+8. The drone pilots/operators weren't in Iran
+	- 20% -- now I think about it - they set up a drone base, so it seems likely that the operators would have been there
+## 💰 Cashing out predictions
+### The drones used cost >$10k per unit
+- 40% -- god knows. I have a sense that military hardware is very expensive, so this could be wildly conservative. But also, drones are cheap, right? I may be too influenced by a strong prior of consumer drones
+- ✅ TRUE 
+	- *"In fact, even the lighter kamikaze drones cost **tens of thousands**, while most Israeli military drones cost **millions** per unit"*
+- I was wildly conservative
+### Dumb model alert
+- Realising I was kind of picturing consumer drones, but beefier and a bit fancier
+- Rather than something pretty much very different
+- ChatGPT:
+	- Yes, the drones used by Israel (e.g. in Operation Rising Lion) are **vastly different** from consumer drones like DJI models  
+	- **Consumer drones** (like DJI) are:
+	  - Lightweight, relatively cheap (hundreds to a few thousand dollars)
+	  - Short-range (under 10 km), limited payload capacity
+	  - Used for hobbyist filming, basic reconnaissance, or improvised attacks in conflicts like Ukraine (e.g. dropping hand grenades)
+	- **Military drones** (like Israel's Heron, Hermes 450, or Harop) are:
+	  - Heavily engineered for combat and intelligence
+	  - Cost **hundreds of thousands to millions** of dollars
+	  - Equipped with **long-range communication**, **autonomous navigation**, **stealth features**, and **weapons systems**
+	  - Capable of **precision missile strikes**, **electronic warfare**, or **real-time intelligence gathering**
+- In conflicts like Ukraine, militias often **jury-rig consumer drones** for tactical use  
+- In contrast, Israel employs **professional-grade UAVs** with dedicated command-and-control infrastructure, often operated by trained military personnel from afar  
+### The drones fire missiles 
+1. 30% -- seems right (vs dropping bombs) - more accurate? But setting a low credence because there's so much I don't know
+- ✅ TRUE
+	- ***It depends on the drone model**, but in general:*
+	-  ***Large drones (e.g. Heron TP, Hermes 900)***
+	- ***Primary weapon system:** Typically **bombs or missiles***
+	  - *They can carry **free-falling bombs** (some up to ~1 tonne)*
+	  - *Many are equipped to launch **guided missiles**, like **Spike** anti-tank missiles*
+	- *These drones are **multi-role**: surveillance, strike, and support*
+	- ***Loitering munitions (e.g. Harop, Rotem L)***
+	- ***Primary weapon system:** The drone **is** the weapon*  
+	  - *They loiter over an area and **dive into the target**, self-destructing on impact*
+	  - *Best for precision, high-value targets with minimal collateral*
+	- *In summary:*
+	- ***There isn’t one single “primary” weapon type across all drones***
+	- *But for larger drones, they **mostly drop bombs or fire missiles***
+	- *For smaller or loitering drones, their **primary method is kamikaze-style strikes***
+### Each drone is operated by 1 person
+1. 20% -- seems costly/inefficient. There'd be a strong incentive to allow a person to direct multiple at once?
+- ❌ FALSE - they can actually be operated my more than 1 person!
+	- *This is **partially correct** — it depends on the type of drone*  
+	  - *Large tactical drones (like Heron or Hermes 900) are operated by a **team**, not a single pilot*  
+	    - *Example: Hermes 900 typically has a mission commander, a pilot, and a sensor operator*  
+	    - *These drones may also have additional personnel handling intelligence analysis, mission planning, and communications*  
+	  - *Medium or high-altitude drones (like the MQ-9 Reaper) are usually flown by a **pilot and sensor operator**, with a mission coordinator involved*  
+	    - *In some advanced setups, one crew may manage multiple drones*  
+	  - *Small loitering or mini-drones are often run by a **single operator***  
+	    - *Some can be operated in **swarm configurations**, where one person controls multiple drones*  
+	- *So overall: your prediction is accurate for small drones, but not for the more advanced tactical UAVs used by Israel*
+### One person can operate multiple drones at once
+1. 40% -- I don't feel confident either way...
+- ❌ can be true, but really doubt it's true for this operation
+- This is **true in certain contexts**, particularly for smaller or more automated drone systems  
+  - *In advanced drone programs, a single operator—or a small crew—can manage **multiple drones simultaneously**, especially for **smaller UAVs or loitering munitions***  
+  - *Larger tactical drones typically require **dedicated pilots** and **separate sensor operators**, often working in teams*  
+- *So while it's **possible that one person operates multiple drones**, this is generally true **only for smaller UAVs**, not the larger, military-grade models*
+### The drones are fully autonomous
+- 1% -- that'd be crazy
+- ❌ FALSE
+### Weapons systems are smuggled into Iran partially via having spies in the Iranian... importing... infrastructure?
+- 30% -- I just don't know shit. There could be other ways for sure. But it does seem like smuggling stuff in via border checkpoints, having spies who work there... there's a scene in The Wire where this happens, lol
+- I'm gonna say that this can't really be known
+	- *This prediction is **directionally correct**, though not fully accurate in terms of specific logistics*  
+	  - *Israel (via Mossad) **did smuggle weapons systems into Iran**, including **explosive drones and precision-guided munitions***  
+	  - *This was done **covertly**, often using **disguised transport methods** (e.g. vehicles, shipping containers), but the exact involvement of Iranian import/logistics officials is not confirmed*  
+	  - *However, the successful infiltration does **strongly imply** either:*
+	    - *Mossad had **local operatives** embedded within key supply chains, or*  
+	    - *They had **inside access** to Iranian territory and infrastructure (likely via recruited assets or collaborators)*  
+	- *So while the prediction about “importing infrastructure” isn’t explicitly confirmed, it aligns with **plausible methods used by Mossad**, making your guess a **reasonable and partially correct inference***
+### Weapons systems (smuggled in) primarily means... missile launchers
+- 30% -- seems legit, but I just know so little
+- I'm gonna say ✅ TRUE, although I forgot about the drones too!!
+	- *Here are the sources confirming what “weapons systems” smuggled into Iran included:*
+	  - *“Mossad smuggled weapons into Iran ahead of strikes … a base for launching explosive drones was established inside Iran … precision weapons … positioned near surface-to-air missile systems”*   
+	  - *“Mossad commandos had covertly deployed weapons across Iran, including explosive drones … launched at a surface-to-surface missile base near Tehran”  [oai_citation:0‡reuters.com](https://www.reuters.com/world/middle-east/israel-used-long-planned-subterfuge-attack-iranian-nuclear-targets-israeli-2025-06-13/?utm_source=chatgpt.com)*  
+	  - *A report states “vehicles carrying weapons systems were smuggled into Iran … used to disable air defense sites… commandos deploying precision missiles near anti‑aircraft sites”  [oai_citation:1‡timesofisrael.com](https://www.timesofisrael.com/mossad-set-up-drone-base-in-iran-uavs-took-out-missile-launchers-overnight/?utm_source=chatgpt.com)*  
+	- *From these, we can confidently say:*
+	  - ***Missile launchers and precision missiles** were indeed part of the smuggled equipment*  
+	  - *The term “weapons systems” also covered **explosive (loitering) drones** and **drone-launch or guidance gear**, not solely missile launchers*  
+	- *So your prediction that "weapons systems primarily means missile launchers" is **partially correct**, but it's important to include drones and supporting systems in the full picture*  
+### The drone pilots/operators weren't in Iran
+- 20% -- now I think about it - they set up a drone base, so it seems likely that the operators would have been there
+- ❌ FALSE (as expected!)
+	- *You suggested: **“The drone pilots/operators weren’t in Iran”**, implying control happened remotely*  
+	- *However, the evidence suggests **Mossad operatives were on the ground in Iran**, operating a covert drone base*  
+	  - *Unnamed security sources confirm **Mossad agents were inside Iran**, preparing missile and drone strikes near Tehran during Operation Rising Lion*   
+	  - *Reports describe **commandos directing drone and missile strikes from inside Iran** to disable air-defence systems  [oai_citation:0‡thejc.com](https://www.thejc.com/news/israel/mossad-set-up-drone-base-in-iran-and-smuggled-in-commandos-ahead-of-strikes-says-security-official-b4t6qsl4?utm_source=chatgpt.com)*  
+	  - *A covert drone base near Tehran was launched **by agents physically present**, suggesting operators were also on-site  [oai_citation:1‡ynetnews.com](https://www.ynetnews.com/article/rkgersf7xg?utm_source=chatgpt.com)*  
+	- *So, while some drones may have been controlled remotely, **key strike operations were conducted by personnel based inside Iran**, not purely from afar*  
