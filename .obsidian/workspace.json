@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning more about the Centre for Effective Altruism.md",
+                "file": "source/content/week-01/Learning more about the Centre for Effective Altruism.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning more about the Centre for Effective Altruism.md",
+                "file": "source/content/week-01/Learning more about the Centre for Effective Altruism.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning more about the Centre for Effective Altruism.md",
+                "file": "source/content/week-01/Learning more about the Centre for Effective Altruism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,9 +171,9 @@
   },
   "active": "16dae9173c4a2f7a",
   "lastOpenFiles": [
-    "Pasted image 20250616151050.png",
+    "source/content/week-01/Pasted image 20250616151050.png",
     "source/content/index.md",
-    "Learning more about the Centre for Effective Altruism.md",
+    "source/content/week-01/Learning more about the Centre for Effective Altruism.md",
     "source/content/week-01/Israel & Iran (session 2).md",
     "source/content/week-01/Israel & Iran (session 1).md",
     "source/content/week-01/Day 3 - top-down learning via twitter.md",
