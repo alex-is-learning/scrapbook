@@ -27,3 +27,5 @@ I'm going to log my process of "learning how to think". My newest project re: th
 - [[Israel & Iran (session 2)]]
 # Day 5
 - [[Learning more about the Centre for Effective Altruism]]
+# Day 6
+- [[Preparing for post-job application feedback call]]
