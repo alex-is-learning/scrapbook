@@ -1,0 +1,18 @@
+# June 2025
+- 17th June 2025
+	- [[Preparing for post-job application feedback call]]
+- 16th June 2025
+	- [[Centre for Effective Altruism]]
+- 15th June 2025
+	- [[Israel & Iran (session 1)]]
+	- [[Israel & Iran (session 2)]]
+- 14th June 2025
+	- [[AOC tweet re Andrew Cuomo]]
+- 13th June 2025
+	- [[It's care, probably (??)]]
+	- [[Day 1 of trying to engage people on twitter via alt account]]
+	- [[America & Immigration]]
+- 12th June 2025
+	- *Note that these both link to my other website right now, kinda redundant/confusing, I'll be doing all future 'learning to think' updates on this website where you currently are*
+	- [Kickoff post](https://www.alexislearning.me/learning-how-to-think/) - a quick blog post I wrote re: why I was so excited to read Defender's post about learning to think at 30
+	- [Log of what I did on day 1](https://www.alexislearning.me/learning/2025-06-11-learning-to-think-day-1/) → I followed his guide, made a twitter alt, found some people and tried to predict why they were so mad at AOC, saying that Delaware is toast and Ohio is gonna rise, etc
