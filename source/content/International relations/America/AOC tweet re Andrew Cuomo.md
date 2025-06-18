@@ -1,4 +1,5 @@
-So yesterday ([[Day 2 - bottom up learning - America & Immigration]]) I just did bottom-up learning, so today I'll get back on the "poking around twitter" vibe. 
+- 2025-06-14
+So yesterday ([[America & Immigration]]) I just did bottom-up learning, so today I'll get back on the "poking around twitter" vibe. 
 
 First tweet I saw:
 
