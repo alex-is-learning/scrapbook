@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/01. International relations/Middle East/Israel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Israel"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/01. International relations/Middle East/Israel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Israel"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/01. International relations/Middle East/Israel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Israel"
             }
           }
         ],
@@ -171,12 +171,15 @@
   },
   "active": "5295a5d7547bfb92",
   "lastOpenFiles": [
+    "Pasted image 20250618110031.png",
+    "Pasted image 20250618105818.png",
     "source/content/03. On learning, on this process/Learning log per day.md",
+    "source/content/01. International relations/Middle East/Israel.md",
     "source/content/index.md",
+    "source/content/Meta (ignore me)/index.md",
     "source/content/03. On learning, on this process/It's care, probably (??).md",
     "source/content/03. On learning, on this process",
     "source/content/Meta/Some note.md",
-    "source/content/Meta/index.md",
     "source/content/04. Internet dialogues/Day 1 of trying to engage people on twitter via alt account.md",
     "source/content/01. International relations/America/America & Immigration.md",
     "source/content/01. International relations/Middle East/Israel & Iran (session 1).md",
@@ -201,21 +204,18 @@
     "source/content/z Images (ignore)/Pasted image 20250612182056.png",
     "source/content/z Images (ignore)/Pasted image 20250612181951.png",
     "source/content/01. International relations/Middle East/Israel & Iran (session 2).md",
-    "source/content/Meta",
+    "source/content/Meta (ignore me)",
     "source/content/02. Career/Preparing for post-job application feedback call.md",
     "source/CODE_OF_CONDUCT.md",
     "source/content/Meta (about this project)/index.md",
     "source/content/Meta (about this project)/index-1.md",
     "README.md",
-    "source/content/z Images (ignore me)/Pasted image 20250612181739.png",
     "source/content/Internet arguments/Day 1 of trying to talk to people on twitter.md",
     "source/content/Meta (about this project)/Some note.md",
     "source/content/week-01/Part-time researcher role at FRI.md",
     "source/content/International affairs/AOC tweet about Andrew Cuomo.md",
     "source/content/International affairs/America & Immigration.md",
     "source/content/Science/Why is this p hacking?.md",
-    "source/content/International affairs/Polymarket → NYC mayoral race.md",
-    "source/content/Career/Preparing for post-job application feedback call.md",
-    "Untitled.md"
+    "source/content/International affairs/Polymarket → NYC mayoral race.md"
   ]
 }
