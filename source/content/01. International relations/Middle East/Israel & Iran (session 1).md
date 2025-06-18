@@ -1,3 +1,4 @@
+- Next - [[Israel & Iran (session 2)]]
 - Israel is attacking Iran
 - Why? 
 # 1. MY CURRENT MODEL

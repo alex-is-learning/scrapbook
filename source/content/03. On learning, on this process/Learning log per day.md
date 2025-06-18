@@ -1,5 +1,6 @@
 # June 2025
 - 18th June 2025
+	- [[Israel & Iran (session 3)]]
 	- [[Israel]]
 - 17th June 2025
 	- [[Preparing for post-job application feedback call]]

@@ -8,3 +8,7 @@
 See also [[It's care, probably (??)]] & my [this-project kickoff post](https://www.alexislearning.me/learning-how-to-think/)
 
 ![[Pasted image 20250618120001.png]]- *[From this thread](https://x.com/ejames_c/status/1895416279722594311)*
+
+--- 
+
+- Turns out this is similar to reading to _engage_ (as opposed to reading to _understand_)

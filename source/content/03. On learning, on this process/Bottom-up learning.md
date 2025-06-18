@@ -7,3 +7,7 @@
 ## The failure mode
 - The failure mode of this is that it can be a little infantilising → there's a sense of "well, I can't grapple with anything beyond my understanding yet, I need to learn all the basic facts first"
 - For me this manifested as e.g. "I won't think about current affairs, to get a better world model I'll first have to learn the basics of various fields, like maybe if I read and make thorough flashcards from an economics textbook then one day I'll be ready to grapple with 'real' things"
+
+--- 
+
+- Turns out this is similar to reading to _understand_ (as opposed to reading to _engage_)
