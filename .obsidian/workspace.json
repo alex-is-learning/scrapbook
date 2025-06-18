@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/03. On learning, on this process/Top-down learning.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Top-down learning"
+              "title": "index"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/03. On learning, on this process/Top-down learning.md",
+                "file": "source/content/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Top-down learning"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/03. On learning, on this process/Top-down learning.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Top-down learning"
+              "title": "Outline of index"
             }
           }
         ],
@@ -198,13 +198,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "cf56d16386192975",
   "lastOpenFiles": [
+    "profile-pic-pixel.png",
+    "source/content/03. On learning, on this process/Top-down learning.md",
     "source/content/z Images (ignore)/Pasted image 20250618120001.png",
     "source/content/03. On learning, on this process/Bottom-up learning.md",
     "source/content/index.md",
     "source/content/z Images (ignore)/Michael Nielsen highlighted.png",
-    "source/content/03. On learning, on this process/Top-down learning.md",
     "source/content/01. International relations/Middle East/Israel.md",
     "source/content/z Images (ignore)/Pasted image 20250618110031.png",
     "source/content/z Images (ignore)/Pasted image 20250618105818.png",
@@ -233,7 +234,6 @@
     "source/content/z Images (ignore)/Pasted image 20250613171403.png",
     "source/content/z Images (ignore)/Pasted image 20250612182504.png",
     "source/content/z Images (ignore)/Pasted image 20250612182354.png",
-    "source/content/z Images (ignore)/Pasted image 20250612182220.png",
     "source/content/01. International relations/Middle East/Israel & Iran (session 2).md",
     "source/content/Meta (ignore me)",
     "source/content/02. Career/Preparing for post-job application feedback call.md",
