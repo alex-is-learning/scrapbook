@@ -1,4 +1,6 @@
 # June 2025
+- 18th June 2025
+	- [[Israel]]
 - 17th June 2025
 	- [[Preparing for post-job application feedback call]]
 - 16th June 2025
