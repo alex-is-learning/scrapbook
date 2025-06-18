@@ -5,7 +5,11 @@
 # Predictions
 1. US B-2 bombers are nuke-first bombers - 20%
 	1. I know nuclear bombers are part of the nuclear triad, but you'd assume that B-2s would carry other types of bombs as a priority, right?
+	2. ❌ nice, I was right!
+		1. "The B-2 has in fact been used only in conventional combat missions so far (Kosovo 1999, Afghanistan 2001, Libya 2011, Syria 2017). Its nuclear role is primarily deterrent, not a designated “first-strike-only” platform."
 2. Saudi Arabia is the #1 exporter of oil in the middle east - 80%
+	1. ✅
+	2. This [NASDAQ article](https://www.nasdaq.com/articles/10-top-oil-producing-countries-updated-2024) says they're number 2, behind America at number 1, which is surprising to me!!
 3. The answer to the heading "what does Iran want" (by pursuing nuclear) will be "leverage" - 70%
 	1. Seems really obvious, maybe too obvious, hence only 70%
 	- ✅
