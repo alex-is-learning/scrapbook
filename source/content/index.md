@@ -18,14 +18,14 @@ I'm going to log my process of "learning how to think". My newest project re: th
 - [Log of what I did on day 1](https://www.alexislearning.me/learning/2025-06-11-learning-to-think-day-1/) → I followed his guide, made a twitter alt, found some people and tried to predict why they were so mad at AOC, saying that Delaware is toast and Ohio is gonna rise, etc
 # Day 2
 - [[It's care, probably (??)]]
-- [[Documenting yesterday's interactions]]
-- [[Day 2 - bottom up learning - America & Immigration]]
+- [[Day 1 of trying to engage people on twitter via alt account]]
+- [[America & Immigration]]
 # Day 3
-- [[Day 3 - top-down learning via twitter]]
+- [[AOC tweet re Andrew Cuomo]]
 # Day 4
 - [[Israel & Iran (session 1)]]
 - [[Israel & Iran (session 2)]]
 # Day 5
-- [[Learning more about the Centre for Effective Altruism]]
+- [[Centre for Effective Altruism]]
 # Day 6
 - [[Preparing for post-job application feedback call]]

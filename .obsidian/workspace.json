@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Meta/Some note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Some note"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Meta/Some note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Some note"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Meta/Some note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Some note"
             }
           }
         ],
@@ -171,17 +171,25 @@
   },
   "active": "3bd675b143ace512",
   "lastOpenFiles": [
+    "source/content/Meta/It's care, probably (??).md",
+    "source/content/Meta/index.md",
+    "source/content/Internet dialogues/Day 1 of trying to engage people on twitter via alt account.md",
+    "source/content/International relations/America/America & Immigration.md",
+    "source/content/International relations/Middle East/Israel & Iran (session 1).md",
+    "source/content/International relations/America",
+    "source/content/International relations/Middle East",
+    "source/content/International relations/America/AOC tweet re Andrew Cuomo.md",
+    "source/content/index.md",
+    "source/content/Career/Centre for Effective Altruism.md",
     "source/content/z Images (ignore)/Pasted image 20250612181739.png",
     "source/content/Meta/Some note.md",
     "source/content/z Images (ignore)",
     "Untitled",
-    "source/content/index.md",
     "source/content/Career",
     "source/content/Internet dialogues",
     "Untitled 1",
     "source/content/International relations",
     "source/README.md",
-    "source/content/Meta/index.md",
     "source/content/z Images (ignore)/Pasted image 20250616151050.png",
     "source/content/z Images (ignore)/Pasted image 20250613175257.png",
     "source/content/z Images (ignore)/Pasted image 20250613171403.png",
@@ -190,13 +198,7 @@
     "source/content/z Images (ignore)/Pasted image 20250612182220.png",
     "source/content/z Images (ignore)/Pasted image 20250612182056.png",
     "source/content/z Images (ignore)/Pasted image 20250612181951.png",
-    "source/content/Career/Learning more about the Centre for Effective Altruism.md",
-    "source/content/Meta/It's care, probably (??).md",
-    "source/content/International relations/Israel & Iran (session 2).md",
-    "source/content/International relations/Israel & Iran (session 1).md",
-    "source/content/Internet dialogues/Documenting yesterday's interactions.md",
-    "source/content/International relations/Day 3 - top-down learning via twitter.md",
-    "source/content/International relations/Day 2 - bottom up learning - America & Immigration.md",
+    "source/content/International relations/Middle East/Israel & Iran (session 2).md",
     "source/content/Meta",
     "Preparing for post-job application feedback call.md",
     "package-lock.json",
@@ -205,9 +207,7 @@
     "source/content/Meta (about this project)/index-1.md",
     "README.md",
     "source/content/z Images (ignore me)/Pasted image 20250612181739.png",
-    "source/content/Science",
     "source/content/Internet arguments/Day 1 of trying to talk to people on twitter.md",
-    "source/content/z Images (ignore me)",
     "source/content/Meta (about this project)/Some note.md",
     "source/content/week-01/Part-time researcher role at FRI.md",
     "source/content/International affairs/AOC tweet about Andrew Cuomo.md",
