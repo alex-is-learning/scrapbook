@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bd675b143ace512",
+            "id": "5295a5d7547bfb92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Meta/Some note.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Some note"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Meta/Some note.md",
+                "file": "source/content/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Some note"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Meta/Some note.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Some note"
+              "title": "Outline of index"
             }
           }
         ],
@@ -169,26 +169,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3bd675b143ace512",
+  "active": "5295a5d7547bfb92",
   "lastOpenFiles": [
-    "source/content/Meta/It's care, probably (??).md",
-    "source/content/Meta/index.md",
-    "source/content/Internet dialogues/Day 1 of trying to engage people on twitter via alt account.md",
-    "source/content/International relations/America/America & Immigration.md",
-    "source/content/International relations/Middle East/Israel & Iran (session 1).md",
-    "source/content/International relations/America",
-    "source/content/International relations/Middle East",
-    "source/content/International relations/America/AOC tweet re Andrew Cuomo.md",
+    "source/content/03. On learning, on this process/Learning log per day.md",
     "source/content/index.md",
-    "source/content/Career/Centre for Effective Altruism.md",
-    "source/content/z Images (ignore)/Pasted image 20250612181739.png",
+    "source/content/03. On learning, on this process/It's care, probably (??).md",
+    "source/content/03. On learning, on this process",
     "source/content/Meta/Some note.md",
+    "source/content/Meta/index.md",
+    "source/content/04. Internet dialogues/Day 1 of trying to engage people on twitter via alt account.md",
+    "source/content/01. International relations/America/America & Immigration.md",
+    "source/content/01. International relations/Middle East/Israel & Iran (session 1).md",
+    "source/content/01. International relations/America",
+    "source/content/01. International relations/Middle East",
+    "source/content/01. International relations/America/AOC tweet re Andrew Cuomo.md",
+    "source/content/02. Career/Centre for Effective Altruism.md",
+    "source/content/z Images (ignore)/Pasted image 20250612181739.png",
     "source/content/z Images (ignore)",
     "Untitled",
-    "source/content/Career",
-    "source/content/Internet dialogues",
+    "source/content/02. Career",
+    "source/content/04. Internet dialogues",
     "Untitled 1",
-    "source/content/International relations",
+    "source/content/01. International relations",
     "source/README.md",
     "source/content/z Images (ignore)/Pasted image 20250616151050.png",
     "source/content/z Images (ignore)/Pasted image 20250613175257.png",
@@ -198,10 +200,9 @@
     "source/content/z Images (ignore)/Pasted image 20250612182220.png",
     "source/content/z Images (ignore)/Pasted image 20250612182056.png",
     "source/content/z Images (ignore)/Pasted image 20250612181951.png",
-    "source/content/International relations/Middle East/Israel & Iran (session 2).md",
+    "source/content/01. International relations/Middle East/Israel & Iran (session 2).md",
     "source/content/Meta",
-    "Preparing for post-job application feedback call.md",
-    "package-lock.json",
+    "source/content/02. Career/Preparing for post-job application feedback call.md",
     "source/CODE_OF_CONDUCT.md",
     "source/content/Meta (about this project)/index.md",
     "source/content/Meta (about this project)/index-1.md",
