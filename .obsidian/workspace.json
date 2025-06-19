@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Israel & Iran (session 3).md",
+                "file": "source/content/01. International relations/Middle East/Israel & Iran (session 3).md",
                 "mode": "source",
                 "source": false
               },
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "adfdf894a6d1d9c7",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Israel & Iran (session 3).md",
+                "file": "source/content/01. International relations/Middle East/Israel & Iran (session 3).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6436a0a0e3a82ed1",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
     "source/content/01. International relations/Middle East/Israel & Iran (session 1).md",
-    "Israel & Iran (session 3).md",
+    "source/content/01. International relations/Middle East/Israel & Iran (session 3).md",
     "source/content/03. On learning, on this process/Learning log per day.md",
     "source/content/03. On learning, on this process/Bottom-up learning.md",
     "source/content/03. On learning, on this process/Top-down learning.md",
@@ -211,7 +210,7 @@
     "source/content/01. International relations/Middle East/Israel.md",
     "source/content/01. International relations/America/America & Immigration.md",
     "source/content/index.md",
-    "profile-pic-pixel.png",
+    "source/content/z Images (ignore)/profile-pic-pixel.png",
     "source/content/z Images (ignore)/Pasted image 20250618120001.png",
     "source/content/z Images (ignore)/Michael Nielsen highlighted.png",
     "source/content/z Images (ignore)/Pasted image 20250618110031.png",
