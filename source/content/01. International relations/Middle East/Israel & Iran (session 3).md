@@ -1,4 +1,5 @@
 - Previous - [[Israel & Iran (session 2)]]
+- Next - [[Israel & Iran (session 4)]]
 - 2025-06-18
 - Going to read a bit more of the Peter Wildeford post
 	- Post from 14th June 2025: "The Fordow Paradox: Where do Iran and Israel go from here?"

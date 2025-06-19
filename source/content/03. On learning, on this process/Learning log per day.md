@@ -1,4 +1,6 @@
 # June 2025
+- 19th June 2025
+	- [[Israel & Iran (session 4)]]
 - 18th June 2025
 	- [[Israel & Iran (session 3)]]
 	- [[Israel]]
