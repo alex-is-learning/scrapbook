@@ -1,3 +1,5 @@
+- Vs [[Top-down learning]]
+
 > *Note - [this twitter thread](https://x.com/ejames_c/status/1895416279722594311)] is where I first heard the terms bottom-up vs top-down learning*
 
 - By bottom-up learning I mean learning by collecting all the more basic, essential facts, memorising them, then going up to the next level of abstraction/complexity, memorising/grokking this level, then climbing up, etc 
