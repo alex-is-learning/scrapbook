@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/02. Career/Model of FRI (Forecasting).md",
+                "file": "source/content/Misc/Learning about ozempic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Model of FRI (Forecasting)"
+              "title": "Learning about ozempic"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "adfdf894a6d1d9c7",
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/02. Career/Model of FRI (Forecasting).md",
+                "file": "source/content/Misc/Learning about ozempic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Model of FRI (Forecasting)"
+              "title": "Outline of Learning about ozempic"
             }
           }
         ],
@@ -173,16 +172,18 @@
   },
   "active": "5295a5d7547bfb92",
   "lastOpenFiles": [
-    "source/content/01. International relations/Middle East/Israel & Iran (session 1).md",
-    "source/content/z Images (ignore)/Pasted image 20250621142045.png",
-    "source/content/02. Career/Model of FRI (Forecasting).md",
-    "source/content/z Images (ignore)/OODA.jpg",
+    "source/content/Misc",
     "source/content/03. On learning, on this process/Learning log per day.md",
+    "source/content/Misc/Learning about ozempic.md",
     "source/content/index.md",
-    "source/content/01. International relations/Middle East/Israel & Iran (session 4).md",
-    "source/content/01. International relations/Middle East/Israel & Iran (session 3).md",
+    "source/content/02. Career/Model of FRI (Forecasting).md",
     "source/content/03. On learning, on this process/Bottom-up learning.md",
     "source/content/03. On learning, on this process/Top-down learning.md",
+    "source/content/01. International relations/Middle East/Israel & Iran (session 1).md",
+    "source/content/z Images (ignore)/Pasted image 20250621142045.png",
+    "source/content/z Images (ignore)/OODA.jpg",
+    "source/content/01. International relations/Middle East/Israel & Iran (session 4).md",
+    "source/content/01. International relations/Middle East/Israel & Iran (session 3).md",
     "source/content/01. International relations/Middle East/Israel & Iran (session 2).md",
     "source/content/01. International relations/Middle East/Israel.md",
     "source/content/01. International relations/America/America & Immigration.md",
@@ -202,7 +203,6 @@
     "source/content/02. Career/Centre for Effective Altruism.md",
     "source/content/z Images (ignore)/Pasted image 20250612181739.png",
     "source/content/z Images (ignore)",
-    "Untitled",
     "source/content/02. Career",
     "source/content/04. Internet dialogues",
     "Untitled 1",
@@ -216,7 +216,6 @@
     "source/content/Meta (about this project)/index.md",
     "source/content/Meta (about this project)/index-1.md",
     "README.md",
-    "source/content/Internet arguments/Day 1 of trying to talk to people on twitter.md",
-    "source/content/Meta (about this project)/Some note.md"
+    "source/content/Internet arguments/Day 1 of trying to talk to people on twitter.md"
   ]
 }
