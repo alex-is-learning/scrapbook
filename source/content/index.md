@@ -6,7 +6,7 @@ aliases:
 - *My main website is [here](https://www.alexislearning.me/)*
 	- *This website you're looking at is my notebook for learning how to think the Open Research Institute way* 😎
 
-- ![[profile-pic-pixel.png|120]]
+- [ ] ![[profile-pic-pixel.png|120]]
 ## Hello!
 - As of 2025-06-12, I am a member of the [Open Research Institute](https://defenderofthebasic.substack.com/p/how-do-we-bootstrap-the-open-research?utm_source=profile&utm_medium=reader2)!
 - This website is me learning how to think via top-down learning, vs the [[Bottom-up learning]] that I've almost entirely used up until this point
