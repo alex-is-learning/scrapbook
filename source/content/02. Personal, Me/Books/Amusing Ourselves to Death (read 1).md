@@ -4,11 +4,11 @@
 - I wanna read it a second time more deeply, make some flashcards and shit
 - Voice note I sent to some friends re: this: 
 ![[amusing-ourselves-to-death.mp3]]
-## Age of typology
+# Age of typology
 - I don't think this is the exact phrase he used, but still. There was a time in history, especially American history (his focus), where the written word was the main way that information was expressed
 - The written word has a particular world-view, or epistemology, a theory of knowledge. Knowledge can be written in a linear sequence, with propositions and conclusions
 - In Marshall McLuhan's parlance, the written word is a "cold" medium, meaning it is spare, low resolution, less... rich in information, in stimuli. As such, it requires more of you, you are encouraged to work more, to grapple with meaning, to co-create meaning
-## Age of show business
+# Age of show business
 - TV, a hot medium, info-dense, visually stimulating
 - But also -- commercialised. Condensed. The news -- there's no time to dive deep into a topic, it's always "and now... this", a non sequitur
 - As such, "Americans know everything about the last 24 hours, and nothing about the last 60 years"
