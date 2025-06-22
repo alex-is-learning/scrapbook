@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/02. Personal, Me/2. Goals/My goals.md",
+                "file": "source/content/02. Personal, Me/Books/Amusing Ourselves to Death.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My goals"
+              "title": "Amusing Ourselves to Death"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/02. Personal, Me/2. Goals/My goals.md",
+                "file": "source/content/02. Personal, Me/Books/Amusing Ourselves to Death.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of My goals"
+              "title": "Outline of Amusing Ourselves to Death"
             }
           }
         ],
@@ -169,10 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "5295a5d7547bfb92",
   "lastOpenFiles": [
-    "source/content/02. Personal, Me/On learning, on this process/Learning log per day.md",
+    "amusing-ourselves-to-death.mp3",
     "source/content/02. Personal, Me/2. Goals/My goals.md",
+    "source/content/02. Personal, Me/On learning, on this process/Learning log per day.md",
     "source/content/index.md",
     "source/content/02. Personal, Me/2. Goals",
     "source/content/02. Personal, Me/Books/Amusing Ourselves to Death.md",
@@ -215,7 +216,6 @@
     "source/content/02. Personal, Me/1. Career/Preparing for post-job application feedback call.md",
     "source/CODE_OF_CONDUCT.md",
     "source/content/Meta (about this project)/index.md",
-    "source/content/Meta (about this project)/index-1.md",
-    "README.md"
+    "source/content/Meta (about this project)/index-1.md"
   ]
 }

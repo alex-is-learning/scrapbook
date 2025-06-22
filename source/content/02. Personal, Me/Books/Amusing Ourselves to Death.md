@@ -1,6 +1,8 @@
 - 2025-06-22
 - Finished this book today!
 - Want to write up what I remember/what I grokked
+- Voice note I sent to some friends re: this: 
+![[amusing-ourselves-to-death.mp3]]
 ## Age of typology
 - I don't think this is the exact phrase he used, but still. There was a time in history, especially American history (his focus), where the written word was the main way that information was expressed
 - The written word has a particular world-view, or epistemology, a theory of knowledge. Knowledge can be written in a linear sequence, with propositions and conclusions
