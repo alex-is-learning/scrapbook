@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/02. Personal, Me/On learning, on this process/Collection of voice notes.md",
+                "file": "source/content/02. Personal, Me/Books/Amusing Ourselves to Death (read 1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Collection of voice notes"
+              "title": "Amusing Ourselves to Death (read 1)"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/02. Personal, Me/On learning, on this process/Collection of voice notes.md",
+                "file": "source/content/02. Personal, Me/Books/Amusing Ourselves to Death (read 1).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Collection of voice notes"
+              "title": "Outline of Amusing Ourselves to Death (read 1)"
             }
           }
         ],
@@ -169,17 +169,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "5295a5d7547bfb92",
   "lastOpenFiles": [
+    "source/content/02. Personal, Me/On learning, on this process/Collection of voice notes.md",
     "source/content/📎 Files",
     "source/content/Untitled.md",
-    "source/content/02. Personal, Me/On learning, on this process/Collection of voice notes.md",
     "source/content/📎 Files/Voice notes/return-to-10-poms.mp3",
     "source/content/📎 Files/Voice notes/sabbath.mp3",
     "source/content/index.md",
     "source/content/📎 Files/Voice notes",
     "source/content/02. Personal, Me/On learning, on this process/Learning log per day.md",
-    "source/content/02. Personal, Me/Books/Amusing Ourselves to Death.md",
+    "source/content/02. Personal, Me/Books/Amusing Ourselves to Death (read 1).md",
     "source/content/📎 Files/Voice notes/amusing-ourselves-to-death.mp3",
     "source/content/02. Personal, Me/2. Goals/My goals.md",
     "source/content/02. Personal, Me/2. Goals",
@@ -188,7 +188,6 @@
     "Untitled",
     "source/content/02. Personal, Me/Helping/Learning about ozempic.md",
     "source/content/02. Personal, Me/Books",
-    "source/content/02. Personal, Me/Helping",
     "source/content/02. Personal, Me/1. Career/Model of FRI (Forecasting).md",
     "source/content/02. Personal, Me/On learning, on this process/Bottom-up learning.md",
     "source/content/02. Personal, Me/On learning, on this process/Top-down learning.md",

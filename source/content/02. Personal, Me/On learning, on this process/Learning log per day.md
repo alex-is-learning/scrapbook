@@ -1,6 +1,6 @@
 # June 2025
 - 22nd June 2025
-	- [[Amusing Ourselves to Death]]
+	- [[Amusing Ourselves to Death (read 1)]]
 	- [[My goals]]
 - 21st June 2025
 	- [[Model of FRI (Forecasting)]]

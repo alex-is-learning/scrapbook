@@ -1,6 +1,7 @@
 - 2025-06-22
 - Finished this book today!
 - Want to write up what I remember/what I grokked
+- I wanna read it a second time more deeply, make some flashcards and shit
 - Voice note I sent to some friends re: this: 
 ![[amusing-ourselves-to-death.mp3]]
 ## Age of typology
