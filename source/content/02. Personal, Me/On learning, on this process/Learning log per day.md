@@ -1,6 +1,8 @@
 # June 2025
 - 22nd June 2025
 	- [[Amusing Ourselves to Death]]
+		- Voice note re: book
+		- ![[amusing-ourselves-to-death.mp3]]
 	- [[My goals]]
 - 21st June 2025
 	- [[Model of FRI (Forecasting)]]
