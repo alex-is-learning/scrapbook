@@ -23,7 +23,7 @@
 - E.g. Tilly, Stephanie, James & Simon, podcasts
 - That is - if I have funny in-person friends, that’s enough. I don’t have to work in comedy, it’s not a burning need
 ---
-# Work Ethic, Being Useful, Growth - Why?
+# ❓ Work Ethic, Being Useful, Growth - Why?
 - To what end? 
 ## I want to be a positive force in the world
 - I don't just want a normie job
