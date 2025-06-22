@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Misc/Learning about ozempic.md",
+                "file": "source/content/Books/Amusing Ourselves to Death.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning about ozempic"
+              "title": "Amusing Ourselves to Death"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Misc/Learning about ozempic.md",
+                "file": "source/content/Books/Amusing Ourselves to Death.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Learning about ozempic"
+              "title": "Outline of Amusing Ourselves to Death"
             }
           }
         ],
@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,9 +171,11 @@
   },
   "active": "5295a5d7547bfb92",
   "lastOpenFiles": [
-    "source/content/Misc",
     "source/content/03. On learning, on this process/Learning log per day.md",
+    "source/content/Books/Amusing Ourselves to Death.md",
     "source/content/Misc/Learning about ozempic.md",
+    "source/content/Books",
+    "source/content/Misc",
     "source/content/index.md",
     "source/content/02. Career/Model of FRI (Forecasting).md",
     "source/content/03. On learning, on this process/Bottom-up learning.md",
@@ -210,7 +211,6 @@
     "source/README.md",
     "source/content/z Images (ignore)/Pasted image 20250616151050.png",
     "source/content/z Images (ignore)/Pasted image 20250613175257.png",
-    "source/content/Meta (ignore me)",
     "source/content/02. Career/Preparing for post-job application feedback call.md",
     "source/CODE_OF_CONDUCT.md",
     "source/content/Meta (about this project)/index.md",

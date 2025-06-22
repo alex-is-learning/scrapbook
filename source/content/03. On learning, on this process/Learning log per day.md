@@ -1,4 +1,6 @@
 # June 2025
+- 22nd June 2025
+	- [[Amusing Ourselves to Death]]
 - 21st June 2025
 	- [[Model of FRI (Forecasting)]]
 	- [[Learning about ozempic]]
