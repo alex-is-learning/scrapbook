@@ -1,0 +1,7 @@
+- 22nd of July
+	- Re: [[Amusing Ourselves to Death]]
+		- ![[amusing-ourselves-to-death.mp3]]
+	- Re: doing a digital sabbath
+		- ![[sabbath.mp3]]
+	- Back to 5am wakeup and 10+ poms of job hunting per day?
+		- ![[return-to-10-poms.mp3]]
