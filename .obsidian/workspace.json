@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/02. Personal, Me/On learning, on this process/Learning log per day.md",
+                "file": "source/content/02. Personal, Me/On learning, on this process/Collection of voice notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning log per day"
+              "title": "Collection of voice notes"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/02. Personal, Me/On learning, on this process/Learning log per day.md",
+                "file": "source/content/02. Personal, Me/On learning, on this process/Collection of voice notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Learning log per day"
+              "title": "Outline of Collection of voice notes"
             }
           }
         ],
@@ -169,13 +169,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "5295a5d7547bfb92",
   "lastOpenFiles": [
-    "source/content/02. Personal, Me/Books/Amusing Ourselves to Death.md",
-    "source/content/z Images (ignore)/amusing-ourselves-to-death.mp3",
-    "source/content/02. Personal, Me/2. Goals/My goals.md",
-    "source/content/02. Personal, Me/On learning, on this process/Learning log per day.md",
+    "return-to-10-poms.mp3",
+    "source/content/02. Personal, Me/On learning, on this process/Voice notes/sabbath.mp3",
     "source/content/index.md",
+    "source/content/02. Personal, Me/On learning, on this process/Collection of voice notes.md",
+    "source/content/02. Personal, Me/On learning, on this process/Voice notes",
+    "source/content/02. Personal, Me/On learning, on this process/Learning log per day.md",
+    "source/content/02. Personal, Me/Books/Amusing Ourselves to Death.md",
+    "source/content/02. Personal, Me/On learning, on this process/Voice notes/amusing-ourselves-to-death.mp3",
+    "source/content/02. Personal, Me/2. Goals/My goals.md",
     "source/content/02. Personal, Me/2. Goals",
     "source/content/02. Personal, Me",
     "source/content/01. World Model",
@@ -204,8 +208,6 @@
     "source/content/02. Personal, Me/On learning, on this process",
     "source/content/Meta/Some note.md",
     "source/content/01. World Model/Internet dialogues/Day 1 of trying to engage people on twitter via alt account.md",
-    "source/content/01. World Model/International relations/America",
-    "source/content/01. World Model/International relations/Middle East",
     "source/content/01. World Model/International relations/America/AOC tweet re Andrew Cuomo.md",
     "source/content/02. Personal, Me/1. Career/Centre for Effective Altruism.md",
     "source/content/z Images (ignore)/Pasted image 20250612181739.png",
@@ -214,7 +216,6 @@
     "source/content/z Images (ignore)/Pasted image 20250613175257.png",
     "source/content/02. Personal, Me/1. Career/Preparing for post-job application feedback call.md",
     "source/CODE_OF_CONDUCT.md",
-    "source/content/Meta (about this project)/index.md",
-    "source/content/Meta (about this project)/index-1.md"
+    "source/content/Meta (about this project)/index.md"
   ]
 }

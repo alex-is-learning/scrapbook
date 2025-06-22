@@ -12,3 +12,6 @@ aliases:
 - Kickoff post with a quick sketch of why I'm doing this - [here](https://www.alexislearning.me/learning-how-to-think/)
 ## 🪴 Daily learning log
 > [[Learning log per day]]
+
+## 🎤 Collection of voice notes
+> [[Collection of voice notes]]
