@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/02. Personal, Me/Books/Amusing Ourselves to Death.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amusing Ourselves to Death"
+              "title": "index"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/02. Personal, Me/Books/Amusing Ourselves to Death.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Amusing Ourselves to Death"
+              "title": "Outline of index"
             }
           }
         ],
@@ -169,13 +169,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "5295a5d7547bfb92",
   "lastOpenFiles": [
+    "source/content/02. Personal, Me/On learning, on this process/Learning log per day.md",
+    "source/content/02. Personal, Me/Books/Amusing Ourselves to Death.md",
     "source/content/02. Personal, Me",
     "source/content/01. World Model",
     "Untitled",
-    "source/content/02. Personal, Me/On learning, on this process/Learning log per day.md",
-    "source/content/02. Personal, Me/Books/Amusing Ourselves to Death.md",
     "source/content/02. Personal, Me/Helping/Learning about ozempic.md",
     "source/content/02. Personal, Me/Books",
     "source/content/02. Personal, Me/Helping",
@@ -208,7 +208,6 @@
     "source/content/z Images (ignore)/Pasted image 20250612181739.png",
     "source/content/z Images (ignore)",
     "source/content/02. Personal, Me/Career",
-    "source/content/01. World Model/Internet dialogues",
     "source/README.md",
     "source/content/z Images (ignore)/Pasted image 20250616151050.png",
     "source/content/z Images (ignore)/Pasted image 20250613175257.png",
