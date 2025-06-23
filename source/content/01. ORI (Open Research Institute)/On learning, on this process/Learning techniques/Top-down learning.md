@@ -7,7 +7,7 @@
 - Super powerful because the learnings are incredibly salient - "omg I can't believe I thought x, how embarrassing, now I know y" → leads to very durable updates
 - Also just super fun 
 
-See also [[It's care, probably (??)]] & my [this-project kickoff post](https://www.alexislearning.me/learning-how-to-think/)
+See also [[Top-down learning unlocks care (and ego)]] & my [this-project kickoff post](https://www.alexislearning.me/learning-how-to-think/)
 
 ![[Pasted image 20250618120001.png]]- *[From this thread](https://x.com/ejames_c/status/1895416279722594311)*
 
