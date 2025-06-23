@@ -1,3 +1,5 @@
+- 21st June 2025
+
 > *Below is the result of 2 pomodoros worth of writing to check my model of FRI and why I'd be excited to work there*
 
 - So I found a job posting that I'd love to apply for, and have spent 3-5 poms per day for the last ~3 days orienting to it

@@ -1,4 +1,6 @@
 # June 2025
+- 23rd June 2025
+	- [[My model of ORI, 2025-06-23]]
 - 22nd June 2025
 	- [[Amusing Ourselves to Death (read 1)]]
 	- [[My goals]]
@@ -20,7 +22,7 @@
 - 14th June 2025
 	- [[AOC tweet re Andrew Cuomo]]
 - 13th June 2025
-	- [[It's care, probably (??)]]
+	- [[Top-down learning unlocks care (and ego)]]
 	- [[Day 1 of trying to engage people on twitter via alt account]]
 	- [[America & Immigration]]
 - 12th June 2025

@@ -4,6 +4,8 @@ And my current working model is that -- it's probably care, care is the thing. I
 
 And then, the answer gives a eureka moment, it fills in the gaps, it provides an insight into brand new parts of a world model. "Oh shit, I didn't even think of that!". And that's super fun, and engaging! 
 
+And it can also be super humbling - "holy shit, I can't believe I didn't know that, how embarrassing", which makes the new learning extra sticky, extra salient.
+
 So, that's my current working model. Learning by reading an economics textbook because it'll be useful one day maybe, feels so different from posing a question and then solving it. 
 
 It feels the same with programming - you can learn all the syntax, do "bottom-up" learning, or you can get thrown in the deep end and try to make something work. And for sure, you still have to do bottom-up learning, there's absolutely still a place for it, but I think I've been 99.9% bottom-up learning, 0.1% learning to solve problems.
