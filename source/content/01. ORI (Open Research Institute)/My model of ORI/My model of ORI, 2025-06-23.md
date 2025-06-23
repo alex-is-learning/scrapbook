@@ -1,7 +1,6 @@
 - Below are from conversations with Defender
 # Diagrams
-- [Slide deck](https://docs.google.com/presentation/d/1wpY2UgIeDiav_d71h9iJPs34nXxwiZZ2rEKCSWLrnsc/edit?usp=sharing)
-![[Alex's ORI onboarding diagrams.pdf]]
+- [Alex's ORI slides #01](https://docs.google.com/presentation/d/1wpY2UgIeDiav_d71h9iJPs34nXxwiZZ2rEKCSWLrnsc/edit?usp=sharing)
 # Current open questions:
 ## “In the process, you’ll lift up others” - how? 
 - Fanciful thinking?
