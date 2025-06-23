@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Bottom-up learning.md",
+                "file": "source/content/02. Personal, Me/1. Career/Forecasting, Research/Why work for FRI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bottom-up learning"
+              "title": "Why work for FRI"
             }
           }
         ],
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Bottom-up learning.md",
+                "file": "source/content/02. Personal, Me/1. Career/Forecasting, Research/Why work for FRI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bottom-up learning"
+              "title": "Outline of Why work for FRI"
             }
           }
         ],
@@ -214,9 +214,14 @@
   },
   "active": "839fb4abe48df8ce",
   "lastOpenFiles": [
+    "source/content/02. Personal, Me/1. Career/Forecasting, Research/Model of FRI.md",
+    "source/content/02. Personal, Me/1. Career/Forecasting, Research/Why work for FRI.md",
+    "source/content/02. Personal, Me/1. Career/Effective Altruism/Model of \"Centre for Effective Altruism\".md",
+    "source/content/02. Personal, Me/1. Career/Forecasting, Research",
+    "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Bottom-up learning.md",
+    "source/content/02. Personal, Me/1. Career/Effective Altruism",
     "source/content/01. ORI (Open Research Institute)/My model of ORI/My model of ORI, 2025-06-23.md",
     "source/content/📎 Files/Images/left-brain-productivity-problem.png",
-    "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Bottom-up learning.md",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/Learning log per day.md",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Top-down learning.md",
     "source/content/01. ORI (Open Research Institute)/My model of ORI/Alex's ORI onboarding diagrams.pdf",
@@ -224,7 +229,6 @@
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Top-down learning unlocks care (and ego).md",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/Collection of voice notes.md",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey",
-    "source/content/02. Personal, Me/1. Career/Model of FRI (Forecasting).md",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques",
     "source/content/01. ORI (Open Research Institute)",
     "source/content/02. Personal, Me/Books/Amusing Ourselves to Death (read 1).md",
@@ -233,8 +237,6 @@
     "source/content/📎 Files/Voice notes/return-to-10-poms.mp3",
     "source/content/📎 Files/Voice notes/sabbath.mp3",
     "source/content/index.md",
-    "source/content/📎 Files/Voice notes",
-    "source/content/📎 Files/Voice notes/amusing-ourselves-to-death.mp3",
     "source/content/02. Personal, Me/2. Goals/My goals.md",
     "source/content/02. Personal, Me/Helping/Learning about ozempic.md",
     "source/content/03. World Model/International relations/Middle East/Israel & Iran (session 1).md",
@@ -254,7 +256,6 @@
     "source/content/Meta/Some note.md",
     "source/content/03. World Model/Internet dialogues/Day 1 of trying to engage people on twitter via alt account.md",
     "source/content/03. World Model/International relations/America/AOC tweet re Andrew Cuomo.md",
-    "source/content/02. Personal, Me/1. Career/Centre for Effective Altruism.md",
     "source/content/📎 Files/Images/Pasted image 20250612181739.png",
     "source/README.md",
     "source/content/📎 Files/Images/Pasted image 20250616151050.png",

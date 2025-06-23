@@ -5,7 +5,7 @@
 	- [[Amusing Ourselves to Death (read 1)]]
 	- [[My goals]]
 - 21st June 2025
-	- [[Model of FRI (Forecasting)]]
+	- [[Model of FRI]]
 	- [[Learning about ozempic]]
 - 19th June 2025
 	- [[Israel & Iran (session 4)]]
@@ -15,7 +15,7 @@
 - 17th June 2025
 	- [[Preparing for post-job application feedback call]]
 - 16th June 2025
-	- [[Centre for Effective Altruism]]
+	- [[Model of "Centre for Effective Altruism"]]
 - 15th June 2025
 	- [[Israel & Iran (session 1)]]
 	- [[Israel & Iran (session 2)]]
