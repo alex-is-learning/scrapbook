@@ -20,3 +20,11 @@
 - ![[Pasted image 20250624194609.png]]
 - A family as a complex system, a chaotic system, that gets attracted to a certain point in phase space
 - Probably something like the combination of everyone's comfort zone, everyone's fear of breaking the mould, of speaking up, of facing their own pain, etc
+- ![[Pasted image 20250624195408.png|400]]
+## Systems thinking
+- ![[Pasted image 20250624195645.png]]
+- Modelling each family member (and then, the entire family) with inflows (boosts to their mental health) and outflows (drains on their mental health).
+- Find the key drainers? And then?
+	- Project 1 = mapping 
+	- Project 2 = figuring out how to skilfully intervene/help
+	- AKA problem space, then solution space?

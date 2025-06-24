@@ -12,3 +12,7 @@
 - I imagine the field of "family systems" will have useful stuff
 - Also complexity science, imagining a family as a complex adaptive system, systems thinking
 	- "Thinking in Systems: A Primer" has the stuff about systems, stocks, flows, etc. This, but for each family member's mental health, inflows and outflows?
+# Open question 5. Order of operations?
+- Project 1 = mapping 
+- Project 2 = figuring out how to skilfully intervene/help
+- AKA problem space, then solution space?

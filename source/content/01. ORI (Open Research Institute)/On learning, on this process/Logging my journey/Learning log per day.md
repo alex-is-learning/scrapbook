@@ -1,7 +1,7 @@
 # June 2025
 - 24th June 2025
-	- [[Project - "Are visual notes underrated and poorly understood?"]]
-	- [[Project - "How can I help my family?"]]
+	- [[🟣 Project - "Are visual notes underrated and poorly understood?"]]
+	- [[🟣 Project - "How can I help my family?"]]
 - 23rd June 2025
 	- [[My model of ORI, 2025-06-23]]
 - 22nd June 2025
