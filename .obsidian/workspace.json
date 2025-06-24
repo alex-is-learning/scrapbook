@@ -25,12 +25,14 @@
             "id": "22083b11b7ae08d6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "source/content/📎 Files/Images/visual notes/Pasted image 20250624100845.png"
+                "file": "source/content/01. ORI (Open Research Institute)/My research/Are visual notes underrated and poorly understood?.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250624100845"
+              "icon": "lucide-file",
+              "title": "Are visual notes underrated and poorly understood?"
             }
           }
         ],
@@ -155,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/01. ORI (Open Research Institute)/My research/Visual Notes, day 1.md",
+                "file": "source/content/01. ORI (Open Research Institute)/My research/Are visual notes underrated and poorly understood?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Visual Notes, day 1"
+              "title": "Outline of Are visual notes underrated and poorly understood?"
             }
           }
         ],
@@ -169,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,19 +184,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "22083b11b7ae08d6",
   "lastOpenFiles": [
-    "source/content/01. ORI (Open Research Institute)/My research/Visual Notes, day 1.md",
+    "source/content/📎 Files/Images/visual notes/Partnered Focusing.jpg",
+    "README.md",
+    "source/content/01. ORI (Open Research Institute)/My research/Are visual notes underrated and poorly understood?.md",
+    "source/content/📎 Files/Images/visual notes/Focusing (phone).jpg",
+    "source/content/📎 Files/Images/visual notes/MR.jpg",
+    "source/content/📎 Files/Images/visual notes/Lefkoe.jpg",
+    "source/content/📎 Files/Images/visual notes/Pasted image 20250624103123.png",
+    "upscalemedia-transformed.png",
+    "source/content/📎 Files/Images/visual notes/Pasted image 20250624100845.png",
     "source/content/📎 Files/Images/visual notes/Pasted image 20250624101603.png",
     "source/content/📎 Files/Images/visual notes/Pasted image 20250624101556.png",
     "source/content/📎 Files/Images/visual notes/Pasted image 20250624101541.png",
-    "source/content/📎 Files/Images/visual notes/Pasted image 20250624101533.png",
-    "source/content/📎 Files/Images/visual notes/Pasted image 20250624101506.png",
-    "source/content/📎 Files/Images/visual notes/Pasted image 20250624101441.png",
-    "source/content/📎 Files/Images/visual notes/Pasted image 20250624101426.png",
-    "source/content/📎 Files/Images/visual notes/Pasted image 20250624101413.png",
-    "source/content/📎 Files/Images/visual notes/Pasted image 20250624101355.png",
-    "source/content/📎 Files/Images/visual notes/Pasted image 20250624101337.png",
     "source/content/📎 Files/Images/visual notes/Forecasting Research Institute.pdf",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Top-down learning.md",
     "source/content/01. ORI (Open Research Institute)/My model of ORI/My model of ORI, 2025-06-23.md",
@@ -228,7 +230,6 @@
     "source/content/03. World Model/International relations/America/America & Immigration.md",
     "source/content/Meta (ignore me)/index.md",
     "source/content/Meta/Some note.md",
-    "source/content/03. World Model/Internet dialogues/Day 1 of trying to engage people on twitter via alt account.md",
-    "source/content/03. World Model/International relations/America/AOC tweet re Andrew Cuomo.md"
+    "source/content/03. World Model/Internet dialogues/Day 1 of trying to engage people on twitter via alt account.md"
   ]
 }
