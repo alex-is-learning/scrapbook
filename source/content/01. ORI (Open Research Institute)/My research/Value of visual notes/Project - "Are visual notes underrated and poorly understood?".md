@@ -1,4 +1,6 @@
 - 2025-06-24
+# *Note to self → I want to investigate this thread more and then talk to Andy Matuschak*
+![[Pasted image 20250624180627.png]]
 # 1. Am I cutting edge? Dumb? Bit of both?
 - A thing which I feel like I'm on the cutting edge of, and that doesn't have a clear name yet/a clear codified skillset, and I oscillate between "I think this is incredibly powerful and underrated" and "maybe I'm literally just stupid and have a learning disability of some kind" is - making visual notes
 - To orient to a new project I pretty much always make a mega miro board - this is one I've been making today for a job I'm going to apply to:
@@ -54,7 +56,7 @@
 - They have no visual hierarchy, no rhyme or reason, they aren't easy to parse. They don't aid your cognitive load at all, they don't make it obvious to you how to read them
 ![[Pasted image 20250624095512.png]]
 ![[Pasted image 20250624095528.png]]- I find examples like the above to be really quite dreadful. Overwhelming, hard to parse, hard to action, hard to know what to focus on. I think trying to condense a book into a single diagram is folly, maybe, but I think that also trying to make them "aesthetic", with a handwritten style etc, is just so _noisy_
-# 6. What I've subconsciously pulling from 
+# {Appendix. What I've subconsciously pulling from}
 - I was a data analyst for a few years and I read a book about how to visualise data that really stuck with me
 - Really, it was just a few pages that stuck with me, showing how the brain parses visual information
 - ![[Pasted image 20250624100745.png|400]]
