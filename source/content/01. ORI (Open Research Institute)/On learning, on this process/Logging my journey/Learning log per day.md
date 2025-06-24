@@ -1,6 +1,6 @@
 # June 2025
 - 24th June 2025
-	- [[Visual Notes, day 1]]
+	- [[Are visual notes underrated and poorly understood?]]
 - 23rd June 2025
 	- [[My model of ORI, 2025-06-23]]
 - 22nd June 2025
