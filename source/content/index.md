@@ -11,7 +11,7 @@ aliases:
 - This is inspired by [this post by Defender of Basic](https://defenderofthebasic.substack.com/p/geoffrey-hinton-on-developing-your). 
 - Kickoff post with a quick sketch of why I'm doing this - [here](https://www.alexislearning.me/learning-how-to-think/)
 ## 🪴 Daily learning log
-> [[Learning log per day]]
+> [[🪵 Learning log per day]]
 
 ## 🎤 Collection of voice notes
 > [[Collection of voice notes]]
