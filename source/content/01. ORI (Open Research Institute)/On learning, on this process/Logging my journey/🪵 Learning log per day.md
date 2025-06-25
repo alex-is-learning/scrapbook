@@ -1,4 +1,6 @@
 # June 2025
+- 25th June 2025
+	- 
 - 24th June 2025
 	- [[🟣 Project - "Are visual notes underrated and poorly understood?"]]
 	- [[🟣 Project - "How can I help my family?"]]

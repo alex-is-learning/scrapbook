@@ -11,12 +11,14 @@
             "id": "5295a5d7547bfb92",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "source/content/📎 Files/Images/misc/Pasted image 20250624195645.png"
+                "file": "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Call with my friend Socrates 2025-06-23.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250624195645"
+              "icon": "lucide-file",
+              "title": "Call with my friend Socrates 2025-06-23"
             }
           }
         ]
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/📎 Files/Images/misc/Pasted image 20250624195645.png",
+                "file": "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Call with my friend Socrates 2025-06-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250624195645"
+              "title": "Outline of Call with my friend Socrates 2025-06-23"
             }
           }
         ],
@@ -169,22 +171,24 @@
   },
   "active": "5295a5d7547bfb92",
   "lastOpenFiles": [
+    "source/content/01. ORI (Open Research Institute)/My research/How to help a family/🟣 Project - \"How can I help my family?\".md",
+    "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Call with my friend Socrates 2025-06-23.md",
+    "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Microsolidarity crew call 2025-06-25.md",
+    "source/content/📎 Files/Images/misc/Pasted image 20250625201530.png",
+    "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/🪵 Learning log per day.md",
+    "source/content/📎 Files/Images/misc/Pasted image 20250624195645.png",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Helping family - open questions.md",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Visual metaphors for the \"how can I help my family\" project.md",
-    "source/content/📎 Files/Images/misc/Pasted image 20250624195645.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250624195408.png",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Meta - about the \"how can I help my family\" project.md",
-    "source/content/01. ORI (Open Research Institute)/My research/How to help a family/🟣 Project - \"How can I help my family?\".md",
     "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes/🟣 Project - \"Are visual notes underrated and poorly understood?\".md",
     "source/content/📎 Files/Images/misc/Pasted image 20250624194756.png",
-    "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/Learning log per day.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250624194556.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250624194609.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250624194604.png",
     "source/content/📎 Files/Images/misc/lava path.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250104155021.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250624194400.png",
-    "source/content/📎 Files/Images/misc/Pasted image 20250624194337.png",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/Collection of voice notes.md",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family",
     "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes",
@@ -212,7 +216,6 @@
     "source/content/03. World Model/International relations/Middle East/Israel & Iran (session 1).md",
     "source/content/03. World Model/International relations/Middle East/Israel & Iran (session 4).md",
     "source/content/03. World Model/International relations/Middle East/Israel & Iran (session 3).md",
-    "source/content/03. World Model/International relations/Middle East/Israel & Iran (session 2).md",
-    "source/content/03. World Model/International relations/Middle East/Israel.md"
+    "source/content/03. World Model/International relations/Middle East/Israel & Iran (session 2).md"
   ]
 }
