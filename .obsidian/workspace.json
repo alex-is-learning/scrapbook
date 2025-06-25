@@ -11,14 +11,12 @@
             "id": "5295a5d7547bfb92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Call with my friend Socrates 2025-06-23.md",
-                "mode": "source",
-                "source": false
+                "file": "source/content/📎 Files/Images/visual notes/Meta - on making miros, visual notes.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Call with my friend Socrates 2025-06-23"
+              "icon": "lucide-image",
+              "title": "Meta - on making miros, visual notes"
             }
           }
         ]
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Call with my friend Socrates 2025-06-23.md",
+                "file": "source/content/📎 Files/Images/visual notes/Meta - on making miros, visual notes.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Call with my friend Socrates 2025-06-23"
+              "title": "Outline of Meta - on making miros, visual notes"
             }
           }
         ],
@@ -169,26 +167,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5295a5d7547bfb92",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/01. ORI (Open Research Institute)/My research/How to help a family/🟣 Project - \"How can I help my family?\".md",
+    "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes/🟣 Project - \"Are visual notes underrated and poorly understood?\".md",
+    "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes/Progressive iteration of visual notes - Pandemic Action Network examples.md",
+    "source/content/📎 Files/Images/visual notes/Pasted image 20250625205224.png",
+    "source/content/📎 Files/Images/visual notes/Pasted image 20250625205209.png",
+    "source/content/📎 Files/Images/visual notes/Pasted image 20250625205149.png",
+    "source/content/📎 Files/Images/visual notes/Pasted image 20250625205130.png",
+    "source/content/📎 Files/Images/visual notes/Pasted image 20250625205051.png",
+    "source/content/📎 Files/Images/visual notes/Pasted image 20250625205001.png",
+    "source/content/📎 Files/Images/visual notes/Pasted image 20250625204859.png",
+    "source/content/📎 Files/Images/visual notes/Pasted image 20250625204844.png",
+    "source/content/📎 Files/Images/visual notes/Pasted image 20250625204700.png",
+    "source/content/📎 Files/Images/visual notes/Meta - on making miros, visual notes.jpg",
+    "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes/Are visual notes underrated and poorly understood?.md",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Call with my friend Socrates 2025-06-23.md",
+    "source/content/01. ORI (Open Research Institute)/My research/How to help a family/🟣 Project - \"How can I help my family?\".md",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Microsolidarity crew call 2025-06-25.md",
-    "source/content/📎 Files/Images/misc/Pasted image 20250625201530.png",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/🪵 Learning log per day.md",
-    "source/content/📎 Files/Images/misc/Pasted image 20250624195645.png",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Helping family - open questions.md",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Visual metaphors for the \"how can I help my family\" project.md",
-    "source/content/📎 Files/Images/misc/Pasted image 20250624195408.png",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Meta - about the \"how can I help my family\" project.md",
-    "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes/🟣 Project - \"Are visual notes underrated and poorly understood?\".md",
-    "source/content/📎 Files/Images/misc/Pasted image 20250624194756.png",
-    "source/content/📎 Files/Images/misc/Pasted image 20250624194556.png",
-    "source/content/📎 Files/Images/misc/Pasted image 20250624194609.png",
-    "source/content/📎 Files/Images/misc/Pasted image 20250624194604.png",
-    "source/content/📎 Files/Images/misc/lava path.png",
-    "source/content/📎 Files/Images/misc/Pasted image 20250104155021.png",
-    "source/content/📎 Files/Images/misc/Pasted image 20250624194400.png",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/Collection of voice notes.md",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family",
     "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes",
@@ -213,9 +213,6 @@
     "source/content/index.md",
     "source/content/02. Personal, Me/2. Goals/My goals.md",
     "source/content/02. Personal, Me/Helping/Learning about ozempic.md",
-    "source/content/03. World Model/International relations/Middle East/Israel & Iran (session 1).md",
-    "source/content/03. World Model/International relations/Middle East/Israel & Iran (session 4).md",
-    "source/content/03. World Model/International relations/Middle East/Israel & Iran (session 3).md",
-    "source/content/03. World Model/International relations/Middle East/Israel & Iran (session 2).md"
+    "source/content/03. World Model/International relations/Middle East/Israel & Iran (session 1).md"
   ]
 }
