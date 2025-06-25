@@ -11,12 +11,14 @@
             "id": "5295a5d7547bfb92",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "source/content/📎 Files/Images/visual notes/Meta - on making miros, visual notes.jpg"
+                "file": "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/🪵 Learning log per day.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Meta - on making miros, visual notes"
+              "icon": "lucide-file",
+              "title": "🪵 Learning log per day"
             }
           }
         ]
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/📎 Files/Images/visual notes/Meta - on making miros, visual notes.jpg",
+                "file": "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/🪵 Learning log per day.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Meta - on making miros, visual notes"
+              "title": "Outline of 🪵 Learning log per day"
             }
           }
         ],
@@ -167,8 +169,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "5295a5d7547bfb92",
   "lastOpenFiles": [
+    "source/content/📎 Files/Images/visual notes/Meta - on making miros, visual notes.jpg",
     "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes/🟣 Project - \"Are visual notes underrated and poorly understood?\".md",
     "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes/Progressive iteration of visual notes - Pandemic Action Network examples.md",
     "source/content/📎 Files/Images/visual notes/Pasted image 20250625205224.png",
@@ -180,7 +183,6 @@
     "source/content/📎 Files/Images/visual notes/Pasted image 20250625204859.png",
     "source/content/📎 Files/Images/visual notes/Pasted image 20250625204844.png",
     "source/content/📎 Files/Images/visual notes/Pasted image 20250625204700.png",
-    "source/content/📎 Files/Images/visual notes/Meta - on making miros, visual notes.jpg",
     "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes/Are visual notes underrated and poorly understood?.md",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Call with my friend Socrates 2025-06-23.md",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family/🟣 Project - \"How can I help my family?\".md",
