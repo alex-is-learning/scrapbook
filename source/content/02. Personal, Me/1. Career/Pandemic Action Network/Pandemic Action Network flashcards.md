@@ -1,7 +1,8 @@
 # 2025-06-26
-- ![[Pasted image 20250626174300.png]]
+- ![[Pasted image 20250626174300.png|400]]
 - ☝️182 new flashcards, pray for me
-
+## From my "PPR map"
+- (See [[PAN orientation, day 3]])
 Pandemic PRR stands for 
 {{c1::Prevention, Preparedness, and Response}}
 |
@@ -630,3 +631,18 @@ UHC helps reduce transmission and mortality because
 {{c1::it ensures financial barriers do not delay diagnosis or treatment}}
 |
 The new Pandemic Agreement must establish mechanisms to avoid the {{c1::"vaccine nationalism"}} observed during COVID-19
+## New flashcards needed, from reviewing above flashcards
+- What is the G7? What countries?
+- What is the G20? What countries?
+- What is the United Nations?
+- What is the World Health Organisation?
+- What did Trump do to USAID?
+- What does USAID do? 
+- What does UK FCDO do?
+- A bit more about the CDC, Africa CDC, European CDC
+- More about IMF RST
+- A bit more about PAHO
+- More about CDMOs
+- More about CEPI
+- More about Gavi
+- More about the Red Cross
