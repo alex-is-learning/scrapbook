@@ -657,3 +657,10 @@ The new Pandemic Agreement must establish mechanisms to avoid the {{c1::"vaccine
 - More about CEPI
 - More about Gavi
 - More about the Red Cross
+- Bit more on IHRs
+- More about the UN's SDGs
+- More detail on malaria vs smallpox vs polio vs etc. They're low resolution to me atm. Cholera
+- PEPFAR & HIV/AIDs
+- How do you know when a disease is eradicated? E.g. smallpox, in...1980? 1973 in the Americas?
+- The Global Fund
+- What do the IHRs actually involve?

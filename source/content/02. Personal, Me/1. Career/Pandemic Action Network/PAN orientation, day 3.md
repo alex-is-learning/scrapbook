@@ -111,4 +111,4 @@ I currently don't have a good map in my head, I don't know what the different st
 - `please make a report on the history of global health & pandemic PPR`
 - ![[Pasted image 20250626104220.png]]
 - Will read with Speechify and then feed into AI to make flashcards, skip the Miro stage
-- See [[Pandemic Action Network flashcards]]
+- See [[Global Health flashcards from day 3]]
