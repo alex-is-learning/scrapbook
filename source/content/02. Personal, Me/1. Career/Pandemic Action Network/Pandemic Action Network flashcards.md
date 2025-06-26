@@ -3,6 +3,7 @@
 - ☝️182 new flashcards, pray for me
 ## From my "PPR map"
 - (See [[PAN orientation, day 3]])
+```
 Pandemic PRR stands for 
 {{c1::Prevention, Preparedness, and Response}}
 |
@@ -133,8 +134,9 @@ The 4 ingredients of a CSO:
 - Voluntary participation – people choose to join, donate or work because they care about the aim.
 - Public-interest purpose – seeks social, environmental, cultural or humanitarian benefit rather than private gain.
 }}
-## Deep Research report on global health
+```
 ### Historical Foundations of Global Health
+```
 The term 'Global Health' gained prominence in the {{c1::1990s}}, 
 eventually surpassing the term '{{c1::International Health}}' in usage
 |
@@ -308,7 +310,9 @@ The polio vaccine was developed by {{c1::Jonas Salk}}
 |
 The polio vaccine was first available in year
 {{c1::1952}}
+```
 ### Major Global Health Campaigns and Their Impact on Infrastructure
+```
 The eradication of {{c1::smallpox}}
 in year {{c1::1980}} 
 is considered the most significant milestone in global public health
@@ -420,7 +424,9 @@ The Declaration of Alma-Ata defined
 as the key strategy for achieving global health equity
 |
 The Declaration of Astana in {{c1::2018}} reaffirmed the principles of Alma-Ata and the importance of PHC for achieving universal health coverage
+```
 ### Major Pandemics and Their Influence on PPR Frameworks
+```
 The 1918-1919 Spanish influenza pandemic is conservatively estimated to have killed {{c1::50 million}} people worldwide
 |
 The Spanish Flu {{c1::disproportionately affected young adults}}, which was unusual for influenza
@@ -512,7 +518,9 @@ COVID-19 spurred global initiatives to establish a new PPR financing framework, 
 {{c1::the Financial Intermediary Fund (FIF)}} 
 and 
 {{c1::a new WHO Pandemic Agreement}}
+```
 ### Current Trends and Future Directions in Global Health and PPR
+```
 The term "One Health" recognises the interdependence of the health of
 (4 things)
 {{c1::humans, 
@@ -589,7 +597,9 @@ The Pandemic Agreement aims to
 {{c1::set up a Global Supply Chain and Logistics Network}}
 to ensure 
 {{c1::equitable and timely access to pandemic-related health products}}
+```
 ### Conclusions and Recommendations
+```
 The Pandemic Agreement was adopted by {{c1::124}} countries, but 
 {{c1::the United States opted out of the final stages}}
 |
@@ -631,6 +641,7 @@ UHC helps reduce transmission and mortality because
 {{c1::it ensures financial barriers do not delay diagnosis or treatment}}
 |
 The new Pandemic Agreement must establish mechanisms to avoid the {{c1::"vaccine nationalism"}} observed during COVID-19
+```
 ## New flashcards needed, from reviewing above flashcards
 - What is the G7? What countries?
 - What is the G20? What countries?
