@@ -1,5 +1,5 @@
 - 2025-06-26
 	- [[PAN orientation, day 3]]
-	- [[Pandemic Action Network flashcards]]
+	- [[Global Health flashcards from day 3]]
 - 2025-06-25
 	- [[PAN orientation, day 2]]
