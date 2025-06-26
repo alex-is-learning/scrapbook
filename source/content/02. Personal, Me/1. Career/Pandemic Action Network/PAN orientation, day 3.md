@@ -171,3 +171,18 @@ Below is a snapshot of the organisations, forums and funding mechanisms that now
 ---
 
 **Why this matters:**  None of these actors can “do PPR” alone.  The money (World Bank/IMF), the norms (WHO), the science push (CEPI, Gavi, Wellcome), the political cover (G7/G20/UN) and the ground-truthing by regional bodies and civil society all have to line up.  Tracking who is taking the lead in each lane is the surest way to see where the gaps—and the leverage points—still lie.
+# Map?
+```
+What would a map of this space look like? I'm imagining there are categories of stakeholders, like... financers (world bank), international organisations (WHO), private sector, etc
+
+  
+
+I currently don't have a good map in my head, I don't know what the different stakeholder types are called
+```
+
+- ![[Pasted image 20250626090200.png]]
+- ChatGPT made this - looks non-hallucinatory to me! Great starting point
+- My version 👇
+![[Pasted image 20250626092753.png]]
+- Much better IMO as it has grouping, rather than just "here are 11 things, good luck" 
+- I also picked the colours vaguely based on Ken Wilbur's spiral dynamics framework, lol. Nerd easter egg
