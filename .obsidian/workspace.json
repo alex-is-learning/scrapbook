@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/🪵 Learning log per day.md",
+                "file": "source/content/02. Personal, Me/1. Career/My model of \"Pandemic Action Network\", 2025-06-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🪵 Learning log per day"
+              "title": "My model of \"Pandemic Action Network\", 2025-06-26"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/🪵 Learning log per day.md",
+                "file": "source/content/02. Personal, Me/1. Career/My model of \"Pandemic Action Network\", 2025-06-26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🪵 Learning log per day"
+              "title": "Outline of My model of \"Pandemic Action Network\", 2025-06-26"
             }
           }
         ],
@@ -171,8 +171,16 @@
   },
   "active": "5295a5d7547bfb92",
   "lastOpenFiles": [
-    "source/content/📎 Files/Images/visual notes/Meta - on making miros, visual notes.jpg",
+    "Pasted image 20250626070432.png",
+    "source/content/01. ORI (Open Research Institute)/My research/How to help a family/🟣 Project - \"How can I help my family?\".md",
     "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes/🟣 Project - \"Are visual notes underrated and poorly understood?\".md",
+    "source/content/02. Personal, Me/1. Career/My model of \"Pandemic Action Network\", 2025-06-26.md",
+    "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes/Are visual notes underrated and poorly understood?.md",
+    "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Hermeneutic circle, hermeneutic spiral.md",
+    "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Bottom-up learning.md",
+    "source/content/📎 Files/Images/misc/Pasted image 20250626065326.png",
+    "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/🪵 Learning log per day.md",
+    "source/content/📎 Files/Images/visual notes/Meta - on making miros, visual notes.jpg",
     "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes/Progressive iteration of visual notes - Pandemic Action Network examples.md",
     "source/content/📎 Files/Images/visual notes/Pasted image 20250625205224.png",
     "source/content/📎 Files/Images/visual notes/Pasted image 20250625205209.png",
@@ -182,12 +190,8 @@
     "source/content/📎 Files/Images/visual notes/Pasted image 20250625205001.png",
     "source/content/📎 Files/Images/visual notes/Pasted image 20250625204859.png",
     "source/content/📎 Files/Images/visual notes/Pasted image 20250625204844.png",
-    "source/content/📎 Files/Images/visual notes/Pasted image 20250625204700.png",
-    "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes/Are visual notes underrated and poorly understood?.md",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Call with my friend Socrates 2025-06-23.md",
-    "source/content/01. ORI (Open Research Institute)/My research/How to help a family/🟣 Project - \"How can I help my family?\".md",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Microsolidarity crew call 2025-06-25.md",
-    "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/🪵 Learning log per day.md",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Helping family - open questions.md",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Visual metaphors for the \"how can I help my family\" project.md",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Meta - about the \"how can I help my family\" project.md",
@@ -206,15 +210,12 @@
     "source/content/02. Personal, Me/1. Career/Forecasting, Research/Model of FRI.md",
     "source/content/02. Personal, Me/1. Career/Effective Altruism/Model of \"Centre for Effective Altruism\".md",
     "source/content/02. Personal, Me/1. Career/Forecasting, Research",
-    "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Bottom-up learning.md",
     "source/content/02. Personal, Me/1. Career/Effective Altruism",
     "source/content/01. ORI (Open Research Institute)/My model of ORI/Alex's ORI onboarding diagrams.pdf",
     "source/content/01. ORI (Open Research Institute)/My model of ORI",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Top-down learning unlocks care (and ego).md",
     "source/content/Untitled.md",
     "source/content/index.md",
-    "source/content/02. Personal, Me/2. Goals/My goals.md",
-    "source/content/02. Personal, Me/Helping/Learning about ozempic.md",
-    "source/content/03. World Model/International relations/Middle East/Israel & Iran (session 1).md"
+    "source/content/02. Personal, Me/2. Goals/My goals.md"
   ]
 }
