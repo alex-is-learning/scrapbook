@@ -8,7 +8,7 @@
 - Post-it notes indicate things that I currently don't understand/open questions, to look into later, in the Michael Nielsen "iterative deepening" way (from [[Bottom-up learning]], also [[Hermeneutic circle, hermeneutic spiral]])
 - I still haven't made any flashcards, I'm going to test what I've grokked just from actively engaging with the info as I've ordered it, condensed it, adding hierarchies etc
 	- See [[Are visual notes underrated and poorly understood?]]
-# Pandemic Action Network
+# My model of Pandemic Action Network
 ## The basics
 - Founded in 2020 by Eloise Todd and colleagues
 - Lean team that leverages a network of other orgs
@@ -33,7 +33,7 @@
 	- COVID ambassadors
 	- Mask drives early in COVID
 	- Getting PPE to frontline workers in Africa. Some absurd figures here like 300 million + PPE items delivered
-## {NOTE TO SELF - make flashcards about outcomes}
+## {NOTE TO SELF - make flashcards about outcomes!}
 # Day 3 → answering open questions
 - I feel torn between learning more, orienting more deeply, and applying
 - I definitely don't feel like I have a deep understanding of what they've *done* yet, because my model of e.g. how the WHO works, what the Pandemic Fund is, is poor
