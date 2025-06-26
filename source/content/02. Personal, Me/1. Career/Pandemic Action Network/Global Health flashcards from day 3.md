@@ -1,6 +1,10 @@
 # 2025-06-26
 - ![[Pasted image 20250626174300.png|400]]
 - ☝️182 new flashcards, pray for me
+- 23:18 update 👇
+- ![[Pasted image 20250626231851.png]]
+- I studied them all!!!! 
+- Happy to have seen them all today because sleeping on it is a really powerful way to speed up learning, and I'm definitely ready for bed
 ## From my "PPR map"
 - (See [[PAN orientation, day 3]])
 ```
@@ -664,3 +668,10 @@ The new Pandemic Agreement must establish mechanisms to avoid the {{c1::"vaccine
 - How do you know when a disease is eradicated? E.g. smallpox, in...1980? 1973 in the Americas?
 - The Global Fund
 - What do the IHRs actually involve?
+- FIF
+- A report on the COVID pandemic would be really useful
+- UN FAO
+- UNEP
+- WOAH
+- WHO Pandemic Agreement (2025!)
+- What are vertical programs?
