@@ -88,90 +88,7 @@ things like funds, RANA, Africa CDC's New Public Health Order, the CDC, etc
 - So I also asked ChatGPT o3:
 	- `who are the key players in global health & pandemic PPR?` 
 - And got a very useful answer
-## Key players in PPR
-Below is a snapshot of the organisations, forums and funding mechanisms that now anchor **Pandemic Prevention, Preparedness & Response (PPR)** on the world stage.  I’ve grouped them loosely by function so you can see who does what and why each matters.
-
----
-
-### **1.  Global rule-setting and technical authority**
-
-  
-
-**World Health Organization (WHO)** – still the hub for surveillance norms (International Health Regulations) and, as of **May 2025, the new Pandemic Agreement**, which countries say will hard-wire equitable access, One-Health surveillance and R&D/benefit-sharing into international law. 
-
----
-
-### **2.  Big-ticket public finance**
-
-- **The Pandemic Fund (World Bank)** – multilateral trust fund created in 2022; channels concessional grants to low- and middle-income countries for lab networks, workforce and surveillance. A third call for proposals (US $500 m) opened in March 2025, but pledges still total only about US $2 billion, far short of demand. 
-    
-- **International Monetary Fund – Resilience & Sustainability Trust (RST)** – offers long-term, low-interest loans that explicitly list pandemic preparedness alongside climate as a priority; guidance for using the instrument was updated in March 2025. 
-    
-- **G20 Joint Finance-Health Task Force** – political forum that tries to keep finance and health ministers aligned on PPR spending and crisis financing rules. 
-    
-
----
-
-### **3.  Rapid R&D and counter-measures**
-
-- **CEPI (Coalition for Epidemic Preparedness Innovations)** – mission is “vaccines in 100 days.” Still raising money (new awards announced late-2024/early-2025) for prototype-pathogen and manufacturing-network projects. 
-    
-- **Gavi, the Vaccine Alliance** – manages global stockpiles (e.g., Ebola, cholera) and is now pitching itself as the immunisation arm of pandemic preparedness; ongoing 2025 pledging round shows both philanthropic support and donor cuts. 
-    
-- **Unitaid & the Global Fund** – finance test-and-treat tools and health-system capacity that double as outbreak-response assets (no recent headline in our quick scan, but they sit in the PPR architecture).
-    
-
----
-
-### **4.  Philanthropic & private-sector heavyweights**
-
-- **Bill & Melinda Gates Foundation** – largest non-state funder of WHO and CEPI; more than US $2 billion committed to COVID-19 and follow-on PPR work, with long-term pledges through 2045. 
-    
-- **Wellcome Trust** – influential on research-funding and policy; publicly backed the Pandemic Agreement in May 2025. 
-    
-- **IFPMA / Pharmaceutical & biotech industry coalitions** – lobby the G7 and others on R&D incentives, IP, and manufacturing scale-ups. 
-    
-
----
-
-### **5.  Regional public-health powerhouses**
-
-- **Africa CDC** – coordinates continent-wide surveillance, stockpiles and emergency response; issues weekly intelligence briefs and leads Africa’s voice in treaty talks. 
-    
-- **PAHO (Americas), ECDC (Europe) and newly proposed ASEAN CDC** – act as regional early-warning and technical-assistance hubs.
-    
-- **Resilience Action Network Africa (RANA)** – civil-society complement that feeds local priorities into Africa CDC and global forums. 
-    
-
----
-
-### **6.  Political and summit diplomacy forums**
-
-- **G7** – Health-ministers track keeps “Pact for Pandemic Readiness” items (R&D, surveillance, AMR) alive in annual communiqués. 
-    
-- **United Nations** – the 2024 UN High-Level Meeting on PPR laid groundwork for treaty adoption and for integrating climate, debt and gender lenses into preparedness financing.
-    
-
----
-
-### **7.  Civil-society and advocacy networks**
-
-- **Pandemic Action Network (PAN)** and allies – organise NGO, academic and private-sector voices to lobby for treaty provisions and to close the US $8 - 10 billion annual PPR financing gap. 
-    
-- **ONE Campaign, Global Citizen, MSF, Red Cross/IFRC** – keep political pressure on leaders for equitable access and sustained financing.
-    
-
----
-
-### **8.  Think-tanks & expert coalitions**
-
-- Academic centres (e.g., Johns Hopkins CHS, Georgetown CSET) and initiatives such as the **100 Days Mission** steer technical standards and benchmark country readiness. 
-    
-
----
-
-**Why this matters:**  None of these actors can “do PPR” alone.  The money (World Bank/IMF), the norms (WHO), the science push (CEPI, Gavi, Wellcome), the political cover (G7/G20/UN) and the ground-truthing by regional bodies and civil society all have to line up.  Tracking who is taking the lead in each lane is the surest way to see where the gaps—and the leverage points—still lie.
-# Map?
+# Map of PRR
 ```
 What would a map of this space look like? I'm imagining there are categories of stakeholders, like... financers (world bank), international organisations (WHO), private sector, etc
 
@@ -186,3 +103,11 @@ I currently don't have a good map in my head, I don't know what the different st
 ![[Pasted image 20250626092753.png]]
 - Much better IMO as it has grouping, rather than just "here are 11 things, good luck" 
 - I also picked the colours vaguely based on Ken Wilbur's spiral dynamics framework, lol. Nerd easter egg
+- ![[Pasted image 20250626094830.png]]
+- ![[Pasted image 20250626103705.png]]
+- Realising I'd like to get an overview of the history of global health, in the same way that I did when I was learning about the nuclear space
+- Really useful to have a narrative overview of what happened when, what the key innovations have been, etc
+- Deep research to the rescue
+- `please make a report on the history of global health & pandemic PPR`
+- ![[Pasted image 20250626104220.png]]
+- Will read with Speechify and then feed into AI to make flashcards, skip the Miro stage
