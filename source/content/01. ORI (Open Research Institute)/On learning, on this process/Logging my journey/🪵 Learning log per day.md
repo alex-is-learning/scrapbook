@@ -1,6 +1,8 @@
 # June 2025
+- [[My model of "Pandemic Action Network", 2025-06-26]]
 - 25th June 2025
-	- Adding to my two projects! See the 🟣-prefixed pages
+	- [[Progressive iteration of visual notes - Pandemic Action Network examples]]
+	- [[Microsolidarity crew call 2025-06-25]]
 - 24th June 2025
 	- [[🟣 Project - "Are visual notes underrated and poorly understood?"]]
 	- [[🟣 Project - "How can I help my family?"]]
