@@ -42,63 +42,70 @@
 
 ## Open questions/things I don't grok yet:
 - Writing up my post-it notes from [here](https://docs.google.com/presentation/d/15rrsNpgGta1bJhfBIRhKg3DPcdUPFfWS-ugrwBg06F8/edit?slide=id.g36292da8d7e_0_178#slide=id.g36292da8d7e_0_178)
+### 1. Learning basics/getting scaffolding
+1. What actually is civil society? Just a basic definition would be useful, and some key examples
+2. What does PPR stand for, want to lock this in. Pandemic Preparedness and Readiness?
+3. I know barely anything about the WHO!
+4. What are global public goods?
+5. Learn more about "all global health initiatives", including Gavi, Global Fund, WHO, etc
+	1. "This also entails ensuring all global health initiatives, including **Gavi**, the **Global Fund**, **WHO**, and the **Pandemic Fund**, are fully financed"
+6. I don't really know what e.g. a Think Tank is/does. I mean, I have a guess (they work on policy?), but it'd be great to double check this and learn about some quintessential examples (Adam Smith Institute?)
+7. "COP-like" - quickly learn about COP
+	1. PAN advocates for a "COP-like" process for pandemics, which would institute annual accountability mechanisms to hold global leaders responsible for preparedness
+8. "Panic & neglect" - who first came up with this term? Does it just apply to pandemic preparedness?
+### 2. Learn more about the specifics of PAN
+1. I'd like to make a quick org chart just to get a better sense of what teams exist
+2. Lock in their key strategic pillars
+	1. Advocacy for Equitable Access to Pandemic Tools
+	2. Driving Global Summits and High-Level Political Engagement
+	3. Role in the Establishment and Funding of the Pandemic Fund
+	4. Engagement in the Pandemic Instrument Process
+	5. Promoting Accountability and Cross-Sectoral Collaboration
+	6. Targeted Programs
+3. Lock in their key strategic initiatives
+	1. Pandemic Action Ambassadors
+	2. From the Frontline
+	3. Vaccine Education
+	4. COVID-19 Action Fund for Africa (CAF-Africa)
+	5. Mask Behavior
+	6. Resilience Action Network Africa (RANA)
+4. Newsletter, weekly calls
+5. Shift overton window re: security sector arguements
+### 3. Learning more about initiatives/stakeholders
 1. What is the Pandemic Fund? Who is involved? Etc
 2. What summits have PAN helped organise? How did they contribute?
 3. What pandemic agreements were PAN involved with?
-4. What actually is civil society? Just a basic definition would be useful, and some key examples
-5. What does PPR stand for, want to lock this in. Pandemic Preparedness and Readiness?
-6. I'd like to make a quick org chart just to get a better sense of what teams exist
-7. What are ODA promises?
-8. What are IHRs?
-9. Who is working on a holistic pandemic agreement? Who are the stakeholders here?
-10. I know barely anything about the WHO!
-11. What are global public goods?
-12. What is the debt common framework?
-13. What are SDRs?
-14. Learn more about "all global health initiatives", including Gavi, Global Fund, WHO, etc
-	1. "This also entails ensuring all global health initiatives, including **Gavi**, the **Global Fund**, **WHO**, and the **Pandemic Fund**, are fully financed"
-15. How do you strengthen LMIC leadership roles in the Pandemic Fund?
-16. Learn more about RANA
-17. I don't really know what e.g. a Think Tank is/does. I mean, I have a guess (they work on policy?), but it'd be great to double check this and learn about some quintessential examples (Adam Smith Institute?)
-18. Pandemic Agreement by WHO member states - what it involves
-19. "COP-like" - quickly learn about COP
-	1. PAN advocates for a "COP-like" process for pandemics, which would institute annual accountability mechanisms to hold global leaders responsible for preparedness
-20. Broader financial reforms (e.g., Multilateral Development Bank reform)
-21. CAF-Africa
+4. Who is working on a holistic pandemic agreement? Who are the stakeholders here?
+5. Pandemic Agreement by WHO member states - what it involves
+6. Broader financial reforms (e.g., Multilateral Development Bank reform)
+7. CAF-Africa
 	1. In 2020, CAF-Africa was the fifth largest procurement mechanism for PPE in the world. Between June 2020 and March 2022, CAF-Africa:
-22. Lock in their key strategic pillars
-	1. **Advocacy for Equitable Access to Pandemic Tools**
-	2. **Driving Global Summits and High-Level Political Engagement**
-	3. **Role in the Establishment and Funding of the Pandemic Fund**
-	4. **Engagement in the Pandemic Instrument Process**
-	5. **Promoting Accountability and Cross-Sectoral Collaboration**
-	6. **Targeted Programs**
-23. Lock in their key strategic initiatives
-	1. **Pandemic Action Ambassadors**
-	2. **From the Frontline**
-	3. **Vaccine Education**
-	4. **COVID-19 Action Fund for Africa (CAF-Africa)**
-	5. **Mask Behavior**
-	6. **Resilience Action Network Africa (RANA)**
-24. "Panic & neglect" - who first came up with this term? Does it just apply to pandemic preparedness?
-25. ACT-A?
-26. Newsletter, weekly calls
-27. "Equitable successor to ACT-A"
-28. Africa CDC's New Public Health Order
-29. The Elders? UNGA?
-30. Resilience & Sustainability Trust
-31. "Expert commission to cost climate & pandemic-resilient health systems"
-32. IDA-21?
-33. Africa Epidemic Fund
-34. "global-public-investment model"
-35. MDB reforms
-36. "One-Health based pandemic agreement"
-37. mpox
-38. H5N1
-39. MFF hub
-40. Resilient debt clause
-41. ODA
-42. Shift overton window re: security sector arguements
+8. Africa CDC's New Public Health Order
+9. The Elders? 
+10. UNGA?
+11. Resilience & Sustainability Trust
+12. "Expert commission to cost climate & pandemic-resilient health systems"
+13. Africa Epidemic Fund
+14. "global-public-investment model"
+15. MDB reforms
+16. "One-Health based pandemic agreement"
+### 4. Learning technical stuff 
+1. What are ODA promises?
+2. What are IHRs?
+3. What is the debt common framework?
+4. What are SDRs?
+5. How do you strengthen LMIC leadership roles in the Pandemic Fund?
+6. Learn more about RANA
+7. ACT-A?
+8. "Equitable successor to ACT-A"
+9. IDA-21?
+10. MFF hub
+11. Resilient debt clause
+12. ODA
+### 5. Specific disease responses
+1. mpox
+2. H5N1
+3. COVID
 ## An overview of the global health landscape would be very useful for scaffolding
 
 Gemini deep research prompt
