@@ -1,6 +1,6 @@
 # June 2025
 - 26th June
-	- [[My model of "Pandemic Action Network", 2025-06-26]]
+	- [[🟣 Pandemic Action Network]]
 - 25th June 2025
 	- [[Progressive iteration of visual notes - Pandemic Action Network examples]]
 	- [[Microsolidarity crew call 2025-06-25]]
