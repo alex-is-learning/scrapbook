@@ -1,12 +1,17 @@
 # WHO flashcards
 - Three 25-minute pomodoros to:
-	- Read the deep research report (with Speechify, speed at 2.5x)
+	- Make a Gemini deep research report on the WHO
+	- Read the deep research report ([link](https://docs.google.com/document/d/1zPW4Rka_c8jPQzEL1zPw3h01tU67VWzzMxBdrnbLOMI/edit?usp=sharing) (with Speechify, speed at 2.5x)
 	- Make flashcards with Gemini 2.5 Pro and my "make me flashcards prompt", stored in text expander app espanso, accessed by typing `:flash`
 	- Edit the flashcards in neovim -- AI isn't great at making flashcards yet, but it speeds up the process, reduces friction by a huge amount
 	- Import flashcards into anki
+	- Review the flashcards in anki, editing as needed (e.g., adding photos, adding colour to text)
+	- Also making additional ones as needed
+		- e.g. - realising that I don't know what "primary health care" is:
+		- ![[Pasted image 20250627092239.png]]
 	- Now have 61 new ones to review
 	- ![[Pasted image 20250627085600.png]]
-## 1
+## 1 
 ```
 The World Health Organisation (WHO) is the principal international authority dedicated to {{c1::global public health}}
 |
@@ -261,3 +266,15 @@ The commitment to
 {{c1::increase ACs to 50% of the base budget by 2030}} 
 is considered the cornerstone of WHO's transformation"
 ```
+# COVID response flashcards
+## Make the report
+- [Link to report](https://docs.google.com/document/d/1qM0XB46aVTsyuLhiurG08895jsNhGOzfswGotrXo8Wc/edit?usp=sharing)
+	- *I love Gemini Deep Research so much*
+- ![[Pasted image 20250627085924.png]]
+## Initial read (with speechify)
+- ![[Pasted image 20250627093727.png]]
+- Read whilst listening at a relatively high speed. I find that speechify massively reduces willpower needed to read, as someone else is setting the pace (the person who is reading out loud)
+## Make flashcards with Gemini
+- As per [[My "make flashcards for me" prompt for AI]]
+- I often chop the original PDF into multiple, so make sure that Gemini makes in depth flashcards, as often there seems to be an output limit
+- So I've just exported pages 1-6, 6-10, 10-15, 15-18 and 18-21 to separate PDFs, to ensure I get thorough flashcards from each
