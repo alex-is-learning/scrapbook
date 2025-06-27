@@ -1,4 +1,6 @@
 # June 2025
+- 27th June
+	- [[🟣 Pandemic Action Network]] again - this is my full time sprint at the moment!
 - 26th June
 	- [[🟣 Pandemic Action Network]]
 - 25th June 2025
