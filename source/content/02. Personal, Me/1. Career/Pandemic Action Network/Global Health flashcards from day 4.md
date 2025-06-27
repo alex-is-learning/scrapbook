@@ -1,5 +1,7 @@
 - See also - [[Twitch stream 2025-06-27 - reviewing WHO and COVID response flashcards]]
-# WHO flashcards
+- 👇 Almost 6 hours of tracked work today
+- ![[Pasted image 20250627182123.png]]
+# 1. WHO flashcards
 - Three 25-minute pomodoros to:
 	- Make a Gemini deep research report on the WHO
 	- Read the deep research report ([link](https://docs.google.com/document/d/1zPW4Rka_c8jPQzEL1zPw3h01tU67VWzzMxBdrnbLOMI/edit?usp=sharing) (with Speechify, speed at 2.5x)
@@ -267,7 +269,7 @@ The commitment to
 {{c1::increase ACs to 50% of the base budget by 2030}} 
 is considered the cornerstone of WHO's transformation"
 ```
-# COVID response flashcards
+# 2. COVID response flashcards
 ## Make the report
 - [Link to report](https://docs.google.com/document/d/1qM0XB46aVTsyuLhiurG08895jsNhGOzfswGotrXo8Wc/edit?usp=sharing)
 	- *I love Gemini Deep Research so much*
@@ -706,4 +708,218 @@ to suffer higher COVID-19 mortality
 Crowded housing 
 Inability to work remotely 
 Unequal access to healthcare}}
+```
+# 3. Pandemic Action Network flashcards
+```
+When was the Pandemic Action Network (PAN) established
+{{c1::April 2020}}
+|
+Which gap in decision-making did co-founder Eloise Todd highlight as driving PAN’s creation
+{{c1::The lack of civil-society voice in early government pandemic decisions}}
+|
+Who serves as PAN’s Executive Director and co-founder
+{{c1::Eloise Todd}}
+|
+Roughly how many partner organisations make up PAN’s network
+{{c1::Over 400}}
+|
+What is PAN’s stated mission
+{{c1::Galvanise collective action 
+so the world can prevent, prepare for and respond to future pandemics}}
+|
+Name the five core principles that underpin PAN’s work
+{{c1::Collective global action, 
+bias for action, 
+networked advocacy, 
+consensus-driving not consensus-driven, 
+long-term legacy}}
+|
+Which principle captures PAN’s insistence on turning insights into concrete policy steps
+{{c1::Bias for action}}
+|
+What organisational model does PAN use to harness the “network effect”
+{{c1::Networked advocacy}}
+|
+What term does PAN use for crowdsourcing and refining policy through diverse partners
+{{c1::Radical collaboration}}
+|
+Why does PAN describe itself as “consensus-driving, not consensus-driven”
+{{c1::It seeks broad alignment 
+yet retains agility to take bold positions 
+without being paralysed by full unanimity}}
+|
+What structural feature allows PAN to remain lean yet influential
+{{c1::A very small core team leveraging a vast distributed network}}
+|
+Which policy platform provides back-office support for PAN
+{{c1::Panorama Global}}
+|
+Which two committees provide governance oversight within PAN
+{{c1::Advisory Committee and Enterprise Committee}}
+|
+Which regional director leads PAN’s work in Africa
+{{c1::Aggrey Aluso}}
+|
+Which multilateral financing mechanism did PAN help to establish and fund
+{{c1::The World Bank-hosted Pandemic Fund}}
+|
+What seat was secured on the Pandemic Fund board thanks in part to PAN
+{{c1::A dedicated civil-society representative seat}}
+|
+Why does PAN emphasise “new and additional” resources for the Pandemic Fund
+{{c1::To avoid merely repackaging existing aid 
+and ensure true incremental financing}}
+|
+Which WHO instrument’s negotiation did PAN actively shape from 2021-2025
+{{c1::The WHO Pandemic Agreement}}
+|
+What recurring historical cycle does PAN vow to break
+{{c1::“Panic and neglect” after each outbreak}}
+|
+How does PAN monitor governments’ pledges to pandemic preparedness
+{{c1::By tracking and publicly reporting 
+financing and policy commitments}}
+|
+What cross-sectoral challenges 
+does PAN link to pandemic risk 
+when advocating solutions
+{{c1::Climate change and economic stability}}
+|
+What benefit does PAN claim for a distributed network in tailoring advocacy
+{{c1::Local adaptation of global messages}}
+|
+Why is PAN’s model considered a blueprint for rapid-response civil-society groups
+{{c1::It achieves scale and speed without large bureaucracy}}
+|
+What outcome does PAN seek by institutionalising civil-society participation in global health governance
+{{c1::More democratic, equitable decision-making}}
+|
+Which communication strength allows PAN to influence decision-makers quickly
+{{c1::Clear, actionable messaging}}
+|
+Which phrase describes PAN’s leverage of its vast partnership as a “force multiplier”
+{{c1::The network effect}}
+|
+Why does PAN argue that equitable access to 
+pandemic tools 
+must accompany pathogen sharing
+{{c1::To create trust and mutual benefit 
+between high-income and low-income nations}}
+|
+Which moral failure during COVID-19 motivates much of PAN’s equity agenda
+{{c1::Global vaccine inequity}}
+|
+3 ways that PAN keeps momentum between crises, avoiding donor fatigue
+{{c1::Sustained advocacy
+Regular reporting
+Linking PPR to ongoing issues like climate and economy}}
+|
+What five capacities define PAN’s strategic approach
+{{c1::Catalysing action
+Filling policy and advocacy gaps
+Fostering broad collaboration
+Translating complex learnings into clear messaging
+Providing expert policy, advocacy and communications advice}}
+|
+Which consistent theme underpins all of PAN’s advocacy work
+{{c1::Equitable access to pandemic countermeasures (tests, treatments, vaccines and PPE)}}
+|
+In 2020 which financing mechanism did PAN prioritise to speed vaccine access for lower-income countries
+{{c1::The Access to COVID-19 Tools Accelerator (ACT-A)}}
+|
+In what year was the World Bank-hosted Pandemic Fund launched with PAN’s backing
+{{c1::2022}}
+|
+What governance milestone for civil society did PAN secure on the Pandemic Fund
+{{c1::A dedicated civil-society seat on the Fund’s board}}
+|
+How does PAN publicly track the Pandemic Fund’s financing commitments
+{{c1::Through an online pledge tracker}}
+|
+What accountability model does PAN advocate to accompany the pandemic instrument
+{{c1::A “COP-like” annual process to hold leaders accountable}}
+|
+What historical cycle does PAN aim to break by institutionalising annual accountability
+{{c1::The “panic and neglect” cycle following outbreaks}}
+|
+Which narrative does PAN use to broaden support 
+by linking pandemics to issues like climate and security
+{{c1::An “interconnectedness” narrative}}
+|
+Why does PAN argue that integrated, multi-sectoral solutions are more viable than siloed approaches
+{{c1::They are politically sustainable and reflect the cross-cutting costs of inaction}}
+|
+Name PAN’s initiative that amplifies individual voices to press leaders on pandemic action
+{{c1::Pandemic Action Ambassadors}}
+|
+What study did PAN’s “From the Frontline” project conduct in summer 2021
+{{c1::Assessed what US doctors and nurses need to feel prepared for current and future pandemics}}
+|
+Which PAN programme focuses on boosting global vaccine confidence and equity
+{{c1::Vaccine Education}}
+|
+What was the goal of the COVID-19 Action Fund for Africa launched in June 2020
+{{c1::Equip and protect community health workers across Africa}}
+|
+Which early COVID-19 intervention campaign did PAN champion before vaccines were available
+{{c1::Mask behaviour – promoting consistent mask-wearing}}
+|
+RANA, launched with PAN, pursues what overarching aim in Africa
+{{c1::Strengthening resilience and advancing the African Union’s New Public Health Order}}
+|
+Which advisory bodies govern PAN alongside its core team
+{{c1::An International Advisory Committee and an Enterprise Committee}}
+|
+Which independent, Africa-registered advocacy network showcases PAN’s strategic decentralisation model
+{{c1::RANA}}
+|
+What service does PAN provide to partners to ease joint advocacy
+{{c1::Ready-made policy messaging, tools and letters}}
+|
+Which online tool demonstrates PAN’s commitment to financial transparency in pandemic preparedness
+{{c1::The Pandemic Fund pledge tracker}}
+|
+As of 6 July 2023, how much money had been publicly pledged to the Pandemic Fund
+{{c1::US $1.93 billion}}
+|
+What minimum annual sum do experts estimate is needed for effective global PPR
+{{c1::US $10.5 billion}}
+|
+How many separate contributors had pledged to the Pandemic Fund by mid-2023
+{{c1::Twenty-six}}
+|
+Which three actors topped the government pledge league (any one is correct)
+{{c1::United States · European Commission · Germany}}
+|
+What principle does PAN use to insist that new pledges must not cannibalise existing aid
+{{c1::Additionality}}
+|
+Why does PAN label itself both watchdog and mobiliser regarding pandemic financing
+{{c1::It monitors commitments 
+and simultaneously pushes donors 
+to increase predictable funding}}
+|
+Which two interconnected global challenges does PAN routinely link to pandemic risk to widen political support
+{{c1::Climate change and economic stability}}
+|
+What catastrophic human toll figure does PAN cite when including excess COVID-19 deaths
+{{c1::Over 20 million people}}
+|
+Which geopolitical outcome does PAN highlight as an example of pandemics destabilising international relations
+{{c1::Heightened isolation of Russia preceding its invasion of Ukraine}}
+|
+Which four multilateral health bodies does PAN want to see fully financed 
+{{c1::Gavi · the Global Fund · WHO · the Pandemic Fund}}
+|
+Which government approach does PAN believe must replace siloed health planning
+{{c1::Whole-of-government, cross-sectoral integration of pandemic preparedness}}
+|
+What attribute must the Pandemic Fund retain, according to PAN, to meet emerging needs
+{{c1::Agility and flexibility}}
+|
+Which narrative tool does PAN see as essential for rallying investors behind the Fund
+{{c1::A compelling political narrative framing PPR as a security and economic imperative}}
+|
+What long-term vision does PAN share with the Pandemic Fund
+{{c1::A world where all people are protected by strong, resilient health systems capable of rapid outbreak response}}
 ```
