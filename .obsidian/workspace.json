@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/Learning Twitch Streams.md",
+                "file": "source/content/02. Personal, Me/1. Career/Pandemic Action Network/🟣 Pandemic Action Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning Twitch Streams"
+              "title": "🟣 Pandemic Action Network"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/Learning Twitch Streams.md",
+                "file": "source/content/02. Personal, Me/1. Career/Pandemic Action Network/🟣 Pandemic Action Network.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Learning Twitch Streams"
+              "title": "Outline of 🟣 Pandemic Action Network"
             }
           }
         ],
@@ -186,8 +186,10 @@
   },
   "active": "d8afb04b3b10dae2",
   "lastOpenFiles": [
-    "source/content/index.md",
+    "source/content/02. Personal, Me/1. Career/Pandemic Action Network/PAN orientation, day 2.md",
     "source/content/02. Personal, Me/1. Career/Pandemic Action Network/🟣 Pandemic Action Network.md",
+    "source/content/index.md",
+    "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/Learning Twitch Streams.md",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/🪵 Learning log per day.md",
     "source/content/02. Personal, Me/1. Career/Pandemic Action Network/Twitch stream 2025-06-27 - reading a report and making flashcards.md",
     "source/content/02. Personal, Me/1. Career/Pandemic Action Network/Global Health flashcards from day 3.md",
@@ -196,9 +198,7 @@
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/My \"make flashcards for me\" prompt for AI.md",
     "source/content/02. Personal, Me/1. Career/Pandemic Action Network/Global Health flashcards from day 4.md",
     "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes/Are visual notes underrated and poorly understood?.md",
-    "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/Learning Twitch Streams.md",
     "source/content/02. Personal, Me/1. Career/Pandemic Action Network/PAN orientation, day 3.md",
-    "source/content/02. Personal, Me/1. Career/Pandemic Action Network/PAN orientation, day 2.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250627105208.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250627105141.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250627105050.png",
