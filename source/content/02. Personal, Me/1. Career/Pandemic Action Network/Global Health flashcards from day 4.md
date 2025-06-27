@@ -1,4 +1,4 @@
-- See also - [[Twitch stream - reviewing WHO and COVID response flashcards]]
+- See also - [[Twitch stream 2025-06-27 - reviewing WHO and COVID response flashcards]]
 # WHO flashcards
 - Three 25-minute pomodoros to:
 	- Make a Gemini deep research report on the WHO

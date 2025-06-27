@@ -1,6 +1,7 @@
 - 2025-06-27
 	- [[Global Health flashcards from day 4]]
-	- [[Twitch stream - reviewing WHO and COVID response flashcards]]
+	- [[Twitch stream 2025-06-27 - reviewing WHO and COVID response flashcards]]
+	- [[Twitch stream 2025-06-27 - reading a report and making flashcards]]
 - 2025-06-26
 	- [[PAN orientation, day 3]]
 	- [[Global Health flashcards from day 3]]
