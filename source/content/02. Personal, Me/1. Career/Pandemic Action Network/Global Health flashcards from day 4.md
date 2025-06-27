@@ -278,3 +278,129 @@ is considered the cornerstone of WHO's transformation"
 - As per [[My "make flashcards for me" prompt for AI]]
 - I often chop the original PDF into multiple, so make sure that Gemini makes in depth flashcards, as often there seems to be an output limit
 - So I've just exported pages 1-6, 6-10, 10-15, 15-18 and 18-21 to separate PDFs, to ensure I get thorough flashcards from each
+## Put the first round of flashcards into Neovim (Neovide), & edit
+- I have a .txt file called import.txt where I put flashcards to be edited
+- ![[Pasted image 20250627103018.png]]
+- Often need to add more line breaks to make the flashcards faster to parse
+- And may need to make additional flashcards, or delete some that I already know/don't want to know
+- I have the `:flash` prompt for making flashcards via AI use the "|" on a new line to separate the flashcards for my own readability & ease of editing whilst in neovim. Before importing to anki, I use a Python script to clean up the .txt file to be a format that works for Anki's import feature
+## Deleting flashcards
+- Here's an example of one I just deleted
+
+```
+Which activity did central banks in the US and Europe undertake 
+to stabilise markets besides cutting rates
+{{c1::large-scale asset purchase programmes}}
+```
+
+- I know essentially nothing about global finance, so this would be a total "orphan card" in my brain - a random card not attached to any other knowledge
+- Right now I don't have capacity/interest to go deep on this topic, so it's better just to avoid it entirely until there's a more clear need
+## Running my python script to convert the .txt file formatting
+- From this kind of formatting:
+```
+What virus is responsible for the COVID-19 pandemic
+{{c1::SARS-CoV-2}}
+|
+How many deaths had COVID-19 caused worldwide by 2024 according to the report’s estimate
+{{c1::18.2–33.5 million}}
+|
+What was the approximate direct global economic loss in 2020 attributed to COVID-19
+{{c1::$7.4 trillion}}
+|
+```
+- To this kind of formatting:
+```
+What virus is responsible for the COVID-19 pandemic<br />{{c1::SARS-CoV-2}}
+How many deaths had COVID-19 caused worldwide by 2024 according to the report’s estimate<br />{{c1::18.2–33.5 million}}
+What was the approximate direct global economic loss in 2020 attributed to COVID-19<br />{{c1::$7.4 trillion}}
+```
+- Via this python script:
+- Which I run by typing ! python3 python.py into neovide (yes, the file is called python.py, I know that's dumb as hell, lol)
+```python
+# Python script to preprocess a text file for Anki import.
+#
+# How it works:
+# - Reads an input file (e.g., 'import.txt').
+# - Assumes flashcards in the input file are separated by a pipe symbol '|'.
+# - Content for a single flashcard can span multiple lines.
+# - Converts each flashcard into a single line in the output file (e.g., 'output.txt').
+# - Internal newlines within a flashcard are replaced by '<br />' for Anki.
+# - Clears the input file upon successful output.
+
+def preprocess_anki_text(input_filepath, output_filepath):
+    """
+    Processes a text file for Anki import and clears the input file on success.
+
+    Args:
+        input_filepath (str): The path to the input text file.
+        output_filepath (str): The path where the processed text file will be saved.
+    """
+    try:
+        with open(input_filepath, 'r', encoding='utf-8') as f_in:
+            content = f_in.read()
+        print(f"Successfully read '{input_filepath}'.")
+    except FileNotFoundError:
+        print(f"Error: Input file '{input_filepath}' not found. Make sure it's in the same directory as the script.")
+        return
+    except Exception as e:
+        print(f"Error reading file '{input_filepath}': {e}")
+        return
+
+    # Split the entire content by the pipe character
+    # This treats '|' as the delimiter between separate cards
+    raw_cards = content.split('|')
+
+    processed_cards = []
+    for card_text in raw_cards:
+        # Remove leading/trailing whitespace and newlines from the segment
+        stripped_card_text = card_text.strip()
+
+        if stripped_card_text: # Ensure the card has content after stripping
+            # Replace internal newlines (within the card's own content) with HTML line breaks
+            single_line_card = stripped_card_text.replace('\n', '<br />')
+            processed_cards.append(single_line_card)
+
+    try:
+        with open(output_filepath, 'w', encoding='utf-8') as f_out:
+            for card in processed_cards:
+                f_out.write(card + '\n') # Write each processed card on a new line
+        print(f"Successfully processed file. Output saved to '{output_filepath}'.")
+        print(f"You can now import '{output_filepath}' into Anki.")
+        print("Remember to 'Allow HTML in fields' in Anki's import settings.")
+
+        # Now, clear the input file
+        try:
+            with open(input_filepath, 'w', encoding='utf-8') as f_in_clear:
+                f_in_clear.write('') # Write an empty string to clear it
+            print(f"Successfully cleared the input file: '{input_filepath}'.")
+        except Exception as e:
+            print(f"Error clearing the input file '{input_filepath}': {e}")
+
+    except IOError:
+        print(f"Error: Could not write to output file '{output_filepath}'. Check permissions.")
+    except Exception as e:
+        print(f"Error writing file '{output_filepath}': {e}")
+
+# --- Script Execution ---
+if __name__ == "__main__":
+    # Define the input and output filenames
+    # The script expects 'import.txt' to be in the same directory as this script.
+    # The output file 'output.txt' will also be created in the same directory.
+    input_filename = 'import.txt'
+    output_filename = 'output.txt'
+
+    print(f"Starting preprocessing for Anki...")
+    print(f"Input file: {input_filename}")
+    print(f"Output file: {output_filename}")
+
+    preprocess_anki_text(input_filename, output_filename)
+
+```
+- The above looks for a file called import.txt, cleans it up, saves the output to output.txt, and wipes import.txt so it's empty and ready for future flashcards
+- All the files need to be in the same directory:
+	- ![[Pasted image 20250627105008.png]]
+## Import into anki
+- 👇 "Import file" at the bottom
+- ![[Pasted image 20250627105050.png]]
+- ![[Pasted image 20250627105141.png]]
+- ![[Pasted image 20250627105208.png]]
