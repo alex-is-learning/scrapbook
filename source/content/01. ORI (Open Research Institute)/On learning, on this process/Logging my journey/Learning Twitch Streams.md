@@ -2,3 +2,4 @@
 	- As a slightly unhinged experiment, I'm gonna try streaming to Twitch as I learn
 	- Inspired by Andy Matuschak ([here](https://www.youtube.com/watch?v=kG2_6ToMZgI))
 	- [[Twitch stream 2025-06-27 - reviewing WHO and COVID response flashcards]]	
+	- [[Twitch stream 2025-06-27 - reading a report and making flashcards]]
