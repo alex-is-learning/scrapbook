@@ -675,3 +675,6 @@ The new Pandemic Agreement must establish mechanisms to avoid the {{c1::"vaccine
 - WOAH
 - WHO Pandemic Agreement (2025!)
 - What are vertical programs?
+- CFE? "It's running out!"
+- "How many low- and middle-income “AMC” economies were to receive donor-funded doses"
+	- What are AMC countries?

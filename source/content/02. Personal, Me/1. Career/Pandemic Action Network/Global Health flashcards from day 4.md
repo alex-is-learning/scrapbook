@@ -1,3 +1,4 @@
+- See also - [[Twitch stream - reviewing WHO and COVID response flashcards]]
 # WHO flashcards
 - Three 25-minute pomodoros to:
 	- Make a Gemini deep research report on the WHO
@@ -404,3 +405,305 @@ if __name__ == "__main__":
 - ![[Pasted image 20250627105050.png]]
 - ![[Pasted image 20250627105141.png]]
 - ![[Pasted image 20250627105208.png]]
+## Flashcards
+- Ah, I imported the first round into anki and forgot to port them here
+### Round 2
+```
+On what date did authorities seal off the entire city of Wuhan, initiating the strictest lockdown of the pandemic
+{{c1::23 January 2020}}
+|
+By the end of 2020, what was China’s reported COVID-19 mortality rate per 100 000 population
+{{c1::0.3}}
+|
+What was the United States’ mortality rate per 100 000 population by 31 December 2020
+{{c1::107}}
+|
+How many times higher was the UK mortality rate than China’s by the end of 2020
+{{c1::over 200 times}}
+|
+What label is given to the early 2020 period when many countries delayed decisive measures
+{{c1::the “lost month”}}
+|
+What controversial initial strategy did the UK government consider before imposing lockdown
+{{c1::achieving herd immunity through controlled spread}}
+|
+Early international travel restrictions delayed countries’ first epidemic peak by an average of how many weeks
+{{c1::five}}
+|
+Define the containment strategy’s primary epidemiological aim in one phrase
+{{c1::suppress transmission to the lowest possible level}}
+|
+Define the mitigation strategy’s aim commonly expressed in the West
+{{c1::flatten the curve to prevent health-system overload}}
+|
+What political condition within the United States 
+is repeatedly cited as impeding a unified response
+{{c1::federal political division}}
+|
+Which health-equity failure does the report label both a moral and strategic lapse
+{{c1::vaccine nationalism undermining COVAX}}
+|
+What systemic weakness 
+did delayed Western lockdowns reveal 
+about reliance on hospital capacity
+{{c1::reactive responses only triggered once beds were threatened}}
+|
+Why is the pandemic said to have 
+fractured global supply chains
+{{c1::over-concentration on efficiency 
+created vulnerabilities in crises}}
+|
+Containment countries triaged mild COVID-19 cases 
+to what type of facility to preserve hospitals
+{{c1::dedicated residential treatment centres}}
+|
+What strategic error does the report say 
+“preparedness on paper” 
+cannot compensate for
+{{c1::lack of decisive collective action}}
+|
+Define “travel restrictions” in the pandemic context in one clause
+{{c1::border controls limiting or screening international arrivals}}
+|
+Which factor, alongside strong state capacity, 
+helped East Asian nations secure compliance with restrictions
+{{c1::prior epidemic experience such as SARS or MERS}}
+|
+What legal designation under international law is abbreviated as PHEIC
+{{c1::Public Health Emergency of International Concern}}
+|
+In mitigation settings, 
+what was the implicit end-point 
+expected to halt the pandemic besides vaccination
+{{c1::population (herd) immunity through natural infection}}
+|
+Which contact-tracing innovation 
+allowed Germany to support its containment-aligned testing strategy
+{{c1::rapid scale-up of decentralised public-health tracing teams}}
+```
+### Round 3
+```
+By what date had WHO issued its first full technical guidance package to all countries
+{{c1::10 January 2020}}
+|
+Roughly how many individual guidance documents did WHO publish during the pandemic
+{{c1::more than 100}}
+|
+Which independent review finding said WHO should have declared a PHEIC a week earlier than it did
+{{c1::critique of timeliness}}
+|
+What accusation questioned WHO’s neutrality towards China 
+in the outbreak’s first phase
+{{c1::political deference undermining independence}}
+|
+What structural flaw 
+leaves WHO unable to enforce its recommendations
+{{c1::lack of sovereign authority 
+under the International Health Regulations}}
+|
+How much did the world’s GDP shrink in 2020 according to the report
+{{c1::3.3 percent}}
+|
+What direct economic loss in 2020 is estimated in comparison with pre-pandemic forecasts
+{{c1::about $7.4 trillion}}
+|
+Which US programme launched in May 2020 to speed domestic vaccine development and delivery
+{{c1::Operation Warp Speed}}
+|
+Rough initial public funding for Operation Warp Speed
+{{c1::about $10 billion}}
+|
+Global partnership launched April 2020 
+to ensure equal access to COVID-19 tools
+{{c1::the ACT Accelerator}}
+|
+What is the vaccine pillar of the ACT Accelerator called
+{{c1::COVAX Facility}}
+|
+Number of economies that eventually participated in COVAX
+{{c1::over 190}}
+|
+How many low- and middle-income “AMC” economies were to receive donor-funded doses
+{{c1::92}}
+|
+Total vaccine doses COVAX had delivered when the report was written
+{{c1::nearly 2 billion}}
+|
+Key obstacle that repeatedly delayed COVAX deliveries
+{{c1::vaccine nationalism and bilateral hoarding}}
+|
+Month and year when COVAX reached its first 
+100 million doses delivered
+{{c1::July 2021}}
+|
+Two state producers that used “vaccine diplomacy” 
+to expand influence amid Western shortages
+{{c1::China and Russia}}
+|
+What paradox of global health governance 
+does the report highlight regarding WHO authority
+{{c1::states want strong leadership but won’t cede sovereignty}}
+|
+Primary moral and strategic failure 
+identified in unequal vaccine distribution
+{{c1::undermining global equity 
+and allowing new variants to arise}}
+|
+Which supply-side factor 
+forced India to halt vaccine exports 
+{{c1::domestic Delta wave
+leading to export bans}}
+```
+### Round 4
+```
+What are the two main scientific hypotheses for the origin of SARS-CoV-2
+{{c1::natural zoonotic spill-over 
+and a laboratory-associated accident}}
+|
+Which Wuhan facility is central to the lab-leak hypothesis
+{{c1::the Wuhan Institute of Virology}}
+|
+What missing piece of evidence still weakens the natural spill-over theory
+{{c1::identification of a definitive intermediate animal host}}
+|
+Which viral feature is often cited by lab-leak proponents as unusual
+{{c1::the furin cleavage site in the spike protein}}
+|
+What overall judgement does the US Intelligence Community share 
+about SARS-CoV-2 as a weapon
+{{c1::the virus was not developed as a biological weapon}}
+|
+How did Chinese authorities impede a transparent origin investigation
+(3 things)
+{{c1::restricting WHO access, 
+withholding raw data 
+ordering destruction of early samples}}
+|
+Name one disinformation narrative Beijing promoted 
+about the virus’s origin
+{{c1::the claim it emerged from the US military base 
+at Fort Detrick}}
+|
+What geopolitical consequence has the unresolved origin debate produced
+{{c1::deepened mistrust and rivalry between China and the United States}}
+|
+Name three key trends businesses are adopting 
+to build post-pandemic supply resilience
+{{c1::Digitalisation 
+Diversification  
+regionalisation }}
+|
+What strategic priority has overtaken pure {{c1::efficiency }}
+in global supply management
+{{c1::resilience}}
+|
+Roughly how many deaths in lower-income countries were averted by COVAX deliveries
+{{c1::about 2.7 million}}
+|
+Which African nation received the first COVAX shipment in February 2021
+{{c1::Ghana}}
+|
+How many months late was COVAX in reaching its first 100 million doses delivered
+{{c1::about four months}}
+|
+How did logistics deadlock affect shipping times and costs during the pandemic
+{{c1::Port congestion and container shortages 
+Caused unprecedented delays and price spikes}}
+|
+Which metric demonstrates the fragility of 
+air-cargo reliance revealed by the pandemic
+{{c1::Loss of belly-cargo capacity when passenger flights were grounded}}
+```
+### Round 5
+```
+What existing international legal framework for pandemics 
+Is described as no longer fit for purpose
+{{c1::IHR 2005}}
+|
+State the two primary goals at the heart of the proposed Pandemic Accord
+{{c1::To make future pandemics less deadly 
+and to reduce their likelihood}}
+|
+Which proposed treaty provision creates a mechanism for 
+Rapid pathogen sharing 
+In exchange for 
+Equitable access to countermeasures
+{{c1::PABS}}
+|
+Under the PABS proposal, 
+what must countries and companies share quickly 
+when a new threat appears
+{{c1::pathogen samples and genetic sequence data}}
+|
+List the three domains in which the COVID pandemic showed
+a profound deficit of trust
+{{c1::between citizens and governments, 
+between political factions, 
+and between nations}}
+|
+During a pandemic, who should deliver nuanced public-health messages to maintain trust?
+{{c1::Diverse local messengers 
+such as community leaders, 
+family doctors 
+and religious figures}}
+|
+The pattern of under-investment and then a crisis is referred to as 
+the cycle of "{{c1::panic and neglect}}"
+|
+State 3 elements of sustained investment needed 
+to break the cycle of panic and neglect:
+{{c1::
+Public-health infrastructure 
+Primary care 
+Strategic stockpiles}}
+|
+What modernised system the COVID report propose 
+to replace slow, state-dependent outbreak reporting
+{{c1::A global digital disease-surveillance system 
+Using AI and open-source intelligence}}
+|
+Give 3 reforms recommended to strengthen the WHO
+{{c1::Increased core funding 
+Greater political independence 
+Enhanced authority to investigate outbreaks}}
+|
+Why is empowering local action key for future pandemic preparedness?
+{{c1::Community-level actors hold the trust and knowledge needed 
+For effective implementation}}
+|
+What ambitious goal aims to 
+produce and deploy vaccines, 
+therapeutics 
+and diagnostics 
+within a specific timeframe
+{{c1::the 100 Days Mission}}
+|
+The 100 Days Mission aims to (4 things)
+{{c1::
+Produce and deploy 
+1. vaccines, 
+2. therapeutics 
+3. diagnostics 
+within a specific timeframe
+}}
+|
+Name three prerequisites for achieving the 100 Days Mission
+{{c1::
+Investment in platform technologies like mRNA
+Streamlined regulatory pathways
+Standing manufacturing agreements}}
+|
+Which mindset shift does the report say is essential 
+For future global health security
+{{c1::Recognising that 
+equity and solidarity are prerequisites, 
+not charity}}
+|
+Name 3 systemic factors that caused 
+marginalised groups 
+to suffer higher COVID-19 mortality
+{{c1::
+Crowded housing 
+Inability to work remotely 
+Unequal access to healthcare}}
+```

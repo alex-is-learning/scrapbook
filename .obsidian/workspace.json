@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/02. Personal, Me/1. Career/Pandemic Action Network/Global Health flashcards from day 4.md",
+                "file": "source/content/02. Personal, Me/1. Career/Pandemic Action Network/🟣 Pandemic Action Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Global Health flashcards from day 4"
+              "title": "🟣 Pandemic Action Network"
             }
           },
           {
@@ -47,20 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "My \"make flashcards for me\" prompt for AI"
-            }
-          },
-          {
-            "id": "fa35e5f374f88de6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/02. Personal, Me/1. Career/Pandemic Action Network/PAN orientation, day 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PAN orientation, day 2"
             }
           }
         ],
@@ -185,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/02. Personal, Me/1. Career/Pandemic Action Network/Global Health flashcards from day 4.md",
+                "file": "source/content/02. Personal, Me/1. Career/Pandemic Action Network/🟣 Pandemic Action Network.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Global Health flashcards from day 4"
+              "title": "Outline of 🟣 Pandemic Action Network"
             }
           }
         ],
@@ -212,31 +198,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "d8afb04b3b10dae2",
   "lastOpenFiles": [
+    "source/content/02. Personal, Me/1. Career/Pandemic Action Network/Global Health flashcards from day 4.md",
+    "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/My \"make flashcards for me\" prompt for AI.md",
+    "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes/Are visual notes underrated and poorly understood?.md",
+    "source/content/02. Personal, Me/1. Career/Pandemic Action Network/Twitch stream - reviewing WHO and COVID response flashcards.md",
+    "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/Learning Twitch Streams.md",
+    "source/content/index.md",
+    "source/content/02. Personal, Me/1. Career/Pandemic Action Network/Global Health flashcards from day 3.md",
+    "source/content/02. Personal, Me/1. Career/Pandemic Action Network/PAN orientation, day 3.md",
+    "source/content/02. Personal, Me/1. Career/Pandemic Action Network/PAN orientation, day 2.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250627105208.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250627105141.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250627105050.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250627103018.png",
-    "source/content/02. Personal, Me/1. Career/Pandemic Action Network/Global Health flashcards from day 4.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250627105008.png",
-    "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/My \"make flashcards for me\" prompt for AI.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250627102417.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250627102439.png",
-    "source/content/02. Personal, Me/1. Career/Pandemic Action Network/PAN orientation, day 2.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250627085924.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250627093727.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250627092239.png",
-    "source/content/📎 Files/Images/misc/Pasted image 20250627085600.png",
     "source/content/02. Personal, Me/1. Career/Pandemic Action Network/🟣 Pandemic Action Network.md",
-    "source/content/02. Personal, Me/1. Career/Pandemic Action Network/Global Health flashcards from day 3.md",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/🪵 Learning log per day.md",
-    "source/content/02. Personal, Me/1. Career/Pandemic Action Network/PAN orientation, day 3.md",
     "source/content/02. Personal, Me/1. Career/Pandemic Action Network",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Bottom-up learning.md",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family/🟣 Project - \"How can I help my family?\".md",
     "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes/🟣 Project - \"Are visual notes underrated and poorly understood?\".md",
-    "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes/Are visual notes underrated and poorly understood?.md",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Hermeneutic circle, hermeneutic spiral.md",
     "source/content/01. ORI (Open Research Institute)/My research/Value of visual notes/Progressive iteration of visual notes - Pandemic Action Network examples.md",
     "source/content/01. ORI (Open Research Institute)/My research/How to help a family/Call with my friend Socrates 2025-06-23.md",
@@ -254,9 +242,7 @@
     "source/content/📎 Files/Images/misc",
     "source/content/📎 Files/Images/visual notes",
     "source/content/02. Personal, Me/Books/Amusing Ourselves to Death (read 1).md",
-    "source/content/02. Personal, Me/1. Career/Forecasting, Research/Why work for FRI.md",
     "source/content/01. ORI (Open Research Institute)/My research",
-    "source/content/02. Personal, Me/1. Career/Forecasting, Research/Model of FRI.md",
     "source/content/02. Personal, Me/1. Career/Forecasting, Research",
     "source/content/02. Personal, Me/1. Career/Effective Altruism",
     "source/content/01. ORI (Open Research Institute)/My model of ORI/Alex's ORI onboarding diagrams.pdf"

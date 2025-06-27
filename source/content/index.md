@@ -13,5 +13,7 @@ aliases:
 ## 🪴 Daily learning log
 > [[🪵 Learning log per day]]
 
+## 📹 Learning Twitch Streams
+> [[Learning Twitch Streams]]
 ## 🎤 Collection of voice notes
 > [[Collection of voice notes]]
