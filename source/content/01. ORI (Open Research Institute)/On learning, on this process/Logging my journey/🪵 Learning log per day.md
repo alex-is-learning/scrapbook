@@ -1,4 +1,6 @@
 # June 2025
+- 28th June
+	- [[Ancient Greece]]
 - 27th June
 	- [[🟣 Pandemic Action Network]] again - this is my full time sprint at the moment!
 - 26th June
