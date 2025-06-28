@@ -1,10 +1,13 @@
 # June 2025
 - 28th June
 	- [[🟣 Pandemic Action Network]]
+		- [[Twitch stream 2025-06-28 - Top-down model of Pandemic Action Network]]
 	- [[Tacit knowledge videos]]
 	- [[Ancient Greece]]
 - 27th June
 	- [[🟣 Pandemic Action Network]] again - this is my full time sprint at the moment!
+		- [[Twitch stream 2025-06-27 - reviewing WHO and COVID response flashcards]]
+		- [[Twitch stream 2025-06-27 - reading a report and making flashcards]]
 - 26th June
 	- [[🟣 Pandemic Action Network]]
 - 25th June 2025
