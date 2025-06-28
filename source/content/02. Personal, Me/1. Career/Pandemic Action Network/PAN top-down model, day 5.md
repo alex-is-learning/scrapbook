@@ -45,6 +45,7 @@
 		- John Boyd refers to this as "fingerspitzengefühl" & "auftragstaktik"
 - "I'll get a really deep understanding from them" → maybe not, maybe that's actually not that vital, it's more something that I'd like, vs they just someone who's really good at handling the logistics and calendar and agenda and stuff 
 - Part of me would love to be a researcher and go deep into a cause area, be it AI safety or biosecurity or global health... deep expertise, enneagram 3w4, "the professional"/"the expert"
+	- (I actually don't think I'd like to be a *pure* researcher. I think doing solo research seems lonely and isolated, vs being clearly useful in a more internal operations-type way, unblocking others, high leverage)
 - The question is → what is the path to expertise, and is there one? 
 	- I think I'd be in charge of my own learning and curriculum → the two executives aren't going to be *proactively* teaching me about the cause area, they'll be busy doing their executive stuff
 	- My model is that in my free time, I can get a deeper orientation to the space, and then use that in a kind of hermeneutic circle/spiral-type way, which will over time get me to that deep orientation place
