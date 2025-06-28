@@ -8,6 +8,7 @@
 - "[2020-05-04 Note-writing livestream](https://www.youtube.com/watch?v=DGcs4tyey18)"
 - Crowdfunded researcher. “Helped build iOS at Apple and led R&D at Khan Academy” ([Website](https://andymatuschak.org/))  
 - [Watch the stream](https://youtu.be/DGcs4tyey18?si=ymarQW6n15EeFpjd)
+- *Very excited for this one - Andy thinking in real time for ~2 hours*
 #### Destiny – Research for Debates  
 - Live-streamer and political commentator known for extensive debate prep ([Wikipedia](https://en.wikipedia.org/wiki/Destiny_$begin:math:text$streamer$end:math:text$))  
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLdAZsbpWCH4N8SlRuNG7zNzltk5Lk17v5)  
@@ -32,6 +33,8 @@
 - Founder of New Science and popular blogger ([Website](https://guzey.com/))  
 - [Watch the video](https://www.youtube.com/watch?v=CDzb20mBL5Y)  
 - [Later reflection](https://guzey.com/2022-lessons/)
+- *Damn, I was really excited for this one but sadly it's mostly about his crazy 4 monitor setup that he later disavowed*
+- *I agree that multiple screens are not worth it*
 #### AI & I – Tyler Cowen, Nat Eliason, Nathan Labenz, David Perell  
 - Conversations about AI, productivity, and thinking  
 - [Watch the playlist](https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL)

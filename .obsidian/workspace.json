@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Tacit knowledge videos.md",
+                "file": "source/content/02. Personal, Me/1. Career/Pandemic Action Network/PAN top-down model, day 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tacit knowledge videos"
+              "title": "PAN top-down model, day 5"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Tacit knowledge videos.md",
+                "file": "source/content/02. Personal, Me/1. Career/Pandemic Action Network/Global Health flashcards from day 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tacit knowledge videos"
+              "title": "Global Health flashcards from day 4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Tacit knowledge videos.md",
+                "file": "source/content/02. Personal, Me/1. Career/Pandemic Action Network/PAN top-down model, day 5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tacit knowledge videos"
+              "title": "Outline of PAN top-down model, day 5"
             }
           }
         ],
@@ -184,22 +183,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8afb04b3b10dae2",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/03. World Model/History/Ancient Greece.md",
+    "source/content/02. Personal, Me/1. Career/Pandemic Action Network/🟣 Pandemic Action Network.md",
+    "source/content/02. Personal, Me/1. Career/Pandemic Action Network/PAN top-down model, day 5.md",
+    "source/content/02. Personal, Me/1. Career/Pandemic Action Network/PAN top-down model, day 2.md",
+    "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/🪵 Learning log per day.md",
+    "source/content/index.md",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Tacit knowledge videos.md",
+    "source/content/02. Personal, Me/1. Career/Pandemic Action Network/Global Health flashcards from day 4.md",
+    "source/content/03. World Model/History/Ancient Greece.md",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/Learning Twitch Streams.md",
     "source/content/03. World Model/History",
-    "source/content/index.md",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Bottom-up learning.md",
-    "source/content/01. ORI (Open Research Institute)/On learning, on this process/Logging my journey/🪵 Learning log per day.md",
-    "source/content/02. Personal, Me/1. Career/Pandemic Action Network/Global Health flashcards from day 4.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250627182123.png",
-    "source/content/02. Personal, Me/1. Career/Pandemic Action Network/🟣 Pandemic Action Network.md",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Fluency.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250627171937.png",
     "source/content/02. Personal, Me/1. Career/Pandemic Action Network/Global Health flashcards from day 3.md",
-    "source/content/02. Personal, Me/1. Career/Pandemic Action Network/PAN orientation, day 2.md",
     "source/content/02. Personal, Me/1. Career/Pandemic Action Network/Twitch stream 2025-06-27 - reading a report and making flashcards.md",
     "source/content/02. Personal, Me/1. Career/Pandemic Action Network/Twitch stream 2025-06-27 - reviewing WHO and COVID response flashcards.md",
     "source/content/01. ORI (Open Research Institute)/On learning, on this process/Learning techniques/Hermeneutic circle, hermeneutic spiral.md",
