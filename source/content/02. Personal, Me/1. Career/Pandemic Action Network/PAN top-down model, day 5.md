@@ -1,3 +1,5 @@
+- Made this document whilst streaming
+	- [[Twitch stream 2025-06-28 - Top-down model of Pandemic Action Network]]
 - Feel like I don't need to write out my understanding of PAN here → it's grokked
 - Instead, it'd be useful to clarify *why* I'd like to work for them
 # Why would I like to work for PAN? 
