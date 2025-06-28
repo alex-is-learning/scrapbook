@@ -1,5 +1,7 @@
 # June 2025
 - 28th June
+	- [[🟣 Pandemic Action Network]]
+	- [[Tacit knowledge videos]]
 	- [[Ancient Greece]]
 - 27th June
 	- [[🟣 Pandemic Action Network]] again - this is my full time sprint at the moment!
