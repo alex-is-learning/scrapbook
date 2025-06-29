@@ -1,48 +1,51 @@
-# June 2025
-- 28th June
+## June 2025
+### Week of 23rd June
+- Sat 28th June
 	- [[🟣 Pandemic Action Network]]
 		- [[Twitch stream 2025-06-28 - Top-down model of Pandemic Action Network]]
 	- [[Tacit knowledge videos]]
 	- [[Ancient Greece]]
-- 27th June
+- Fri 27th June
 	- [[🟣 Pandemic Action Network]] again - this is my full time sprint at the moment!
 		- [[Twitch stream 2025-06-27 - reviewing WHO and COVID response flashcards]]
 		- [[Twitch stream 2025-06-27 - reading a report and making flashcards]]
-- 26th June
+- Thu 26th June
 	- [[🟣 Pandemic Action Network]]
-- 25th June 2025
+- Wed 25th June 
 	- [[Progressive iteration of visual notes - Pandemic Action Network examples]]
 	- [[Microsolidarity crew call 2025-06-25]]
-- 24th June 2025
+- Tue 24th June 
 	- [[🟣 Project - "Are visual notes underrated and poorly understood?"]]
 	- [[🟣 Project - "How can I help my family?"]]
-- 23rd June 2025
+- Mon 23rd June 
 	- [[My model of ORI, 2025-06-23]]
-- 22nd June 2025
+### Week of 16th June
+- Sun 22nd June 
 	- [[Amusing Ourselves to Death (read 1)]]
 	- [[My goals]]
-- 21st June 2025
+- Sat 21st June 
 	- [[Model of FRI]]
 	- [[Learning about ozempic]]
-- 19th June 2025
+- Thur 19th June 
 	- [[Israel & Iran (session 4)]]
-- 18th June 2025
+- Wed 18th June 
 	- [[Israel & Iran (session 3)]]
 	- [[Israel]]
-- 17th June 2025
+- Tue 17th June 
 	- [[Preparing for post-job application feedback call]]
-- 16th June 2025
+- Mon 16th June 
 	- [[Model of "Centre for Effective Altruism"]]
-- 15th June 2025
+### Week of 9th June
+- Sun 15th June 
 	- [[Israel & Iran (session 1)]]
 	- [[Israel & Iran (session 2)]]
-- 14th June 2025
+- Sat 14th June 
 	- [[AOC tweet re Andrew Cuomo]]
-- 13th June 2025
+- Fri 13th June 
 	- [[Top-down learning unlocks care (and ego)]]
 	- [[Day 1 of trying to engage people on twitter via alt account]]
 	- [[America & Immigration]]
-- 12th June 2025
+- Thur 12th June 
 	- *Note that these both link to my other website right now, kinda redundant/confusing, I'll be doing all future 'learning to think' updates on this website where you currently are*
 	- [Kickoff post](https://www.alexislearning.me/learning-how-to-think/) - a quick blog post I wrote re: why I was so excited to read Defender's post about learning to think at 30
 	- [Log of what I did on day 1](https://www.alexislearning.me/learning/2025-06-11-learning-to-think-day-1/) → I followed his guide, made a twitter alt, found some people and tried to predict why they were so mad at AOC, saying that Delaware is toast and Ohio is gonna rise, etc

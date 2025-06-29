@@ -22,17 +22,19 @@
 ## 4. Their mission/theory of change is *insane*
 - It really does feel like they're the adults in the room, operating at the highest echelon (re: Mundanity of Excellence)
 - Working with WHO, Pandemic Fund, 400+ orgs in a network, profound spoke-and-hub (hub-and-wheel?), absurd impact
-- Part of leading the charge re: moving to a resilient rather than panic-and-neglect system, moving to global stewardship and One Health approach, post-nationalism, united front, countering the systemic/systems-thinking-like problems of lack of resilience, disease surveillance... anyway this doesn't feel well articulated right now (ACTION ITEM) but yeah this is so congruent with other stuff I'm interested in like the poly-crisis and global stewardship (they even the polycrisis somewhere, on my miro at least...)
+- Part of leading the charge re: moving to a resilient rather than panic-and-neglect system, moving to global stewardship and One Health approach, post-nationalism, united front, countering the systemic/systems-thinking-like problems of lack of resilience, disease surveillance... anyway this doesn't feel well articulated right now (ACTION ITEM) but yeah this is so congruent with other stuff I'm interested in like the poly-crisis and global stewardship (they even mention the polycrisis somewhere, on my miro at least...)
 - [ ] 🚨 ACTION → write up my thoughts re: how PAN's vision connects to ~spiral dynamics, systems thinking, Charles Perrow's Normal Accident's Theory
 # Concerns
 ### Concern 1 → overweighting how much learning will happen
 ##### Summary 
 - An exciting thing about being an ExA at a very high-excellence org is the "[Mundanity of Excellence](https://academics.hamilton.edu/documents/themundanityofexcellence.pdf)" thing (from Daniel Chambliss) of "I will get to be around highly effective and impactful people and learn through osmosis"
 - BUT, maybe I'm being over-optimistic re: how much I'll learn about the cause area and about how to be a high-impact executive from the role?
-	- Answer feels like → don't expect Eloise and Aggrey to education me, BUT it does feel true that to get a job, even remote, at a highly impactful org, will rapidly increase my own learning about the space because of
+	- Answer feels like → don't expect Eloise and Aggrey to educate me, BUT it does feel true that to get a job, even remote, at a highly impactful org, will rapidly increase my own learning about the space because of
 		- a) unlocked motivation & care (I'll want to know more) 
 		- b) unlocked expert peers (suddenly I exist in this world and have experts to answer questions)
 	- Would be the same at Longview → secondary project (after helping the CEO and CoS) of my own education & orientation
+#### I might not see the two executives actually going about their days, at all
+- Like, will I attend meetings? I wouldn't like to just have the two of them as like, black boxes...
 ##### Brain dump
 - Remote ExA = far less tacit learning? 
 - Vs Longview → in-person, in the office, with the CoS and the CEO
