@@ -647,34 +647,4 @@ UHC helps reduce transmission and mortality because
 The new Pandemic Agreement must establish mechanisms to avoid the {{c1::"vaccine nationalism"}} observed during COVID-19
 ```
 ## New flashcards needed, from reviewing above flashcards
-- What is the G7? What countries?
-- What is the G20? What countries?
-- What is the United Nations?
-- What is the World Health Organisation?
-- What did Trump do to USAID?
-- What does USAID do? 
-- What does UK FCDO do?
-- A bit more about the CDC, Africa CDC, European CDC
-- More about IMF RST
-- A bit more about PAHO
-- More about CDMOs
-- More about CEPI
-- More about Gavi
-- More about the Red Cross
-- Bit more on IHRs
-- More about the UN's SDGs
-- More detail on malaria vs smallpox vs polio vs etc. They're low resolution to me atm. Cholera
-- PEPFAR & HIV/AIDs
-- How do you know when a disease is eradicated? E.g. smallpox, in...1980? 1973 in the Americas?
-- The Global Fund
-- What do the IHRs actually involve?
-- FIF
-- A report on the COVID pandemic would be really useful
-- UN FAO
-- UNEP
-- WOAH
-- WHO Pandemic Agreement (2025!)
-- What are vertical programs?
-- CFE? "It's running out!"
-- "How many low- and middle-income “AMC” economies were to receive donor-funded doses"
-	- What are AMC countries?
+- Ported to [[Gathering PAN slash global health open questions]]
