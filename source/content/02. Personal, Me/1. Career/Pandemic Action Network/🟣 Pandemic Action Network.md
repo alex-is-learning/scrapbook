@@ -1,3 +1,5 @@
+- 2025-06-29 
+	- [[Gathering PAN slash global health open questions]]
 - 2025-06-28
 	- Top-down → [[Why work at Pandemic Action Network?]]
 - 2025-06-27

@@ -1,4 +1,6 @@
 ## June 2025
+### Week of 30th June
+- [[Moving to a private Socrates journal?]]
 ### Week of 23rd June
 - Sat 28th June
 	- [[🟣 Pandemic Action Network]]
