@@ -1,33 +1,71 @@
 - I'm really enjoying doing these! 
 - I don't know if this will render properly. Locally, this renders via a third-party plugin - I assume the plugin won't work on the published website.
 
-```dialogue
-left: Alex
-right: Socrates
+<div class="dialogue-container">
 
-<I feel like I can never get enough done in a day. Like there's this profound mountain that I need to climb, and I'm moving up it one millimetre per day.
+  <div class="dialogue-entry speaker-left">
+    <span class="speaker-name">Alex</span>
+    I feel like I can never get enough done in a day. Like there's this profound mountain that I need to climb, and I'm moving up it one millimetre per day.
+  </div>
 
->Is it true that the most successful people may have been lost at some time?
+  <div class="dialogue-entry speaker-right">
+    <span class="speaker-name">Socrates</span>
+    Is it true that the most successful people may have been lost at some time?
+  </div>
 
-<I suppose so.
+  <div class="dialogue-entry speaker-left">
+    <span class="speaker-name">Alex</span>
+    I suppose so.
+  </div>
 
->Can you give some examples?
+  <div class="dialogue-entry speaker-right">
+    <span class="speaker-name">Socrates</span>
+    Can you give some examples?
+  </div>
 
-<Well, I know David Foster Wallace really struggled at various points of his career. And a blogger I really like, Sasha Chapin, was depressed and lost. And Conan O'Brien said that he was "a grinder" at school and was planning on taking the default path, becoming a lawyer or something.
+  <div class="dialogue-entry speaker-left">
+    <span class="speaker-name">Alex</span>
+    Well, I know David Foster Wallace really struggled at various points of his career. And a blogger I really like, Sasha Chapin, was depressed and lost. And Conan O'Brien said that he was "a grinder" at school and was planning on taking the default path, becoming a lawyer or something.
+  </div>
 
->Do you think it's true to say that you have made no progress, in the past 6 months? 
+  <div class="dialogue-entry speaker-right">
+    <span class="speaker-name">Socrates</span>
+    Do you think it's true to say that you have made no progress, in the past 6 months? 
+  </div>
 
-<Definitely not. When I zoom out, I've actually done a lot, or at least, made a lot of subtle but profound progress. Like, just in this year, I've gotten clearer on my personal values, learned the basics of rationality, gone down a bunch of fruitful intellectual rabbitholes after a period of intellectual stagnation. I'm currently *really* excited about Socrates and the Socratic method, and I've been really excited about John Boyd. I've made a few websites, made some great CVs and cover letters. It has been a great year in a lot of ways! 
+  <div class="dialogue-entry speaker-left">
+    <span class="speaker-name">Alex</span>
+    Definitely not. When I zoom out, I've actually done a lot, or at least, made a lot of subtle but profound progress. Like, just in this year, I've gotten clearer on my personal values, learned the basics of rationality, gone down a bunch of fruitful intellectual rabbitholes after a period of intellectual stagnation. I'm currently <em>really</em> excited about Socrates and the Socratic method, and I've been really excited about John Boyd. I've made a few websites, made some great CVs and cover letters. It has been a great year in a lot of ways! 
+  </div>
 
->Could you have done any of these in one day?
+  <div class="dialogue-entry speaker-right">
+    <span class="speaker-name">Socrates</span>
+    Could you have done any of these in one day?
+  </div>
 
-<No, I suppose not.
+  <div class="dialogue-entry speaker-left">
+    <span class="speaker-name">Alex</span>
+    No, I suppose not.
+  </div>
 
->When you look at the arc of the year so far, are you happy with the progress you've made, or do you feel like you're moving much slower than other people?
+  <div class="dialogue-entry speaker-right">
+    <span class="speaker-name">Socrates</span>
+    When you look at the arc of the year so far, are you happy with the progress you've made, or do you feel like you're moving much slower than other people?
+  </div>
 
-<No, I think in a way, I've done a lot of stuff, I've tried various ways of living, and I've gotten lots of useful data. And I have lots of fruitful avenues to explore - I don't feel blocked, or depressed, or lost. I feel on the cusp of a bunch of very exciting things.
+  <div class="dialogue-entry speaker-left">
+    <span class="speaker-name">Alex</span>
+    No, I think in a way, I've done a lot of stuff, I've tried various ways of living, and I've gotten lots of useful data. And I have lots of fruitful avenues to explore - I don't feel blocked, or depressed, or lost. I feel on the cusp of a bunch of very exciting things.
+  </div>
 
->Are you happy with your progress this year?
+  <div class="dialogue-entry speaker-right">
+    <span class="speaker-name">Socrates</span>
+    Are you happy with your progress this year?
+  </div>
 
-<Yes.
-```
+  <div class="dialogue-entry speaker-left">
+    <span class="speaker-name">Alex</span>
+    Yes.
+  </div>
+
+</div>
