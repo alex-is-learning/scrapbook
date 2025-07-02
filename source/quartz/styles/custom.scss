@@ -1,3 +1,42 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* Dialogue Container */
+.dialogue-container {
+  border: 1px solid #e0e0e0; /* A light border around the whole dialogue */
+  border-radius: 8px;
+  padding: 16px;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  font-family: sans-serif;
+  max-width: 700px; /* Keeps the dialogue from becoming too wide on large screens */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Base style for each line of dialogue */
+.dialogue-entry {
+  margin-bottom: 12px;
+  padding: 12px;
+  border-radius: 6px;
+  line-height: 1.6;
+}
+
+/* Style for the speaker on the left (Alex) */
+.speaker-left {
+  background-color: #f1f1f1; /* Light grey background */
+}
+
+/* Style for the speaker on the right (Socrates) */
+.speaker-right {
+  background-color: #e7f3fe; /* Light blue background */
+}
+
+/* Style for the speaker's name */
+.speaker-name {
+  display: block; /* Puts the name on its own line */
+  font-weight: bold;
+  margin-bottom: 6px;
+  color: #333;
+}
