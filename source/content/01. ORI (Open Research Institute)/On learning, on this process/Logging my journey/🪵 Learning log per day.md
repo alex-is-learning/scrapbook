@@ -1,6 +1,7 @@
 ## June 2025
 ### Week of 30th June
 - 2025-07-02
+	- [[Example dialogue, 2025-07-02]]
 	- [[🟣 Learning how to think]]
 - 2025-07-01
 	- [[Moving to a private Socrates journal?]]
