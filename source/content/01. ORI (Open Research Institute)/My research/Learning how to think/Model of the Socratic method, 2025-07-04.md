@@ -1,11 +1,8 @@
 - 2025-07-04
 - I've just finished my first read of "[The Socratic Method: A Practitioner's Handbook](https://www.amazon.co.uk/Socratic-Method-Practitioners-Handbook/dp/1567926851)"!
 - I blasted through the entire thing in 2 days, to get the initial partial understanding of the whole, before going back to learn the parts more thoroughly ([[Hermeneutic circle, hermeneutic spiral]])
-
-<div class="image-row">
-  <img src="source/content/📎 Files/Images/misc/socratic-method-book.jpg" alt="The Socratic Method: A Practitioner's Handbook" width="200">
-  <img src="source/content/📎 Files/Images/misc/me-and-socrates.jpg" alt="Illustration of a man and Socrates" width="200">
-</div>
+- ![[socratic-method-book.jpg|150]]
+- ![[me-and-socrates.jpg|150]]
 
 - This project is currently my ~full-time focus → I've recently had a hard pivot in my priorities, which is a common pattern for me that points to a lack of wisdom, and this book & the Socratic method seem like really good antidotes (if I can grok the method and use it regularly! Hence treating it as a full time sprint, to front-load the learning)
 - I want to make flashcards from it, but first I thought I'd do the top-down model thing to see what I know, what I don't know, etc
@@ -69,7 +66,36 @@
 	- Also Karl Popper re: ~evolutionary epistemology?
 - Karl Popper re: "truth" - this doesn't seem revolutionary now, as someone raised in the era of ~scientism, but I think it was at the time!
 >For Karl Popper, absolute truth is a regulative ideal that we strive for but can never be certain of having attained. He rejected the traditional scientific aim of proving theories true, arguing instead that knowledge advances through a process of **falsification**. In his view, scientific theories are bold conjectures, and the role of the scientist is not to confirm them, but to subject them to rigorous tests in an attempt to prove them false. ==A theory that has survived many such attempts is not considered "true" in a final sense, but is said to be highly "corroborated" and to have a high degree of **verisimilitude**, or truth-likeness==. For Popper, we get closer to the truth not by verifying our beliefs, but by systematically eliminating our errors and replacing weaker theories with ones that better withstand criticism.
+# The purpose of the dialogues
+### Learning the Socratic ontology (way of being)
+- There's something great here about propositional vs other forms of knowing
+- <span class="text-red">It'd be easier for a younger me (and I still fall into this thinking semi-habitually) to think that the purpose of reading Plato's dialogues is to closely follow the arguments, to be "convinced" by Socrates, to remember each dialogue. Maybe even to make flashcards from each dialogue so you remember e.g. what happens in *Phaedo* vs *Laches* etc
+- But actually, a key benefit of reading the dialogues is to get the perspectival/participatory/procedural knowledge of "oh wow, people did this, you can do this, you can engage in long dialogues in an attempt to reach the truth, this is a way of being in the world" - a kind of ==Socratic ontology==</span>
+#### <span class="text-red">Ontology of "maybe truth can't be found"</span>
+> "The most important feature of a dialogue, when seen this way, isn't whether its arguments are finally persuasive. The most important feature... [is to] help an audience toward a certain understanding or frame of mind" (*Perspectival knowing*)
+
+ > "The frame of mind may be a new perspective from which it is apparent that *all* the propositions in the dialogue are inadequate"
+
+> "A reader sometimes is brought to such a perspective more effectively by taking part in an exhausting and failed chase rather than by being told to adopt the perspective directly"
+
+- <span class="text-red">So yes, Plato never writes "the reason I've written all this is to teach you xyz"
+- Maybe "truth" can never be found
+	- Karl Popper, Wittgenstein, coherentism, Bayesian, fox vs hedgehog</span>
+#### <span class="text-red">Overall Socratic ontology</span>
+> <span class="text-red">"You're being Socratic when you press skeptically against easy answers, go many questions deep, and are mindful of your ignorance. These aren't modest aim; they change the way one responds to everything."</span>
 # Stuff I don't remember/don't know, yet 
 - Something about "systole" and "diastole"
 - How to construct the "front half" of the elenchus
 - How to construct the "back half" of the elenchus
+- *Flicking through the book to surface things that I didn't know that I don't know:*
+	- John Stuart Mill quotes re: Socrates
+	- Author's thoughts on why the Socratic method isn't popular
+- Stuff about *confusion* being a key focus
+	- Mill: "The Socratic method, of which the Platonic dialogues are the chief example, is unsurpassed as a discipline for correcting the errors, and clearing up the confusions incident to the *intellectus sibi permissus*, the understadning which has made up all its bundles of associations under the guidance of popular phraseology" (page 19)
+	- *Intellectus sibi permissus* means "the mind left to itself"
+	- Commonplace as being the key enemy, rather than Sophistry
+- The key importance of intellectual consistency
+	- "To Socrates, this is everything"
+- The use of concrete examples
+- The importance of (the claim of) ignorance
+- 
