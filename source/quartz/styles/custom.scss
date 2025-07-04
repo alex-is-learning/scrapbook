@@ -71,3 +71,9 @@
 .text-green {
   color: #3E9B4F; /* A solid, positive green */
 }
+
+/* --- Force code blocks to wrap --- */
+pre {
+  white-space: pre-wrap;   /* Wraps the text */
+  word-break: break-word;  /* Breaks long words if necessary */
+}

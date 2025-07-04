@@ -125,7 +125,10 @@ The author of "The Socratic Method: A practitioner's guide"
 - Ok so yes, he talks about how the method doesn't promise to make us rich etc. And it's a rare philosophy that doesn't offer answers, just questions. So that's kind of off-putting at first glance
 - Also, Socrates is kind of a pain, and it may not be obvious that we would want to be like him
 - But also, there's this Latin phrase that I was very excited about, let me find it...
-	- <span class="text-blue">*Ignoti nulla cupido*</span>
+	- 🚨 <span class="text-green">***Ignoti nulla cupido***</span> 🚨 (page 140 onwards)
+### On *ignoti nulla cupido*
+
+{{c1::}}
 ## On confusion and the Socratic theory of change 
 - How we are confused
 - How we are ignorant
