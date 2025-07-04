@@ -1,11 +1,11 @@
 - 2025-07-04
 - I've just finished my first read of "[The Socratic Method: A Practitioner's Handbook](https://www.amazon.co.uk/Socratic-Method-Practitioners-Handbook/dp/1567926851)"!
 - I blasted through the entire thing in 2 days, to get the initial partial understanding of the whole, before going back to learn the parts more thoroughly ([[Hermeneutic circle, hermeneutic spiral]])
-- ![[socratic-method-book.jpg|150]]
-- ![[me-and-socrates.jpg|150]]
+- ![[socratic-method-book.jpg|350]]
+- ![[me-and-socrates.jpg|250]]
 
 - This project is currently my ~full-time focus → I've recently had a hard pivot in my priorities, which is a common pattern for me that points to a lack of wisdom, and this book & the Socratic method seem like really good antidotes (if I can grok the method and use it regularly! Hence treating it as a full time sprint, to front-load the learning)
-- I want to make flashcards from it, but first I thought I'd do the top-down model thing to see what I know, what I don't know, etc
+- I want to make flashcards from it, but first I thought I'd do the ==top-down model thing to see what I know, what I don't know, etc==
 	- Allows me to see what I already understand, and as such, I may be able to skip making flashcards about those things, as they'll be redundant
 	- Allows me to see what I'm still unsure about, so I can fill in those gaps → stuff that I'm aware of but only vaguely, and could do with proper flashcards to consolidate the knowledge
 	- Doesn't allow me to highlight what I don't remember/know, as I won't think to write about stuff that I've forgotten. Useful for highlighting knowledge gaps
@@ -55,8 +55,8 @@
 - This creates ==aporia==, as you are now tied up by your own thinking, and are at an impasse
 ## Mostly you're showing how unwise you are
 - I imagine it's much more likely, especially as a beginner, that the outcome of Socratic questioning of yourself is you will realise that you don't know what you think you knew
-- In the book, the author says that scholars have compiled a list of things that Socrates says that he definitely knows, and it amounts to a list of, wait for it... seven things
-> 🚨 Socrates knew seven things!!! 
+- In the book, the author says that scholars have compiled a list of things that Socrates says that he definitely knows, and it amounts to a list of, wait for it... nine things
+> 🚨 Socrates knew nine things!!! 
 - Which reminds me of the other thing: Socrates believed that he was the most wise man, only because he was the only one who knew how little he knew
 - (The priestess at Delphi said that there is no man wiser than Socrates, which led him on a quest to refute her, so he went to all the most "wise" people and realised (through his method) how foolish they all were)
 ## What even is "knowing"
@@ -82,20 +82,30 @@
 - Maybe "truth" can never be found
 	- Karl Popper, Wittgenstein, coherentism, Bayesian, fox vs hedgehog</span>
 #### <span class="text-red">Overall Socratic ontology</span>
-> <span class="text-red">"You're being Socratic when you press skeptically against easy answers, go many questions deep, and are mindful of your ignorance. These aren't modest aim; they change the way one responds to everything."</span>
-# Stuff I don't remember/don't know, yet 
-- Something about "systole" and "diastole"
-- How to construct the "front half" of the elenchus
-- How to construct the "back half" of the elenchus
-- *Flicking through the book to surface things that I didn't know that I don't know:*
-	- John Stuart Mill quotes re: Socrates
-	- Author's thoughts on why the Socratic method isn't popular
-- Stuff about *confusion* being a key focus
-	- Mill: "The Socratic method, of which the Platonic dialogues are the chief example, is unsurpassed as a discipline for correcting the errors, and clearing up the confusions incident to the *intellectus sibi permissus*, the understadning which has made up all its bundles of associations under the guidance of popular phraseology" (page 19)
-	- *Intellectus sibi permissus* means "the mind left to itself"
-	- Commonplace as being the key enemy, rather than Sophistry
-- The key importance of intellectual consistency
-	- "To Socrates, this is everything"
-- The use of concrete examples
-- The importance of (the claim of) ignorance
-- 
+> <span class="text-red">"*You're being Socratic when you press skeptically against easy answers, go many questions deep, and are mindful of your ignorance. These aren't modest aim; they change the way one responds to everything*."</span>
+# Things that rhyme with the Socratic method (to me)
+- Bayesianism
+- Karl Popper
+- Wittgenstein
+- Philip Tetlock's "fox" (Socratic) vs "hedgehog" (double ignorant)
+- Joe Hudson/Art of Accomplishment & "==VIEW=="
+	- Being **vulnerable** = surfacing what you really believe. Key if you're going to be able to excavate foolish beliefs
+	- Being **impartial** = also key → Socrates wouldn't judge someone for saying someone foolish, or unpleasant, he'd thank them for surfacing the belief for scrutiny
+	- Being **empathetic** = same same. Being a kind conversational partner
+	- Being in a state of **wonder** - there's a 🚨 <span class="text-red">direct quote in the book about the state of wonder and philosophy that made me go "oh shit!!!"</span>
+	- Here it is: 
+> *SOCRATES: "I see, my dear Theaetetus, that Theodorus had a true insight into your nature when he said that you were a philosopher, for wonder is the feeling of a philosopher, and philosophy begins in wonder".*
+- Did Joe Hudson accidentally recreate the Socratic method? The fuck??
+# Why haven't I done this so far in my life?
+## "What if it never ends"
+- One of my key neuroses is a fear of wasting time, of not having enough time, of being behind, etc etc
+- So, a fear for me re: asking thorough questions (re: e.g. my plans) is that maybe it'll never end, and/or maybe it won't be fruitful, and as such, I'll have wasted time
+- I'm action-oriented to a fault → I'd much rather get stuck in on a project, rather than planning, pre-morteming, sense-checking the plan, the reasoning, the rationale, etc
+	- But, paradoxically, not stress-checking things can lead to huge amounts of wasted time! If you jump on the first project that seems like a good fit, 4 months could pass before you realise that one of the initial premises were flawed. That's a much bigger loss than taking, let's say, an extra week in the planning/stress checking phase!
+### Reframe  1
+- From "asking questions isn't productive" to "asking questions is productive"
+### Reframe 2
+* A slow pace is good (page 46)
+---
+# Path to becoming Socratic
+- [[Path to becoming Socratic]]

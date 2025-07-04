@@ -5,4 +5,4 @@
 	- [[Visual metaphors for the "how can I help my family" project]]
 	- [[Helping family - open questions]]
 - 2025-06-23
-	- [[Call with my friend Socrates 2025-06-23]]
+	- [[Call with my friend "S" - 2025-06-23]]
