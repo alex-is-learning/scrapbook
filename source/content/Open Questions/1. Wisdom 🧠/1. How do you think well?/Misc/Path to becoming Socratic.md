@@ -99,7 +99,7 @@
 - Enneagram 3 and Socratic method (e.g. identity/image consciousness)
 - Chapter on Socrates and the Stoics, and chapter on Socrates and the Skeptics → don't care about this atm 
 - Properly grok the different things that rhyme with the Socratic method and why (e.g., AoA's VIEW, and each of the 4 parts)
-# Ok, now what?
+# 🚨 Ok, now what? 🚨
 - I think I want to have a decent grokking of each of these headings
 - Start with section 1 to grok the profundity & keep the motivation high (although admittedly it's already high)
 - On the profundity/rationale/theory of change
@@ -110,3 +110,43 @@
 	- Aporia
 	- Ignorance and midwifery
 	- Socratic goods, ethics
+## 01. Why isn't the Socratic method more popular?
+- John Stuart Mill quotes re: Socrates
+- Author's thoughts on why the Socratic method isn't popular
+
+- My initial answer is that this is pretty straight-forward: it isn't popular because it's painful
+- The author talks about how 
+	- You know what, it's time to learn his name. He's very worthy of respect - this book rules, and he's written other books that look awesome. And he was the Dean of a law school I think?
+	- Ward Farnsworth
+```
+The author of "The Socratic Method: A practitioner's guide"
+{{c1::Ward Farnsworth}}
+```
+- Ok so yes, he talks about how the method doesn't promise to make us rich etc. And it's a rare philosophy that doesn't offer answers, just questions. So that's kind of off-putting at first glance
+- Also, Socrates is kind of a pain, and it may not be obvious that we would want to be like him
+- But also, there's this Latin phrase that I was very excited about, let me find it...
+	- <span class="text-blue">*Ignoti nulla cupido*</span>
+## On confusion and the Socratic theory of change 
+- How we are confused
+- How we are ignorant
+- The profundity of double ignorance
+
+- Stuff about *confusion* being a key focus
+	- Mill: "The Socratic method, of which the Platonic dialogues are the chief example, is unsurpassed as a discipline for correcting the errors, and clearing up the confusions incident to the *intellectus sibi permissus*, the understanding which has made up all its bundles of associations under the guidance of popular phraseology" (page 19)
+	- *Intellectus sibi permissus* means "the mind left to itself"
+	- Commonplace as being the key enemy, rather than Sophistry
+- The key importance of intellectual consistency
+	- "To Socrates, this is everything"
+
+	- Performing surgery on yourself, heroic state
+	- Ridiculousness audit
+- Care of the psyche, the soul, vs confusion
+
+- Chapter about ignorance
+	- Also, Buddhist moha
+	- Conceits, like weeds, that block the growth of anything better
+	- Irony
+	- Ignorance of ignorance (double ignorance)
+> "Socratic philosophy starts with a love of truth, but as a matter of *action* its first task is negative: shaking off the delusion of wisdom"
+- Midwifery
+	- Joe Hudson using VIEW to be the ideal midwife?
