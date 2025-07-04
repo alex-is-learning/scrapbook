@@ -40,3 +40,20 @@
   margin-bottom: 6px;
   color: #333;
 }
+
+/* --- For side-by-side images (forceful version) --- */
+.image-row {
+  display: flex !important; /* The !important flag gives this rule priority */
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+/* This part can likely stay the same */
+.image-row img {
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}

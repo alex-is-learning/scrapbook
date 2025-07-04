@@ -1,5 +1,5 @@
 - I'm really enjoying doing these! 
-- I don't know if this will render properly. Locally, this renders via a third-party plugin - I assume the plugin won't work on the published website.
+- This is my eighth one, thought I'd share
 
 <div class="dialogue-container">
 
