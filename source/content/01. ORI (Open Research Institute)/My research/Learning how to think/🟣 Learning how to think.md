@@ -1,3 +1,6 @@
+- 2025-07-04
+	- [[Model of the Socratic method, 2025-07-04]]
+# 2025-07-02
 - I absolutely don't need to buy any more books!!!
 - ![[book-purchases-june-2025.png]]
 - I'm currently experimenting with writing up dialogues between myself and Socrates
