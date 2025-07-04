@@ -2,6 +2,7 @@
 ### Week of 30th June
 - 2025-07-04
 	- [[Model of the Socratic method, 2025-07-04]]
+	- [[Path to becoming Socratic]]
 - 2025-07-02
 	- [[Example dialogue, 2025-07-02]]
 	- [[🟣 Learning how to think]]
