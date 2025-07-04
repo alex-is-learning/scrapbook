@@ -30,7 +30,7 @@
 ### Week of 16th June
 - Sun 22nd June 
 	- [[Amusing Ourselves to Death (read 1)]]
-	- [[My goals]]
+	- [[My goals, values as of January 2025]]
 - Sat 21st June 
 	- [[Model of FRI]]
 	- [[Learning about ozempic]]
