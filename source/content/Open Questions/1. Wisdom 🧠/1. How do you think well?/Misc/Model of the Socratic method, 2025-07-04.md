@@ -1,4 +1,5 @@
 - 2025-07-04
+	- Next page in series - [[Path to becoming Socratic]]
 - I've just finished my first read of "[The Socratic Method: A Practitioner's Handbook](https://www.amazon.co.uk/Socratic-Method-Practitioners-Handbook/dp/1567926851)"!
 - I blasted through the entire thing in 2 days, to get the initial partial understanding of the whole, before going back to learn the parts more thoroughly ([[Hermeneutic circle, hermeneutic spiral]])
 - ![[socratic-method-book.jpg|350]]
