@@ -3,6 +3,7 @@
 - 2025-07-04
 	- [[Model of the Socratic method, 2025-07-04]]
 	- [[Path to becoming Socratic]]
+	- [[Learning about the profundity, rationale, theory of change of the Socratic Method (day 1)]]
 - 2025-07-02
 	- [[Example dialogue, 2025-07-02]]
 	- [[🟣 Learning how to think]]
