@@ -5,7 +5,7 @@
 - 2025-07-04
 	- [[03. Manifesto - "Why I Should Learn the Socratic Method"]]
 	- [[04. Path to becoming Socratic (AKA, what I don't know yet)]]
-	- [[05. Learning the Socratic method, part 1 → the rationale (day 1)]]
+	- [[05. Learning the Socratic method, part 1 → the rationale (WIP)]]
 - 2025-07-02
 	- [[Example dialogue, 2025-07-02]]
 	- [[🟣 Learning how to think]]
