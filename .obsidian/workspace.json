@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/🟣 Learning how to think.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🟣 Learning how to think"
+              "title": "index"
             }
           },
           {
@@ -27,15 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/07. Learning the Socratic method, part 2 → the \"how\" (day 1).md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/07. Learning the Socratic method, part 2 → the \"how\" (WIP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07. Learning the Socratic method, part 2 → the \"how\" (day 1)"
+              "title": "07. Learning the Socratic method, part 2 → the \"how\" (WIP)"
+            }
+          },
+          {
+            "id": "21fbea44c1738024",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/05. Learning the Socratic method, part 1 → the rationale (WIP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05. Learning the Socratic method, part 1 → the rationale (WIP)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/🟣 Learning how to think.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/07. Learning the Socratic method, part 2 → the \"how\" (WIP).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🟣 Learning how to think"
+              "title": "Outline of 07. Learning the Socratic method, part 2 → the \"how\" (WIP)"
             }
           }
         ],
@@ -183,16 +198,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5d685fca443b49a",
+  "active": "c8007e499b58f135",
   "lastOpenFiles": [
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/04. Path to becoming Socratic (AKA, what I don't know yet).md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/07. Learning the Socratic method, part 2 → the \"how\" (day 1).md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/03. Manifesto - \"Why I Should Learn the Socratic Method\".md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/🟣 Learning how to think.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/06. Learning the Socratic method, part 1 → the rationale (day 2).md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Logging my journey/01. Writing up my own Socratic dialogues.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/06. Learning the Socratic method, part 1 → the rationale.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/05. Learning the Socratic method, part 1 → the rationale (WIP).md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/07. Learning the Socratic method, part 2 → the \"how\" (WIP).md",
+    "source/content/index.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/05. Learning the Socratic method, part 1 → the rationale (day 1).md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/04. Path to becoming Socratic (AKA, what I don't know yet).md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/03. Manifesto - \"Why I Should Learn the Socratic Method\".md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Logging my journey/01. Writing up my own Socratic dialogues.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/02. Book list re learning how to think.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Theory of change for how writing your own Socratic dialogues \"works\".md",
     "source/content/📎 Files/Images/misc/Pasted image 20250705112242.png",
@@ -229,7 +245,6 @@
     "source/content/📎 Files/Images/misc/socratic-method-book.jpg",
     "source/content/1. Open Questions/How should I make money? 💰/Misc/Pandemic Action Network/Gathering PAN slash global health open questions.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Socratic dialogues/Example dialogue, 2025-07-02.md",
-    "source/content/📎 Files/Images/misc/Pasted image 20250702130700.png",
-    "Game Theory, prisoner's dilemma.md"
+    "source/content/📎 Files/Images/misc/Pasted image 20250702130700.png"
   ]
 }
