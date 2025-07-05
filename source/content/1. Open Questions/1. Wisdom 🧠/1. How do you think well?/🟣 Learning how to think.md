@@ -1,0 +1,12 @@
+- This "learning how to think" project started with me doing a rationality sprint in ~Feb 2025, for ~1 month. Now I'm back!
+- 2025-07-02
+	- [[01. Writing up my own Socratic dialogues]]
+	- [[02. Book list re learning how to think]]
+- 2025-07-04
+	- [[03. Manifesto - "Why I Should Learn the Socratic Method"]]
+	- [[04. Path to becoming Socratic (AKA, what I don't know yet)]]
+	- [[05. Learning the Socratic method, part 1 → the rationale (day 1)]]
+
+2025-07-05
+	- [[06. Learning the Socratic method, part 1 → the rationale (day 2)]]
+	- [[Learning the Socratic method, part 2 → the "how" (day 1)]]

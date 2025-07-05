@@ -1,14 +1,16 @@
 ## June 2025
 ### Week of 30th June
+- 2025-07-05
+	- [[🟣 Learning how to think]]
 - 2025-07-04
-	- [[Model of the Socratic method, 2025-07-04]]
-	- [[Path to becoming Socratic]]
-	- [[Learning about the profundity, rationale, theory of change of the Socratic Method (day 1)]]
+	- [[03. Manifesto - "Why I Should Learn the Socratic Method"]]
+	- [[04. Path to becoming Socratic (AKA, what I don't know yet)]]
+	- [[05. Learning the Socratic method, part 1 → the rationale (day 1)]]
 - 2025-07-02
 	- [[Example dialogue, 2025-07-02]]
 	- [[🟣 Learning how to think]]
 - 2025-07-01
-	- [[Moving to a private Socrates journal?]]
+	- [[01. Writing up my own Socratic dialogues]]
 ### Week of 23rd June
 - Sat 28th June
 	- [[🟣 Pandemic Action Network]]
