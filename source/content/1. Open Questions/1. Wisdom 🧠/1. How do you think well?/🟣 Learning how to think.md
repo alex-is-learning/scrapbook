@@ -8,4 +8,4 @@
 	- [[05. Learning the Socratic method, part 1 → the rationale (WIP)]]
 - 2025-07-05
 	- [[06. Learning the Socratic method, part 1 → the rationale]]
-	- [[07. Learning the Socratic method, part 2 → the "how" (WIP)]]
+	- [[07. Learning the Socratic method, part 2 → the "how"]]
