@@ -1,5 +1,0 @@
-- Voice note I sent to some friends re: being a Socrates-head now
-- ![[socrates-head.m4a]]
-- Finished the book "How To Think Like Socrates" today, now following John Vervaeke's "After Socrates" series
-- I'm writing dialogues between myself and Socrates in a different Obsidian vault:
-- ![[Pasted image 20250701222136.png]]

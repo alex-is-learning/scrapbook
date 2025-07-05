@@ -1,31 +1,14 @@
-- 2025-07-04
-	- [[Model of the Socratic method, 2025-07-04]]
-	- [[Path to becoming Socratic]]
-	- [[Learning about the profundity, rationale, theory of change of the Socratic Method (day 1)]]
-# 2025-07-02
-- I absolutely don't need to buy any more books!!!
-- ![[book-purchases-june-2025.png]]
-- I'm currently experimenting with writing up dialogues between myself and Socrates
-	- [[Moving to a private Socrates journal?]]
-- 👇 Screenshot of that Obsidian vault
-- ![[Pasted image 20250702130700.png]] 
 ## Gemini's theory of change for how this could work
-Me: 
+My prompt: 
 
-I'm curious what the theory of change is here. Part of me worries that - ok, I can do these dialogues, but will they ever lead anywhere, will I just go in circles?
-
-  
-
-Perhaps one theory of change is that through them, I will spot my own confusion, and get clarity/better definitions for things, and as such, will think clearer/have better plans
-
-  
-
-I have a model that is like "it doesn't count unless you make flashcards", which is wrong, but still permeates my thinking. So there's a sense of, "oh, these dialogues, I've already made like 10 of them, surely I won't remember their content and they'll just fade away and nothing will change"
+> I'm curious what the theory of change is here. Part of me worries that - ok, I can do these dialogues, but will they ever lead anywhere, will I just go in circles?
+> Perhaps one theory of change is that through them, I will spot my own confusion, and get clarity/better definitions for things, and as such, will think clearer/have better plans
+> I have a model that is like "it doesn't count unless you make flashcards", which is wrong, but still permeates my thinking. So there's a sense of, "oh, these dialogues, I've already made like 10 of them, surely I won't remember their content and they'll just fade away and nothing will change"
 
 Gemini:
-- Shockingly, it starts talking about John Vervaeke's 4 Ps of knowing (participatory, perspectival, procedural, propositional)
-- I wonder if it remembers a previous conversation we had
-- So because of this and my knowledge of the 4 Ps, I feel fairly qualified to say that Gemini's answer below does feel wise/informed, rather than gibberish
+- *(Shockingly, it starts talking about John Vervaeke's 4 Ps of knowing (participatory, perspectival, procedural, propositional))*
+- *I wonder if it remembers a previous conversation we had*
+- *So because of this and my knowledge of the 4 Ps, I feel fairly qualified to say that Gemini's answer below does feel wise/informed, rather than gibberish*
 
 This is the crucial question. It moves from "how to do the practice" to "why the practice works." Your concern is completely valid—if this is just an intellectual exercise that produces ephemeral insights, its value is limited.
 

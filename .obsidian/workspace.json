@@ -13,7 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Open Questions/1. Wisdom 🧠/1. How do you think well?/🟣 Learning how to think.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Logging my journey/01. Writing up my own Socratic dialogues.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01. Writing up my own Socratic dialogues"
+            }
+          },
+          {
+            "id": "c8007e499b58f135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/🟣 Learning how to think.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,17 +36,17 @@
             }
           },
           {
-            "id": "60544ffc6e9cdde0",
+            "id": "9836a1c341b10023",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Learning about the profundity, rationale, theory of change of the Socratic Method (day 1).md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Learning the Socratic method, part 2 → the \"how\" (day 1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning about the profundity, rationale, theory of change of the Socratic Method (day 1)"
+              "title": "Learning the Socratic method, part 2 → the \"how\" (day 1)"
             }
           }
         ],
@@ -157,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Learning about the profundity, rationale, theory of change of the Socratic Method (day 1).md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/🟣 Learning how to think.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Learning about the profundity, rationale, theory of change of the Socratic Method (day 1)"
+              "title": "Outline of 🟣 Learning how to think"
             }
           }
         ],
@@ -184,53 +198,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60544ffc6e9cdde0",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Path to becoming Socratic.md",
-    "source/content/Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Model of the Socratic method, 2025-07-04.md",
-    "source/content/Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
-    "source/content/Open Questions/1. Wisdom 🧠/1. How do you think well?/🟣 Learning how to think.md",
-    "source/content/Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Learning about the profundity, rationale, theory of change of the Socratic Method (day 1).md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/🟣 Learning how to think.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/05. Learning the Socratic method, part 1 → the rationale (day 1).md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Learning the Socratic method, part 2 → the \"how\" (day 1).md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/04. Path to becoming Socratic (AKA, what I don't know yet).md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/06. Learning the Socratic method, part 1 → the rationale (day 2).md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/03. Manifesto - \"Why I Should Learn the Socratic Method\".md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/02. Book list re learning how to think.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Logging my journey/01. Writing up my own Socratic dialogues.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Theory of change for how writing your own Socratic dialogues \"works\".md",
+    "source/content/📎 Files/Images/misc/Pasted image 20250705112242.png",
+    "source/content/📎 Files/Images/misc/sasha-tweet-self-identity.png",
+    "source/content/📎 Files/Images/misc/epistemological-hand-grenade.png",
+    "source/content/1. Open Questions/How should I make money? 💰/Misc/Pandemic Action Network/PAN top-down model, day 2.md",
     "source/content/📎 Files/Images/misc/JSM.jpg",
-    "source/content/Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Call with my friend \"S\" - 2025-06-23.md",
-    "source/content/Open Questions/What does it mean to be in ORI? 🔬/Misc",
-    "source/content/Open Questions/How should I make money? 💰/Misc",
-    "source/content/Open Questions/2. Kindness ❤️/How can you help your family?/Misc",
-    "source/content/Open Questions/1. Wisdom 🧠/How can you live well?/Misc",
-    "source/content/Open Questions/1. Wisdom 🧠/How can you know yourself?/Misc",
-    "source/content/Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc",
-    "source/content/Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Visual metaphors for the \"how can I help my family\" project.md",
-    "source/content/Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Microsolidarity crew call 2025-06-25.md",
-    "source/content/Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Meta - about the \"how can I help my family\" project.md",
-    "source/content/Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Learning about ozempic.md",
-    "source/content/Open Questions/2. Kindness ❤️/How can you help your family?/🟣 Project - \"How can I help my family?\".md",
-    "source/content/Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Helping family - open questions.md",
-    "source/content/Open Questions/1. Wisdom 🧠/How can you know yourself?/Misc/My goals, values as of January 2025.md",
-    "source/content/Open Questions/2. Kindness ❤️",
-    "source/content/Open Questions/1. Wisdom 🧠",
-    "source/content/Open Questions/1. Wisdom 🧠/How can you live well?",
-    "source/content/Open Questions/1. Wisdom 🧠/How can you know yourself?",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Call with my friend \"S\" - 2025-06-23.md",
+    "source/content/1. Open Questions/What does it mean to be in ORI? 🔬/Misc",
+    "source/content/1. Open Questions/How should I make money? 💰/Misc",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc",
+    "source/content/1. Open Questions/1. Wisdom 🧠/How can you live well?/Misc",
+    "source/content/1. Open Questions/1. Wisdom 🧠/How can you know yourself?/Misc",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Visual metaphors for the \"how can I help my family\" project.md",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Microsolidarity crew call 2025-06-25.md",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Meta - about the \"how can I help my family\" project.md",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Learning about ozempic.md",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/🟣 Project - \"How can I help my family?\".md",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Helping family - open questions.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/How can you know yourself?/Misc/My goals, values as of January 2025.md",
+    "source/content/1. Open Questions/2. Kindness ❤️",
+    "source/content/1. Open Questions/1. Wisdom 🧠",
+    "source/content/1. Open Questions/1. Wisdom 🧠/How can you live well?",
+    "source/content/1. Open Questions/1. Wisdom 🧠/How can you know yourself?",
     "source/content/📎 Files/Images/misc/annotated-socrates.jpg",
     "compress.jpg",
     "source/content/📎 Files/Images/misc/me-and-socrates.jpg",
-    "source/content/Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning examples/International relations/Middle East/Israel & Iran (session 4).md",
-    "source/content/Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning examples/International relations/Middle East/Israel & Iran (session 3).md",
-    "source/content/Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning examples/International relations/Middle East/Israel & Iran (session 2).md",
-    "source/content/Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning examples/International relations/Middle East/Israel & Iran (session 1).md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning examples/International relations/Middle East/Israel & Iran (session 4).md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning examples/International relations/Middle East/Israel & Iran (session 3).md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning examples/International relations/Middle East/Israel & Iran (session 2).md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning examples/International relations/Middle East/Israel & Iran (session 1).md",
     "source/content/📎 Files/Images/misc/the-cave.jpg",
     "source/content/📎 Files/Images/misc/socratic-method-book.jpg",
-    "source/content/Open Questions/How should I make money? 💰/Misc/Pandemic Action Network/Gathering PAN slash global health open questions.md",
-    "source/content/Open Questions/1. Wisdom 🧠/1. How do you think well?/Socratic dialogues/Example dialogue, 2025-07-02.md",
-    "source/content/Open Questions/1. Wisdom 🧠/2. How do you learn well?/Logging my journey/Moving to a private Socrates journal?.md",
+    "source/content/1. Open Questions/How should I make money? 💰/Misc/Pandemic Action Network/Gathering PAN slash global health open questions.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Socratic dialogues/Example dialogue, 2025-07-02.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250702130700.png",
-    "source/content/📎 Files/Images/misc/book-purchases-june-2025.png",
-    "source/content/📎 Files/Images/misc/Pasted image 20250701222136.png",
-    "Game Theory, prisoner's dilemma.md",
-    "source/content/Open Questions/How should I make money? 💰/Misc/Pandemic Action Network/🟣 Pandemic Action Network.md",
-    "source/content/Open Questions/How should I make money? 💰/Misc/Pandemic Action Network/Why work at Pandemic Action Network?.md",
-    "source/content/Open Questions/How should I make money? 💰/Misc/Pandemic Action Network/Global Health flashcards from day 4.md",
-    "source/content/Open Questions/How should I make money? 💰/Misc/Pandemic Action Network/Global Health flashcards from day 3.md",
-    "source/content/Open Questions/How should I make money? 💰/Misc/Pandemic Action Network/PAN orientation, day 3.md",
-    "source/content/📎 Files/Images/misc/Pasted image 20250627182123.png"
+    "Game Theory, prisoner's dilemma.md"
   ]
 }
