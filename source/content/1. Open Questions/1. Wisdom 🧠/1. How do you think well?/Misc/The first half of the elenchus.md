@@ -4,12 +4,48 @@
 - “This chapter is about that process of helping your partner produce the first half of an elenchus—that is, a claim you can test. ”
 - “The front half of the elenchus—the claim that will be tested—has to be established first, and this process involves questioning, too.”
 - Preliminary questions to clarify thinking
-- “Good preliminary questions tee up the claims that the parties go on to pursue. That’s part of the secret of Socratic dialogue: getting a claim on the table that lends itself to productive questioning. Such claims don’t usually spring up right away or on their own. Sometimes they are developed by listening for a while; often they are developed by friendly questioning. The questions aren’t testing anything. They just draw out the views of your partner and steer them into a position that will support a good dialogue.”
+- “Good preliminary questions ==tee up the claims that the parties go on to pursue==. 
+	- That’s part of the secret of Socratic dialogue: getting a claim on the table that lends itself to productive questioning. 
+	- Such claims don’t usually spring up right away or on their own. 
+	- Sometimes they are developed by ==listening for a while==; often they are developed by friendly questioning. 
+	- The questions aren’t testing anything. They just draw out the views of your partner and steer them into a position that will support a good dialogue.”
+```
+The front half of the elenchus is (5 words):
+{{c1::The claim to be tested}}
+|
+Step 0 in the elenchus is 
+{{c1::asking preliminary questions}}
+in order to
+{{c1::find a claim to pursue}}
+```
 # 1. "Find the principle"
-- “Imagine arguing with someone about whether a movie is good. This goes on for a while, with both of you quarreling over details. Then it occurs to you to ask: What is a good movie, anyway? What makes one better than another? You realize that you’ve been arguing about a particular movie—the question in the foreground—because you have different opinions about those larger questions in the background. The background questions are what you should be arguing about. Now replace the word “movie” with the word “act” or the word “life” and you have the usual Socratic inquiry.”
-- “find the unconscious judgment that is the “root and nerve” of whatever claim is set forth. You want to get to the bottom of what the argument is really about. Socrates doesn’t usually enter a debate on the terms where it is being fought. He moves it to the level of principle, then goes to work there.”
+- “Imagine arguing with someone about whether a movie is good. This goes on for a while, with both of you quarreling over details. Then it occurs to you to ask: ==What is a good movie, anyway?== What makes one better than another? 
+	- You realize that you’ve been arguing about a particular movie—the question in the ==foreground==—because you have different opinions about those larger questions in the ==background==. 
+	- The background questions are what you should be arguing about. 
+	- Now replace the word “movie” with the word “act” or the word “life” and you have the usual Socratic inquiry.”
+- “find the unconscious judgment that is the “root and nerve” of whatever claim is set forth. 
+- You want to get to the bottom of what the argument is really about. 
+- Socrates doesn’t usually enter a debate on the terms where it is being fought. He moves it to the level of principle, then goes to work there.”
+```
+Step 1 of the elenchus (3 lines):
+“{{c1::Find the unconscious judgment 
+that is the “root and nerve” 
+of whatever claim is set forth}}
+|
+"Socrates doesn’t usually enter a debate on the terms where it is being fought. He {{c1::moves it to the level of principle, then goes to work there}}."
+```
 ## Restated more formally → major and minor premise
-- "“The point can be restated more formally. A classic deductive argument contains a major premise and a minor one. The stock example of a major premise, first used in these words by Mill, is All men are mortal. The stock example of a minor premise is Socrates is a man. Those two premises, taken together, lead to the conclusion that Socrates is mortal. The major premise is a general principle. The minor premise is a statement about a particular case. Why is this useful to understand? Because the general principle at stake in an argument often goes unstated and unexamined—the “inarticulate major premise,” as it’s sometimes called. The first thing Socrates does is smoke it out.”
+- “The point can be restated more formally. A classic deductive argument contains a major premise and a minor one."
+	- The stock example of a ==major== premise, first used in these words by Mill, is All men are mortal. 
+	- The stock example of a ==minor== premise is Socrates is a man. 
+	- Those two premises, taken together, lead to the conclusion that Socrates is mortal. 
+	- The major premise is a general principle. 
+	- The minor premise is a statement about a particular case. Why is this useful to understand? Because the general principle at stake in an argument often goes unstated and unexamined—the “inarticulate major premise,” as it’s sometimes called. The first thing Socrates does is smoke it out.”
+```
+Re: step 1 of the elenchus:
+A classic deductive argument contains 
+{{c1::a major premise and a minor premise}}
+```
 ## Nested major/minor layers
 - “And there usually isn’t just one major premise behind a claim. There are layers of them. The first layer might be a reason for whatever has been said in the foreground. Then there’s the reason behind that reason—a more general principle. When you’re engaged in Socratic questioning, you have to decide when to keep pressing for more general principles and when you’ve gone far enough.”
 # 2. Once you've landed on a major premise → 3-fold fork
