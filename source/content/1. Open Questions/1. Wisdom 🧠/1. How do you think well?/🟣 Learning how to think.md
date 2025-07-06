@@ -11,3 +11,4 @@
 	- [[07. Learning the Socratic method, part 2 → the "how"]]
 - 2025-07-06
 	- [[08. Enneagram 3 thinking sins]]
+	- [[09. I'm not good at the elenchus yet (2025-07-06)]]
