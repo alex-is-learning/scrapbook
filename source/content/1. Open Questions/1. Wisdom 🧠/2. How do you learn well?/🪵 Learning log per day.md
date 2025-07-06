@@ -2,6 +2,7 @@
 ### Week of 30th June
 - 2025-07-06 
 	- [[08. Enneagram 3 thinking sins]]
+	- [[09. I'm not good at the elenchus yet (2025-07-06)]]
 - 2025-07-05
 	- [[🟣 Learning how to think]]
 - 2025-07-04
