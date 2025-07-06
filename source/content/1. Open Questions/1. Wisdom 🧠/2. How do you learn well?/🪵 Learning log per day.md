@@ -1,5 +1,7 @@
 ## June 2025
 ### Week of 30th June
+- 2025-07-06 
+	- [[08. Enneagram 3 thinking sins]]
 - 2025-07-05
 	- [[🟣 Learning how to think]]
 - 2025-07-04

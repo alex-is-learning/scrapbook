@@ -40,11 +40,33 @@ of whatever claim is set forth}}
 	- The stock example of a ==minor== premise is Socrates is a man. 
 	- Those two premises, taken together, lead to the conclusion that Socrates is mortal. 
 	- The major premise is a general principle. 
-	- The minor premise is a statement about a particular case. Why is this useful to understand? Because the general principle at stake in an argument often goes unstated and unexamined—the “inarticulate major premise,” as it’s sometimes called. The first thing Socrates does is smoke it out.”
+	- The minor premise is a statement about a particular case. 
+- Why is this useful to understand? 
+	- Because the general principle at stake in an argument often goes unstated and unexamined—the “inarticulate major premise,” as it’s sometimes called. The first thing Socrates does is smoke it out.”
 ```
 Re: step 1 of the elenchus:
 A classic deductive argument contains 
 {{c1::a major premise and a minor premise}}
+|
+Stock example of a major premise:
+{{c1::All men are mortal}}
+|
+Stock example of a minor premise:
+{{c1::Socrates is a man}}
+|
+The major premise is a (2 words)
+{{c1::General principle}}
+|
+The minor premise is a (5 words)
+{{c1::Statement about a particular case}}
+|
+The {{c1::major premise}} in an argument often goes {{c2::unstated and unexamined}} 
+|
+What "{{c1::the inarticulate major premise}}" means:
+{{c2::The major premise in an argument often goes unstated and unexamined}}
+|
+Re: major/minor premise and step 1 of the elenchus:
+{{c1::"Smoking out" the inarticulate major premise}}
 ```
 ## Nested major/minor layers
 - “And there usually isn’t just one major premise behind a claim. There are layers of them. The first layer might be a reason for whatever has been said in the foreground. Then there’s the reason behind that reason—a more general principle. When you’re engaged in Socratic questioning, you have to decide when to keep pressing for more general principles and when you’ve gone far enough.”
