@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/03. Manifesto - \"Why I Should Learn the Socratic Method\".md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/08. Enneagram 3 thinking sins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. Manifesto - \"Why I Should Learn the Socratic Method\""
-            }
-          },
-          {
-            "id": "c5d685fca443b49a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The first half of the elenchus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The first half of the elenchus"
+              "title": "08. Enneagram 3 thinking sins"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The first half of the elenchus.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/08. Enneagram 3 thinking sins.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The first half of the elenchus"
+              "title": "Backlinks for 08. Enneagram 3 thinking sins"
             }
           },
           {
@@ -165,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The first half of the elenchus.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/08. Enneagram 3 thinking sins.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The first half of the elenchus"
+              "title": "Outline of 08. Enneagram 3 thinking sins"
             }
           }
         ]
@@ -191,23 +176,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5d685fca443b49a",
+  "active": "21fbea44c1738024",
   "lastOpenFiles": [
+    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/03. Manifesto - \"Why I Should Learn the Socratic Method\".md",
+    "source/content/📎 Files/Images/misc/sasha-tweet-self-identity-cropped.png",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/08. Enneagram 3 thinking sins.md",
+    "sasha-tweet-self-identity.png",
+    "source/content/📎 Files/Images/Pasted image 20250706172602.png",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/🟣 Learning how to think.md",
+    "source/content/index.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The first half of the elenchus.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How to construct the elenchus.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The elenchus.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/What is the elenchus?.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Aporia.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/07. Learning the Socratic method, part 2 → the \"how\".md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/🟣 Learning how to think.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/06. Learning the Socratic method, part 1 → the rationale.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The second half of the elenchus.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The first half of the elenchus.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/03. Manifesto - \"Why I Should Learn the Socratic Method\".md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How to use the Socratic method with other people.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Collection and division.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/05. Learning the Socratic method, part 1 → the rationale (WIP).md",
-    "source/content/index.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/04. Path to becoming Socratic (AKA, what I don't know yet).md",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Logging my journey/01. Writing up my own Socratic dialogues.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/02. Book list re learning how to think.md",
@@ -227,17 +216,12 @@
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Visual metaphors for the \"how can I help my family\" project.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Microsolidarity crew call 2025-06-25.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Meta - about the \"how can I help my family\" project.md",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Learning about ozempic.md",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/🟣 Project - \"How can I help my family?\".md",
     "source/content/1. Open Questions/2. Kindness ❤️",
     "source/content/1. Open Questions/1. Wisdom 🧠",
     "source/content/1. Open Questions/1. Wisdom 🧠/How can you live well?",
     "source/content/1. Open Questions/1. Wisdom 🧠/How can you know yourself?",
     "source/content/📎 Files/Images/misc/annotated-socrates.jpg",
     "compress.jpg",
-    "source/content/📎 Files/Images/misc/me-and-socrates.jpg",
-    "source/content/📎 Files/Images/misc/the-cave.jpg",
-    "source/content/📎 Files/Images/misc/socratic-method-book.jpg",
-    "source/content/📎 Files/Images/misc/Pasted image 20250702130700.png"
+    "source/content/📎 Files/Images/misc/me-and-socrates.jpg"
   ]
 }

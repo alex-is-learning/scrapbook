@@ -9,3 +9,5 @@
 - 2025-07-05
 	- [[06. Learning the Socratic method, part 1 → the rationale]]
 	- [[07. Learning the Socratic method, part 2 → the "how"]]
+- 2025-07-06
+	- [[08. Enneagram 3 thinking sins]]
