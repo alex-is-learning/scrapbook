@@ -1,4 +1,5 @@
 ---
+title: Gemini Socrates - part-time vs full-time work
 permalink: 2025-07-07-gemini-socrates
 ---
 - I'm learning how to do the Socratic method
