@@ -15,3 +15,4 @@
 - 2025-07-07
 	- [[10. Why thinking things through is aversive]]
 	- [[11. Manifesto - "Time to re-assess full-time vs part-time work"]]
+	- [[Gemini Socrates - part-time vs full-time work]]

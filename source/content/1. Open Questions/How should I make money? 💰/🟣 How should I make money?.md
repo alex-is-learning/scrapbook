@@ -1,1 +1,3 @@
-[[11. Manifesto - "Time to re-assess full-time vs part-time work"]]
+- 2025-07-07
+	- [[11. Manifesto - "Time to re-assess full-time vs part-time work"]]
+	- [[Gemini Socrates - part-time vs full-time work]]
