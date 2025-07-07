@@ -41,6 +41,17 @@
   color: #333;
 }
 
+/* Style for commentary lines */
+.dialogue-commentary {
+  background-color: #fafafa; /* A very light grey background */
+  border-left: 3px solid #dcdcdc; /* A solid left border to set it apart */
+  padding: 12px;
+  margin: 12px 0;
+  font-style: italic;
+  color: #555; /* Dark grey text to make it less prominent */
+  font-size: 0.9em; /* Slightly smaller font size */
+}
+
 /* --- For side-by-side images (forceful version) --- */
 .image-row {
   display: flex !important; /* The !important flag gives this rule priority */

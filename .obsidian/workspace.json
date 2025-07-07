@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/11. Manifesto - \"Time to re-assess full-time vs part-time work\".md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Manifesto - \"Time to re-assess full-time vs part-time work\""
+              "title": "🪵 Learning log per day"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "11. Manifesto - \"Time to re-assess full-time vs part-time work\""
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/11. Manifesto - \"Time to re-assess full-time vs part-time work\".md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 11. Manifesto - \"Time to re-assess full-time vs part-time work\""
+              "title": "Backlinks for 🪵 Learning log per day"
             }
           },
           {
@@ -165,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/11. Manifesto - \"Time to re-assess full-time vs part-time work\".md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 11. Manifesto - \"Time to re-assess full-time vs part-time work\""
+              "title": "Outline of 🪵 Learning log per day"
             }
           }
         ]
@@ -191,12 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7af2a49e41634333",
+  "active": "21fbea44c1738024",
   "lastOpenFiles": [
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/🟣 Learning how to think.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gemini Socrates - part-time vs full-time work.md",
     "source/content/1. Open Questions/How should I make money? 💰/🟣 How should I make money?.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Socratic dialogues/Example dialogue, 2025-07-02.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/11. Manifesto - \"Time to re-assess full-time vs part-time work\".md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/🟣 Learning how to think.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/10. Why thinking things through is aversive.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/03. Manifesto - \"Why I Should Learn the Socratic Method\".md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/09. I'm not good at the elenchus yet (2025-07-06).md",
@@ -223,9 +224,7 @@
     "source/content/📎 Files/Images/misc/Pasted image 20250705112242.png",
     "source/content/📎 Files/Images/misc/sasha-tweet-self-identity.png",
     "source/content/📎 Files/Images/misc/epistemological-hand-grenade.png",
-    "source/content/1. Open Questions/How should I make money? 💰/Misc/Pandemic Action Network/PAN top-down model, day 2.md",
     "source/content/📎 Files/Images/misc/JSM.jpg",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Call with my friend \"S\" - 2025-06-23.md",
     "source/content/1. Open Questions/What does it mean to be in ORI? 🔬/Misc",
     "source/content/1. Open Questions/How should I make money? 💰/Misc",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc",
