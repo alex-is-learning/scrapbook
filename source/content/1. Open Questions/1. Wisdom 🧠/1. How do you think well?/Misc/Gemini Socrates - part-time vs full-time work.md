@@ -1,9 +1,13 @@
+---
+permalink: 2025-07-07-gemini-socrates
+---
 - I'm learning how to do the Socratic method
 - I'm focusing on learning the elenchus
 - So, I thought it'd be good to do a Socratic dialogue with Gemini being Socrates, where I'd pause and try to predict what Gemini Socrates would say next
 - The results were *very* humbling - Gemini Socrates is 100x better at being Socrates than me right now, it's *really* good
 - I still think there's a tonne of value in learning to do this myself without AI, e.g. when thinking on the fly, or when talking with friends. But I do feel very humbled!!!
-# The dialogue, 
+# The dialogue 
+<h2>Intro</h2>
 <div class="dialogue-container">
 
   <div class="dialogue-entry speaker-right">
@@ -29,6 +33,11 @@
     <br>
     Option 2: "So you are looking to do the most good?" (1, appeal to universal)
   </div>
+
+</div>
+
+<h2>What does "your own mission" mean?</h2>
+<div class="dialogue-container">
 
   <div class="dialogue-entry speaker-right">
     <span class="speaker-name">Gemini Socrates</span>
@@ -70,6 +79,11 @@
     But overall, I feel a bit at a loss. I don't feel confident in how Gemini Socrates will respond. 
   </div>
 
+</div>
+
+<h2>Expertise?</h2>
+<div class="dialogue-container">
+
   <div class="dialogue-entry speaker-right">
     <span class="speaker-name">Gemini Socrates</span>
     That clarifies matters considerably. Thank you.
@@ -108,6 +122,11 @@
     I think Socrates might spot... "how much time do these people really have to help you?". 
   </div>
 
+</div>
+
+<h2>So you want to upskill.</h2>
+<div class="dialogue-container">
+
   <div class="dialogue-entry speaker-right">
     <span class="speaker-name">Gemini Socrates</span>
     I understand. That makes the distinction much clearer. The goal is not merely the outcome—the "fires being out"—but the process itself. You believe the greater good lies in developing the personal skill of "firefighting," because that skill is what will be truly "profound" and potentially lead to a new vocation.
@@ -142,6 +161,11 @@
     I think he's likely to remain with the "wouldn't you want an expert to help" thing. 
   </div>
 
+</div>
+
+<h2>Trust the expert</h2>
+<div class="dialogue-container">
+
   <div class="dialogue-entry speaker-right">
     <span class="speaker-name">Gemini Socrates</span>
     That is a very honest and insightful response. You have conceded the general principle of the analogy but also highlighted several crucial distinctions, which is exactly what this process is for.
@@ -173,6 +197,11 @@
     <span class="speaker-name">Alex</span>
     This feels correct to me. The wisdom of deferring to an expert, perhaps whilst also learning to be a firefighter or expert myself, but acknowledging that it will be a long time before I am an expert, and it's possibly more likely that I'll cause more harm than good if I pick up the scalpel prematurely, especially from a place of being too opinionated re: the outcome, judgemental, frustrated, etc
   </div>
+
+</div>
+
+<h2>Conclusion</h2>
+<div class="dialogue-container">
 
   <div class="dialogue-entry speaker-right">
     <span class="speaker-name">Gemini Socrates</span>
