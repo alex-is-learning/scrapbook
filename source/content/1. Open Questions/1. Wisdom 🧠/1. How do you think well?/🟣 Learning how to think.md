@@ -12,3 +12,6 @@
 - 2025-07-06
 	- [[08. Enneagram 3 thinking sins]]
 	- [[09. I'm not good at the elenchus yet (2025-07-06)]]
+- 2025-07-07
+	- [[10. Why thinking things through is aversive]]
+	- [[11. Manifesto - "Time to re-assess full-time vs part-time work"]]

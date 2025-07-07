@@ -1,5 +1,7 @@
 ## June 2025
 ### Week of 30th June
+- 2025-07-07
+	- [[🟣 How should I make money?]]
 - 2025-07-06 
 	- [[08. Enneagram 3 thinking sins]]
 	- [[09. I'm not good at the elenchus yet (2025-07-06)]]
