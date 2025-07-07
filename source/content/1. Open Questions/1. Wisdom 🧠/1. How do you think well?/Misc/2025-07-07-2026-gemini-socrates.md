@@ -7,8 +7,8 @@ permalink: 2025-07-07-gemini-socrates
 - So, I thought it'd be good to do a Socratic dialogue with Gemini being Socrates, where I'd pause and try to predict what Gemini Socrates would say next
 - The results were *very* humbling - Gemini Socrates is 100x better at being Socrates than me right now, it's *really* good
 - I still think there's a tonne of value in learning to do this myself without AI, e.g. when thinking on the fly, or when talking with friends. But I do feel very humbled!!!
-# The dialogue 
-<h2>Intro</h2>
+## Intro
+
 <div class="dialogue-container">
 
   <div class="dialogue-entry speaker-right">
@@ -37,7 +37,8 @@ permalink: 2025-07-07-gemini-socrates
 
 </div>
 
-<h2>What does "your own mission" mean?</h2>
+## What does "your own mission" mean?
+
 <div class="dialogue-container">
 
   <div class="dialogue-entry speaker-right">
@@ -82,7 +83,8 @@ permalink: 2025-07-07-gemini-socrates
 
 </div>
 
-<h2>Expertise?</h2>
+## Pay for an expert?
+
 <div class="dialogue-container">
 
   <div class="dialogue-entry speaker-right">
@@ -125,7 +127,8 @@ permalink: 2025-07-07-gemini-socrates
 
 </div>
 
-<h2>So you want to upskill.</h2>
+## So you want to upskill - what if it was heart surgery?
+
 <div class="dialogue-container">
 
   <div class="dialogue-entry speaker-right">
@@ -164,7 +167,8 @@ permalink: 2025-07-07-gemini-socrates
 
 </div>
 
-<h2>Trust the expert</h2>
+## What if you trying to be the surgeon lowers the chance of success?
+
 <div class="dialogue-container">
 
   <div class="dialogue-entry speaker-right">
@@ -201,7 +205,8 @@ permalink: 2025-07-07-gemini-socrates
 
 </div>
 
-<h2>Conclusion</h2>
+## Conclusion - full-time work + hiring experts as a new option
+
 <div class="dialogue-container">
 
   <div class="dialogue-entry speaker-right">
