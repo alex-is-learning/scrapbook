@@ -1,6 +1,7 @@
 ---
 permalink: 2025-07-08-uncertainty-manifesto
 ---
+# Intro/context:
 - It feels very disorienting to become "un-hypnotised" from my main story
 	- (See [[11. Manifesto - "Time to re-assess full-time vs part-time work"]])
 - I quickly fell under the spell of *another* story ("I guess I should work part time!"), and then Gemini Socrates woke me up from that too
@@ -8,14 +9,15 @@ permalink: 2025-07-08-uncertainty-manifesto
 - I've been reflecting on how this all connects to my enneagram type
 	- [[08. Enneagram 3 thinking sins]]
 - So like... now what???
-# 0. Excursus on Anticipatio Mentis vs Interpretario Naturae
-- Francis Bacon concepts
-- The point is that I think I've been the king of Anticipatio Mentis, and now I really want to try and cultivate Interpretatio Naturae
+# 0. Excursus on "Anticipatio Mentis" vs "Interpretario Naturae"
+- (These are Francis Bacon concepts)
 - Gemini:
 	- **Anticipatio Mentis (Anticipation of the Mind):** This is a "==rash and premature==" method where the mind leaps from a few sensory observations and particular instances to the most general axioms or principles. From these hastily formed generalisations, one then deduces intermediate axioms to prove that the initial generalisation was correct. Bacon saw this as the common, but incorrect, logical method of his time, believing it led to dogma and error because it was based on insufficient evidence and inherent biases of the mind.
 	- **Interpretatio Naturae (Interpretation of Nature):** This is the ==methodical and gradual== process Bacon advocated for. It involves deriving axioms from sense experience and particular facts in a slow, upward climb to reach the most general conclusions last. This systematic approach is designed to ==restrain the mind's tendency to jump to conclusions== and to build knowledge on a solid foundation of empirical evidence.
+- The point is that I think I've been the king of Anticipatio Mentis, and now I really want to try and cultivate Interpretatio Naturae
+	- (Not saying this in a self-deprecating way → this is the natural state of the mind! Intellectus sibi permissus, "the mind left to itself")
 # 1. The value of embracing and foregrounding uncertainty
-- I think Socrates would argue that being uncertain is kind of *the point*
+- I think Socrates would argue that ==being uncertain== is kind of *the point*
 - When we tell ourselves that we're certain of something, *unless it's a Popperian form of truth, whereby we have tried a whole bunch of ways to refute it and yet still can't*, then we're probably deluded ourselves
 	- "What is the likelihood that this thing that I'm saying is true, is true, despite the fact that I haven't really investigated it", vs "what is the chance that Socrates could deflate this belief in like 2 minutes flat", innit
 	- *In the [[Anticipatio Mentis]] way - we're being rash and premature, we're falling for dogma*
@@ -81,3 +83,24 @@ permalink: 2025-07-08-uncertainty-manifesto
 - "Employers want certainty" - they may also want honesty and good epistemics. So, better to live in the uncertainty for a while, battle it, and see where you get, than live in fake certainty, which is very brittle
 ## To be aware of your uncertainty is to be antifragile?
 - Vs to be living with (unrealised, to you) false certainty is to be fragile
+# Appendix - Socrates and the soul
+- Gemini:
+
+Socrates believed that the **care of the soul** was the most important human endeavour. For him, the soul was not merely a life-force but the essence of one's being, identified with **intelligence, reason, and one's character**. He famously stated that "the unexamined life is not worth living," encapsulating his approach to soul care.
+
+Here's a breakdown of what Socrates would say you should do:
+
+1. **Prioritise the Soul Above All Else:** Socrates urged people to make their "first and chief concern" not for their bodies, wealth, or reputation, but for "the greatest improvement of the soul." He believed that our true self is our soul, and its state determines the quality of our life.
+    
+2. **Seek Knowledge and Wisdom (Especially Self-Knowledge):** For Socrates, caring for the soul was intrinsically linked to acquiring knowledge of what is truly good. This isn't just accumulating facts, but understanding fundamental ethical ideas like virtue, justice, and temperance. The Delphic oracle's command to "know thyself" was central to his philosophy, meaning understanding the purpose of being human and the true nature of one's own soul.
+    
+3. **Practise the Socratic Method (Elenchus):** Socrates engaged in relentless questioning and cross-examination (the Socratic method or elenchus) with others, and this was also a method for self-examination. By scrutinising one's own beliefs, assumptions, and values, one could expose ignorance and clear the way for genuine knowledge. This process of open inquiry and reflection was considered the exercise and utilisation of the soul itself.
+    
+4. **Cultivate Virtue:** Socrates held that "virtue is knowledge." He believed that if someone truly knows what is good, they will act virtuously. Therefore, by seeking knowledge and understanding, one naturally becomes virtuous. He saw evil as a result of ignorance – people do wrong because they are mistaken about what is truly beneficial for their soul.
+    
+5. **Achieve Inner Harmony and Tranquillity:** By gaining rational control over one's desires and appetites and aligning the different parts of the soul, one can achieve a state of inner tranquillity. This harmonious state, governed by reason, leads to true happiness (eudaimonia).
+    
+6. **Recognise the Immortality of the Soul:** While the body is mortal, Socrates believed the soul is immortal. This belief reinforced the importance of caring for the soul, as its state would determine its fate after death. He saw materialism and pleasure-seeking as things that pollute and weigh down the soul.
+    
+
+In essence, Socrates believed that to care for your soul, you must devote yourself to the lifelong pursuit of wisdom and virtue through rigorous self-examination and rational inquiry, always prioritising the internal state of your being over external possessions or fleeting pleasures.
