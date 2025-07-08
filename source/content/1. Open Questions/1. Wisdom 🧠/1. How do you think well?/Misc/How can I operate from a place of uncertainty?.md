@@ -6,6 +6,7 @@ permalink: 2025-07-08-uncertainty-manifesto
 	- (See [[11. Manifesto - "Time to re-assess full-time vs part-time work"]])
 - I quickly fell under the spell of *another* story ("I guess I should work part time!"), and then Gemini Socrates woke me up from that too
 	- (See [[Gemini Socrates - part-time vs full-time work]])
+	- See also the first part of Nadia's "[The Tyranny of Ideas](https://nadia.xyz/ideas)"
 - I've been reflecting on how this all connects to my enneagram type
 	- [[08. Enneagram 3 thinking sins]]
 - So like... now what???

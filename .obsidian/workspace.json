@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Logging my journey/Collection of voice notes.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Collection of voice notes"
-            }
-          },
-          {
-            "id": "7af2a49e41634333",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/11. Manifesto - \"Time to re-assess full-time vs part-time work\".md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11. Manifesto - \"Time to re-assess full-time vs part-time work\""
+              "title": "🪵 Learning log per day"
             }
           }
         ]
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Logging my journey/Collection of voice notes.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Collection of voice notes"
+              "title": "Backlinks for 🪵 Learning log per day"
             }
           },
           {
@@ -164,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Logging my journey/Collection of voice notes.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Collection of voice notes"
+              "title": "Outline of 🪵 Learning log per day"
             }
           }
         ]
@@ -193,10 +179,12 @@
   "active": "21fbea44c1738024",
   "lastOpenFiles": [
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/11. Manifesto - \"Time to re-assess full-time vs part-time work\".md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
+    "source/content/1. Open Questions/What does it mean to be in ORI? 🔬/Misc/My model of ORI/My model of ORI, 2025-06-23.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How can I operate from a place of uncertainty?.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Logging my journey/Collection of voice notes.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gemini Socrates - part-time vs full-time work.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/🟣 Learning how to think.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Interpretatio Naturae.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Anticipatio Mentis.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/08. Enneagram 3 thinking sins.md",
@@ -220,8 +208,6 @@
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The second half of the elenchus.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How to use the Socratic method with other people.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Collection and division.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/05. Learning the Socratic method, part 1 → the rationale (WIP).md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/04. Path to becoming Socratic (AKA, what I don't know yet).md",
     "source/content/📎 Files/Images/misc/Pasted image 20250705112242.png",
     "source/content/📎 Files/Images/misc/sasha-tweet-self-identity.png",
     "source/content/📎 Files/Images/misc/epistemological-hand-grenade.png",
