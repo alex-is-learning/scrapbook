@@ -13,17 +13,20 @@ const defaultOptions: Options = {
 }
 
 function coerceDate(fp: string, d: any): Date | undefined {
-  const dt = new Date(d)
-  const invalidDate = isNaN(dt.getTime()) || dt.getTime() === 0
-  if (invalidDate && d !== undefined) {
+  if (d === undefined || d === null) {
+    return undefined;
+  }
+  const dt = new Date(d);
+  const invalidDate = isNaN(dt.getTime()) || dt.getTime() === 0;
+  if (invalidDate) {
     console.log(
       chalk.yellow(
         `\nWarning: found invalid date "${d}" in \`${fp}\`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format`,
       ),
-    )
-    return undefined // Do not use today's date as fallback
+    );
+    return undefined; // Do not use today's date as fallback
   }
-  return dt
+  return dt;
 }
 
 type MaybeDate = undefined | string | number
@@ -74,17 +77,20 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
               }
             }
 
+            const coercedCreated = coerceDate(fp, created);
+            const coercedModified = coerceDate(fp, modified);
+            const coercedPublished = coerceDate(fp, published);
             file.data.dates = {
-              created: coerceDate(fp, created),
-              modified: coerceDate(fp, modified),
-              published: coerceDate(fp, published),
-            }
+              created: coercedCreated,
+              modified: coercedModified,
+              published: coercedPublished,
+            };
             if (!file.data.dates.created) {
               console.log(
                 chalk.yellow(
                   `\nWarning: Could not determine a valid created date for \`${fp}\`. No date will be shown.`,
                 ),
-              )
+              );
             }
           }
         },
