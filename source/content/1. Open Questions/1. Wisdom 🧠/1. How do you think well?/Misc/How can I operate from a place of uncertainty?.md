@@ -19,7 +19,7 @@
 - I think it's probably ok to ~delude yourself, if you know you're doing it
 	- *(There's a Cate Hall thing here of choosing what stories to believe, for example)*
 	- *Manifesting, astrology girlies, etc. "Focus on what you want to see more of" etc*
-- But if you're operating from a place of "I know X is true, so therefore I'll do Y", you may be in for a rude awakening, when at some point you realise that X wasn't true. You may regret doing Y!
+- But if you're operating from a place of "I know X is true, so therefore I'll do Y", you may be in for a ==rude awakening==, when at some point you realise that X wasn't true. You may regret doing Y!
 ## I know that I don't know what I'm doing (and it's better this way)
 - Around Christmas time, I made my first ever youtube video (actually not quite true, but the first one in years), where I rambled about how I didn't know what I was doing with my life, and felt very lost
 - Then, I grasped at the story of "I know, I'll make music and youtube videos, that can be my thing!"
