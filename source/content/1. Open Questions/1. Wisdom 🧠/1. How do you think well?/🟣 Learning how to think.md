@@ -15,4 +15,6 @@
 - 2025-07-07
 	- [[10. Why thinking things through is aversive]]
 	- [[11. Manifesto - "Time to re-assess full-time vs part-time work"]]
-	- [[2025-07-07-2026-gemini-socrates]]
+	- [[Gemini Socrates - part-time vs full-time work]]
+- 2025-07-08
+	- [[How can I operate from a place of uncertainty?]]

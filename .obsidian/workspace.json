@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/2025-07-07-2026-gemini-socrates.md",
+                "file": "How can I operate from a place of uncertainty?.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-07-2026-gemini-socrates"
+              "title": "How can I operate from a place of uncertainty?"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/2025-07-07-2026-gemini-socrates.md",
+                "file": "How can I operate from a place of uncertainty?.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-07-07-2026-gemini-socrates"
+              "title": "Backlinks for How can I operate from a place of uncertainty?"
             }
           },
           {
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/2025-07-07-2026-gemini-socrates.md",
+                "file": "How can I operate from a place of uncertainty?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-07-2026-gemini-socrates"
+              "title": "Outline of How can I operate from a place of uncertainty?"
             }
           }
         ]
@@ -192,19 +192,23 @@
   },
   "active": "21fbea44c1738024",
   "lastOpenFiles": [
-    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
+    "Interpretatio Naturae.md",
+    "Anticipatio Mentis.md",
+    "How can I operate from a place of uncertainty?.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/08. Enneagram 3 thinking sins.md",
+    "Pasted image 20250708120042.png",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/11. Manifesto - \"Time to re-assess full-time vs part-time work\".md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/🟣 Learning how to think.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/2025-07-07-2026-gemini-socrates.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gemini Socrates - part-time vs full-time work.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
     "source/content/1. Open Questions/How should I make money? 💰/🟣 How should I make money?.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Socratic dialogues/Example dialogue, 2025-07-02.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/11. Manifesto - \"Time to re-assess full-time vs part-time work\".md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/10. Why thinking things through is aversive.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/03. Manifesto - \"Why I Should Learn the Socratic Method\".md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/09. I'm not good at the elenchus yet (2025-07-06).md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The first half of the elenchus.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How to construct the elenchus.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The elenchus.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/08. Enneagram 3 thinking sins.md",
     "source/content/📎 Files/Images/misc/sasha-tweet-self-identity-cropped.png",
     "sasha-tweet-self-identity.png",
     "source/content/📎 Files/Images/Pasted image 20250706172602.png",
@@ -218,9 +222,6 @@
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Collection and division.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/05. Learning the Socratic method, part 1 → the rationale (WIP).md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/04. Path to becoming Socratic (AKA, what I don't know yet).md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Logging my journey/01. Writing up my own Socratic dialogues.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/02. Book list re learning how to think.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Theory of change for how writing your own Socratic dialogues \"works\".md",
     "source/content/📎 Files/Images/misc/Pasted image 20250705112242.png",
     "source/content/📎 Files/Images/misc/sasha-tweet-self-identity.png",
     "source/content/📎 Files/Images/misc/epistemological-hand-grenade.png",
@@ -236,7 +237,6 @@
     "source/content/1. Open Questions/1. Wisdom 🧠/How can you live well?",
     "source/content/1. Open Questions/1. Wisdom 🧠/How can you know yourself?",
     "source/content/📎 Files/Images/misc/annotated-socrates.jpg",
-    "compress.jpg",
-    "source/content/📎 Files/Images/misc/me-and-socrates.jpg"
+    "compress.jpg"
   ]
 }
