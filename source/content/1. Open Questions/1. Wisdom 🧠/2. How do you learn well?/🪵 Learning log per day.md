@@ -1,5 +1,7 @@
 ## June 2025
 ### Week of 30th June
+- 2025-07-08
+	- [[How can I operate from a place of uncertainty?]]
 - 2025-07-07
 	- [[🟣 How should I make money?]]
 	- [[Gemini Socrates - part-time vs full-time work]]
