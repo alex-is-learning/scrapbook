@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Personal values & \"rationality\" sprint, v2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🪵 Learning log per day"
+              "title": "Personal values & \"rationality\" sprint, v2"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Personal values & \"rationality\" sprint, v2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🪵 Learning log per day"
+              "title": "Backlinks for Personal values & \"rationality\" sprint, v2"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Personal values & \"rationality\" sprint, v2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🪵 Learning log per day"
+              "title": "Outline of Personal values & \"rationality\" sprint, v2"
             }
           }
         ]
@@ -178,8 +178,10 @@
   },
   "active": "21fbea44c1738024",
   "lastOpenFiles": [
-    "source/content/1. Open Questions/How should I make money? 💰/🟣 How should I make money?.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning techniques/Hermeneutic circle, hermeneutic spiral.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Personal values & \"rationality\" sprint, v2.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
+    "source/content/1. Open Questions/How should I make money? 💰/🟣 How should I make money?.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/11. Manifesto - \"Time to re-assess full-time vs part-time work\".md",
     "source/content/1. Open Questions/What does it mean to be in ORI? 🔬/Misc/My model of ORI/My model of ORI, 2025-06-23.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How can I operate from a place of uncertainty?.md",
@@ -206,8 +208,6 @@
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/07. Learning the Socratic method, part 2 → the \"how\".md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/06. Learning the Socratic method, part 1 → the rationale.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The second half of the elenchus.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How to use the Socratic method with other people.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Collection and division.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250705112242.png",
     "source/content/📎 Files/Images/misc/sasha-tweet-self-identity.png",
     "source/content/📎 Files/Images/misc/epistemological-hand-grenade.png",
