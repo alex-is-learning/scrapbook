@@ -1,3 +1,6 @@
+---
+permalink: 2025-07-08-uncertainty-manifesto
+---
 - It feels very disorienting to become "un-hypnotised" from my main story
 	- (See [[11. Manifesto - "Time to re-assess full-time vs part-time work"]])
 - I quickly fell under the spell of *another* story ("I guess I should work part time!"), and then Gemini Socrates woke me up from that too
