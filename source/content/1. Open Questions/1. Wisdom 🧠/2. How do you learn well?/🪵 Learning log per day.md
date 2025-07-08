@@ -1,25 +1,25 @@
 ## July 2025
 ### Week of 7th July 
-- 2025-07-08
+- Tue 2025-07-08
 	- [[How can I operate from a place of uncertainty?]]
-- 2025-07-07
+- Mon 2025-07-07
 	- [[🟣 How should I make money?]]
 	- [[Gemini Socrates - part-time vs full-time work]]
 ## June 2025
 ### Week of 30th of June 
-- 2025-07-06 
+- Sun 2025-07-06 
 	- [[08. Enneagram 3 thinking sins]]
 	- [[09. I'm not good at the elenchus yet (2025-07-06)]]
-- 2025-07-05
+- Sat 2025-07-05
 	- [[🟣 Learning how to think]]
-- 2025-07-04
+- Fri 2025-07-04
 	- [[03. Manifesto - "Why I Should Learn the Socratic Method"]]
 	- [[04. Path to becoming Socratic (AKA, what I don't know yet)]]
 	- [[05. Learning the Socratic method, part 1 → the rationale (WIP)]]
-- 2025-07-02
+- Wed 2025-07-02
 	- [[Example dialogue, 2025-07-02]]
 	- [[🟣 Learning how to think]]
-- 2025-07-01
+- Tue 2025-07-01
 	- [[01. Writing up my own Socratic dialogues]]
 ### Week of 23rd June
 - Sat 28th June
