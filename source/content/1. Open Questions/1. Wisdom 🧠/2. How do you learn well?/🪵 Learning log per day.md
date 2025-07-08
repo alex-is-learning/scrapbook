@@ -1,10 +1,12 @@
-## June 2025
-### Week of 30th June
+## July 2025
+### Week of 7th July 
 - 2025-07-08
 	- [[How can I operate from a place of uncertainty?]]
 - 2025-07-07
 	- [[🟣 How should I make money?]]
 	- [[Gemini Socrates - part-time vs full-time work]]
+## June 2025
+### Week of 30th of June 
 - 2025-07-06 
 	- [[08. Enneagram 3 thinking sins]]
 	- [[09. I'm not good at the elenchus yet (2025-07-06)]]
