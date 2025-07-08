@@ -5,15 +5,16 @@
 - I've been reflecting on how this all connects to my enneagram type
 	- [[08. Enneagram 3 thinking sins]]
 - So like... now what???
-# 0. Excursus on Anticipatio Mentis vs Observatio Naturae
+# 0. Excursus on Anticipatio Mentis vs Interpretario Naturae
 - Francis Bacon concepts
 - The point is that I think I've been the king of Anticipatio Mentis, and now I really want to try and cultivate Interpretatio Naturae
 - Gemini:
-	- **Anticipatio Mentis (Anticipation of the Mind):** This is a "rash and premature" method where the mind leaps from a few sensory observations and particular instances to the most general axioms or principles. From these hastily formed generalisations, one then deduces intermediate axioms to prove that the initial generalisation was correct. Bacon saw this as the common, but incorrect, logical method of his time, believing it led to dogma and error because it was based on insufficient evidence and inherent biases of the mind.
-	- **Interpretatio Naturae (Interpretation of Nature):** This is the methodical and gradual process Bacon advocated for. It involves deriving axioms from sense experience and particular facts in a slow, upward climb to reach the most general conclusions last. This systematic approach is designed to restrain the mind's tendency to jump to conclusions and to build knowledge on a solid foundation of empirical evidence.
+	- **Anticipatio Mentis (Anticipation of the Mind):** This is a "==rash and premature==" method where the mind leaps from a few sensory observations and particular instances to the most general axioms or principles. From these hastily formed generalisations, one then deduces intermediate axioms to prove that the initial generalisation was correct. Bacon saw this as the common, but incorrect, logical method of his time, believing it led to dogma and error because it was based on insufficient evidence and inherent biases of the mind.
+	- **Interpretatio Naturae (Interpretation of Nature):** This is the ==methodical and gradual== process Bacon advocated for. It involves deriving axioms from sense experience and particular facts in a slow, upward climb to reach the most general conclusions last. This systematic approach is designed to ==restrain the mind's tendency to jump to conclusions== and to build knowledge on a solid foundation of empirical evidence.
 # 1. The value of embracing and foregrounding uncertainty
 - I think Socrates would argue that being uncertain is kind of *the point*
 - When we tell ourselves that we're certain of something, *unless it's a Popperian form of truth, whereby we have tried a whole bunch of ways to refute it and yet still can't*, then we're probably deluded ourselves
+	- "What is the likelihood that this thing that I'm saying is true, is true, despite the fact that I haven't really investigated it", vs "what is the chance that Socrates could deflate this belief in like 2 minutes flat", innit
 	- *In the [[Anticipatio Mentis]] way - we're being rash and premature, we're falling for dogma*
 - I think it's probably ok to ~delude yourself, if you know you're doing it
 	- *(There's a Cate Hall thing here of choosing what stories to believe, for example)*
