@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "permalink",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,9 +192,9 @@
   },
   "active": "21fbea44c1738024",
   "lastOpenFiles": [
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gemini Socrates - part-time vs full-time work.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How can I operate from a place of uncertainty?.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/11. Manifesto - \"Time to re-assess full-time vs part-time work\".md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How can I operate from a place of uncertainty?.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gemini Socrates - part-time vs full-time work.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/🟣 Learning how to think.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Interpretatio Naturae.md",
