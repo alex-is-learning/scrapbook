@@ -11,12 +11,14 @@
             "id": "5121e7022ecb2278",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "source/content/📎 Files/Images/misc/Pasted image 20250709195556.png"
+                "file": "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Starting \"Growing Yourself Up - How to Bring Your Best to All of Life's Relationships.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250709195556"
+              "icon": "lucide-file",
+              "title": "Starting \"Growing Yourself Up - How to Bring Your Best to All of Life's Relationships"
             }
           }
         ]
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/📎 Files/Images/misc/Pasted image 20250709195556.png",
+                "file": "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Starting \"Growing Yourself Up - How to Bring Your Best to All of Life's Relationships.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20250709195556"
+              "title": "Backlinks for Starting \"Growing Yourself Up - How to Bring Your Best to All of Life's Relationships"
             }
           },
           {
@@ -148,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/📎 Files/Images/misc/Pasted image 20250709195556.png",
+                "file": "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Starting \"Growing Yourself Up - How to Bring Your Best to All of Life's Relationships.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250709195556"
+              "title": "Outline of Starting \"Growing Yourself Up - How to Bring Your Best to All of Life's Relationships"
             }
           }
         ]
@@ -174,15 +176,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "5121e7022ecb2278",
   "lastOpenFiles": [
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/🟢 Project - \"How can I help my family?\".md",
+    "source/content/📎 Files/Images/misc/Pasted image 20250709195556.png",
     "source/README.md",
     "Pasted image 20250709195341.png",
-    "source/content/📎 Files/Images/misc/Pasted image 20250709195556.png",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Second round of learning from Ward Farnworth's book on the Socratic method.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
     "source/content/index.md",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/🟢 Project - \"How can I help my family?\".md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Starting \"Growing Yourself Up - How to Bring Your Best to All of Life's Relationships.md",
     "source/content/1. Open Questions/How should I make money? 💰/Misc/Pandemic Action Network/🧪 Pandemic Action Network.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/🧠 Learning how to think.md",
@@ -205,7 +207,6 @@
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Socratic dialogues/Example dialogue, 2025-07-02.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/10. Why thinking things through is aversive.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/09. I'm not good at the elenchus yet (2025-07-06).md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The first half of the elenchus.md",
     "source/content/📎 Files/Images/misc/sasha-tweet-self-identity-cropped.png",
     "sasha-tweet-self-identity.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250706172602.png",
