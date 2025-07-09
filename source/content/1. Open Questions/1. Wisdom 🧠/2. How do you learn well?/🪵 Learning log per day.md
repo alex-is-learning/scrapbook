@@ -1,10 +1,16 @@
+- [[source/content/index|Home Page]]
 ## July 2025
 ### Week of 7th July 
+- Wed 2025-07-09
+	- [[Resisting the urge to switch to logic or rhetoric]]
+	- [[Second round of learning from Ward Farnworth's book on the Socratic method]]
+	- [[🟢 Project - "How can I help my family?"]]
+		- [[Starting "Growing Yourself Up - How to Bring Your Best to All of Life's Relationships]]
 - Tue 2025-07-08
 	- [[How can I operate from a place of uncertainty?]]
 	- [[Personal values & "rationality" sprint, v2]]
 - Mon 2025-07-07
-	- [[🟣 How should I make money?]]
+	- [[💰 How should I make money?]]
 	- [[Gemini Socrates - part-time vs full-time work]]
 ## June 2025
 ### Week of 30th of June 
@@ -12,34 +18,34 @@
 	- [[08. Enneagram 3 thinking sins]]
 	- [[09. I'm not good at the elenchus yet (2025-07-06)]]
 - Sat 2025-07-05
-	- [[🟣 Learning how to think]]
+	- [[🧠 Learning how to think]]
 - Fri 2025-07-04
 	- [[03. Manifesto - "Why I Should Learn the Socratic Method"]]
 	- [[04. Path to becoming Socratic (AKA, what I don't know yet)]]
 	- [[05. Learning the Socratic method, part 1 → the rationale (WIP)]]
 - Wed 2025-07-02
 	- [[Example dialogue, 2025-07-02]]
-	- [[🟣 Learning how to think]]
+	- [[🧠 Learning how to think]]
 - Tue 2025-07-01
 	- [[01. Writing up my own Socratic dialogues]]
 ### Week of 23rd June
 - Sat 28th June
-	- [[🟣 Pandemic Action Network]]
+	- [[🧪 Pandemic Action Network]]
 		- [[Twitch stream 2025-06-28 - Top-down model of Pandemic Action Network]]
 	- [[Tacit knowledge videos]]
 	- [[Ancient Greece]]
 - Fri 27th June
-	- [[🟣 Pandemic Action Network]] again - this is my full time sprint at the moment!
+	- [[🧪 Pandemic Action Network]] again - this is my full time sprint at the moment!
 		- [[Twitch stream 2025-06-27 - reviewing WHO and COVID response flashcards]]
 		- [[Twitch stream 2025-06-27 - reading a report and making flashcards]]
 - Thu 26th June
-	- [[🟣 Pandemic Action Network]]
+	- [[🧪 Pandemic Action Network]]
 - Wed 25th June 
 	- [[Progressive iteration of visual notes - Pandemic Action Network examples]]
 	- [[Microsolidarity crew call 2025-06-25]]
 - Tue 24th June 
 	- [[🟣 Project - "Are visual notes underrated and poorly understood?"]]
-	- [[🟣 Project - "How can I help my family?"]]
+	- [[🟢 Project - "How can I help my family?"]]
 - Mon 23rd June 
 	- [[My model of ORI, 2025-06-23]]
 ### Week of 16th June

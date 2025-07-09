@@ -1,3 +1,10 @@
+---
+created: 2025-06-24 19:49:18
+updated: 2025-06-24 19:49:36
+permalink: 
+---
+
+...existing code...
 # Initial notes from the ORI discord
 - "My research project is -- can I heal my family?"
 - It feels like the typical "healing" journey involves leaving, doing various psychotechnologies, asserting boundaries, countering alexithymia & left-hemisphere capture, etc

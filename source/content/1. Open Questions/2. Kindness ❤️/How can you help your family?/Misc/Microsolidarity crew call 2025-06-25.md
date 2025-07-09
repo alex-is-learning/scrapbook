@@ -1,3 +1,10 @@
+---
+created: 2025-06-25 20:01:10
+updated: 2025-06-25 20:34:34
+permalink: 
+---
+
+...existing code...
 - Had my weekly [microsolidarity](https://www.microsolidarity.cc/) crew call with my crew of 4 <3  
 - This time it was my turn so I talked about my "help the family" project
 - ~10 mins of uninterrupted monologuing and then rounds of iterative dialogue
@@ -60,11 +67,11 @@
 > 1. Initiate difficult conversation with her
 > 2. Try my best to slow down, stay connected to myself, share my experience rather than project my stories
 > 3. If I was successful at #2
-    1. The conversation would be deeply connecting and clear up misunderstandings.
+	1. The conversation would be deeply connecting and clear up misunderstandings.
 > 4. If I was unsuccessful at #2
-    1. I’d get triggered
-    2. Leave, call a friend in the support group, journal
-    3. Come back and hash it out from a more grounded place
+	1. I’d get triggered
+	2. Leave, call a friend in the support group, journal
+	3. Come back and hash it out from a more grounded place
 > 5. Rinse and repeat every day or few for 2.5 months
 
 > Honestly it was kinda brutal lmao. One of the hardest parts was not knowing - all I could experience was that things seemed to be getting worse and worse, harder and harder, and I had no idea if we were ever going to turn a corner.
