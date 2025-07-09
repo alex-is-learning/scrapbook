@@ -1,3 +1,5 @@
+- 2025-07-09
+	- [[Starting "Growing Yourself Up - How to Bring Your Best to All of Life's Relationships]]
 - 2025-06-25
 	- [[Microsolidarity crew call 2025-06-25]]
 - 2025-06-24

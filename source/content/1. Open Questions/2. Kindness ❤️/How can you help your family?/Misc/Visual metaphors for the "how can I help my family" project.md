@@ -1,3 +1,10 @@
+---
+created: 2025-06-24 19:50:13
+updated: 2025-06-24 19:57:50
+permalink: 
+---
+
+...existing code...
 # Visual metaphors 
 ## Finding the Shire, without a map
 - I have the image of a kind of reverse Lord of the Rings arc in my head, where there's a lovely oasis out there somewhere (the Shire), and I'm in a fairly desolate part of the world (although paradoxically, thinking that it's desolate actually makes it more desolate)
