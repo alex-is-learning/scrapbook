@@ -1,6 +1,8 @@
 - [[source/content/index|Home Page]]
 ## July 2025
 ### Week of 7th July 
+- Fri 2025-07-11
+	- [[Initial flashcards on family systems]]
 - Wed 2025-07-09
 	- [[Resisting the urge to switch to logic or rhetoric]]
 	- [[Second round of learning from Ward Farnworth's book on the Socratic method]]
