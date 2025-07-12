@@ -213,3 +213,71 @@ The driving forces for {{c1::energy and activity}} within living systems,
 reside in the...
 {{c1::emotional system}}
 ```
+# Chapter 2
+```
+How does Bowen theory's use of the term "emotional system" differ from common usage?
+{{c1::It is used more broadly, 
+including the adaptive mechanisms of even simple organisms like bacteria}}
+|
+Why does Bowen theory take such an expanded, evolutionary view of the emotional system?
+{{c1::To ensure the legacy 
+of billions of years of evolution on the human emotional system 
+is not overlooked}}
+|
+What metaphor is used by Michael Kerr
+to describe the process of observing an emotional system?
+{{c1::Studying the wind}}
+|
+How is observing a family's emotional system similar to observing the wind?
+{{c1::You cannot see the system/wind itself, 
+but you can infer its presence and force 
+by its effects on visible things (family members/trees and sails)}}
+|
+The flow of invisible {{c1::emotional forces}} through a family, 
+inferred by its impact on members, is referred to as the...
+{{c1::emotional field}}
+|
+A young man who acts childishly 
+only when visiting his parents, 
+and blames them for it, is failing to see the...
+{{c1::reciprocal process that he unwittingly helps create}}
+|
+Bowenian perspective re: problems from the past causing problems in the present?
+{{c1::The past doesnt create problems in the present
+The problems are actively re-created by the participants in the present}}
+|
+From a Bowenian perspective, relationship systems can be seen as extensions of the...
+{{c1::emotional systems of individual brains}}
+|
+The Bowenian perspective that the relationship system 
+is {{c1::an extension}} of the emotion brain
+rhymes with the idea of
+{{c1::The Extended Mind Thesis}}
+|
+Bowen states that
+Automatic human behaviours, such as 
+{{c1::distancing in the face of intensity}}, 
+may have their roots in primitive mechanisms found in
+single-celled organisms
+|
+According to neuroscience, 
+the brain's emotional system is primarily located in the
+{{c1::Subcortical}} part of the brain
+|
+Neuroscience:
+The brain's emotional system is AKA the {{c1::limbic system}}
+|
+The core of Bowen theory's concept of "differentiation of self" 
+relates to the brain's ability to distinguish between 
+{{c1::Feeling and thinking}}
+|
+A person with higher differentiation of self 
+is able to be informed by both 
+{{c1::feeling}} and {{c1::thinking}} 
+but can ultimately choose to act on
+{{c1::thinking}}
+|
+Two key limiations of the "wind" metaphor for family emotional systems:
+{{c1::1 - people in a system help generate the "emotional wind" through their reactions
+2 - People have some choice over their reaction to the emotional process}}
+```
