@@ -577,3 +577,134 @@ and people at the other end
 {{c1::have great difficulty making this distinction 
 or, even if somewhat aware, still succumb to the emotions}}
 ```
+# 2025-07-14
+## Chapter 1, round 2 (manual flashcards)
+```
+In the intro to "Bowen Theory's Secrets"
+The book
+"{{c1::The Righteous Mind (2012)}}"
+is cited as 
+"beautifully describng the powerful, pervasive, and largely out-of-awareness impact 
+of {{c1::emotion on thinking}} 
+|
+On the journey of using Bowen's theory
+You increase your level of conviction by
+{{c1::acting on a system 
+and getting the predicted result}} 
+|
+Quote from Sapiens
+{{c1::A theory that enables us to do new things}} constitutes knowledge.
+|
+The magic of changing yourself, with knowledge of systems theory:
+{{c1::You can work at changing yourself 
+without feeling like you are giving up or giving in
+Because you know that changing yourself 
+leads to substantive changes in others as well}}
+|
+Metaphor for husband and wife both thinking the other is to blame
+(3 words)
+{{c1::Chinese Finger Trap}}
+Because
+{{c1::Each spouse is equally reactive to the other}}
+or 
+"{{c1::It takes two to tango}}"
+|
+Cause-and-effect thinking asks 
+"{{c1::why does the other person treat me this way?}}"
+perpetuating
+{{c1::victim mindset}}
+whereas system thinking asks 
+{{c2::how, what, when, where}}
+AKA
+{{c2::Meta-level mindset}}
+|
+Cause-and-effect thinking asks 
+"{{c1::why does the other person treat me this way?}}"
+perpetuating
+{{c1::victim mindset}}
+whereas system thinking asks 
+{{c1::how, what, when, where}}
+AKA
+{{c1::Meta-level mindset}}
+|
+Systems thinking describes functional facts about relationship interactions. 
+E.g., the functional fact that 
+{{c1::Husband blames wife -> she retreats in reaction }}
+and
+{{c1::Wife retreats -> be blames more }}
+|
+Two things from chapter 1 of Michael Kerr's book that relate to "This is Water"
+{{c1::Cause and effect thinking
+The Righteous Mind}}
+```
+## Chapter 2, round 2 (manual flashcards)
+- I spotted a parallel to Plato's 3-part psyche from a recent Vervaeke video I watched 😎
+```
+In the chapter "evolution and the emotional system"
+Kerr states that 
+The study of behavior best begins 
+{{c1::in the context of relationships}}
+|
+People often object to being compared to ants or naked mole rats, 
+but this is precisely the message of Bowen theory: 
+{{c1::human beings have far less autonomy
+in their emotional functioning 
+than we generally assume}}
+|
+The parts of Plato's 3-part soul:
+{{c1::The many-headed beast
+The lion
+The human}}
+|
+Plato's 3-part psyche:
+The many-headed beast is
+The {{c1::Appetitive}} Part
+|
+Greek for Plato's many-headed beast
+{{c1::Epithymetikon}}
+|
+Plato's many-headed beast contains
+{{c1::all our physical appetites and desires 
+(for food, drink, sex, and money)}}
+|
+Plato's 3-part psyche:
+The lion is
+The {{c1::Spirited}} Part
+|
+Greek for Plato's lion:
+{{c1::Thymos}}
+|
+The thymos is the seat of your {{c1::social emotions}}
+|
+The thymos craves 
+{{c1::honour, recognition, and victory}}
+|
+Plato's 3-part psyche:
+The human is
+The {{c1::Rational}} Part
+|
+Greek for Plato's human part of the 3-part psyche
+{{c1::Logistikon}}
+|
+Greek:
+Many-headed monster - {{c1::Epithymetikon}}
+Lion - {{c1::Epithymetikon}}
+Human - {{c1::Logistikon}}
+|
+The human part of Plato's 3-part psyche:
+Its function is not just to be clever, but to 
+{{c1::guide the entire system towards what is good and real in the long term}}
+|
+Where Plato's 3-part psyche comes from
+{{c1::The Republic}}
+|
+Additional metaphor used by Plato re: the soul
+{{c1::A charioteer (Reason) 
+driving two winged horses 
+One horse is noble and white (the spirited thymos), always aspiring to fly upwards. 
+The other is unruly and black (the appetitive monster), constantly trying to drag the chariot down to earth. }}
+|
+To Plato, 
+The charioteer's lifelong struggle is 
+{{c1::to get the two horses to work together to ascend towards the truth.}}
+```
