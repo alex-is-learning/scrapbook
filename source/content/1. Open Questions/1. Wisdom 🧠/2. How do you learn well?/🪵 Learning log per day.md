@@ -1,5 +1,8 @@
 - [[source/content/index|Home Page]]
 ## July 2025
+### Week of 14th July
+- Mon 2025-07-14
+	- [[Dialectic and Dialogue - Plato's Practice of Philosophical Inquiry]]
 ### Week of 7th July 
 - Sun 2025-07-13
 	- Continuing [[Initial flashcards on family systems]]
