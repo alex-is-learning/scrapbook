@@ -48,28 +48,35 @@
 ## I'm not a utilitarian
 - I'm not a utilitarian, I never arrived at that as a truth, but it nerd-sniped me
 - Asking Gemini about alternatives to utilitarianism:
-	- Care Ethics →  **Core Idea:** This ethical framework, largely developed by feminist philosophers like Carol Gilligan and Nel Noddings, emphasizes the importance of relationships, dependency, and the moral salience of attending to the needs of "particular others."
-	- Virtue Ethics → **Core Idea:** Drawing inspiration from ancient Greek philosophers like Aristotle, virtue ethics focuses on the character of the moral agent rather than specific rules or consequences. It asks what a virtuous person would do.
+	- ==Care Ethics== →  **Core Idea:** This ethical framework, largely developed by feminist philosophers like Carol Gilligan and Nel Noddings, emphasizes the importance of relationships, dependency, and the moral salience of attending to the needs of "particular others."
+	- ==Virtue Ethics== → **Core Idea:** Drawing inspiration from ancient Greek philosophers like Aristotle, virtue ethics focuses on the character of the moral agent rather than specific rules or consequences. It asks what a virtuous person would do.
 # 4. What would it take to intrinsically care about EA?
 ## 4a. Putting out my own fires?
 - As discussed above, there's a strong sense of the ==suffering of family members== as being more salient than the suffering of non-family members
 - Perhaps this is morally reprehensible. It is, according to utilitarianism
+- Ultimately, it's a knowledge problem?
 	- Socrates thing of virtue/wisdom *being* knowledge. No one would *choose* to do bad. Currently, it feels to me that my family matters, and the abstract masses who are suffering just aren't in my salience landscape in the same way. And yes, "scope neglect", "treating people who are closer to you as more morally important" etc. But, that's my lived experience, currently
 	- Acting against my lived experience, what feels "true", feels grindy and bad
 ## 4b. Finding my way to it through first principles?
 - E.g., the John Stuart Mill thing of becoming a utilitarian (then burning the fuck out, and then returning to a healthier form of it)
 - Discovering a true passion for ethics, virtue, doing good
 	- The OGs, Toby Ord, Will McAskill etc → this is exactly what they did! They're philosophers, presumably moral philosophers
-	- Then they founded CEA and 80,000 Hours to convince people to join the cause
-	- (But if you get nerd-sniped into believing it to the detriment of your own edge/path/local concerns, that may not go so well in the long run)
+	- Then they founded CEA and 80,000 Hours to ==convince people to join the cause==
+	- *(But if you get nerd-sniped into believing it to the detriment of your own edge/path/local concerns, that may not go so well in the long run)*
 - It seems important to arrive at utilitarianism yourself (or, whatever form of ethics seems most "true" to you), discover it as a Popperian truth after learning to think and clarifying your own goals and priorities, rather than having it handed to you by the EA marketing team, CEA and 80,000 Hours etc
 - Either you're doing things because you have arrived at truths yourself, or you're taking on the truths of others and ignoring your own "edge"
+### Aha → am I basically reckoning with Kegan stages here?
+- As a Kegan 3, an intellectual adolescent, I didn't know how to think for myself, having never been taught
+- I discovered a movement that said that utilitarianism is the correct way and I thought "ok, sounds good!"
+- And now, as I wrestle with my own values and the painful transition from Kegan 3 to 4, I'm facing the pain of realising that I have been animated by stories that were not my own
 # 5. What about being an unreflective EA?
-- "But what if everyone only reached EA after a circuitous road of learning how to think?"
-- Then there'd be far less people working on important causes, right?
+- *"But what if everyone only reached EA after a circuitous road of learning how to think?"*
+- *Then there'd be far less people working on important causes, right?*
 ## 5a. EAs can be motivated by things other than just ethics
-- I have a suspicion that a lot of people working on e.g. AI safety also just find it really interesting. Like, they're computer scientists, working at the cutting edge, on something that plausibly seems to be very important. They don't need a deep Popperian sense of "I have landed on ethics/utilitarianism as a truth", because they are intrinsically motivated by working on hard problems, getting paid well, being in a community of people who also have deep knowledge of their area, etc
-- There's the Vervaeke idea of participatory knowledge, of having great agent-arena fit, being in the flow state, being the opposite of alienated. Being deeply enmeshed in something enjoyable, getting great feedback (accolades, feedback, payment)
+- I have a suspicion that a lot of people working on e.g. AI safety also ==just find it really interesting==. 
+	- Like, they're computer scientists, working at the cutting edge, on something that plausibly seems to be very important. 
+	- They don't need a deep Popperian sense of "I have landed on ethics/utilitarianism as a truth", because they are intrinsically motivated by working on hard problems, getting paid well, being in a community of people who also have deep knowledge of their area, etc
+- There's the Vervaeke idea of participatory knowledge, of having great ==agent-arena fit==, being in the flow state, being the opposite of alienated. Being deeply enmeshed in something enjoyable, getting great feedback (accolades, feedback, payment)
 ### E.g., me at Alvea
 - I wasn’t aligned with/interested in the biosecurity space before working at Alvea, or during, or after
 	- Before working at Alvea, didn’t think about biosecurity at all
@@ -83,11 +90,14 @@
 - I've now foregrounded my "mission" of "healing my family" (or at least, "healing myself in relation to my family")
 - It feels important to do this in-person, so now is the perfect time
 - It feels important to treat this as a proper project (rather than something I slot in around a full-time job)
+- ==I don't want to carry someone else's torch. I want to carry my torch.==
 ### 5b2. "Lack of care" as bottleneck
 - It's *hard* to get an EA job, and lack of care is a bottleneck
-- Nearly got the "founding generalist" role at Kairos (AI safety org), but was lacking deep knowledge of the AI safety space
+- Nearly got the "founding generalist" role at Kairos (AI safety org), but was ==lacking deep knowledge== of the AI safety space
 	- And learning this didn't make me endeavour to learn more about the AI safety space → I don't care about the AI safety space! 
-- Because I don't care about any cause area, I can't apply to any EA job from a place of "I know a lot about this and can apply that knowledge", I can only apply from a place of "I don't know anything about this cause area (because I don't care), but I can learn about it on the job, because having a job in this cause area will make me care more"
+- 🚨 Because I don't care about any cause area:
+	- I can't apply to any EA job from a place of "I know a lot about this and can apply that knowledge"
+	- I can only apply from a place of "==I don't know anything about this cause area (because I don't intrinsically care), but I can learn about it on the job, because having a job in this cause area will make me care more=="
 #### I got Alvea because of care
 - I cared deeply about learning how to learn, and this passion, and the projects that came out of it, got me the job at Alvea
 # 5. The power of care
@@ -115,10 +125,10 @@
 - Continuing learning from Socrates & Plato re: how to think, how to discover relatively certain values (Popperian, for Karl Popper)
 - Continue working on my family & my relationship to them 
 - Start learning "to stop shitting in the pool" (from my friend Michael, and his metaphor of "the three turnings" of Buddhism/enlightenment)
-	- Era 1 → the OG Buddha, teaching you to be free from suffering, to stop polluting the water
+	- Era 1 → the OG Buddha, teaching you to be free from your own suffering, to stop polluting the water
 	- Era 2 → the importance of teaching other people to stop polluting the water
 	- Era 3 (Mahamudra etc?) → the importance of *cleaning* the water
-### Phase 2
+### Phase *2*
 - Now I can think for myself → find my own intrinsic values, Popperian truths
 - This unlocks care and a path for phase 3
 ### Phase 3
@@ -126,7 +136,7 @@
 	- It could be that I become a utilitarian, or something else entirely
 - And my family is no longer a profound drain
 - To me, this feels like a path to being an adult, having true values. 
-# On being present IRL
+# 7. On being present IRL
 ## Learn to “stop shitting in the pool”
 - *Re: era 1 of Buddhism → stop polluting the water, and also era 3 → start cleaning up the water*
 - It feels like living with my mum is the ideal place to:
@@ -135,7 +145,9 @@
 	- In relation with my mum, dad, sister, that’s where I’m most triggered and reactive
 	- To “heal” things with them feels like it’d make me show up much better elsewhere
 	- Like, I could go to an intentional community and “heal”, but that’s with strangers who trigger me less, right? Far less history, attachment
-# 7. Quick red-teaming of current stories
+- *Clean the water* (Buddhism era 3)
+	- Much, much easier to do this IRL than if I were to move away
+# 8. Quick red-teaming of current stories
 ## Story: “I can put out my fires”
 - I went from "I just want to flee my family and give up, like other members have" to "there really may be a path here" → ==that's a big pivot!==
 ### What is success? 
