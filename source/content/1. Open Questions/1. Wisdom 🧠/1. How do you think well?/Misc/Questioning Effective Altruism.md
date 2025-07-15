@@ -5,7 +5,7 @@
 - I think I'll try steelmanning and red-teaming in later notes. This one is an initial kind of "manifesto"/story
 # 1. Empirical knowledge re: my interest in Effective Altruism 
 - What I know for ~certain, from my life, experientially, empirically, reporting on my own feelings
-	- (“*Your feelings can’t lie*, from consensus-ism”)
+	- (“*Your feelings can’t lie*", from consensus-ism)
 ## 1a. I lack true care for EA
 - What I’m missing, and have ==always== been missing, is true mission buy-in, true care
 	- I came to EA from a place of “I don’t know what to do, this seems good”
@@ -21,6 +21,7 @@
 	- The suffering of my family unit, the lack of healthy functioning. 
 	- This is the most salient thing!
 ### Whole-hearted deep dives
+- I also know what it feels like to have total consensus re: the importance of something, to happily deep dive on something that feels really interesting/important/alive
 - Full-hearted deep dives that I’ve done: 
 	- Music/youtube, post-rationalism, Socrates, learning how to learn, learning to code. David Foster Wallace. 
 		- All of these feel “==transparent==”, obvious, intrinsically motivated. 
@@ -31,21 +32,28 @@
 - "There are existential risks!"
 	- And this is true! AI could seriously pose a threat to humanity. Bioweapons. Nuclear risk.
 - Seems "correct", utilitarianism
-	- "I care more about my family of <20 people, than the 1000s that I could help with my EA job"
+	- "I care more about my family of <20 people, than the 1000s that I could help with my EA job" → that's kinda fucked up, right?
+		- (But then again, this is a place of ignorance → utilitarianism is the only school of ethics/moral philosophy (?) that I could name. I had never thought about ethics, then a friend shared EA with me, then I got nerd-sniped by it, and never investigated alternative positions)
 - There's a Roko's Basilisk-type thing of like "now I know about EA, to take a non-EA job would be extra bad" - it's kind of like an info hazard. Now moral concern has at least partially turned on, it's hard to turn it off
 ## 2b. Totalising, stressful, "running out of time"
 - "AI might kill us in 2-3 years, there's no time to 'Know Thyself'!!!"
+- "People are suffering now, you can't 'work on yourself', don't you realise how privileged you are!!!"
 ## 2c. Other paths felt intractable/were memory-holed
 - "I don't have a path, I don't have preferences, I don't know what I want to do" etc
 - Lack of agency, used to just going along with whatever, used to subjugating my genuine desires, etc etc
-- "What I would like" (to not be driven mad by my family) felt intractable, impossible, overwhelming, etc
+- "What I would like" (to not be driven mad by my family) felt intractable, impossible, overwhelming, etc, and as such, was never foregrounded for any length of time. "Oh god, I think about how infuriating my family is every day, but it's impossible, ahhh, repress repress, just focus on other things!"
 # 3. Why have I failed to make myself care about EA?
 - I've read "The Precipice" by Toby Ord, I've read "Doing Good Better", I've read some of the 80k career profiles, I've listened to some 80k podcast episodes, I've worked at an EA org, I've been to EAG. I did an "Intro to EA" weekly cohort thing where they taught us about scope neglect etc. I'm aware of the concepts, but it hasn't shifted into experiential knowledge
-- I think the answer is just ultimately "because there's always been something that has felt more salient, local, pressing, that I've been neglecting through fear and a feeling of intractability/overwhelm"
+- I think the answer is just ultimately "because there's always been something that has felt more ==salient, local, pressing==, that I've been neglecting through fear and a feeling of intractability/overwhelm"
+## I'm not a utilitarian
+- I'm not a utilitarian, I never arrived at that as a truth, but it nerd-sniped me
+- Asking Gemini about alternatives to utilitarianism:
+	- Care Ethics →  **Core Idea:** This ethical framework, largely developed by feminist philosophers like Carol Gilligan and Nel Noddings, emphasizes the importance of relationships, dependency, and the moral salience of attending to the needs of "particular others."
+	- Virtue Ethics → **Core Idea:** Drawing inspiration from ancient Greek philosophers like Aristotle, virtue ethics focuses on the character of the moral agent rather than specific rules or consequences. It asks what a virtuous person would do.
 # 4. What would it take to intrinsically care about EA?
 ## 4a. Putting out my own fires?
-- As discussed above, there's a strong sense of the suffering of non-family members as being more salient than the suffering of family members
-- Perhaps this is morally reprehensible
+- As discussed above, there's a strong sense of the ==suffering of family members== as being more salient than the suffering of non-family members
+- Perhaps this is morally reprehensible. It is, according to utilitarianism
 	- Socrates thing of virtue/wisdom *being* knowledge. No one would *choose* to do bad. Currently, it feels to me that my family matters, and the abstract masses who are suffering just aren't in my salience landscape in the same way. And yes, "scope neglect", "treating people who are closer to you as more morally important" etc. But, that's my lived experience, currently
 	- Acting against my lived experience, what feels "true", feels grindy and bad
 ## 4b. Finding my way to it through first principles?
@@ -54,7 +62,7 @@
 	- The OGs, Toby Ord, Will McAskill etc → this is exactly what they did! They're philosophers, presumably moral philosophers
 	- Then they founded CEA and 80,000 Hours to convince people to join the cause
 	- (But if you get nerd-sniped into believing it to the detriment of your own edge/path/local concerns, that may not go so well in the long run)
-- It seems important to arrive at utilitarianism yourself, discover it as a Popperian truth after learning to think and clarifying your own goals and priorities, rather than having it handed to you by the EA marketing team, CEA and 80,000 Hours etc
+- It seems important to arrive at utilitarianism yourself (or, whatever form of ethics seems most "true" to you), discover it as a Popperian truth after learning to think and clarifying your own goals and priorities, rather than having it handed to you by the EA marketing team, CEA and 80,000 Hours etc
 - Either you're doing things because you have arrived at truths yourself, or you're taking on the truths of others and ignoring your own "edge"
 # 5. What about being an unreflective EA?
 - "But what if everyone only reached EA after a circuitous road of learning how to think?"
