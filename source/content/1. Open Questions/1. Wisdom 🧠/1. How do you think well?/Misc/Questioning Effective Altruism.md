@@ -64,6 +64,7 @@
 	- Then they founded CEA and 80,000 Hours to ==convince people to join the cause==
 	- *(But if you get nerd-sniped into believing it to the detriment of your own edge/path/local concerns, that may not go so well in the long run)*
 - It seems important to arrive at utilitarianism yourself (or, whatever form of ethics seems most "true" to you), discover it as a Popperian truth after learning to think and clarifying your own goals and priorities, rather than having it handed to you by the EA marketing team, CEA and 80,000 Hours etc
+	- [[Popperian truth]]
 - Either you're doing things because you have arrived at truths yourself, or you're taking on the truths of others and ignoring your own "edge"
 ### Aha → am I basically reckoning with Kegan stages here?
 - As a Kegan 3, an intellectual adolescent, I didn't know how to think for myself, having never been taught
@@ -76,6 +77,7 @@
 - I have a suspicion that a lot of people working on e.g. AI safety also ==just find it really interesting==. 
 	- Like, they're computer scientists, working at the cutting edge, on something that plausibly seems to be very important. 
 	- They don't need a deep Popperian sense of "I have landed on ethics/utilitarianism as a truth", because they are intrinsically motivated by working on hard problems, getting paid well, being in a community of people who also have deep knowledge of their area, etc
+		- [[Popperian truth]]
 - There's the Vervaeke idea of participatory knowledge, of having great ==agent-arena fit==, being in the flow state, being the opposite of alienated. Being deeply enmeshed in something enjoyable, getting great feedback (accolades, feedback, payment)
 ### E.g., me at Alvea
 - I wasn’t aligned with/interested in the biosecurity space before working at Alvea, or during, or after
@@ -105,8 +107,7 @@
 - However, it deeply resonated, and feels true based on my lived experience
 ![[care guy nosilver rival voices.png]]
 - Another one:
-![[Care is the number 1 thing, everything is bottlenecked by care.png]]
-
+- ![[Care is the number 1 thing, everything is bottlenecked by care.png]]
 - I have a sense that the ideal path is "follow care", and this could look like
 	- landing on a cause area (and maybe not even an EA one) that I’m truly passionate about, then upskill, then apply from a place of genuine passion (or build my own thing, or whatever)
 	- Like e.g. truly landing on “oh, I absolutely want to be a coach”, or whatever
@@ -117,6 +118,7 @@
 - My own ==learning== and ==values==
 	- I've learned how to learn, now I'm learning to think
 	- I care a lot about improving my ability to think, making less mistakes in my thinking, pivoting less, finding more Popperian truths
+	- [[Popperian truth]]
 - Bringing some ==money== in → I've been "in the red" for while now and it's time to replenish my savings
 - Being a ==better person== → meditation, Popperian truths, virtue, kindness, etc. Reckoning with the ways in which I'm immature (e.g. the book "Growing Yourself Up")
 # 6. Currently envisioned path
