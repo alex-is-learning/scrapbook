@@ -2,6 +2,7 @@
 ## Week of 14th July
 - Tue 2025-07-15
 	- [[Questioning Effective Altruism]]
+	- [[Red-teaming working for Outcapped]]
 ## Week of 7th July
 - Wed 2025-07-09
 	- [[Resisting the urge to switch to logic or rhetoric]]
