@@ -2,6 +2,7 @@
 ## July 2025
 ### Week of 14th July
 - Tue 2025-07-15
+	- [[Red-teaming working for Outcapped]]
 	- [[Questioning Effective Altruism]]
 - Mon 2025-07-14
 	- [[Dialectic and Dialogue - Plato's Practice of Philosophical Inquiry]]

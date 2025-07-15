@@ -3,6 +3,9 @@ title: The case for not associating with the Effective Altruism movement
 ---
 
 - 2025-07-15
+- See also
+	- [[🧠 Learning how to think]] 
+	- [[11. Manifesto - "Time to re-assess full-time vs part-time work"]]
 - I want to try to steelman various things here
 - But I also want to write from what currently feels true
 - Feels like a tricky balance!
