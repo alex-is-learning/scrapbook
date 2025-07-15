@@ -710,3 +710,229 @@ To Plato,
 The charioteer's lifelong struggle is 
 {{c1::to get the two horses to work together to ascend towards the truth.}}
 ```
+# 2025-07-15
+## Chapter 3, round 2 (manual flashcards)
+```
+{{c1::Triangles}} 
+are considered the molecules of an emotional system
+|
+Cause of instability of a 2-person system and why a third person helps
+{{c1::Growing tension -> third person is sympathetic}}
+|
+Why well-differentiated people manage the closeness-distance dilemma 
+more effectively than poorly differentiated people 
+{{c1::Well-differentiated people 
+are better at rising above their reactions 
+and remaining present, 
+even in an anxious system}}
+|
+Why Bowen theory says that a triangle is a "solution"
+{{c1::Because someone pays a price
+Two people gain at the expense of a third}}
+
+```
+## Chapter 4, round 2 (manual flashcards) 
+- Got up to page 60
+```
+Bowen quote:
+We live our lives in 
+{{c1::networks of emotional forces
+that follow triangle patterns}}
+|
+{{c2::Cause and-effect thinking}}
+is the principal obstacle to seeing 
+{{c1::the patterns of emotional functioning}}
+that Bowen theory describes.
+|
+There are (count) {{c2::4}} 
+{{c1::patterns of interaction}}
+in Bowen theory
+|
+In Bowen theory, 
+The {{c1::patterns of interaction}}
+are the key variables for explaining 
+{{c2::which family member develops clinical symptoms}}
+|
+Obvious turmoil in family system:
+People assume that 
+{{c1::the turmoil results from 
+distress about the symptomatic person's impaired functioning}}
+This is a half-truth 
+The other half is
+{{c1::The role of the relationship system 
+in creating and maintaining the impaired functioning}}
+|
+Bowen liked to say, 
+"The way to prevent schizophrenia
+{{c1::is to try to create it}}" 
+|
+Bowen's point re: "the way to prevent schizophrenia"
+{{c1::Parents are anxiously trying their best _not_ to create it
+And this anxiety harms the child}}
+|
+Two examples of "functioning positions" in Bowen theory:
+{{c1::
+Inside vs outside the triangle
+Overfunctioning vs underfunctioning in dyad}}
+|
+(Re: family systems)
+The denouement of one's efforts is 
+{{c1::to use the propositional & perspectival knowledge gained 
+to guide changes in one's actions 
+such that they are constructive for self and for others (participatory knowledge)}}
+|
+Bowen theory's main point is that 
+{{c1::
+marital conflict, 
+dysfunction in one spouse, 
+and transmission of the problem to one or more children 
+are all expressions of the same thing}}
+{{c2::undifferentiation 
+and associated chronic anxiety 
+in the nuclear family system}}
+|
+Bowen theory's main point is that 
+{{c1::
+marital conflict, 
+dysfunction in one spouse, 
+and transmission of the problem to one or more children 
+are all expressions of the same thing: 
+undifferentiation 
+and associated chronic anxiety 
+in the nuclear family system}}
+|
+(Bowen)
+The four patterns of emotional functioning: 
+{{c1::Dominant-Adaptive (Deferential) Interactions}}
+{{c2::Emotional Conflict}}
+{{c3::Triangles (originally "impairment of a child")}}
+{{c4::Emotional distance}}
+|
+(Bowen)
+The four patterns of emotional functioning: 
+{{c1::Dominant-Adaptive (Deferential) Interactions}}
+{{c1::Emotional Conflict}}
+{{c2::Triangles (originally "impairment of a child")}}
+{{c2::Emotional distance}}
+|
+(Bowen)
+The four patterns of emotional functioning: 
+{{c1::Dominant-Adaptive (Deferential) Interactions}}
+{{c1::Emotional Conflict}}
+{{c1::Triangles (originally "impairment of a child")}}
+{{c1::Emotional distance}}
+|
+The 4 emotional patterns in Bowen's theory function to 
+{{c1::control the intensity of emotional fusion in relationships}}
+|
+What is Kerr talking about when he says "emotional fusion"
+{{c1::A state of intense emotional interdependence 
+where the boundaries between individuals become blurred}}
+|
+You can be emotionally distanced despite physical proximity, e.g.:
+Avoiding potentially emotionally charged topics. 
+|
+Emotional distance and bound anxiety:
+{{c1::The anxiety is bound in the avoiding emotionally charged topics}}
+|
+A way of describing the binding of anxiety is that 
+{{c1::the anxiety is integrated into the structure of a relationship}}
+|
+On many occasions, Bowen stated: 
+"If I had to reduce my theory to one basic idea, it would be that 
+{{c1::it explains how two people can begin their relationship very close, 
+but become increasingly distant over time}}" 
+|
+According to Bowen theory, you can learn to regain a mature closeness by
+{{c1::understanding how each person's immaturity undermined it 
+and then applying that knowledge to change one's part in the process}}
+|
+As a result of reading 
+{{c1::Sociobiology: The New Synthesis}}
+Michael Kerr modernised some of Bowen's terminology
+|
+Michael Kerr modernised 
+{{c1::Marital conflict}}
+to 
+{{c2::Emotional conflict}}
+|
+Michael Kerr modernised 
+{{c1::Dysfunction in one spouse}}
+to 
+{{c2::dominant-adaptive (deferential) interactions}}
+|
+The one of the four patterns of emotional functioning 
+that Michael Kerr modernised into a mouthful
+{{c1::Dominant-adaptive (deferential) interactions}}
+|
+Why Michael Kerr found {{c1::Sociobiology: A New Synthesis}} to be relevant
+{{c2::The studies of the social groups of a wide range of species described in the book 
+reveal the existence of close parallels 
+between the patterns of emotional functioning that Bowen theory describes 
+and similar patterns in other species}}
+|
+Michael Kerr modernised
+{{c1::Transmission to one or more children}}
+to 
+{{c2::Triangles}}
+|
+Of the 4 patterns of emotional functioning
+Which did Kerr not rename?
+{{c1::Emotional distance}}
+|
+In a dyad, 
+The {{c2::adaptive}} or {{c2::deferential}} one is
+(specific)
+{{c1::the person making the most behavioral changes 
+in an attempt to maintain harmony 
+in the relationship}}
+|
+In a dominant-adaptive interaction
+It's not always the case that the overfunctioner is the dominant partner
+{{c1::The overfunctioner may be adapting disproportionately in the relationship 
+under pressure from the underfunctioner}}
+|
+Why triangles are of central importance in Bowen theory
+{{c1::Because they show how relationships are interlinked}}
+|
+A diagram that shows all 4 Bowen emotional patterns:
+{{c1::(Screenshot from pdf page 55)}}
+|
+Kerr:
+"It is important to note that 
+{{c1::dominant-adaptive (deferential)}} interactions
+are very common when the conspecifics of many species are living in
+proximity. 
+They are {{c2::the emotional basis of social hierarchies}}
+|
+What the dominant-adaptive (deferential) diagram looks like:
+{{c1::(Screenshot from page 57}}
+|
+An {{c1::overfunctioning-underfunctioning}} reciprocity 
+is anxiety-driven, 
+whereas 
+{{c1::role differentiation}}
+is reality-driven
+|
+Role differentiation in a family:
+{{c1::People taking on specialized tasks 
+that render a family or social system more functional and adaptive}}
+|
+Example of anxiety-driven overfunctioning-underfunctioning:
+{{c1::Male feels calmer when he's in charge
+Female feels calmer at not having to be primary decision maker}}
+|
+Example of overfunctioner disproportionately carrying family anxiety
+{{c1::Having to work hard to meet perceived expectations of others
+The families often seemed heavily dependent on these people}}
+|
+Re: overfunctioners carrying family anxiety
+"The overfunctioners looked dominant, 
+but these were cases of the overfunctioners being 
+pinned down in the one-up position}}
+|
+The person most vulnerable to dysfunction
+in a dominant-adaptive (deferential) patten is
+{{c1::the one making the most internal adjustments in functioning 
+to preserve harmony}}
+```
