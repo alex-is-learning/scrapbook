@@ -1,3 +1,5 @@
+- 2025-07-15
+	- [[Questioning Effective Altruism]]
 - 2025-07-11
 	- [[Initial flashcards on family systems]]
 - 2025-07-09

@@ -688,7 +688,7 @@ Greek for Plato's human part of the 3-part psyche
 |
 Greek:
 Many-headed monster - {{c1::Epithymetikon}}
-Lion - {{c1::Epithymetikon}}
+Lion - {{c1::Thomos}}
 Human - {{c1::Logistikon}}
 |
 The human part of Plato's 3-part psyche:
@@ -700,9 +700,11 @@ Where Plato's 3-part psyche comes from
 |
 Additional metaphor used by Plato re: the soul
 {{c1::A charioteer (Reason) 
-driving two winged horses 
-One horse is noble and white (the spirited thymos), always aspiring to fly upwards. 
-The other is unruly and black (the appetitive monster), constantly trying to drag the chariot down to earth. }}
+driving two winged horses}}
+|
+Plato's 2 horses:  
+{{c1::Noble & white = the spirited thymos  
+Unruly & black = the appetitive monster}}
 |
 To Plato, 
 The charioteer's lifelong struggle is 

@@ -1,6 +1,8 @@
 - [[source/content/index|Home Page]]
 ## July 2025
 ### Week of 14th July
+- Tue 2025-07-15
+	- [[Questioning Effective Altruism]]
 - Mon 2025-07-14
 	- [[Dialectic and Dialogue - Plato's Practice of Philosophical Inquiry]]
 	- Continuing [[Initial flashcards on family systems]]
