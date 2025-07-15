@@ -35,7 +35,8 @@
               "title": "Red-teaming working for Outcapped"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How can I operate from a place of uncertainty?.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Red-teaming working for Outcapped.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How can I operate from a place of uncertainty?"
+              "title": "Backlinks for Red-teaming working for Outcapped"
             }
           },
           {
@@ -164,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How can I operate from a place of uncertainty?.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Red-teaming working for Outcapped.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How can I operate from a place of uncertainty?"
+              "title": "Outline of Red-teaming working for Outcapped"
             }
           }
         ]
@@ -190,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5121e7022ecb2278",
+  "active": "71c5a76beb38f10a",
   "lastOpenFiles": [
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How can I operate from a place of uncertainty?.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/🧠 Learning how to think.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Questioning Effective Altruism.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Red-teaming working for Outcapped.md",
@@ -220,7 +222,6 @@
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Personal values & \"rationality\" sprint, v2.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning techniques/Hermeneutic circle, hermeneutic spiral.md",
     "source/content/1. Open Questions/What does it mean to be in ORI? 🔬/Misc/My model of ORI/My model of ORI, 2025-06-23.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How can I operate from a place of uncertainty?.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Logging my journey/Collection of voice notes.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Interpretatio Naturae.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Anticipatio Mentis.md",
