@@ -1,4 +1,7 @@
 - This "learning how to think" project started with me doing a rationality sprint in ~Feb 2025, for ~1 month. Now I'm back!
+## Week of 14th July
+- Tue 2025-07-15
+	- [[Questioning Effective Altruism]]
 ## Week of 7th July
 - Wed 2025-07-09
 	- [[Resisting the urge to switch to logic or rhetoric]]
