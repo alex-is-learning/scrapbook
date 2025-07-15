@@ -2,6 +2,7 @@
 ## July 2025
 ### Week of 14th July
 - Tue 2025-07-15
+	- [[Initial flashcards on family systems]]
 	- [[Red-teaming working for Outcapped]]
 	- [[Questioning Effective Altruism]]
 - Mon 2025-07-14
