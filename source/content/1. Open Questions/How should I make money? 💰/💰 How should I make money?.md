@@ -3,6 +3,7 @@ created: 2025-07-07 14:19:00
 updated: 2025-07-08 11:50:06
 ---
 - Wed 2025-07-16 
+	- [[Working with Rob at Outcapped, parent page]]
 	- [[Gemini Socrates - Outcapped]]
 - 2025-07-15 
 	- [[Red-teaming working for Outcapped]]
