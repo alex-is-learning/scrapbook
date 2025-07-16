@@ -1,6 +1,8 @@
 - [[source/content/index|Home Page]]
 ## July 2025
 ### Week of 14th July
+- Wed 2025-07-16
+	- [[Gemini Socrates - Outcapped]]
 - Tue 2025-07-15
 	- [[Initial flashcards on family systems]]
 	- [[Red-teaming working for Outcapped]]

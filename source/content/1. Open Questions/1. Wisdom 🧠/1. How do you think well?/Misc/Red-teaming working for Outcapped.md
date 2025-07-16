@@ -88,3 +88,6 @@
 	- BUT, I have not seen myself get close to earning that much! I got close to earning I think £60k-£75k with Longview, which would have been at most ~£3.8k/month, which, with ~£1k London rent + bills, ~£400 food, £400 living costs, would leave ~£2k/month, and I'd be living away from home
 	- And going back to the [[Questioning Effective Altruism]] point about care - I got paid ~£100k at Alvea because of my unusual care for meta-learning - that's what got me the role - I don't think I currently have the same legible care that will make a high-paying EA job fall on my lap again
 	- So, I've gotten close to earning £3.8k/month once this year, and it would involve moving to London, losing the "Trojan Horse" thing of living at home (with my family), and after rent etc, I'd have the same take-home pay for training/therapy/etc as I will have from living at home and working remotely for Outcapped
+## 7. From a friend: "what about getting an even higher paying non-EA remote job"
+- Initial answer to this is that referrals/getting jobs by knowing someone is much easier
+- So to turn this down, in order to find something else → much harder, unless I can think of other people who I already have worked with, and the p(they're hiring) is low (see e.g. Cate Hall)
