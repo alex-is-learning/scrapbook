@@ -86,7 +86,9 @@
     And because it is a high-stakes and instrumental task, you say the goal is to make "good progress, quickly". You wish to follow the most efficient, well-trod path, rather than stumble in the dark.
   </div>
 </div>
+
 ## 3. Building your own boat to cross the sea?
+
 
 <div class="dialogue-container">
 
