@@ -1,4 +1,5 @@
 - 2025-07-16
+# The dialogue
 ## 1. What is healing?
 
 <div class="dialogue-container">
@@ -447,3 +448,29 @@ By implementing this structure, you anticipate achieving the following outcomes:
     
 
 Your final position is that this structured compromise is a "good enough" path for the present, allowing you to address your most pressing personal and financial needs simultaneously.
+
+# Updates
+## 1. Crux → money vs time
+- "Why not just make like £600/month and have far more time? Why spend 15-20 hours/week, which is >50% working hours"
+	- Hard to find something that would let me do that! E.g. pub, there aren't that many, I have no experience, etc
+	- This is very convenient - from home
+	- Good pay = can do things like aletheia, *or* save like £2k/month and rapidly rebuild my savings for future era
+## 2. New metaphor/analogy alert! 
+- A man on a path, with an illness that his sapping him of energy, and poor eyesight
+- Step 1 → fix the symptoms of the illness
+	- In parallel, make glasses
+- Step 2 → now symptoms are reduced, and glasses are made, can look around and realise "aha, I'm on the wrong path"
+- But, in the meantime, even if I'm on the ~wrong path, I'm getting feedback from the environment (being useful, getting paid, getting skills, getting career capital)
+## 3. Following Bowen theory
+- I feel fine about using someone else's theory because I'm not trying to make my own theory. I'm trying to help my family as an instrumental goal
+## 4. "House on fire" was re: the feeling of overwhelm, not the actual situation
+- Already feels much more manageable with the propositional & perspectival knowledge I'm gaining from Bowen theory
+- From 10 years of overwhelm to "oh shit, this seems pretty doable now I've foregrounded it and made it a focus"
+## 4. 1-2 more months learning Bowen theory?
+- Make a Fatebook!
+- How long will it take for me to read & make flashcards from the first 200 pages of "Bowen Theory's Secrets" by Michael Kerr?
+- I could definitely sprint on it, pause Socrates/Plato (i.e., reading Gonzalez's book ([[Dialectic and Dialogue - Plato's Practice of Philosophical Inquiry (Gonzalez)]]))
+## 5. Lock in anti-enneagram 3 habits
+- Ceiling of 20 hours/week
+- Never start before noon
+

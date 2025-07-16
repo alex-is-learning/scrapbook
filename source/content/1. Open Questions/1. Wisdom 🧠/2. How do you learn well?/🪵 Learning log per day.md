@@ -8,7 +8,7 @@
 	- [[Red-teaming working for Outcapped]]
 	- [[Questioning Effective Altruism]]
 - Mon 2025-07-14
-	- [[Dialectic and Dialogue - Plato's Practice of Philosophical Inquiry]]
+	- [[Dialectic and Dialogue - Plato's Practice of Philosophical Inquiry (Gonzalez)]]
 	- Continuing [[Initial flashcards on family systems]]
 ### Week of 7th July 
 - Sun 2025-07-13
