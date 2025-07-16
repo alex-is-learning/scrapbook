@@ -77,6 +77,9 @@ title: The case for not associating with the Effective Altruism movement
 - As a Kegan 3, an intellectual adolescent, I didn't know how to think for myself, having never been taught
 - I discovered a movement that said that utilitarianism is the correct way and I thought "ok, sounds good!"
 - And now, as I wrestle with my own values and the painful transition from Kegan 3 to 4, I'm facing the pain of realising that I have been animated by stories that were not my own
+### Also, this comes back to [[Anticipatio Mentis]]
+- Read about EA as a ~19 year old → immediately grasp on this it
+- Vs [[Interpretatio Naturae]]
 # 5. What about being an unreflective EA?
 - *"But what if everyone only reached EA after a circuitous road of learning how to think?"*
 - *Then there'd be far less people working on important causes, right?*

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How can I operate from a place of uncertainty?.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Red-teaming working for Outcapped.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How can I operate from a place of uncertainty?"
+              "title": "Red-teaming working for Outcapped"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Initial flashcards on family systems"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Initial flashcards on family systems.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Red-teaming working for Outcapped.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Initial flashcards on family systems"
+              "title": "Backlinks for Red-teaming working for Outcapped"
             }
           },
           {
@@ -165,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Initial flashcards on family systems.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Red-teaming working for Outcapped.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Initial flashcards on family systems"
+              "title": "Outline of Red-teaming working for Outcapped"
             }
           }
         ]
@@ -191,13 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71c5a76beb38f10a",
+  "active": "5121e7022ecb2278",
   "lastOpenFiles": [
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Questioning Effective Altruism.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How can I operate from a place of uncertainty?.md",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Initial flashcards on family systems.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/🧠 Learning how to think.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Red-teaming working for Outcapped.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How can I operate from a place of uncertainty?.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Questioning Effective Altruism.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/11. Manifesto - \"Time to re-assess full-time vs part-time work\".md",
     "source/content/1. Open Questions/How should I make money? 💰/💰 How should I make money?.md",
     "source/content/index.md",
@@ -205,7 +205,6 @@
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/🟢 Project - \"How can I help my family?\".md",
     "source/content/📎 Files/Images/misc/care guy nosilver rival voices.png",
     "source/content/📎 Files/Images/misc/Care is the number 1 thing, everything is bottlenecked by care.png",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Initial flashcards on family systems.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Dialectic and Dialogue - Plato's Practice of Philosophical Inquiry.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250714134144.png",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Starting \"Growing Yourself Up - How to Bring Your Best to All of Life's Relationships.md",
