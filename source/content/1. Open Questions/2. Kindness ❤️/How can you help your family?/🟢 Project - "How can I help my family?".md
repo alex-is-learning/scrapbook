@@ -1,7 +1,7 @@
 - 2025-07-15
 	- [[Questioning Effective Altruism]]
 - 2025-07-11
-	- [[Initial flashcards on family systems]]
+	- [[Bowen family systems - flashcards]]
 - 2025-07-09
 	- [[Starting "Growing Yourself Up - How to Bring Your Best to All of Life's Relationships]]
 - 2025-06-25

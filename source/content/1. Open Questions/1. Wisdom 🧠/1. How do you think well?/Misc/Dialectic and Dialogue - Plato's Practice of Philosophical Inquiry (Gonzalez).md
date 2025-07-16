@@ -6,7 +6,7 @@
 # Intro flashcards - 1st pass (with Gemini)
 - Giving Gemini the first 18 pages and [[My "make flashcards for me" prompt for AI]]
 - Then tidying them up and culling any bad ones
-- I did a similar thing with [[Initial flashcards on family systems]] recently and it currently feels good to do a first pass with AI, spend a few days learning those flashcards, and then returning to the chapter and making flashcards by hand, at the next level of depth, now that I've got the essentials in my head, and also maybe there are some things that I don't quite "get" yet so returning to the chapter helps
+- I did a similar thing with [[Bowen family systems - flashcards]] recently and it currently feels good to do a first pass with AI, spend a few days learning those flashcards, and then returning to the chapter and making flashcards by hand, at the next level of depth, now that I've got the essentials in my head, and also maybe there are some things that I don't quite "get" yet so returning to the chapter helps
 	- I.e. [[Bottom-up learning]]
 ```
 The two principles of Friedrich Schleiermacher's influential interpretation of Plato are 
