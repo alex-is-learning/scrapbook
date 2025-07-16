@@ -250,7 +250,9 @@
   </div>
 
 </div>
-## 9. 8 poms a day on the "not most important thing"
+
+## 9.  8 poms a day on the "not most important thing"
+
 
 <div class="dialogue-container">
 
@@ -457,10 +459,17 @@ Your final position is that this structured compromise is a "good enough" path f
 	- Good pay = can do things like aletheia, *or* save like £2k/month and rapidly rebuild my savings for future era
 ## 2. New metaphor/analogy alert! 
 - A man on a path, with an illness that his sapping him of energy, and poor eyesight
+	- (Energy sapping illness = family situation)
+	- (Poor eyesight = lack of elucidated values, Popperian truths, poor thinking skills)
 - Step 1 → fix the symptoms of the illness
+	- (That is, improve family situation)
 	- In parallel, make glasses
+	- (That is, learn how to think, inspect own thinking, find Popperian truths)
 - Step 2 → now symptoms are reduced, and glasses are made, can look around and realise "aha, I'm on the wrong path"
+	- "I now have more energy to devote to my new journey"
+	- "I can now see the best path to take"
 - But, in the meantime, even if I'm on the ~wrong path, I'm getting feedback from the environment (being useful, getting paid, getting skills, getting career capital)
+	- I'd rather walk along the wrong path for a while longer, whilst getting paid, and reducing my symptoms & improving my vision
 ## 3. Following Bowen theory
 - I feel fine about using someone else's theory because I'm not trying to make my own theory. I'm trying to help my family as an instrumental goal
 ## 4. "House on fire" was re: the feeling of overwhelm, not the actual situation
@@ -470,6 +479,8 @@ Your final position is that this structured compromise is a "good enough" path f
 - Make a Fatebook!
 - How long will it take for me to read & make flashcards from the first 200 pages of "Bowen Theory's Secrets" by Michael Kerr?
 - I could definitely sprint on it, pause Socrates/Plato (i.e., reading Gonzalez's book ([[Dialectic and Dialogue - Plato's Practice of Philosophical Inquiry (Gonzalez)]]))
+- End of August feels very doable 👇 → if I treat this as my primary project, pausing Gonzalez, treating it like I did Frans Osinga's book on Boyd. I'm currently at ~page 60
+- ![[Pasted image 20250716151752.png]]
 ## 5. Lock in anti-enneagram 3 habits
 - Ceiling of 20 hours/week
 - Never start before noon
