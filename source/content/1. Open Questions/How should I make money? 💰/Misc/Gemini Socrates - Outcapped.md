@@ -61,7 +61,7 @@
 </div>
 
 - *Note - actually, 1-2 months feels more likely. 2-4 weeks is very ambitious, given my current pace! I'm doing ~3 poms a day*
-	- [[Initial flashcards on family systems]]
+	- [[Bowen family systems - flashcards]]
 	- *I have a sense that this should be pretty front-load-y though. I have 250 flashcards on Bowen theory now, a solid foundation. Should get easier now that the foundation is fairly fluent.*
 ## 2. Using someone else's theory != "learning to think"
 

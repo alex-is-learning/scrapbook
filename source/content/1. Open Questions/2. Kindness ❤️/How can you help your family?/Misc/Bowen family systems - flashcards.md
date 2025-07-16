@@ -577,7 +577,7 @@ and people at the other end
 {{c1::have great difficulty making this distinction 
 or, even if somewhat aware, still succumb to the emotions}}
 ```
-# 2025-07-14
+# Mon 2025-07-14
 ## Chapter 1, round 2 (manual flashcards)
 ```
 In the intro to "Bowen Theory's Secrets"
@@ -710,7 +710,7 @@ To Plato,
 The charioteer's lifelong struggle is 
 {{c1::to get the two horses to work together to ascend towards the truth.}}
 ```
-# 2025-07-15
+# Tue 2025-07-15
 ## Chapter 3, round 2 (manual flashcards)
 ```
 {{c1::Triangles}} 
@@ -935,4 +935,82 @@ The person most vulnerable to dysfunction
 in a dominant-adaptive (deferential) patten is
 {{c1::the one making the most internal adjustments in functioning 
 to preserve harmony}}
+```
+# Wed 2025-07-16
+```
+The most active pattern of emotional functioning in a family 
+can change over time. 
+E.g.:
+{{c1::A dominant-adaptive pattern may characterize the early years of a marriage
+but this can shift into one of emotional conflict or emotional distance later on}}
+|
+"The following quote by Jonathan Haidt is speculative, 
+but the idea fits with much of human experience: 
+"{{c1::Reasoning has evolved not to help us find truth, 
+but to help us engage in arguments, persuasion, and manipulation 
+in the context of discussions with others}}"
+|
+(Emotional conflict pattern)
+Bowen theory states that 
+when emotions are intensely involved
+reason 
+{{c1::operates in the service of emotion}}
+not 
+{{c1::in the service of a careful assessment of the facts}}
+|
+What Bowen means by using "reason" 
+in a dubious way
+during emotional conflict
+{{c1::Reason operates in the service of emotion
+and alleged attempts to act "reasonable"
+only fan the flames}}
+|
+Emotional conflict & anxiety
+Both sides {{c1::blame each other for the problem}}, 
+which is calming for both:
+But 
+{{c1::the anxiety is now bound in both people dogmatically adhering to their own viewpoints}}
+{{c1::Include the diagram from page 60!}}
+|
+The upside of emotional conflict is that 
+{{c1::It externalises the anxiety rather than internalising it
+So each person is less vulnerable to developing mental/physical symptoms}}
+{{c1::(Diagram from page 60}}
+|
+Michael Kerr:
+Emotional conflict is a fascinating pattern because
+{{c1::people maintain contact and enforce distance at the same time 
+(Poking at the other gets a reaction and pushes the other away at the same time)}}
+|
+Up to a point, the emotional patterns 
+{{c1::stabilise relationships}}
+but lead to dysfunction if
+{{c1::sufficiently high levels of chronic anxiety develop}}
+|
+Michael Kerr
+Emotional conflict arises from 
+{{c1::Neither person having enough "self" 
+To feel that going along with the other's wants and ideas 
+Isn't "giving in."}}
+|
+Kerr sometimes describes the emotional conflict pattern as 
+(2 words)
+"{{c1::puntuated disequilibrium}}
+Where (first word) refers to 
+{{c1::the brief closeness phase}}
+|
+In emotional conflict
+A common but unsuccessful strategy for avoiding exhausting arguments:
+{{c1::One person trying not to take the bait}}
+Why it fails:
+{{c1::It only makes the one who wants some type of response angrier - 
+they escalate until the other explodes}}
+|
+3 characteristics of immature parents:
+{{c1::
+1. Automatic, feeling-based reactions
+2. Lack of reason and reflection
+3. Difficulty maintaining appropriate emotional boundaries (distances vs overly intrusive
+}}
+
 ```

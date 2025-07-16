@@ -4,17 +4,17 @@
 - Wed 2025-07-16
 	- [[Gemini Socrates - Outcapped]]
 - Tue 2025-07-15
-	- [[Initial flashcards on family systems]]
+	- [[Bowen family systems - flashcards]]
 	- [[Red-teaming working for Outcapped]]
 	- [[Questioning Effective Altruism]]
 - Mon 2025-07-14
 	- [[Dialectic and Dialogue - Plato's Practice of Philosophical Inquiry (Gonzalez)]]
-	- Continuing [[Initial flashcards on family systems]]
+	- Continuing [[Bowen family systems - flashcards]]
 ### Week of 7th July 
 - Sun 2025-07-13
-	- Continuing [[Initial flashcards on family systems]]
+	- Continuing [[Bowen family systems - flashcards]]
 - Fri 2025-07-11
-	- [[Initial flashcards on family systems]]
+	- [[Bowen family systems - flashcards]]
 - Wed 2025-07-09
 	- [[Resisting the urge to switch to logic or rhetoric]]
 	- [[Second round of learning from Ward Farnworth's book on the Socratic method]]
