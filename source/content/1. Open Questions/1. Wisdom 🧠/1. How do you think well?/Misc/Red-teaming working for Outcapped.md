@@ -6,11 +6,12 @@
 	- *But this is what felt like the right thing to do on day 1 → clarify my current thinking*
 # Cons of working for Outcapped
 ## 1. "It's not very EA"
-> *"It's not an explicitly Effective Altruist-aligned org"*
+> *"It's not an explicitly Effective Altruist-aligned org"* (although their clients so far have included e.g. Bluedot)
 - **Counterpoint** 
-	- I turned down an interview at AISI because 
+	- I turned down an interview at AISI because: 
 		- I just don't care intrinsically about AI safety
 		- I want something remote
+			- And remote EA jobs are rare, and highly competitive!
 - **Another counterpoint** 
 	- I don't intrinsically care about EA → [[Questioning Effective Altruism]]
 ## 2. Opportunity cost
