@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of Bowen Family Systems Theory.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The terrible pedagogy of Bowen Family Systems Theory"
+              "title": "The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ❓\"How can I change how to orient to my family?\" (Open Question)"
+              "title": "Backlinks for The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory"
             }
           },
           {
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ❓\"How can I change how to orient to my family?\" (Open Question)"
+              "title": "Outline of The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory"
             }
           }
         ]
@@ -205,16 +205,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "978b7098d65d1150",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/📎 Files/Images/misc/Pasted image 20250717144517.png",
+    "source/content/📎 Files/Images/misc/Pasted image 20250717142821.png",
+    "source/content/📎 Files/Images/misc/Pasted image 20250717142358.png",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Log per day.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of Bowen Family Systems Theory.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Bowen family systems - flashcards.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Old website intro.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/❓\"How can I improve my ability to think? (Open Question).md",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning examples/International relations/Middle East/Israel & Iran (session 4).md",
     "source/content/index.md",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Microsolidarity crew call 2025-06-25.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Helping family - open questions.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Meta - about the \"how can I help my family\" project.md",
@@ -238,11 +241,8 @@
     "source/README.md",
     "Pasted image 20250709195341.png",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Second round of learning from Ward Farnworth's book on the Socratic method.md",
-    "source/content/1. Open Questions/How should I make money? 💰/Misc/Pandemic Action Network/🧪 Pandemic Action Network.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250709073757.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250708120042.png",
-    "source/content/📎 Files/Images/misc/sasha-tweet-self-identity-cropped.png",
-    "sasha-tweet-self-identity.png",
     "source/content/1. Open Questions/What does it mean to be in ORI? 🔬/Misc",
     "source/content/1. Open Questions/How should I make money? 💰/Misc",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc",
