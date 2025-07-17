@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Bowen family systems - flashcards.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bowen family systems - flashcards"
+              "title": "The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Open Questions/How should I make money? 💰/Misc/Gemini Socrates - Outcapped.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Gemini Socrates - Outcapped"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory"
             }
           },
           {
@@ -165,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory"
             }
           }
         ]
@@ -191,16 +190,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "978b7098d65d1150",
+  "active": "46128be48a6966ff",
   "lastOpenFiles": [
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Bowen family systems - flashcards.md",
+    "source/content/1. Open Questions/How should I make money? 💰/Misc/Gemini Socrates - Outcapped.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Dialectic and Dialogue - Plato's Practice of Philosophical Inquiry (Gonzalez).md",
+    "source/content/index.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Formal Ontology.md",
     "source/content/📎 Files/Images/misc/Formal Ontology.png",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Formal Ontology - books.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Bowen family systems - flashcards.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning techniques/Lemon tree → lemon curd → lemon pie 🍋.md",
-    "source/content/index.md",
     "source/content/📎 Files/Images/misc/This is where the lemons are 🍋.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250717144517.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250717142821.png",
@@ -212,12 +213,10 @@
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Microsolidarity crew call 2025-06-25.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Helping family - open questions.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Meta - about the \"how can I help my family\" project.md",
-    "source/content/1. Open Questions/How should I make money? 💰/Misc/Gemini Socrates - Outcapped.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250716151752.png",
     "source/content/1. Open Questions/How should I make money? 💰/Misc/Working with Rob at Outcapped, parent page.md",
     "source/content/1. Open Questions/How should I make money? 💰/💰 How should I make money?.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Red-teaming working for Outcapped.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Dialectic and Dialogue - Plato's Practice of Philosophical Inquiry (Gonzalez).md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gemini Socrates - part-time vs full-time work.md",
     "Gemini Socrates - Outcapped2.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/11. Manifesto - \"Time to re-assess full-time vs part-time work\".md",
