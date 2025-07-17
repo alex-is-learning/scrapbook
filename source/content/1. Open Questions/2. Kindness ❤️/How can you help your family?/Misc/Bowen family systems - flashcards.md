@@ -1,5 +1,6 @@
 - 2025-07-11 & 2025-07-12
 - Making with the help of Gemini - feeding it a chapter along with my [[My "make flashcards for me" prompt for AI]]
+- [[The terrible pedagogy of Bowen Family Systems Theory]]
 # Intro of "Bowen Theory's Secrets: Revealing the Hidden Life of Families"
 ```
 The first book I read on family systems was by

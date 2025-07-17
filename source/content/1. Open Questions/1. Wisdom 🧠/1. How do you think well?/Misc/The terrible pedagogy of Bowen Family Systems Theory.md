@@ -1,0 +1,7 @@
+- I have scribbled at various points in Michael Kerr's book on Bowen Family Systems theory  that the pedagogy of this theory is *trash*
+	- Both Bowen's original terms, and some of the new ones from Kerr
+- I can imagine writing a post about this, and coming up with a better-formulated theory
+- It's mostly non-intuitive terms (e.g. "differentiation of self", where self is a very loaded word that should be avoided, and every time you read it you have to translate it into what they actually mean. See also Internal Family Systems, which also uses "Self" in a way that is deeply misleading and causes constant issues)
+- Also confusing and misleading redundancy - there are two separate concepts, that Michael Kerr both calls "triangles". This is just... so fucking dumb. I've renamed the second to "triangulation"
+- I think the problem here is the thing of "the pioneer should not also be the one to create the terms, you should find someone where cares about something like memetics, memetic fitness, pedagogy". 
+	- A pioneer, and a map-maker
