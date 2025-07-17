@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory"
+              "title": "index"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
+                "file": "source/content/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory"
+              "title": "Outline of index"
             }
           }
         ]
@@ -205,14 +205,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "275686b801e9ebcf",
   "lastOpenFiles": [
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250717144517.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250717142821.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250717142358.png",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Log per day.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Bowen family systems - flashcards.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Old website intro.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/❓\"How can I improve my ability to think? (Open Question).md",
@@ -242,7 +242,6 @@
     "Pasted image 20250709195341.png",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Second round of learning from Ward Farnworth's book on the Socratic method.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250709073757.png",
-    "source/content/📎 Files/Images/misc/Pasted image 20250708120042.png",
     "source/content/1. Open Questions/What does it mean to be in ORI? 🔬/Misc",
     "source/content/1. Open Questions/How should I make money? 💰/Misc",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc",

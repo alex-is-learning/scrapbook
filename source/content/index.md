@@ -12,7 +12,7 @@ aliases:
 		- [[❓"How can I change how to orient to my family?" (Open Question)]]
 - Old website intro (as the purpose has changed somewhat):
 	- [[Old website intro]]
-## 🪴 Daily learning log
+## 🪴 Daily log
 > [[🪵 Log per day]]
 ## 📹 Learning Twitch Streams
 > [[Learning Twitch Streams]]
