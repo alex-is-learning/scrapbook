@@ -64,3 +64,50 @@
 	- E.g., the idea of a "tree book", vs IFS as akin to a "branch book", that can be essentially summarised in a single sentence? (From Common Cog's "[The Three Types of Books](https://commoncog.com/the-3-kinds-of-non-fiction-book/)")
 - Is Bowen theory a "hard to grok" mess intrinsically, due to complexity, or is Kerr just not a good teacher/theoretician? 
 
+---
+# Feeding this page to Gemini with the following prompt, to see if there are more terms/fields that I'm not aware of, that care about this kind of stuff
+```
+I wrote this - is there a name for this kind of thing, the part of theory that involves making the concepts well labelled, self describing, easy to grok, etc?
+
+I'm wondering if this is partially semiotics, as I believe that the labels they've used for certain concepts aren't good ones
+```
+
+You've raised some insightful critiques about the pedagogical quality of the terminology in Michael Kerr's presentation of Bowen Family Systems Theory. The issues you've identified, such as non-intuitive terms, confusing redundancy, and poor definitions, point to a specific area of theory development that is crucial for its adoption and understanding.
+
+The practice of creating well-labelled, self-describing, and easily understandable concepts within a theory is often discussed under several umbrellas, with **pedagogy** and **memetics** being highly relevant to your analysis.
+
+### **The Role of Pedagogy and Memetics**
+
+- **Pedagogy**: In a broad sense, the pedagogy of a theory concerns the methods and practices of teaching it. Your critique that the theory's terminology is "trash" from a teaching and learning perspective is a direct commentary on its pedagogical weakness. A theory with a strong pedagogical foundation would use terms that are clear, distinct, and intuitive, facilitating comprehension rather than hindering it.
+    
+- **Memetics**: You also touch upon the "memetic fitness" of the theory's concepts. A meme, in this context, is an idea or concept that spreads from person to person. Its "fitness" is its ability to replicate successfully. Terms that are confusing or have misleading connotations, such as "differentiation of self," have low memetic fitness because they are less likely to be understood and transmitted accurately. In contrast, a theory like Internal Family Systems (IFS) may have higher memetic fitness due to its "sticky" core metaphor of an internal family of "parts".
+    
+
+### **Is Semiotics the Right Term?**
+
+You are correct in identifying that **semiotics** is a highly relevant field here. Semiotics is the study of signs and symbols and their use or interpretation. In the context of a theory, the terms chosen are signs that represent complex ideas.
+
+Your critique aligns with semiotics in the following ways:
+
+- **The Signifier and the Signified**: In semiotics, a sign consists of the _signifier_ (the word or symbol, e.g., "differentiation of self") and the _signified_ (the concept it represents, e.g., the ability to be less reactive and more rational). Your argument is that the signifier ("differentiation of self") is a poor choice for the signified because it evokes the wrong "primary association".
+    
+- **Arbitrary Nature of Signs**: While the relationship between a signifier and its signified is often arbitrary, for a theory to be effective, the chosen signifiers should ideally not be misleading. Your frustration with Kerr's terminology stems from the confusing and non-intuitive nature of the chosen terms.
+    
+
+Therefore, your analysis of Bowen theory's terminology through the lens of how well the labels represent the concepts is indeed a semiotic critique.
+
+In addition to pedagogy, memetics, and semiotics, other related concepts include:
+
+- **Nomenclature**: This refers to the system of names or terms used in a particular field. Your proposed renaming of "triangle" to "triangulation" for one of the concepts is an attempt to improve the nomenclature of the theory.
+    
+- **Ontology**: In the context of information science, an ontology is a formal naming and definition of the types, properties, and interrelationships of the entities that exist for a particular domain of discourse. A well-defined ontology would prevent the kind of ambiguity you identified with the term "triangle".
+    
+
+In essence, you are pointing to the failure of the theory's proponents to engage in what might be called "conceptual hygiene" or "terminological best practices," which are crucial for a theory's dissemination and practical application. Your observation that "the pioneer should not also be the one to create the terms" is a sharp insight into the different skill sets required for discovery versus communication and teaching.
+
+# Never heard of "ontology" used in this way, exciting!
+[[Formal Ontology]]
+```
+what could I read to learn about this kind of "ontology"? It sounds like it could be a useful field to know about (that is, ontology), as I'm passionate about knowledge organisation, pedagogy etc
+```
+

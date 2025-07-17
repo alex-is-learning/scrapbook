@@ -5,4 +5,4 @@
 	- *"You pluck a healthy lemon and are like “I’m really pleased with this lemon how it is, but I know I’m gonna need to sweeten it into a curd or something to make other people want it”*
 	- *"My ==public notebook as a load of raw lemons== vs substack as the place to make the curd, and maybe one day I’ll make a lemon meringue pie 🥧"*
 - ![[This is where the lemons are 🍋.png|300]]
-- ☝️ my friend Simmo's lemon photo with the message "fallen lemons" that spurred this idea
+- ☝️ my friend Simmo's lemon photo with the message "fallen lemons 💛" that spurred this idea (someone else replied to "fallen lemons" with "New substack title")

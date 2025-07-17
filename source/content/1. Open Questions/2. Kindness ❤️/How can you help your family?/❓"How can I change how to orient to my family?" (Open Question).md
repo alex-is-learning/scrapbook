@@ -1,3 +1,6 @@
+- 2025-07-17 
+	- Continuing [[Bowen family systems - flashcards]]
+	- Also [[The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory]]
 - 2025-07-15
 	- [[Questioning Effective Altruism]]
 - 2025-07-11
