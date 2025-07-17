@@ -4,6 +4,8 @@
 	- [[❓"How can I change how to orient to my family?" (Open Question)]]
 ## July 2025
 ### Week of 14th July
+- Thur 2025-07-17
+	- [[The terrible pedagogy of Bowen Family Systems Theory]]
 - Wed 2025-07-16
 	- [[Gemini Socrates - Outcapped]]
 - Tue 2025-07-15
