@@ -1,6 +1,7 @@
 - 2025-07-17
 - I'm doing a deep read of this book:
 - ![[Pasted image 20250717142358.png]]
+- (I'm new to Bowen's theory, and I haven't read any of Bowen's writings yet. I was told that this book is the best modern thing to read to get the whole theory)
 - I have scribbled at various points in Michael Kerr's book on Bowen Family Systems theory  that the pedagogy of this theory is *trash*
 	- Both Bowen's original terms, and some of the new ones from Kerr
 - I can imagine writing a post about this, and coming up with a better-formulated theory
@@ -10,6 +11,10 @@
 	- A pioneer, and a map-maker
 # This as a project
 - I probably won't take "trying to improve the pedagogy/memetic fitness of Bowen family systems theory" up as an active project any time soon. But maybe I'll do it in the course of my own grokking of the theory, let's see
+- But then again, maybe I should?
+	- "[Beginners can do things that experts cannot](https://omarshehata.substack.com/p/beginners-can-do-things-that-experts)"
+	- A project of "making family systems easier to grok"
+	- Because e.g., [Kaj has a LessWrong series on IFS](https://www.lesswrong.com/posts/5gfqG3Xcopscta3st/building-up-to-an-internal-family-systems-model). The importance of the *family* seems very under-appreciated/under-talked about. Perhaps there are many people who are like how I was - deeply daunted at the prospect of attempting to "help" their family. Deciding instead to just go off and heal themselves, and still being triggered around their family (e.g., the "if you think you're enlightened, go spend a week with your family" thing). Not to be grandiose, but maybe there's a paradigm shift, a new movement here → family-oriented healing, rather than only personal healing...
 # What is bad?
 ## 1. "Differentiation of self" is a dreadful, misleading term
 - Kerr says:
