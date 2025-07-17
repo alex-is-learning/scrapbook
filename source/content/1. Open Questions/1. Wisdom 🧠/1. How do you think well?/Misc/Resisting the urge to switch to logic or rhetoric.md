@@ -125,7 +125,7 @@ In short, to get the unified, thorough education you're looking for, your best b
 - I haven't mastered the elenchus yet! 
 - I think there's still much more for me to pull out of Ward Farnsworth's book
 - ![[socratic-method-book.jpg|350]]
-- I think I did a pretty good job of learning from this via writing things up at [[🧠 Learning how to think]]
+- I think I did a pretty good job of learning from this via writing things up at [[❓"How can I improve my ability to think? (Open Question)]]
 	- E.g. 	
 		- [[06. Learning the Socratic method, part 1 → the rationale]]
 		- [[07. Learning the Socratic method, part 2 → the "how"]]
