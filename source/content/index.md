@@ -13,7 +13,7 @@ aliases:
 - Old website intro (as the purpose has changed somewhat):
 	- [[Old website intro]]
 ## 🪴 Daily learning log
-> [[🪵 Learning log per day]]
+> [[🪵 Log per day]]
 ## 📹 Learning Twitch Streams
 > [[Learning Twitch Streams]]
 ## 🎤 Collection of voice notes

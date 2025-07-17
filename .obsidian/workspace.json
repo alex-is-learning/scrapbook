@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Old website intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Old website intro"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/❓\"How can I improve my ability to think? (Open Question).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🪵 Learning log per day"
+              "title": "❓\"How can I improve my ability to think? (Open Question)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/❓\"How can I improve my ability to think? (Open Question).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for ❓\"How can I improve my ability to think? (Open Question)"
             }
           },
           {
@@ -164,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/❓\"How can I improve my ability to think? (Open Question).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of ❓\"How can I improve my ability to think? (Open Question)"
             }
           }
         ]
@@ -190,16 +191,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46128be48a6966ff",
+  "active": "ac2605632832bd50",
   "lastOpenFiles": [
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Log per day.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Old website intro.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning examples/International relations/Middle East/Israel & Iran (session 4).md",
     "source/content/index.md",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/❓\"How can I improve my ability to think? (Open Question).md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Microsolidarity crew call 2025-06-25.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Helping family - open questions.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Meta - about the \"how can I help my family\" project.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Old website intro.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Learning log per day.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Bowen family systems - flashcards.md",
     "source/content/1. Open Questions/How should I make money? 💰/Misc/Gemini Socrates - Outcapped.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250716151752.png",
@@ -223,7 +225,6 @@
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Second round of learning from Ward Farnworth's book on the Socratic method.md",
     "source/content/1. Open Questions/How should I make money? 💰/Misc/Pandemic Action Network/🧪 Pandemic Action Network.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Resisting the urge to switch to logic or rhetoric.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/03. Manifesto - \"Why I Should Learn the Socratic Method\".md",
     "source/content/📎 Files/Images/misc/Pasted image 20250709073757.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250708120042.png",
     "source/content/📎 Files/Images/misc/sasha-tweet-self-identity-cropped.png",
