@@ -22,31 +22,17 @@
             }
           },
           {
-            "id": "275686b801e9ebcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning techniques/Lemon tree → lemon curd → lemon pie 🍋.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lemon tree → lemon curd → lemon pie 🍋"
-            }
-          },
-          {
             "id": "978b7098d65d1150",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Formal Ontology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "❓\"How can I change how to orient to my family?\" (Open Question)"
+              "title": "Formal Ontology"
             }
           }
         ],
@@ -124,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning techniques/Lemon tree → lemon curd → lemon pie 🍋.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Formal Ontology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lemon tree → lemon curd → lemon pie 🍋"
+              "title": "Backlinks for Formal Ontology"
             }
           },
           {
@@ -179,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning techniques/Lemon tree → lemon curd → lemon pie 🍋.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Formal Ontology.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lemon tree → lemon curd → lemon pie 🍋"
+              "title": "Outline of Formal Ontology"
             }
           }
         ]
@@ -205,18 +191,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "275686b801e9ebcf",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/index.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning techniques/Lemon tree → lemon curd → lemon pie 🍋.md",
-    "source/content/📎 Files/Images/misc/This is where the lemons are 🍋.png",
+    "source/content/📎 Files/Images/misc/Formal Ontology.png",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Formal Ontology - books.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Formal Ontology.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Bowen family systems - flashcards.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning techniques/Lemon tree → lemon curd → lemon pie 🍋.md",
+    "source/content/index.md",
+    "source/content/📎 Files/Images/misc/This is where the lemons are 🍋.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250717144517.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250717142821.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250717142358.png",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/🪵 Log per day.md",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Bowen family systems - flashcards.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Old website intro.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/❓\"How can I improve my ability to think? (Open Question).md",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning examples/International relations/Middle East/Israel & Iran (session 4).md",
@@ -238,9 +227,7 @@
     "source/content/📎 Files/Images/misc/care guy nosilver rival voices.png",
     "source/content/📎 Files/Images/misc/Care is the number 1 thing, everything is bottlenecked by care.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250714134144.png",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Starting \"Growing Yourself Up - How to Bring Your Best to All of Life's Relationships.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250709195556.png",
-    "source/README.md",
     "Pasted image 20250709195341.png",
     "source/content/1. Open Questions/What does it mean to be in ORI? 🔬/Misc",
     "source/content/1. Open Questions/How should I make money? 💰/Misc",
