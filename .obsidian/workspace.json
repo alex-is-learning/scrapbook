@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning techniques/Lemon tree → lemon curd → lemon pie 🍋.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Lemon tree → lemon curd → lemon pie 🍋"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning techniques/Lemon tree → lemon curd → lemon pie 🍋.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Lemon tree → lemon curd → lemon pie 🍋"
             }
           },
           {
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning techniques/Lemon tree → lemon curd → lemon pie 🍋.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Lemon tree → lemon curd → lemon pie 🍋"
             }
           }
         ]
@@ -207,6 +207,9 @@
   },
   "active": "275686b801e9ebcf",
   "lastOpenFiles": [
+    "source/content/index.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning techniques/Lemon tree → lemon curd → lemon pie 🍋.md",
+    "source/content/📎 Files/Images/misc/This is where the lemons are 🍋.png",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250717144517.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250717142821.png",
@@ -217,7 +220,6 @@
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Old website intro.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/❓\"How can I improve my ability to think? (Open Question).md",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning examples/International relations/Middle East/Israel & Iran (session 4).md",
-    "source/content/index.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Microsolidarity crew call 2025-06-25.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Helping family - open questions.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Meta - about the \"how can I help my family\" project.md",
@@ -240,8 +242,6 @@
     "source/content/📎 Files/Images/misc/Pasted image 20250709195556.png",
     "source/README.md",
     "Pasted image 20250709195341.png",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Second round of learning from Ward Farnworth's book on the Socratic method.md",
-    "source/content/📎 Files/Images/misc/Pasted image 20250709073757.png",
     "source/content/1. Open Questions/What does it mean to be in ORI? 🔬/Misc",
     "source/content/1. Open Questions/How should I make money? 💰/Misc",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc",
