@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Formal Ontology.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formal Ontology"
+              "title": "index"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Formal Ontology.md",
+                "file": "source/content/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Formal Ontology"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Formal Ontology.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Formal Ontology"
+              "title": "Outline of index"
             }
           }
         ]
@@ -191,11 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "978b7098d65d1150",
   "lastOpenFiles": [
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Formal Ontology.md",
     "source/content/📎 Files/Images/misc/Formal Ontology.png",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Formal Ontology - books.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Formal Ontology.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Bowen family systems - flashcards.md",
@@ -228,7 +228,6 @@
     "source/content/📎 Files/Images/misc/Care is the number 1 thing, everything is bottlenecked by care.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250714134144.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250709195556.png",
-    "Pasted image 20250709195341.png",
     "source/content/1. Open Questions/What does it mean to be in ORI? 🔬/Misc",
     "source/content/1. Open Questions/How should I make money? 💰/Misc",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc",

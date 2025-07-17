@@ -7,10 +7,10 @@ aliases:
 -  ![[profile-pic-pixel.png|120]]
 ## Hello!
 - This is my "thinking in public" notebook 😎
-	- [[Lemon tree → lemon curd → lemon pie 🍋]]
 	- My current open questions are:
 		- [[❓"How can I improve my ability to think? (Open Question)]]
 		- [[❓"How can I change how to orient to my family?" (Open Question)]]
+- [[Lemon tree → lemon curd → lemon pie 🍋]]
 - Old website intro (as the purpose has changed somewhat):
 	- [[Old website intro]]
 ## 🪴 Daily log
