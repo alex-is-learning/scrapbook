@@ -188,3 +188,31 @@ Bowen family systems theory
     - Taking the "I-Position"
     - Increasing Differentiation of Self
     - Connecting with Family of Origin
+# Feeding this doc to an LLM and asking what I've missed
+`Given this writeup of what I currently know about Bowen family systems theory, are there any key things that I'm missing, that are essential for a beginner to understand?`
+
+Based on the detailed document you've provided, you have a solid foundational understanding of several core concepts in Bowen family systems theory. Your grasp of the family as an emotional system, the importance of systems thinking over cause-and-effect, the concept of "differentiation of self," and the four patterns of managing anxiety is evident.
+
+However, your own analysis towards the end of the document correctly identifies several key concepts that are essential for a beginner's understanding and that appear to be missing from your current summary. These are primarily the concepts you listed from the LLM prompt that you had not yet covered in your reading.
+
+Here is a summary of the key concepts you appear to be missing, based on your document:
+
+- **Family Projection Process:** You have noted this down but haven't elaborated on it. This is the mechanism by which parents can transmit their emotional problems to a child. It's a crucial concept that builds on the idea of triangulation.
+	 - <span class="text-red">I don't really care about this!</span>
+- **Multigenerational Transmission Process:** This concept is fundamental to Bowen's theory. It describes how patterns of emotional functioning and levels of differentiation are passed down through generations. This process explains how the family projection process can lead to progressively lower levels of differentiation in successive generations.
+	 - <span class="text-red">I don't really care about this!</span>
+	 - <span class="text-red">I've spent enough time thinking about my family to get this, IMO. I can see the family tree and why people are the way they are</span>
+- **Sibling Position:** While you've listed this, your notes don't delve into its significance. Bowen integrated Walter Toman's work on sibling position, suggesting that birth order can influence personality development and is a factor in the roles individuals play within their family emotional system.
+	 - <span class="text-red">I don't really care about this!</span>
+- **Emotional Cutoff:** You've identified emotional distance as a pattern, but emotional cutoff is a more extreme and specific concept in Bowen theory. It describes how people manage unresolved emotional attachments to their family of origin by physically distancing themselves or creating internal emotional walls.
+	 - 🚨
+	 - <span class="text-red">Multiple people in my family have done this, important! Both physically and emotionally</span>
+- **Societal Emotional Process:** This concept extends the principles of family systems to the societal level. It suggests that during periods of chronic societal anxiety, there is a regression towards lower levels of differentiation, leading to instability and increased social problems.
+	 - <span class="text-red">I don't really care about this!</span>
+- **Genograms:** This is the practical tool used by Bowenian therapists to map family structures, relationships, and the flow of emotional processes across generations. Understanding how to create and interpret a genogram is a key practical skill.
+	 - <span class="text-red">I don't really care about this!</span>
+
+In essence, while you have a good grasp of the "micro" level interactions (triangles, differentiation within an individual), these missing pieces explain the "macro" level dynamics – how these patterns perpetuate across generations and even manifest on a societal scale.
+
+Your idea to potentially skip to Part II of Kerr's book, "The Process of Differentiation," is a good one, as it focuses on the practical application of these concepts to increase one's own level of differentiation. This directly aligns with your stated goal of avoiding the "learn, learn, learn" pattern and moving towards application.
+- 🚨 🚨 yeah, this feels like the main "final piece"
