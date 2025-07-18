@@ -4,6 +4,9 @@
 	- [[❓"How can I change how to orient to my family?" (Open Question)]]
 ## July 2025
 ### Week of 14th July
+- Fri 2025-07-18
+	- [[Setting a contractor fee for Outcapped]]
+	- [[Current family project open questions]]
 - Thur 2025-07-17
 	- [[The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory]]
 - Wed 2025-07-16

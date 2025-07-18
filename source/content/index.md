@@ -13,8 +13,10 @@ aliases:
 - [[Lemon tree → lemon curd → lemon pie 🍋]]
 - Old website intro (as the purpose has changed somewhat):
 	- [[Old website intro]]
-## 🪴 Daily log
-> [[🪵 Log per day]]
+## 🪵 Daily log
+> [[Log per day]]
+## 📆 Week reviews
+> [[Week reviews]]
 ## 📹 Learning Twitch Streams
 > [[Learning Twitch Streams]]
 ## 🎤 Collection of voice notes
