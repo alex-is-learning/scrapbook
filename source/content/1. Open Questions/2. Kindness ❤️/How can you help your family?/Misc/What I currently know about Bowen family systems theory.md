@@ -1,12 +1,15 @@
 - 2025-07-18
 - Following on from [[Current family project open questions]]
-- I've probably ~10 hours reading [Kerr's book](https://www.amazon.co.uk/Bowen-Theorys-Secrets-Revealing-Families/dp/0393708128), making flashcards etc
+- I've spent probably ~10 hours reading [Kerr's book](https://www.amazon.co.uk/Bowen-Theorys-Secrets-Revealing-Families/dp/0393708128), making flashcards etc
 	- [[Bowen family systems - flashcards]]
-- I'm wary of the failure mode of "learn, learn, learn", and barely using the knowledge. This has been a huge pattern for me! 99% of the anki flashcards I've ever made, I've ended up deleting, and being like "...why the hell did I think *English medieval history* was the highest leverage thing for me to learn, smh"
-	- [[The Consume-Create Ratio]]
+- I'm wary of the failure mode of "learn, learn, learn", and barely using the knowledge. 
+	- (This has been a huge pattern for me! 99% of the anki flashcards I've ever made, I've ended up deleting, and being like "...why the hell did I think *English medieval history* was the highest leverage thing for me to learn, smh")
 - So, even though part of me is like "but I haven't read the whole book yet!" - feels worthwhile to write up my current understanding (or a summary, at least)
+	- [[The Consume-Create Ratio]]
 # Bowen family theory 
 - Made by Murray Bowen, who started working on it in 1946, worked on it until his death in 1990. Then Michael Kerr became the main guy (they collaborated for years)
+- The first theory to take general systems theory and apply it thoroughly to people/families?
+	- Ludvig von Bertalaffny (general systems theory) and Norbert Wiener (cybernetics) both applied their theories to people, but Murray Bowen actually did this insane 5 long study of families with 1 schizophrenic child where he had the entire nuclear family on a ward, so he could observe their behaviour as a unit (rather than e.g. a therapist who only knows one family member)
 # Main points
 ## 1. The family as a (the?) key emotional system
 - In a thing that rhymes nicely with the "[Extended Mind](https://www.jstor.org/stable/3328150)" hypothesis - our emotional system isn't just a certain part of our brain (uhh, precortex?) - our emotional system includes the system of relationships that we exist in 
@@ -84,6 +87,7 @@
 - ☝️ 🚨 I wonder if I should actually skip to part 2 and read that - 68 pages on how to be more differentiated, how to be a different node in the system
 # Appendix - how to change a system
 ### Ooh, Robert Gilman lecture! 
+- I just made the connection/remembered this lecture, as I was writing this up
 - From this great lecture "[Cultural Co-Evolver: Frameworks, Skillsets, & Strategy for Embodied Action w/ Robert Gilman](https://www.youtube.com/watch?v=QYQK8m_EZLc&t=2s)"
 	- [Slides](https://drive.google.com/drive/u/0/folders/1m6--qRLMuGg1zmm4VKeQ3DkpO87YRRqb)
 - He talks about this exact thing - how to be a "cultural co-evolver". Where, as a human, you are a node in the system of "culture", and you have some agency to change it. But you need to use systems thinking, rather than cause-and-effect/reductionist thinking
