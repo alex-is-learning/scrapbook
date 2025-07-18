@@ -7,6 +7,7 @@
 - Fri 2025-07-18
 	- [[Setting a contractor fee for Outcapped]]
 	- [[Current family project open questions]]
+	- [[What I currently know about Bowen family systems theory]]
 - Thur 2025-07-17
 	- [[The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory]]
 - Wed 2025-07-16

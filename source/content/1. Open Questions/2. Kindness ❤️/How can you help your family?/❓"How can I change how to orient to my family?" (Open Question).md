@@ -1,5 +1,6 @@
 - 2025-07-18
 	- [[Current family project open questions]]
+	- [[What I currently know about Bowen family systems theory]]
 - 2025-07-17 
 	- Continuing [[Bowen family systems - flashcards]]
 	- Also [[The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory]]
