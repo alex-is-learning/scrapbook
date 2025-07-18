@@ -98,6 +98,10 @@
 *Consider a young man who dislikes visiting his parents because they treat him "like a child." He laments, "It is like I never left home." When asked if he acts like a child, he responds, "Yes, and that is what I hate most about going home!"*
 
 *From his individual perspective, he believes his parents cause him to act this way. He's like Huler's "waving tree," but he doesn't recognise the "wind" of the emotional forces he unwittingly helps create. He hasn't considered his heightened emotional reactions to his parents' facial expressions, tone of voice, and other nonverbal cues. It's not just what they say, but also what they react to in his own behaviour and demeanour. Emotions are constantly flowing among all three individuals in this family system.*
+# Other stuff to fold in
+- 2025-07-18 
+	- I just coined the term "*extended* emotional system", which is more self-describing than emotional system (as what it means is, the emotional system of your family)
+	- The 4 patterns of... something. 4 patterns of communication? Not a memorable title at all for something so key
 
 ---
 # Feeding this page to Gemini with the following prompt, to see if there are more terms/fields that I'm not aware of, that care about this kind of stuff

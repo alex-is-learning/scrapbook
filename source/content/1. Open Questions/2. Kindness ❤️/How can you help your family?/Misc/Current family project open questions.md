@@ -1,4 +1,5 @@
 - 2025-07-18
+- Next post is [[What I currently know about Bowen family systems theory]]
 - I'm currently ~100 pages into the main "theory" part of Michael Kerr's book on Bowen family systems theory
 - It's feeling like a slog at the moment, pedagogically poor, schlep-y, but useful
 - But I also feel quite drained at the prospect of spending another ~1-2 weeks grinding my way through the book
