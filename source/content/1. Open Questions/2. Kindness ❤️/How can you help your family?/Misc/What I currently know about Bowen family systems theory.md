@@ -3,9 +3,8 @@
 - I've spent probably ~10 hours reading [Kerr's book](https://www.amazon.co.uk/Bowen-Theorys-Secrets-Revealing-Families/dp/0393708128), making flashcards etc
 	- [[Bowen family systems - flashcards]]
 - I'm wary of the failure mode of "learn, learn, learn", and barely using the knowledge. 
-	- (This has been a huge pattern for me! 99% of the anki flashcards I've ever made, I've ended up deleting, and being like "...why the hell did I think *English medieval history* was the highest leverage thing for me to learn, smh")
 - So, even though part of me is like "but I haven't read the whole book yet!" - feels worthwhile to write up my current understanding (or a summary, at least)
-	- [[The Consume-Create Ratio]]
+	- *(Re: the [[The Consume-Create Ratio]] which is like "for every 3 hours spent learning, spend 1 hour creating")*
 # Bowen family theory 
 - Made by Murray Bowen, who started working on it in 1946, worked on it until his death in 1990. Then Michael Kerr became the main guy (they collaborated for years)
 - The first theory to take general systems theory and apply it thoroughly to people/families?
