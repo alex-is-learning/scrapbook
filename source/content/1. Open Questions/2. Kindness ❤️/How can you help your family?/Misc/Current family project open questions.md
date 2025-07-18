@@ -1,4 +1,5 @@
 - 2025-07-18
+- Older version - [[Helping family - open questions]]
 - Next post is [[What I currently know about Bowen family systems theory]]
 - I'm currently ~100 pages into the main "theory" part of Michael Kerr's book on Bowen family systems theory
 - It's feeling like a slog at the moment, pedagogically poor, schlep-y, but useful
