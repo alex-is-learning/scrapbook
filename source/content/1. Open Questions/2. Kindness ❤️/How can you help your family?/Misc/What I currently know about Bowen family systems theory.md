@@ -56,9 +56,11 @@
 			- People with "pseudo-self" appear to have principles and boundaries, but they're not based on their own principles, they're borrowed from other places (like "the commonplace" - things that are agreed upon by their peer group as correct, without being introspected on)
 				- As such, people with pseudo-self can pivot, can bend, can betray their fake values
 			- People with real self have real values and principles and as such, clear boundaries
+		- "*Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom*"
 ## 5. The four patterns of... conflict?
 - These are called something kind of bland (see [[The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory]])
 - But, there are 4 patterns of... communication, conflict, something
+- *Note - these 4 are Kerr's renames of Bowen's original terms*
 ### Pattern 1: Dominant-adaptive
 - The adaptive person is the one who is making the most changes in order to keep the peace
 - E.g., I let my mum rant at my about my sister. She's not having to change her behaviour, and she doesn't realise how many adaptations I'm making, and how unpleasant it is to do, because I'm good at hiding it
@@ -79,7 +81,7 @@
 - I've only read the first ~100 pages, flashcards of first ~65 pages
 - 👇 I've read up to the start of the "Emotional Regression" chapter
 - ![[kerr-contents.png]]
-- ☝️ I wonder if I should actually skip to part 2 and read that - 68 pages on how to be more differentiated, how to be a different node in the system
+- ☝️ 🚨 I wonder if I should actually skip to part 2 and read that - 68 pages on how to be more differentiated, how to be a different node in the system
 # Appendix - how to change a system
 ### Ooh, Robert Gilman lecture! 
 - From this great lecture "[Cultural Co-Evolver: Frameworks, Skillsets, & Strategy for Embodied Action w/ Robert Gilman](https://www.youtube.com/watch?v=QYQK8m_EZLc&t=2s)"
@@ -126,6 +128,7 @@ The field of study I am concentrating on is:
 Bowen family systems theory
 ```
 
+- *Will use the 🚨 emoji to denote things that sound worth learning*
 - Differentiation of Self
     - Solid Self
     - Pseudo-Self
@@ -140,7 +143,7 @@ Bowen family systems theory
     - Outsider and Insider Positions
     - Triangulation
 - Nuclear Family Emotional System
-    - Undifferentiated Family Ego Mass
+    - Undifferentiated Family Ego Mass 🚨
     - Mechanisms for Handling Anxiety
         - Marital Conflict
         - Dysfunction in One Spouse
@@ -159,10 +162,10 @@ Bowen family systems theory
     - Selection of Mates with Similar Differentiation Levels
     - Progression of Dysfunction Across Generations
 - Emotional Cutoff
-    - Managing Unresolved Emotional Attachment
-    - Denial of Importance of Family
-    - Physical Distance
-    - Internal Walls
+    - Managing Unresolved Emotional Attachment 🚨
+    - Denial of Importance of Family 🚨
+    - Physical Distance 🚨
+    - Internal Walls 🚨
 - Sibling Position
     - Personality Profiles based on Birth Order
     - Functional Position vs. Actual Birth Order
@@ -178,7 +181,7 @@ Bowen family systems theory
         - Family Members
         - Relationship Types (e.g., fused, conflictual, cutoff)
         - Dates and Events
-- Therapeutic Techniques and Goals
+- Therapeutic Techniques and Goals 🚨
     - The Coach Role
     - Detriangulation
     - Asking Process Questions
