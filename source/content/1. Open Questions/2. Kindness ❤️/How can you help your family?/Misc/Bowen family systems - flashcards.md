@@ -1015,3 +1015,31 @@ they escalate until the other explodes}}
 }}
 
 ```
+# Fri 2025-07-18
+```
+Bowen first called the triangulation:
+"{{c1::Impairment of one of more children}}"
+|
+Kerr merges two phrases into "triangulation"
+{{c1::Impairment of one or more children"
+and
+"Family project process"}}
+|
+Kerr's reason for using the term 
+triangle 
+to  cover 
+{{c1::impairment of a child}}
+and 
+{{c1::the family projection process}}
+is 
+{{c2::to emphasize that the dyadic interaction between mother and child 
+occurs in the context of a triangle}}
+|
+Re: which emotional pattern is damaging for a kid:
+{{c1::
+If the dominant-adaptive 
+or emotional conflict
+patterns bind anxiety in the marital relationship, it protects
+the children to some degree 
+it creates less impairment than child focus (triangulation) does}}
+```
