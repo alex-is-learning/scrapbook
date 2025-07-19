@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Helping family - open questions.md",
+                "file": "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/What I currently know about Bowen family systems theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Helping family - open questions"
-            }
-          },
-          {
-            "id": "08f2c99e72a732d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory"
+              "title": "What I currently know about Bowen family systems theory"
             }
           },
           {
@@ -41,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/What I currently know about Bowen family systems theory.md",
+                "file": "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/NVC flashcards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What I currently know about Bowen family systems theory"
+              "title": "NVC flashcards"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,12 +190,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a7fc6d34b54b9b6",
+  "active": "46128be48a6966ff",
   "lastOpenFiles": [
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Current family project open questions.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Helping family - open questions.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/NVC flashcards.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Log per day.md",
+    "Is it silly that I don't meditate?.md",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Bowen family systems - flashcards.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/What I currently know about Bowen family systems theory.md",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Current family project open questions.md",
     "source/content/📎 Files/Images/misc/kerr-contents.png",
     "source/content/📎 Files/Images/misc/emotional-conflict.png",
     "source/content/📎 Files/Images/misc/triangulation.png",
@@ -222,13 +211,11 @@
     "source/content/📎 Files/Images/misc/gilman-1.png",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/What I currently know about Bowen family systems theory.png",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning techniques/The Consume-Create Ratio.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Log per day.md",
     "source/content/index.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Week reviews/Week reviews.md",
     "source/content/1. Open Questions/How should I make money? 💰/Misc/Setting a contractor fee for Outcapped.md",
     "source/content/1. Open Questions/How should I make money? 💰/Misc/Gemini Socrates - Outcapped.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Week reviews",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Bowen family systems - flashcards.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Dialectic and Dialogue - Plato's Practice of Philosophical Inquiry (Gonzalez).md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Formal Ontology.md",
     "source/content/📎 Files/Images/misc/Formal Ontology.png",
@@ -242,7 +229,6 @@
     "source/content/1. Open Questions/How should I make money? 💰/Misc/Working with Rob at Outcapped, parent page.md",
     "source/content/1. Open Questions/How should I make money? 💰/💰 How should I make money?.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Red-teaming working for Outcapped.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gemini Socrates - part-time vs full-time work.md",
     "source/content/1. Open Questions/What does it mean to be in ORI? 🔬/Misc",
     "source/content/1. Open Questions/How should I make money? 💰/Misc",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc",

@@ -4,6 +4,8 @@
 	- [[❓"How can I change how to orient to my family?" (Open Question)]]
 ## July 2025
 ### Week of 14th July
+- Sun 2025-07-20
+	- [[NVC flashcards]]
 - Fri 2025-07-18
 	- [[Setting a contractor fee for Outcapped]]
 	- [[Current family project open questions]]

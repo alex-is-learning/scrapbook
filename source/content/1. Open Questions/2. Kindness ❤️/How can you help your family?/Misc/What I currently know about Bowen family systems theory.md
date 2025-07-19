@@ -106,6 +106,18 @@
 		- E.g., people may not realise how much the system is currently hurting some members of the system, because the members of the system may be hiding their pain
 3. The perceived cost of the change needs to be low
 	- You can help to reduced this cost my communicating well, doing a lot of planning re: implementation, shouldering as much of the work as possible yourself, etc
+
+$$ (\text{Perceived value of new} - \text{Perceived value of old}) > \text{Perceived cost of change} $$
+- So e.g.
+	- (10 - 5) > 4 = TRUE 
+		- New solution is perceived as twice as good as current solution, and trumps the cost of change
+	- (6 - 5) > 3 = FALSE 
+		- New solution is slightly better than old, which isn't enough to trump the cost of change
+	- (3 - 5) > 10
+		- Perceived value of the new solution is actually *lower* than the status quo
+			- You may not have communicated the vision well enough. Or people may not believe it's possible
+		- The "perceived cost of change" is very high
+
 - ![[gilman-5.png]]
 # Appendix - what have I missed?
 - Using this LLM prompt, from [here](https://parconley.com/keyword-map/)
