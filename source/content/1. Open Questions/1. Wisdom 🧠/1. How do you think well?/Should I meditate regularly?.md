@@ -76,7 +76,7 @@
 - ![[goenka-3.jpeg]]
 - 👇 I felt so reborn that I shaved my head on like day 7. Funny to talk to other attendees who were there with me on day 10 and they were like "...you had hair at the start, right??"
 - ![[goenka-4.jpeg]]
-## 4TH EXPOSURE - Stream entry
+## 4TH EXPOSURE - Stream entry - Feb 2024
 - See Substack post - [Consensus-ism part 2](https://alexislearning.substack.com/p/consensus-ism-part-2)
 - I got *explained into* something like a stream entry experience, via repeated Socratic dialogues with some friends who were trying an experimental new technique
 - This perfectly describes what it was like:
@@ -85,8 +85,13 @@
     All this can reverse, where inner life is dramatically reduced. It still comes and goes, but it doesn't grip attention. It's like a veil has been removed between you and the outer world. Reality slaps you in the face, everywhere you look.*
 
 - So, this *really* showed me that there's a "there there", that Buddhism is pointing at empirical things. This happened to me in Feb of 2024 and my life and experience has been radically changed. This shit is real
-- I had a call with Sasha Chapin after this happened → I emailed him like "yoooo, I think the 'deep okayness' thing that you wrote about has happened to me", and we had a great call. He said it sounded like I had a "kensho" experience, which was my first exposure to that idea
-## 5TH EXPOSURE - Jhourney retreat
+- I had a call with Sasha Chapin after this happened → I emailed him like "yoooo, I think the 'deep okayness' thing that you wrote about has happened to me", and we had a great call. He said it sounded like 
+- 👇 My stream entry spot (but it was at night)
+- ![[stream-entry-1.jpeg]]
+- 👇 My stream entry spot, looking the other way
+- ![[stream-entry-2.jpeg]]I had a "kensho" experience, which was my first exposure to that idea
+- 
+## 5TH EXPOSURE - Jhourney retreat - August 2024
 - I did a Jhourney at-home retreat
 - I forget the exact logistics - it may have been ~5 days? 
 - I had either 1 or 2 jhana experiences - I think 2? Although only one remains super salient to me
@@ -98,7 +103,9 @@
 	- I went on a walking meditation and noticed how judgemental I was re: the people I'd see on the streets of Toronto
 		- See a fat person → "ugh, look how fat they are, how can you do that to yourself"
 		- See an old hunched over person → "ugh, imagine letting yourself get that hunched over, why didn't they learn to stretch/do yoga/go to a physio", etc
-## 6TH EXPOSURE → call with Sasha Chapin in Toronto
+- 👇 My sublet in Toronto where I did my Jhourney retreat - such a gorgeous place 🥰
+- ![[toronto-house.jpeg]]
+## 6TH EXPOSURE → call with Sasha Chapin in Toronto - Sep 2024
 - I had a coaching call with him to discuss like "dude, I thought healing was my path, now I feel healed enough, idk what to do now"
 - I asked him to tell me to meditate, and he was like "do open awareness mediation bro"
 # 2. And yet, I'm not a meditator - what's up with that?
@@ -152,6 +159,7 @@
 # 3. Mapping the Gilman equation
 ## 3A - Perceived value of the new
 - Value of meditating. Where could it get me? Different time scales?
+- Why meditate?
 ## 3B - Perceived value of the old
 - Value of the status quo. How I currently live, without meditation
 ## 3C - Perceived cost of the change
