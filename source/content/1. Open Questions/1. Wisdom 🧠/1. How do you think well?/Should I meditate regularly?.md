@@ -157,7 +157,7 @@
 	- (100 - -100) > 20
 	- 200 > 20 = TRUE → huge improvement
 # 3. Mapping the Gilman equation
-## 3A - Perceived value of the new
+## 3A - "Perceived value of the new"
 - Value of meditating. Where could it get me? Different time scales?
 - Why meditate?
 ### Well, what are we talking about here? 
@@ -165,26 +165,67 @@
 - I can imagine something like this:
 #### Path 1 → concentration and metta
 1. Improve shamatha via nostril meditation (2-4 weeks)
-2. Use improved concentration to do metta meditation
+2. Use improved concentration to do metta meditation, TWIM stuff (forgiveness (self and other), lovingkindness)
+3. Return to the Jhourney instructions (that is, do jhana practice)
 #### Benefits of improved shamatha
+- Improved shamatha is the essential prerequisite to everything else
+	- E.g., "want to have a good sit where you generate a good amount of metta? Well, if you're still in 'monkey mind'/'mind as a waterfall' mode, then you'll spend 95% of the sit distracted, and therefore generate barely any metta"
+	- Want to investigate craving and aversion ([Michael Stroe](https://michaelstroe.com/)-style?) - well then, you're gonna need access concentration
 - See how my mind works
 - More motivation to change how my mind works
 	- When you exist in ignorance (moha, one of the 3 defilements), you're blind to how bad things are, so you don't have any motivation to change them
 		- Ignoti nulla cupido
 		- Intellectus sibi permissus
 		- Socratic "double ignorance", which Socrates believed was _the worst thing of all_
-- Improved shamatha is the essential prerequisite to everything else
-	- E.g., "want to have a good sit where you generate a good amount of metta? Well, if you're still in 'monkey mind'/'mind as a waterfall' mode, then you'll spend 95% of the sit distracted, and therefore generate barely any metta"
-
+- The Mind Illuminated, stage 1
+	- ![[tmi-stage-1.png]]
+- The Mind Illuminated, stage 2
+	- ![[tmi-stage-2.png]]
+- The Mind Illuminated, stage 3
+	![[tmi-stage-3.png]]
 #### Benefits of metta
+- This one is pretty obvious actually. The thing is, I've never had a metta practice from a place of also having decent shamatha, so I've only made a little tiny bit of metta, then been distracted as all hell
+- But yeah, lovingkindness, compassion, both for yourself and others, so clearly just a profound state to rest in daily
+- *Especially* if you're someone as habitually judgemental as me
 ## 3B - Perceived value of the old
 - Value of the status quo. How I currently live, without meditation
 ### How is a lack of meditation costing me? 
+#### Ignorance
 - Empirically, I know that when I meditate a lot (e.g., vipassana retreat, Jhourney retreat), I notice how nasty my mind is
 - Therefore, it seems true that my mind is habitually nasty → judgemental, at the very least
 - And to not meditate is to allow this to be the case, unconsciously
+#### Blocker to profound states
+- My lack of access concentration means that 
+	- if I try to e.g. generate metta, I'll be distracted as hell
+	- if I go to the local Buddhist centre - I'm distracted as hell
+	- if I do open awareness practice - I'm distracted as hell
 ## 3C - Perceived cost of the change
 - How costly would it be to meditate? 
 - Well, when I did the "45 Days" course, I reached nostril "access concentration" in <2 weeks
 - So, say I was doing 2 hours of sitting a day (which I don't think I was) → that's ~28 hours to get to a noticeably improved state of concentration, to be conservative
 - That is *very different* from the default story of "oh god, it'd take 1000s of hours of meditation in order to get enlightened"
+# Outcome 
+- Lemme follow "The Mind Illuminated" for a few weeks and improve my shamatha
+- Ooh, I could keep a meditation log on this website! Hype
+## p(Success)?
+- If I follow The Mind Illuminated
+	- High probability that I'll improve my concentration
+		- I've improved it before → 45 Days course, vipassana retreat, Jhourney retreat
+	- I see the benefit of this
+		- Better concentration allows more "juice" from subsequent practices → e.g., instead of trying to do metta but being 99% distracted → if I'm only say, 30% distracted, that's a profound increase
+		- 30 minute metta sit where I'm 99% distracted = 18 seconds of metta experienced
+		- 30 minutes of metta where I'm 80% distracted = 6 minutes of metta experienced
+		- 30 minute metta sit where I'm 30% distracted = 21 minutes of metta experienced
+- ![[mins-metta-experienced.png]]
+# Final insight
+## The two beliefs that have blocked me from meditating regularly
+### 1. Meditation feels non-profound because
+- Because the benefits are blocked by needing to have good concentration
+- And having good concentration requires a daily practice to keep the concentration honed
+### 2. Doing concentration practice feels non-profound because
+- "Concentration isn't where the juice is → it's non-profound, it's not vipassana, it's not metta → focusing on the breath, pure shamatha, won't get you to enlightenment or etc"
+## Reframe
+## 1. Concentration practice is an essential prerequisite
+- Without good concentration, you're totally blocked from experiencing the benefits of other techniques
+- You can't just rush to e.g. metta, because if you're 99% distracted, you won't get anywhere
+- Shamatha is the essential prerequisite. It is 100% worthwhile. Imagine doing a metta sit at 30% distraction, vs 99% distraction. Profound difference
