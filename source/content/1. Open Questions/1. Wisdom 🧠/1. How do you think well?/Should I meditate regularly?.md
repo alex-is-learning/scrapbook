@@ -77,6 +77,7 @@
 - 👇 I felt so reborn that I shaved my head on like day 7. Funny to talk to other attendees who were there with me on day 10 and they were like "...you had hair at the start, right??"
 - ![[goenka-4.jpeg]]
 ## 4TH EXPOSURE - Stream entry
+- See Substack post - [Consensus-ism part 2](https://alexislearning.substack.com/p/consensus-ism-part-2)
 - I got *explained into* something like a stream entry experience, via repeated Socratic dialogues with some friends who were trying an experimental new technique
 - This perfectly describes what it was like:
 > *The background and foreground of experience reverse. 
@@ -114,7 +115,9 @@
 - It feels so daunting, and impossible, and time-consuming, and like the benefits are hidden behind thousands of hours of mundanity, so I get daunted and don't try
 ## Gilman equation
 1. The perceived value of the new needs to be high
+	- (This is what the green arrow signifies → you want to *boost* the perceived value)
 2. The perceived value of the old needs to be trumped by the perceived value of the old
+	- (This this what the red arrow signifies → you want to *lower* the perceived value)
 3. The gained value needs to trump the cost of change
 - ![[gilman-5-equation-of-change.png]]
 ### Perceived value of the new
@@ -125,6 +128,7 @@
 - Need to disfavourably compare this to a life of meditation
 ### Perceived cost of the change
 - This is a key thing for me → as someone who is overly neurotic about wasted time, the perceived cost of meditating loads has been very high. "I can't carve out an hour a day!" etc. 
+### So, my Gilman equation for meditation is something like this:
 
 - ![[Should I meditate regularly? 1.png]]
 - So:
