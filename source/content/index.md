@@ -14,7 +14,7 @@ aliases:
 - Old website intro (as the purpose has changed somewhat):
 	- [[Old website intro]]
 ## 🪵 Daily log
-> [[Log per day]]
+> [[Log per day]] ← <span class="text-red">this is where ~everything goes!</span> 🚨
 ## 📆 Week reviews
 > [[Week reviews]]
 ## 📹 Learning Twitch Streams

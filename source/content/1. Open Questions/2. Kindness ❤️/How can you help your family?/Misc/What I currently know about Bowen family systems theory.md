@@ -98,6 +98,8 @@
 - ![[gilman-4.png]]
 - "*You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.*" -R. Buckminster Fuller
 #### Gilman's equation of change
+- ![[gilman-5-equation-of-change.png]]
+- [[Gilman Equation]]
 - Gilman's equation of change, for changing a system.
 1.  The perceived value of the new needs to be high
 	- You have agency to boost this, via communication/marketing, and working on the new so that it's well thought out
@@ -117,8 +119,6 @@ $$ (\text{Perceived value of new} - \text{Perceived value of old}) > \text{Perce
 		- Perceived value of the new solution is actually *lower* than the status quo
 			- You may not have communicated the vision well enough. Or people may not believe it's possible
 		- The "perceived cost of change" is very high
-
-- ![[gilman-5-equation-of-change.png]]
 # Appendix - what have I missed?
 - Using this LLM prompt, from [here](https://parconley.com/keyword-map/)
 
