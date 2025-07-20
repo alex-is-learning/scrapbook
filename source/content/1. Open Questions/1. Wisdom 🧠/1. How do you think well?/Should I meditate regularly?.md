@@ -38,9 +38,9 @@
 - I really liked this
 - I think it might be trying to "foreground the background", to get you to a non-dual state or stream entry experience
 - Relevant tweets
-	- ![[source/content/📎 Files/Images/misc/Should I meditate regularly?.png]]
+	- ![[Should I meditate regularly? - 1s.png]]
 	- ![[Should I meditate regularly?2.png]]
-	- ![[source/content/📎 Files/Images/misc/Should I meditate regularly?-1.png]]
+	- ![[Should I meditate regularly?-1daf.png]]
 ### I quit the "45 Days to Awakening Course", for... some reason?
 - I forget why... probably some relatively poorly thought out and intuitive thing like "I can't spare 1 hour a day" → neuroticism around "wasted time" is one of my key failure modes
 ## 3RD exposure - 10-day vipassana retreat
