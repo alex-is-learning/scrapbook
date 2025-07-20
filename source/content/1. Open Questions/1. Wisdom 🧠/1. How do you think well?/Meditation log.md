@@ -1,0 +1,5 @@
+- 2025-07-20
+	- Wrote up [[Should I meditate regularly?]] → 4 pomodoros
+	- Convinced myself!
+	- Sit 1 → 30 minutes, focus on the nostrils
+		- [[Ānāpānasati]]

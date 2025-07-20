@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Should I meditate regularly?.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Meditation log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Should I meditate regularly?"
+              "title": "Meditation log"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Should I meditate regularly?.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Meditation log.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Should I meditate regularly?"
+              "title": "Backlinks for Meditation log"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Should I meditate regularly?.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Meditation log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Should I meditate regularly?"
+              "title": "Outline of Meditation log"
             }
           }
         ]
@@ -178,6 +178,9 @@
   },
   "active": "46128be48a6966ff",
   "lastOpenFiles": [
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Ānāpānasati.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Meditation log.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Should I meditate regularly?.md",
     "source/content/📎 Files/Images/misc/mins-metta-experienced.png",
     "source/content/📎 Files/Images/misc/tmi-stage-3.png",
     "source/content/📎 Files/Images/misc/tmi-stage-2.png",
@@ -186,10 +189,8 @@
     "source/content/📎 Files/Images/misc/stream-entry-2.jpeg",
     "source/content/📎 Files/Images/misc/stream-entry-1.jpeg",
     "source/content/📎 Files/Images/misc/goenka-1.jpeg",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Should I meditate regularly?.md",
     "source/content/📎 Files/Images/misc/goenka-4.jpeg",
     "source/content/📎 Files/Images/misc/goenka-3.jpeg",
-    "source/content/📎 Files/Images/misc/goenka-2.jpeg",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/NVC flashcards.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/❓\"How can I improve my ability to think? (Open Question).md",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Log per day.md",
@@ -214,7 +215,6 @@
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning examples/International relations/Middle East/Israel & Iran (session 4).md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Microsolidarity crew call 2025-06-25.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Meta - about the \"how can I help my family\" project.md",
-    "source/content/1. Open Questions/How should I make money? 💰/Misc/Working with Rob at Outcapped, parent page.md",
     "source/content/1. Open Questions/What does it mean to be in ORI? 🔬/Misc",
     "source/content/1. Open Questions/How should I make money? 💰/Misc",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc",
