@@ -21,3 +21,5 @@ aliases:
 > [[Learning Twitch Streams]]
 ## 🎤 Collection of voice notes
 > [[Collection of voice notes]]
+
+![[talking-to-myself.jpg|400]]

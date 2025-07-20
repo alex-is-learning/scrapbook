@@ -1,3 +1,5 @@
+- 2025-07-20 
+	- [[Should I meditate regularly?]]
 - 2025-07-18
 	- [[Current family project open questions]]
 	- [[What I currently know about Bowen family systems theory]]

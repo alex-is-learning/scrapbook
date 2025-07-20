@@ -6,6 +6,7 @@
 ### Week of 14th July
 - Sun 2025-07-20
 	- [[NVC flashcards]]
+	- [[Should I meditate regularly?]]
 - Fri 2025-07-18
 	- [[Setting a contractor fee for Outcapped]]
 	- [[Current family project open questions]]
