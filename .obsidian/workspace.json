@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Meditation log.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gilman Equation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meditation log"
+              "title": "Gilman Equation"
+            }
+          },
+          {
+            "id": "4d77577356b23ac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/What I currently know about Bowen family systems theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What I currently know about Bowen family systems theory"
             }
           }
         ]
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Meditation log.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gilman Equation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Meditation log"
+              "title": "Backlinks for Gilman Equation"
             }
           },
           {
@@ -150,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Meditation log.md",
+                "file": "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gilman Equation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Meditation log"
+              "title": "Outline of Gilman Equation"
             }
           }
         ]
@@ -176,11 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46128be48a6966ff",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Ānāpānasati.md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Meditation log.md",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/What I currently know about Bowen family systems theory.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Log per day.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gilman Equation.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Should I meditate regularly?.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Meditation log.md",
+    "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Ānāpānasati.md",
     "source/content/📎 Files/Images/misc/mins-metta-experienced.png",
     "source/content/📎 Files/Images/misc/tmi-stage-3.png",
     "source/content/📎 Files/Images/misc/tmi-stage-2.png",
@@ -193,10 +210,8 @@
     "source/content/📎 Files/Images/misc/goenka-3.jpeg",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/NVC flashcards.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/❓\"How can I improve my ability to think? (Open Question).md",
-    "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Log per day.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/index.md",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/What I currently know about Bowen family systems theory.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Helping family - open questions.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
     "Is it silly that I don't meditate?.md",
@@ -214,7 +229,6 @@
     "source/content/1. Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Old website intro.md",
     "source/content/1. Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning examples/International relations/Middle East/Israel & Iran (session 4).md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Microsolidarity crew call 2025-06-25.md",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Meta - about the \"how can I help my family\" project.md",
     "source/content/1. Open Questions/What does it mean to be in ORI? 🔬/Misc",
     "source/content/1. Open Questions/How should I make money? 💰/Misc",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc",
