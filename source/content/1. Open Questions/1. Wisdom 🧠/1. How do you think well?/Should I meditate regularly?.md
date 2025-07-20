@@ -104,7 +104,7 @@
 ## It's aversive as hell + I haven't had a coherent story
 - I've never believed a story about meditation, I've never really grokked how useful it can be
 - It feels so daunting, and impossible, and time-consuming, and like the benefits are hidden behind thousands of hours of mundanity, so I get daunted and don't try
-### Gilman equation
+## Gilman equation
 1. The perceived value of the new needs to be high
 2. The perceived value of the old needs to be trumped by the perceived value of the old
 3. The gained value needs to trump the cost of change
@@ -119,5 +119,27 @@
 - This is a key thing for me → as someone who is overly neurotic about wasted time, the perceived cost of meditating loads has been very high. "I can't carve out an hour a day!" etc. 
 
 - ![[Should I meditate regularly? 1.png]]
+- So:
+	- My "perceived value of the new" has been essentially 0, as I haven't grokked the profundity of regular meditation, I don't *believe* it
+	- My "perceived value of the old" is essentially 100 → "this is totally fine and normal"
+	- My "perceived cost of the change" is also essentially 100 → "it'd be a huge time commitment, unsure if I'd even make progress"
+	- (0 - 100) > 100
+	- -100 > 100  = FALSE
+	- There's a hugeeee gulf
 - vs 
 - ![[Should I meditate regularly?-1 1.png]]
+	- Perceived value of the new = 100 
+		- "Holy shit, meditation would be so deeply transformational"
+	- Perceived value of the old = -100
+		- "wow, the status quo is actually super toxic. I'm deeply judgemental, my mind is super scattered, my morality is poor"
+	- Perceived cost of change = 20 
+		- "Sure, big time commitment, but relatively immediate gains"
+	- (100 - -100) > 20
+	- 200 > 20 = TRUE → huge improvement
+# 3. Mapping the Gilman equation
+## 3A - Perceived value of the new
+- Value of meditating. Where could it get me? Different time scales?
+## 3B - Perceived value of the old
+- Value of the status quo. How I currently live, without meditation
+## 3C - Perceived cost of the change
+- How costly would it be to meditate? 
