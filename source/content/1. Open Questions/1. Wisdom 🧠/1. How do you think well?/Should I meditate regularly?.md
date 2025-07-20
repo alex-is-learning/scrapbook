@@ -123,6 +123,7 @@
 - I've never believed a story about meditation, I've never really grokked how useful it can be
 - It feels so daunting, and impossible, and time-consuming, and like the benefits are hidden behind thousands of hours of mundanity, so I get daunted and don't try
 ## Gilman equation
+- [[Gilman Equation]]
 1. The perceived value of the new needs to be high
 	- (This is what the green arrow signifies → you want to *boost* the perceived value)
 2. The perceived value of the old needs to be trumped by the perceived value of the old
