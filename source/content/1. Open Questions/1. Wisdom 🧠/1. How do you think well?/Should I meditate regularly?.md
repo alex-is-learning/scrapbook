@@ -1,13 +1,13 @@
 - 2025-07-20
 # 1. My meditation journey so far
-## 1ST EXPOSURE - Headspace
+## 1ST EXPOSURE - Headspace - 2013
 - I remember being maybe 17 and first hearing about Headspace - this was my first 
 - Probably ~2013
 - Andy Puddicombe TED talk
 - "Ok, cool, it's good for focus, and maybe anxiety - I'm not anxious, but better concentration would be good"
 - I remember signing up for Headspace, using it a bit, thinking it was kinda neat but non-profound
 - "Ok, I guess that's what meditation is! Kinda cool but whatever"
-## 2ND EXPOSURE - Daniel Ingram & "45 Days to Awakening"
+## 2ND EXPOSURE - Daniel Ingram & "45 Days to Awakening" - October 2022
 ### Daniel Ingram
 - At the tail end of 2022, my longest relationship ended after a few years of internal ~torment
 - I went to the EA coworking space "Prague Fall Season". I was mostly very socially anxious and spent 99% of my time alone and found it fairly painful to be there 
@@ -43,7 +43,7 @@
 	- ![[Should I meditate regularly?-1daf.png]]
 ### I quit the "45 Days to Awakening Course", for... some reason?
 - I forget why... probably some relatively poorly thought out and intuitive thing like "I can't spare 1 hour a day" → neuroticism around "wasted time" is one of my key failure modes
-## 3RD exposure - 10-day vipassana retreat
+## 3RD exposure - 10-day vipassana retreat - September 2023
 - I did a 10-day silent Goenka vipassana retreat in Thailand
 - I did ~4-6 hours of meditation per day
 - I didn't do it purely for the meditation - I also took a journal and had some key insights
@@ -68,6 +68,14 @@
 - Once we were allowed to talk again, I noticed disliking a few of the other men, and I had more "meta-cognition", so instead of just thinking that these men sucked, I also noticed myself noticing these things, saw the negative flavour of my mind, how judgemental it is, etc
 - This actually felt worse, like not an upgrade but a downgrade ("ew, I don't like noticing this!"). But it was clearly an insight into my mind, and better than ignorance
 - This realisation, post-retreat, was why I wrote this Substack post → "[The meditation retreat _was_ working](https://alexislearning.substack.com/p/the-meditation-retreat-_was_-working)"
+- 👇 My private hut
+- ![[goenka-1.jpeg]]
+- 👇 Where we ate together, whilst avoiding eye contact, lol
+- ![[goenka-2.jpeg]]
+- 👇 One of the signs
+- ![[goenka-3.jpeg]]
+- 👇 I felt so reborn that I shaved my head on like day 7. Funny to talk to other attendees who were there with me on day 10 and they were like "...you had hair at the start, right??"
+- ![[goenka-4.jpeg]]
 ## 4TH EXPOSURE - Stream entry
 - I got *explained into* something like a stream entry experience, via repeated Socratic dialogues with some friends who were trying an experimental new technique
 - This perfectly describes what it was like:
