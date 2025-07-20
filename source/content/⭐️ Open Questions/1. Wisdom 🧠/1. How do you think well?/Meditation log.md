@@ -1,8 +1,7 @@
 - 2025-07-20
 	- Wrote up [[Should I meditate regularly?]] → 4 pomodoros
-	- Convinced myself![^1]
-	- Sit 1 → 30 minutes, *focus* on the nostrils
+	- Convinced myself!
+	- Sit 1 → 30 minutes, focus on the nostrils
 		- [[Ānāpānasati]]
-
-
-[^1]: This is me testing out the footnotes feature. 
+	- Sit 2 → 20 minutes, nostrils
+		- Very distracted in both of today's sits, of course. But came back to the breath a fair amount

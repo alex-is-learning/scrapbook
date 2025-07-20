@@ -8,6 +8,7 @@
 	- [[NVC flashcards]]
 	- [[Should I meditate regularly?]]
 	- [[Gilman Equation]]
+	- [[Meditation log]]
 - Fri 2025-07-18
 	- [[Setting a contractor fee for Outcapped]]
 	- [[Current family project open questions]]
