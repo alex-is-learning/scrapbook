@@ -160,7 +160,31 @@
 ## 3A - Perceived value of the new
 - Value of meditating. Where could it get me? Different time scales?
 - Why meditate?
+### Well, what are we talking about here? 
+- There are a variety of techniques and approaches
+- I can imagine something like this:
+#### Path 1 → concentration and metta
+1. Improve shamatha via nostril meditation (2-4 weeks)
+2. Use improved concentration to do metta meditation
+#### Benefits of improved shamatha
+- See how my mind works
+- More motivation to change how my mind works
+	- When you exist in ignorance (moha, one of the 3 defilements), you're blind to how bad things are, so you don't have any motivation to change them
+		- Ignoti nulla cupido
+		- Intellectus sibi permissus
+		- Socratic "double ignorance", which Socrates believed was _the worst thing of all_
+- Improved shamatha is the essential prerequisite to everything else
+	- E.g., "want to have a good sit where you generate a good amount of metta? Well, if you're still in 'monkey mind'/'mind as a waterfall' mode, then you'll spend 95% of the sit distracted, and therefore generate barely any metta"
+
+#### Benefits of metta
 ## 3B - Perceived value of the old
 - Value of the status quo. How I currently live, without meditation
+### How is a lack of meditation costing me? 
+- Empirically, I know that when I meditate a lot (e.g., vipassana retreat, Jhourney retreat), I notice how nasty my mind is
+- Therefore, it seems true that my mind is habitually nasty → judgemental, at the very least
+- And to not meditate is to allow this to be the case, unconsciously
 ## 3C - Perceived cost of the change
 - How costly would it be to meditate? 
+- Well, when I did the "45 Days" course, I reached nostril "access concentration" in <2 weeks
+- So, say I was doing 2 hours of sitting a day (which I don't think I was) → that's ~28 hours to get to a noticeably improved state of concentration, to be conservative
+- That is *very different* from the default story of "oh god, it'd take 1000s of hours of meditation in order to get enlightened"
