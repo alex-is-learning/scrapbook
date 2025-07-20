@@ -138,6 +138,7 @@
 	- (0 - 100) > 100
 	- -100 > 100  = FALSE
 	- There's a hugeeee gulf
+### Vs, the shape I could get my Gilman equation into 
 - vs 
 - ![[Should I meditate regularly?-1 1.png]]
 	- Perceived value of the new = 100 
