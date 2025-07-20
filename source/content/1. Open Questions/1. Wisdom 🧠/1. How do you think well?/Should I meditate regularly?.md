@@ -225,7 +225,7 @@
 ### 2. Doing concentration practice feels non-profound because
 - "Concentration isn't where the juice is → it's non-profound, it's not vipassana, it's not metta → focusing on the breath, pure shamatha, won't get you to enlightenment or etc"
 ## Reframe
-## 1. Concentration practice is an essential prerequisite
+### Concentration practice is an essential prerequisite
 - Without good concentration, you're totally blocked from experiencing the benefits of other techniques
 - You can't just rush to e.g. metta, because if you're 99% distracted, you won't get anywhere
 - Shamatha is the essential prerequisite. It is 100% worthwhile. Imagine doing a metta sit at 30% distraction, vs 99% distraction. Profound difference
