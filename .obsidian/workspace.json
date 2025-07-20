@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/2. Kindness ❤️/How can you help your family?/Misc/NVC flashcards.md",
+                "file": "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Meditation log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NVC flashcards"
+              "title": "Meditation log"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/2. Kindness ❤️/How can you help your family?/Misc/NVC flashcards.md",
+                "file": "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Meditation log.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for NVC flashcards"
+              "title": "Backlinks for Meditation log"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/2. Kindness ❤️/How can you help your family?/Misc/NVC flashcards.md",
+                "file": "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Meditation log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NVC flashcards"
+              "title": "Outline of Meditation log"
             }
           }
         ]
@@ -193,9 +193,10 @@
   },
   "active": "4d77577356b23ac3",
   "lastOpenFiles": [
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Meditation log.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Should I meditate regularly?.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/2. How do you learn well?/Log per day.md",
+    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Meditation log.md",
+    "source/content/⭐️ Open Questions/2. Kindness ❤️/How can you help your family?/Misc/NVC flashcards.md",
+    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Should I meditate regularly?.md",
     "source/content/index.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gilman Equation.md",
     "source/content/⭐️ Open Questions/2. Kindness ❤️/How can you help your family?/Misc/What I currently know about Bowen family systems theory.md",
@@ -210,7 +211,6 @@
     "source/content/📎 Files/Images/misc/goenka-1.jpeg",
     "source/content/📎 Files/Images/misc/goenka-4.jpeg",
     "source/content/📎 Files/Images/misc/goenka-3.jpeg",
-    "source/content/⭐️ Open Questions/2. Kindness ❤️/How can you help your family?/Misc/NVC flashcards.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/❓\"How can I improve my ability to think? (Open Question).md",
     "source/content/⭐️ Open Questions/2. Kindness ❤️/How can you help your family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/⭐️ Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Helping family - open questions.md",
