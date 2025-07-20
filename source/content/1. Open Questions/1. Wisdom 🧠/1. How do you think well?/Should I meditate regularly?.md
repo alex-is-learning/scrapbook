@@ -1,4 +1,6 @@
 - 2025-07-20
+- Outcome of writing this → I've convinced myself to give it a proper go! 
+	- [[Meditation log]]
 # 1. My meditation journey so far
 ## 1ST EXPOSURE - Headspace - 2013
 - I remember being maybe 17 and first hearing about Headspace - this was my first 
@@ -231,3 +233,7 @@
 - Without good concentration, you're totally blocked from experiencing the benefits of other techniques
 - You can't just rush to e.g. metta, because if you're 99% distracted, you won't get anywhere
 - Shamatha is the essential prerequisite. It is 100% worthwhile. Imagine doing a metta sit at 30% distraction, vs 99% distraction. Profound difference
+### Similar to cardio
+- Poor cardio blocks e.g. enjoying running, swimming, squats → get exhausted really quickly
+- Good cardio = suffer less
+- Good shamatha = more benefits 
