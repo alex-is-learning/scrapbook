@@ -218,11 +218,13 @@
 		- 30 minute metta sit where I'm 30% distracted = 21 minutes of metta experienced
 - ![[mins-metta-experienced.png]]
 # Final insight
-## The two beliefs that have blocked me from meditating regularly
+## The two unexamined beliefs that have blocked me from meditating regularly
+- I've been operating on two beliefs that are clearly silly and incompatible when viewed clearly:
 ### 1. Meditation feels non-profound because
-- Because the benefits are blocked by needing to have good concentration
-- And having good concentration requires a daily practice to keep the concentration honed
+- "Meditation feels non-profound because whenever I try it, I don't really get anywhere"
+	- E.g., a metta sit doesn't make me feel good. I'm distracted, and I end up feeling like it was a waste of time
 ### 2. Doing concentration practice feels non-profound because
+- "Concentration practice is boring, and non-profound"
 - "Concentration isn't where the juice is → it's non-profound, it's not vipassana, it's not metta → focusing on the breath, pure shamatha, won't get you to enlightenment or etc"
 ## Reframe
 ### Concentration practice is an essential prerequisite
