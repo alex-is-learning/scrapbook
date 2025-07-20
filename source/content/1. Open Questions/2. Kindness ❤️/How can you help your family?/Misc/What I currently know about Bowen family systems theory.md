@@ -118,7 +118,7 @@ $$ (\text{Perceived value of new} - \text{Perceived value of old}) > \text{Perce
 			- You may not have communicated the vision well enough. Or people may not believe it's possible
 		- The "perceived cost of change" is very high
 
-- ![[gilman-5.png]]
+- ![[gilman-5-equation-of-change.png]]
 # Appendix - what have I missed?
 - Using this LLM prompt, from [here](https://parconley.com/keyword-map/)
 

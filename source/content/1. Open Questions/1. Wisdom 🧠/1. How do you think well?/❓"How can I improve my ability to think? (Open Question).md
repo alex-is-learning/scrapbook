@@ -1,5 +1,7 @@
 - *This "learning how to think" project started with me doing a rationality sprint in ~Feb 2025, for ~1 month. Now I'm back!*
 ## Week of 14th July
+- Sun 2025-07-20
+	- [[Should I meditate regularly?]]
 - Wed 2025-07-16
 	- [[Gemini Socrates - Outcapped]]
 - Tue 2025-07-15
