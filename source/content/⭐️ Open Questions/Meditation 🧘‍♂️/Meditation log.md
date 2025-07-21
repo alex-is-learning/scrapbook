@@ -2,6 +2,8 @@
 - Mon 2025-07-21
 	- [[Sit 003 report]] → 20 mins, 08:15
 	- 10:00, did 10 mins → won't make a report because it was short
+	- 23:00, did ~13 mins → super distracted
+		- This is the hardest part of the journey! Super distracted, no clear benefits, feel like I'm failing. But it's ok, it's normal to have very poor shamatha at the start
 ## Week of 14th July
 - Sun 2025-07-20
 	- Wrote up [[Should I meditate regularly?]] → 4 pomodoros
