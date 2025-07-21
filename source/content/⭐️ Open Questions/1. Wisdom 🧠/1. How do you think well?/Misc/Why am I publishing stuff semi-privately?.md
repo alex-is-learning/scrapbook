@@ -203,7 +203,17 @@
 ## Excitements for returning to YouTube
 - I didn't talk about tpot, post-rationalism, my overall journey, my substack, etc. I was just "guy who was born 1 month ago and is trying to make music". No talk about my previous life (although it did come out in songs, of course)
 - I can imagine that embracing much more of my life, not feeling like I have to be in a "niche", could feel really great
-
+# Possible next steps
+- Maybe writing this has been enough to jump start me 
+- But, 3 things I could do:
+	1. Get more clear on the "what I'm doing and why it's cool and worth sharing" thing
+	2. Get more clear on the "how great it'd be to combine all my internet personas into one" thing
+	3. Do the Gilman Equation more thoroughly?
+- I guess the question is - am I convinced? Do I need to think about it more?
+	- I'm definitely convinced enough to foreground this as a priority to think about more
+	- I imagine this'll be on my mind for the next few days
+	- But overall, it feels like "duh, I really like this website, and the lack of twitter/youtube for a while has meant that I've kind of 'disappeared', and at some point I know I'd like to reappear and give creating stuff a proper go again"
+	- So the idea of unifying all my disparate shit, returning to making youtube videos (which I really enjoy), talking about all the shit I'm currently on, etc, sounds great
 
 ---
 [^1]: I say "adult" because I don't know if I can really call myself an adult yet. I think I'm getting there, and have made a bunch of progress in the last ~2 years. I think maybe currently in the painful "Kegan stage 3 to Kegan stage 4" transition.
