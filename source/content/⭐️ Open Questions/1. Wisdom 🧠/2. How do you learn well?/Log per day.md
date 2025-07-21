@@ -6,6 +6,7 @@
 ### Week of 21st July
 - Mon 2025-07-21
 	- [[Why am I publishing stuff semi-privately?]]
+	- [[Prepping for thinking tutor]]
 ### Week of 14th July
 - Sun 2025-07-20
 	- [[NVC flashcards]]
