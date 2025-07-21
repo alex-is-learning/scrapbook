@@ -6,7 +6,7 @@ aliases:
 - *My main website is [here](https://www.alexislearning.me/)*
 -  ![[profile-pic-pixel.png|120]]
 ## Hello!
-- This is my "thinking in public" notebook 😎
+- This is my "thinking in public" notebook 😎 Inspired by [Defender of Basic's similar site](https://defenderofbasic.github.io/notebook/)
 	- My current open questions are:
 		- [[❓"How can I improve my ability to think? (Open Question)]]
 		- [[❓"How can I change how to orient to my family?" (Open Question)]]
@@ -15,8 +15,7 @@ aliases:
 	- [[Old website intro]]
 ## 🪵 Daily log
 > [[Log per day]] ← <span class="text-red">this is where ~everything goes!</span> 🚨
-## 📆 Week reviews
-> [[Week reviews]]
+- [[Meditation log]]
 ## 📹 Learning Twitch Streams
 > [[Learning Twitch Streams]]
 ## 🎤 Collection of voice notes

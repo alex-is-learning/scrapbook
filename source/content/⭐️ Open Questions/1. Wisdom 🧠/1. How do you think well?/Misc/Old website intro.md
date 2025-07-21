@@ -3,6 +3,7 @@
 - This website is me learning how to think via [[Top-down learning]], vs the [[Bottom-up learning]] that I've almost entirely used *up** until this point
 - This is inspired by [this post by Defender of Basic](https://defenderofthebasic.substack.com/p/geoffrey-hinton-on-developing-your). 
 - Kickoff post with a quick sketch of why I'm doing this - [here](https://www.alexislearning.me/learning-how-to-think/)
+- Here is Defender of Basic's [similar notebook](https://defenderofbasic.github.io/notebook/)
 # Why deprecated? 
 - I initially was excited to improve my world model via making predictions, and then cashing them out (that is, top-down learning)
 - E.g., the Israel-Iran series
