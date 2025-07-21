@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/Meditation 🧘‍♂️/Sit 003 report.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sit 003 report"
+              "title": "index"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/Meditation 🧘‍♂️/Sit 003 report.md",
+                "file": "source/content/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sit 003 report"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/Meditation 🧘‍♂️/Sit 003 report.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sit 003 report"
+              "title": "Outline of index"
             }
           }
         ]
@@ -176,16 +176,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "46128be48a6966ff",
   "lastOpenFiles": [
+    "source/content/⭐️ Open Questions/1. Wisdom 🧠/2. How do you learn well?/Log per day.md",
+    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/06. Learning the Socratic method, part 1 → the rationale.md",
+    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/05. Learning the Socratic method, part 1 → the rationale (WIP).md",
+    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/08. Enneagram 3 thinking sins.md",
+    "source/content/index.md",
+    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How can I operate from a place of uncertainty?.md",
+    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/❓\"How can I improve my ability to think? (Open Question).md",
+    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/03. Manifesto - \"Why I Should Learn the Socratic Method\".md",
+    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/04. Path to becoming Socratic (AKA, what I don't know yet).md",
+    "source/content/⭐️ Open Questions/Meditation 🧘‍♂️/Sit 003 report.md",
     "source/content/📎 Files/Images/IMG_2116.jpg",
     "source/content/⭐️ Open Questions/Meditation 🧘‍♂️/Meditation log.md",
-    "source/content/⭐️ Open Questions/Meditation 🧘‍♂️/Sit 003 report.md",
     "source/content/📎 Files/Images/meditation-setup-1.jpg",
     "source/content/⭐️ Open Questions/Meditation log/Untitled",
     "source/content/⭐️ Open Questions/Meditation 🧘‍♂️",
-    "source/content/index.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/2. How do you learn well?/Log per day.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Old website intro.md",
     "source/content/⭐️ Open Questions/2. Kindness ❤️/How can you help your family?/Misc/NVC flashcards.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Should I meditate regularly?.md",
@@ -200,8 +207,6 @@
     "source/content/📎 Files/Images/misc/stream-entry-2.jpeg",
     "source/content/📎 Files/Images/misc/stream-entry-1.jpeg",
     "source/content/📎 Files/Images/misc/goenka-1.jpeg",
-    "source/content/📎 Files/Images/misc/goenka-4.jpeg",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/❓\"How can I improve my ability to think? (Open Question).md",
     "source/content/⭐️ Open Questions/2. Kindness ❤️/How can you help your family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/⭐️ Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Helping family - open questions.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
@@ -211,12 +216,7 @@
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning techniques/The Consume-Create Ratio.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Week reviews/Week reviews.md",
     "source/content/⭐️ Open Questions/How should I make money? 💰/Misc/Setting a contractor fee for Outcapped.md",
-    "source/content/⭐️ Open Questions/How should I make money? 💰/Misc/Gemini Socrates - Outcapped.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Week reviews",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Dialectic and Dialogue - Plato's Practice of Philosophical Inquiry (Gonzalez).md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Formal Ontology.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Formal Ontology - books.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning techniques/Lemon tree → lemon curd → lemon pie 🍋.md",
     "source/content/⭐️ Open Questions/What does it mean to be in ORI? 🔬/Misc",
     "source/content/⭐️ Open Questions/How should I make money? 💰/Misc",
     "source/content/⭐️ Open Questions/2. Kindness ❤️/How can you help your family?/Misc",
