@@ -14,6 +14,7 @@
 - At the tail end of 2022, my longest relationship ended after a few years of internal ~torment
 - I went to the EA coworking space "Prague Fall Season". I was mostly very socially anxious and spent 99% of my time alone and found it fairly painful to be there 
 - I met a group of post-rationalists who, when I was saying that my aversion to Effective Altruism was partially due to feeling like it's all about preventing things rather than helping people (a total strawman, but you know) (also something I recently revisited in [[Questioning Effective Altruism]]) - said "oh, that's kind of what the post-rationalist scene is about, and it sounds like Buddhism would be worth you looking into"
+	- [[Tpot, post-rationalism]]
 - I was recommended Daniel Ingram's "Mastering the Core Teachings of the Buddha". I went back to England, made flashcards from the first ~100 pages of the book, got my head around things like shamatha vs vipassana, insight, sila etc, general stuff about the Eight Fold Path. 
 - Imagine my surprise to learn that meditation isn't just the Headspace thing of "improve your concentration and worry less" (which didn't resonate with me - it felt more aimed at idk, American workaholics who knew that they were actively stressed out)
 - Also, things like "enlightenment is real, and totally attainable - Daniel Ingram is an enlightened medical doctor", etc

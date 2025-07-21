@@ -3,6 +3,9 @@
 	- [[❓"How can I improve my ability to think? (Open Question)]]
 	- [[❓"How can I change how to orient to my family?" (Open Question)]]
 ## July 2025
+### Week of 21st July
+- Mon 2025-07-21
+	- [[Why am I publishing stuff semi-privately?]]
 ### Week of 14th July
 - Sun 2025-07-20
 	- [[NVC flashcards]]
