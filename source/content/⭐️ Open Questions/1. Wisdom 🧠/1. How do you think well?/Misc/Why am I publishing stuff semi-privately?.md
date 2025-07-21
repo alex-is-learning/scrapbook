@@ -24,6 +24,7 @@
 - Omg I totally forgot about this, lmao
 - I remember being in my primary school uniform, and filming myself playing the "[Old Snake](https://www.youtube.com/watch?v=_k3n5me4Rns)" theme from Metal Gear Solid 4 on my classical guitar, right way back when when I couldn't actually play the guitar
 - I remember an adult commenting on it like "you're not very good, are you", lmao
+- Omg, me and my friend at primary school also made videos of us skateboarding, this also just came back to me. I remember editing them on Windows Movie Maker at school and showing them to our class, lmao. Probably with Green Day as the backing track. (We were shit at skateboarding, lol)
 #### 2. Vlogging as a teenager
 - I made maybe 3 vlogs as a teenager, and liked it. However, was definitely scary! I remember getting a few comments, and someone commenting like "hey, come back :(" when I stopped posting, which was cute
 - One involved me on a walk during a rare snow day - I remember filming me opening the curtains and going "it's snowing!!", and filming myself making a snow angel, and then talking at the camera as I walked by the river
@@ -41,9 +42,17 @@
 	- Feeling like you don't have anything "interesting" to say. Unlike the "big accounts" that you follow, who have an established POV, a feedback loop, etc, you're just some random dude
 ##### Vipassana retreat → insight
 - During my 10 day retreat, I had the update of "oh, I want to have creative expression, I want to have a voice"
+##### Tweeting way more, and starting a substack
 - So, after the retreat, I started tweeting a bunch
 - I quickly made some nice "mutuals" (people who, you reply to their stuff, they reply to your stuff, now you're friends and support each other)
 - Twitter with mutuals immediately feels wayyyy better. From "tweeting into the void" to "tweeting to my 5-20 people who I interact with ~daily"
+- I also made a Substack
+	- First post, "[Paper journaling is better, actually*](https://alexislearning.substack.com/p/paper-journaling-is-better-actually)" → because I did a bunch of paper journaling during the meditation retreat
+		- This reminded me how much I love writing! 
+		- I was always weirdly good at writing, like at school I was (if I do say so myself) the best in my class all the way up to A Level, and it was always just effortless somehow
+			- There's a Sasha Chapin thing about "if you're wondering what you're talented at, just ask yourself 'what do you think other people are weirdly bad at'"
+		- And also, look at me recording myself reading my first ever Substack post out loud, lol. I have a big "attention seeker" side. Call it being a Leo, or an Enneagram 3, or something. 
+	- Then I wrote "[Consensus-ism (part 1)](https://alexislearning.substack.com/p/consensus-ism-part-1)" (400 views, nice!), "[My 10-day silent meditation retreat didn't work*](https://alexislearning.substack.com/p/my-10-day-silent-meditation-retreat)", "[The meditation retreat _was_ working](https://alexislearning.substack.com/p/the-meditation-retreat-_was_-working)"
 - Sadly this twitter account eventually got suspended because they thought I was a bot, I think because I was using a VPN and working from public library wifi in Toronto
 - [Substack about this](https://alexislearning.substack.com/p/i-got-suspended-from-twitter-and)
 ### 2. Youtube as an adult
