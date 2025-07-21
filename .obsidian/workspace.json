@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Why am I publishing stuff semi-privately?"
             }
+          },
+          {
+            "id": "ad36ca9927e8d085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gilman Equation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gilman Equation"
+            }
           }
         ]
       }
@@ -176,11 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "46128be48a6966ff",
   "lastOpenFiles": [
+    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gilman Equation.md",
+    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Why am I publishing stuff semi-privately?.md",
     "source/content/⭐️ Open Questions/Meditation 🧘‍♂️/Tpot, post-rationalism.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Should I meditate regularly?.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Why am I publishing stuff semi-privately?.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Self-anthropology.md",
     "source/content/📎 Files/Images/Why am I publishing stuff semi-privately?.png",
     "source/content/Week Reviews/Week of 14th July 2025.md",
@@ -190,7 +205,6 @@
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Week reviews/Week reviews.md",
     "source/content/Week Reviews",
     "source/content/⭐️ Open Questions/How should I make money? 💰/Misc/Working with Rob at Outcapped, parent page.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gilman Equation.md",
     "source/content/index.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/06. Learning the Socratic method, part 1 → the rationale.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/05. Learning the Socratic method, part 1 → the rationale (WIP).md",
