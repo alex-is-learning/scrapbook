@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week of 21st July 2025.md",
+                "file": "source/content/Week Reviews/Week of 21st July 2025.md",
                 "mode": "source",
                 "source": false
               },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week of 21st July 2025.md",
+                "file": "source/content/Week Reviews/Week of 21st July 2025.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week of 21st July 2025.md",
+                "file": "source/content/Week Reviews/Week of 21st July 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,10 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46128be48a6966ff",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Week reviews/Week reviews.md",
-    "Week of 21st July 2025.md",
+    "source/content/Week Reviews/Week of 21st July 2025.md",
     "source/content/Week Reviews/Week of 14th July 2025.md",
     "source/content/Week Reviews",
     "source/content/⭐️ Open Questions/How should I make money? 💰/Misc/Working with Rob at Outcapped, parent page.md",

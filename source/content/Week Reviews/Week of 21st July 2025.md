@@ -13,9 +13,11 @@
 		1. Founder’s Associate, cool role, but… dreadful pay? Maybe only full time?
 	3. **High Impact Professionals** → special database for finalists of highly competitive hiring rounds
 	4. Personal invitation to apply for Operations role at **Probably Good**
-- Find other things! Look on 80,000 Hours etc
+- Find other things! Look on 80,000 Hours etc, EAG London Slack
 ## 3. Soul/family
 1. First session with a systemic/family therapist, today! (Just me for now)
 2. Continue learning NVC
 ## 4. Friends
 - Microsolidarity crew call 
+## 5. Health
+- Continue my health stack - swimming, 10000+ steps, chronometer
