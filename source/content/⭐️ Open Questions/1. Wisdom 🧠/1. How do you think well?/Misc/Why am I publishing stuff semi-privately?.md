@@ -19,7 +19,7 @@
 	- [[Self-anthropology]]
 - Also kinda inspired by [[Should I meditate regularly?]] yesterday, where I found it really useful (and fun) to gather all my previous experiences with meditation, before then tackling the "why am I not doing it right now, and should I?" question
 ## 3a. No emotional blocks, just a kid
-- *Feel free to skip this bit - not particularly relevant, just fun for me to go down memory lane*
+- *<span class="text-red">Feel free to skip this bit - not particularly relevant, just fun for me to go down memory lane</span>*
 ### 1. First ever youtube video - me as a ~10 year old playing the guitar
 - Omg I totally forgot about this, lmao
 - I remember being in my primary school uniform, and filming myself playing the "[Old Snake](https://www.youtube.com/watch?v=_k3n5me4Rns)" theme from Metal Gear Solid 4 on my classical guitar, right way back when when I couldn't actually play the guitar
@@ -221,6 +221,14 @@
 	- I imagine this'll be on my mind for the next few days
 	- But overall, it feels like "duh, I really like this website, and the lack of twitter/youtube for a while has meant that I've kind of 'disappeared', and at some point I know I'd like to reappear and give creating stuff a proper go again"
 	- So the idea of unifying all my disparate shit, returning to making youtube videos (which I really enjoy), talking about all the shit I'm currently on, etc, sounds great
+# Youtube merger!
+## Goodbye "Alex is Creating (Finally!)"
+- ![[alex is creating.png]]
+## Hello [error]
+- Damnit, it won't let me rename??
+- But at least I've modernised/standardised my profile pic, and updated the handle
+- ![[damnit, wont let me rename.png]]
+
 
 ---
 [^1]: I say "adult" because I don't know if I can really call myself an adult yet. I think I'm getting there, and have made a bunch of progress in the last ~2 years. I think maybe currently in the painful "Kegan stage 3 to Kegan stage 4" transition.
