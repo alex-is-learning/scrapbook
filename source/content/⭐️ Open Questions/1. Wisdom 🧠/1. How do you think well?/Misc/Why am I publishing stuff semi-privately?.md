@@ -2,12 +2,10 @@
 # 1. Bump from my friend Simmo
 - I shared the following screenshot in my triad group chat and got a voice note reply from Simmo:
 	- ![[Why am I publishing stuff semi-privately?.png]]
-	- Voice note audio:
-		- 
 	- *"Awesome, Alex - yeah, I’m curious, why is that you’re ==publishing less publicly than substack?=="*
 	- *"My sense is that at least a quarter of this stuff, somewhere between 25%-75% of the stuff you publish on your personal site, would be ==really good content== 
 		- *it's quite ==unique==, it's really ==analytical==, it's very ==skilled== and shows people how to ==think==, as well as shows people the content of the stuff that you're ==learning==,* 
-		- *and [redacted] and I often find it really valuable - even though we're much closer to you (maybe we're a target audience in the way because we know you), but I think there's a ==bigger target audience than you maybe realise=="*
+		- *and [our mutual friend] and I often find it really valuable - even though we're much closer to you (maybe we're a target audience in the way because we know you), but I think there's a ==bigger target audience than you maybe realise=="*
 	- *"I guess my value proposition is like*
 		- *if it feels as ==frictionless== to post some of this stuff more publicly 
 		- *you can build a ==following==, and you can build an extra ==revenue== stream ultimately if you build a following,*
@@ -32,7 +30,8 @@
 #### 3. Tweeting during school
 - I tweeted loads during school, to essentially no one, lol
 ### Emotional blocks as an "adult"[^1]
-#### 1. Being a tpot lurker
+#### 1. Post-rationalist Twitter & Substack
+##### Being a lurker
 - I discovered the post-rationalist/tpot space (see [[Should I meditate regularly?]])
 	- [[Tpot, post-rationalism]]
 - Around the age of 26
@@ -55,15 +54,15 @@
 	- Then I wrote "[Consensus-ism (part 1)](https://alexislearning.substack.com/p/consensus-ism-part-1)" (400 views, nice!), "[My 10-day silent meditation retreat didn't work*](https://alexislearning.substack.com/p/my-10-day-silent-meditation-retreat)", "[The meditation retreat _was_ working](https://alexislearning.substack.com/p/the-meditation-retreat-_was_-working)"
 - Sadly this twitter account eventually got suspended because they thought I was a bot, I think because I was using a VPN and working from public library wifi in Toronto
 - [Substack about this](https://alexislearning.substack.com/p/i-got-suspended-from-twitter-and)
-### 2. Youtube as an adult
-#### Attempting to appear in videos with Simmo
+#### 2. Youtube as an adult
+##### Attempting to appear in videos with Simmo
 - Me and Simmo worked on a youtube channel in Asia for a little bit
 - I tried recording myself for one video and I was just so stilted and awkward lol, it was a total no go
-#### ~Stream entry to the rescue
+##### ~Stream entry to the rescue
 - I had my ~stream entry experience (see [[Should I meditate regularly?]])
 - And then immediately, my adult fear of being in front of the camera dropped to 0, as I no longer had social anxiety
 - Made a vlog of me at Life Itself in France (where I was living at the time) and was just totally chill
-#### Making music/vlogs - "Alex is Creating Things (Finally!)"
+##### Making music/vlogs - "Alex is Creating Things (Finally!)"
 - [Tada](https://www.youtube.com/@alexiscreatingthings)! (Youtube channel)
 - I realised that I wanted to try making music and vlogs
 - There was an initial block of like "oh god, but I'm shit at music"
@@ -74,6 +73,21 @@
 - It felt kind of cringe posting from a place of low status ("I've moved back in with my mum and I don't know what I'm doing with my life!"), but there was a much stronger feeling of (1) pride (2) excitement (this rules, I couldn't do this before, this feels so easy!) (3) creative expression
 - I stopped posting when my "oh yes, I definitely want to make music, that's my 'thing'" story stopped feeling true (which kind of happened because I got my first ever "fan email" and was like "huh, this is kinda nice, but... idk if I care anymore?")
 ## 2b. Current emotional blocks
+### Returning to YouTube
+#### Block 1 - "Gear change!"
+- I got to ~400 subscribers during my "Alex is Creating Things (Finally!)" era, as a very particular version of myself 
+	- the Alex who was leaning into creative expression, making music for the first time, etc
+	- There was no mention of other "eras", e.g. post-rationalism/tpot
+	- So I've felt some aversion to returning and being like "actually that was only a part of me and now I want to share totally different things" (like e.g., the stuff I've been writing about on here
+##### Counterpoint - who gives a shit
+- I can literally make a video that's like "hey, so that was me in a very particular era, now my interests have shifted somewhat, here's what I'm currently thinking about"
+#### Block 2 - feel bad to have just disappeared
+- Had a few people comment like "hey, where did you go? :(" and "where did your videos go?" (because I hid a bunch of them for a bit, because they felt low status whilst I was in my "Effective Altruist job-hunting era)
+- I feel bad that ~400 people followed me and I just stopped uploading without a goodbye
+##### Counterpoint - who gives a shit
+- I was a tiny channel, and one channel amongst probably millions
+- I wouldn't have broken anyone's heart by stopping posting. Some people may have been like "aw man, I was enjoying your 'song a day' series!" (and they commented as such!), but then within 5 minutes they'd be on to the next thing
+
 
 
 
