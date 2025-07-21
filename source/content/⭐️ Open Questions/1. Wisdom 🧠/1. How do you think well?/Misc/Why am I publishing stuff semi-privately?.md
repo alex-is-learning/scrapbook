@@ -38,11 +38,12 @@
 	- [[Tpot, post-rationalism]]
 - Around the age of 26
 - But I was a lurker for a good long while - for whatever reason I didn't want to tweet
-- I think lurker-ism comes down to:
+	- I was pre-stream entry - socially anxious, kinda sad, etc
+- I think lurker-ism came down to:
 	- Feeling like a nobody
 	- Feeling like you don't have anything "interesting" to say. Unlike the "big accounts" that you follow, who have an established POV, a feedback loop, etc, you're just some random dude
 #### B) Vipassana retreat → insight
-- During my 10 day retreat, I had the update of "oh, I want to have creative expression, I want to have a voice"
+- During my 10 day retreat, I had the update of "oh, I want to have creative expression, I want to have a voice! I have things to say!"
 #### C) Tweeting way more, and starting a substack
 - So, after the retreat, I started tweeting a bunch
 - I quickly made some nice "mutuals" (people who, you reply to their stuff, they reply to your stuff, now you're friends and support each other)
@@ -177,10 +178,11 @@
 	- That encourages me to keep going, makes it feel more collaborative/community-based
 	- I grow a following
 	- That makes doing what I'm doing even more fun
+	- It even makes money at some point?
 	- Etc
 - I think I've already kind of solved the hardest bits:
-	- 1. "What should I make content about" → I'm already making stuff daily
-	- 2. "I'm scared of publishing publicly" → I'm not! 
+	- 1. "**What should I make content about**" → I'm already making stuff daily. I've honed my "what matters to me" compass a *lot* over the past few years. From "I have no preferences" to "I know what is important for me to work on right now"
+	- 2. "**I'm scared of publishing publicly**" → I'm not! 
 	- It feels like I'm already most of the way there, and now it's just the "solve for distribution" thing
 - Synthesising all my interests into one ~project
 	- Rather than youtube just being for making music, it's for whatever I'm thinking about
@@ -195,6 +197,7 @@
 ## "The perceived cost of the change"
 - "I feel blocked re: posting to youtube" → this now feels resolved, as I've brought the blockers to the light, and they're not a big deal
 - I have the video editing skills from the last time I did it → just need to dust them off, no big deal
+- I need to figure out how to tweet more...
 ### Unify my online presence! 
 - "Twitter and Substack Alex" haven't met "YouTube Alex", those "audiences" are totally different
 - Merge them all under the "Alex is Learning" banner
@@ -205,10 +208,14 @@
 - I can imagine that embracing much more of my life, not feeling like I have to be in a "niche", could feel really great
 # Possible next steps
 - Maybe writing this has been enough to jump start me 
-- But, 3 things I could do:
+- But, 5 things I could do:
 	1. Get more clear on the "what I'm doing and why it's cool and worth sharing" thing
 	2. Get more clear on the "how great it'd be to combine all my internet personas into one" thing
+		1. And then do it!
 	3. Do the Gilman Equation more thoroughly?
+	4. Return to youtube! Post a video! 
+	5. Figure out how to tweet more?
+		- I think finding mutuals who I'm excited to talk with is key. I feel like I've diverged from my previous mutuals? I'm not the same Alex that I was back then - I was a total "vibes" tweet, emotional vulnerability, "idk what I'm doing but I'm vibing"-type guy. I feel more mature now, and kinda more disagreeable
 - I guess the question is - am I convinced? Do I need to think about it more?
 	- I'm definitely convinced enough to foreground this as a priority to think about more
 	- I imagine this'll be on my mind for the next few days
