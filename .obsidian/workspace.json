@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "Week of 21st July 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Week of 21st July 2025"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "Week of 21st July 2025.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Week of 21st July 2025"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "Week of 21st July 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Week of 21st July 2025"
             }
           }
         ]
@@ -178,11 +178,17 @@
   },
   "active": "46128be48a6966ff",
   "lastOpenFiles": [
+    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Week reviews/Week reviews.md",
+    "Week of 21st July 2025.md",
+    "source/content/Week Reviews/Week of 14th July 2025.md",
+    "source/content/Week Reviews",
+    "source/content/⭐️ Open Questions/How should I make money? 💰/Misc/Working with Rob at Outcapped, parent page.md",
+    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gilman Equation.md",
+    "source/content/index.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/2. How do you learn well?/Log per day.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/06. Learning the Socratic method, part 1 → the rationale.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/05. Learning the Socratic method, part 1 → the rationale (WIP).md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/08. Enneagram 3 thinking sins.md",
-    "source/content/index.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How can I operate from a place of uncertainty?.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/❓\"How can I improve my ability to think? (Open Question).md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/03. Manifesto - \"Why I Should Learn the Socratic Method\".md",
@@ -196,7 +202,6 @@
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Old website intro.md",
     "source/content/⭐️ Open Questions/2. Kindness ❤️/How can you help your family?/Misc/NVC flashcards.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Should I meditate regularly?.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gilman Equation.md",
     "source/content/⭐️ Open Questions/2. Kindness ❤️/How can you help your family?/Misc/What I currently know about Bowen family systems theory.md",
     "source/content/⭐️ Open Questions/Meditation 🧘‍♂️/Ānāpānasati.md",
     "source/content/📎 Files/Images/misc/mins-metta-experienced.png",
@@ -212,17 +217,12 @@
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory.md",
     "Is it silly that I don't meditate?.md",
     "source/content/⭐️ Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Bowen family systems - flashcards.md",
-    "source/content/⭐️ Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Current family project open questions.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/2. How do you learn well?/Learning techniques/The Consume-Create Ratio.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Week reviews/Week reviews.md",
-    "source/content/⭐️ Open Questions/How should I make money? 💰/Misc/Setting a contractor fee for Outcapped.md",
     "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Week reviews",
     "source/content/⭐️ Open Questions/What does it mean to be in ORI? 🔬/Misc",
     "source/content/⭐️ Open Questions/How should I make money? 💰/Misc",
     "source/content/⭐️ Open Questions/2. Kindness ❤️/How can you help your family?/Misc",
     "source/content/1. Open Questions/1. Wisdom 🧠/How can you live well?/Misc",
     "source/content/1. Open Questions/1. Wisdom 🧠/How can you know yourself?/Misc",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc",
-    "source/content/⭐️ Open Questions/2. Kindness ❤️"
+    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc"
   ]
 }

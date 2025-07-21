@@ -20,9 +20,10 @@ aliases:
 		- [[Meditation log]]
 - Old website intro (as the purpose has changed somewhat):
 	- [[Old website intro]]
-## 🪵 Daily log
+## 🪵 Logs
 > [[Log per day]] ← <span class="text-red">this is where ~everything goes!</span> 🚨
 - [[Meditation log]]
+- [[Week reviews]]
 ## 📹 Learning Twitch Streams
 > [[Learning Twitch Streams]]
 ## 🎤 Collection of voice notes
