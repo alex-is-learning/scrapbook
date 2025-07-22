@@ -4,11 +4,9 @@ aliases:
   - Home Page
 permalink: home-page
 ---
-- *My main website is [here](https://www.alexislearning.me/)*
-	- ☝️ Tbf this has been kinda deprecated, it's pretty much just a place to see my <span class="text-green">CV and references and other links</span> now!
--  ![[profile-pic-pixel.png|120]]
 ## Intro
-- Hi! Welcome to my digital scrapbook :) 
+- Hi! Welcome to my ==digital scrapbook== :) 
+-  ![[profile-pic-pixel.png|120]]
 - It currently serves a few purposes:
 	- **Thinking in public**
 		- E.g. [[Should I meditate regularly?]], [[What I currently know about Bowen family systems theory]], [[06. Learning the Socratic method, part 1 → the rationale]], [[How can I operate from a place of uncertainty?]], [[08. Enneagram 3 thinking sins]]
@@ -24,6 +22,8 @@ permalink: home-page
 		- E.g. [[Meditation log]]
 - Old website intro (as the purpose has changed somewhat):
 	- [[Old website intro]]
+- *My other website is [here](https://www.alexislearning.me/)*
+	- ☝️ Tbf this has been kinda deprecated, it's pretty much just a place to see my <span class="text-green">CV and references and other links</span> now!
 ## 🪵 Logs
 > [[Log per day]] ← <span class="text-red">this is where ~everything goes!</span> 🚨
 - [[Meditation log]]
