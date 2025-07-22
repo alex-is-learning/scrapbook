@@ -1,7 +1,6 @@
 ---
 permalink: log-per-day
 ---
-
 - [[source/content/index|Home Page]]
 - Project pages:
 	- [[⭐️"How can I improve my ability to think? (Open Question)]]
@@ -15,6 +14,7 @@ permalink: log-per-day
 		- These were both my top-of-mind "open questions" in previous years (without me necessarily being consciously aware), now they're ~solved enough!
 	- [[I saw a family therapist yesterday]]
 	- [[It's my Dad's birthday today]]
+	- [[Learning about adoption in the UK]]
 - Mon 2025-07-21
 	- [[Why am I publishing stuff semi-privately?]]
 	- [[Prepping for thinking tutor]]

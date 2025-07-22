@@ -6,6 +6,7 @@ permalink: how-can-i-change-how-to-orient-to-my-family-open-question
 - Tue 2025-07-22 
 	- [[I saw a family therapist yesterday]]
 	- [[It's my Dad's birthday today]]
+	- [[Learning about adoption in the UK]]
 ## Week of 14th July
 - 2025-07-20 
 	- [[Should I meditate regularly?]]
