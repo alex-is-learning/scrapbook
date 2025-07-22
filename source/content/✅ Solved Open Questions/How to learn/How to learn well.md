@@ -16,3 +16,5 @@ permalink: how-to-learn-well
 	- 2nd June 2025 - "I love you Gemini Deep Research" ([link](https://www.alexislearning.me/blog/2025-06-02-deep-research/))
 	- 11th June 2025 - "Learning to think the Defender of Basic way" ([link](https://www.alexislearning.me/learning-how-to-think/))
 	- 13th June 2025 - "New learning era (?)" ([link](https://www.alexislearning.me/blog/2025-06-13-new-learning-era/))
+
+- [[Learning Twitch Streams]]
