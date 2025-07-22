@@ -5,14 +5,15 @@ aliases:
 permalink: home-page
 ---
 - *My main website is [here](https://www.alexislearning.me/)*
-	- ☝️ Tbf this has been kinda deprecated, it's pretty much just a place to see my CV and references and other links now
+	- ☝️ Tbf this has been kinda deprecated, it's pretty much just a place to see my <span class="text-green">CV and references and other links</span> now!
 -  ![[profile-pic-pixel.png|120]]
 ## Intro
 - Hi! Welcome to my digital scrapbook :) 
 - It currently serves a few purposes:
 	- **Thinking in public**
 		- E.g. [[Should I meditate regularly?]], [[What I currently know about Bowen family systems theory]], [[06. Learning the Socratic method, part 1 → the rationale]], [[How can I operate from a place of uncertainty?]], [[08. Enneagram 3 thinking sins]]
-		- I'm finding that having something that is publicly visible acts as a really great incentive to write more. Stuff published here feels much more "real" than stuff that I might write for myself and then lose in a giant overwhelming Obsidian vault, or that gets tucked away in a Google Drive folder, never to be seen again.
+		- I'm finding that having something that is publicly visible acts as a really great incentive to write more. 
+		- Stuff published here feels much more "real" than stuff that I might write for myself and then lose in a giant overwhelming Obsidian vault, or that gets tucked away in a Google Drive folder, never to be seen again.
 			- [[Lemon tree → lemon curd → lemon pie 🍋]]
 	- **Focusing on my open questions**
 		- [[⭐️"How can I improve my ability to think? (Open Question)]]
@@ -20,7 +21,7 @@ permalink: home-page
 		- [[⭐️"How should I make money?" (Open Question)]]
 		- [[⭐️"How do I meditate regularly?" (Open Question)]]
 	- **Something akin to accountability?**
-		- [[Meditation log]]
+		- E.g. [[Meditation log]]
 - Old website intro (as the purpose has changed somewhat):
 	- [[Old website intro]]
 ## 🪵 Logs
@@ -31,5 +32,6 @@ permalink: home-page
 > [[Learning Twitch Streams]]
 ## 🎤 Collection of voice notes
 > [[Collection of voice notes]]
-
-![[talking-to-myself.jpg|400]]
+## ✅ Solved Open Questions
+- [[How to learn well]]
+- [[How to "heal"]]

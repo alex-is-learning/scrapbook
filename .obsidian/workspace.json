@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "source/content/✅ Solved Open Questions/How to heal/How to \"heal\".md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to \"heal\""
+            }
+          },
+          {
+            "id": "db4df8b4bf1c3919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
                 "mode": "source",
                 "source": false
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
+                "file": "source/content/✅ Solved Open Questions/How to heal/How to \"heal\".md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notes to self (e.g., CSS)"
+              "title": "Backlinks for How to \"heal\""
             }
           },
           {
@@ -150,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
+                "file": "source/content/✅ Solved Open Questions/How to heal/How to \"heal\".md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes to self (e.g., CSS)"
+              "title": "Outline of How to \"heal\""
             }
           }
         ]
@@ -179,19 +193,32 @@
   },
   "active": "46128be48a6966ff",
   "lastOpenFiles": [
+    "source/content/✅ Solved Open Questions/How to heal/Tpot, post-rationalism.md",
+    "source/content/✅ Solved Open Questions/How to heal/How to \"heal\".md",
     "source/content/index.md",
+    "source/content/✅ Solved Open Questions/How to learn/How to learn well.md",
+    "source/content/⭐️ Open Questions/4. How to meditate regularly?/Misc/2025-07-22 meditation open questions.md",
+    "source/content/⭐️ Open Questions/4. How to meditate regularly?/Sit reports",
+    "source/content/✅ Solved Open Questions/How to learn",
+    "source/content/✅ Solved Open Questions/How to heal",
+    "source/content/⭐️ Open Questions/4. How to meditate regularly?/Misc",
+    "source/content/📎 Files/Images/misc/diamond-miner-meme.png",
+    "source/content/⭐️ Open Questions/4. How to meditate regularly?/Meditation log.md",
+    "source/content/⭐️ Open Questions/4. How to meditate regularly?/⭐️\"How do I meditate regularly?\" (Open Question).md",
+    "source/content/✅ Solved Open Questions",
     "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
+    "source/content/⭐️ Open Questions/1. How to think?/Misc/Should I meditate regularly?.md",
+    "source/content/⭐️ Open Questions/1. How to think?/⭐️\"How can I improve my ability to think? (Open Question).md",
+    "source/content/⭐️ Open Questions/3. How should I make money?/⭐️\"How should I make money?\" (Open Question).md",
+    "source/content/⭐️ Open Questions/2. How to help my family?/⭐️\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/Meta (ignore me)/index.md",
     "source/content/⭐️ Open Questions/1. How to think?/How do you learn well?/Log per day.md",
     "source/content/⭐️ Open Questions/3 - cleanup.py",
     "source/content/⭐️ Open Questions/1. How to think?/How do you learn well?/Learning techniques/Top-down learning unlocks care (and ego).md",
     "source/content/⭐️ Open Questions/3. How should I make money?/Misc/Effective Altruism/Model of \"Centre for Effective Altruism\".md",
-    "source/content/⭐️ Open Questions/2. How to help my family?/⭐️\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/⭐️ Open Questions/1. How to think?/How do you learn well?/Value of visual notes/🟣 Project - \"Are visual notes underrated and poorly understood?\".md",
     "source/content/⭐️ Open Questions/1. How to think?/How do you learn well?/Logging my journey/01. Writing up my own Socratic dialogues.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Misc/Call with my friend \"S\" - 2025-06-23.md",
-    "source/content/⭐️ Open Questions/1. How to think?/⭐️\"How can I improve my ability to think? (Open Question).md",
-    "source/content/⭐️ Open Questions/3. How should I make money?/⭐️\"How should I make money?\" (Open Question).md",
     "source/content/⭐️ Open Questions/cleanup.py",
     "source/content/⭐️ Open Questions/3 - cleanup.py.sb-28b39369-8mgtFC",
     "source/content/⭐️ Open Questions/1. How to think?/Misc/Gemini Socrates - part-time vs full-time work.md",
@@ -201,20 +228,8 @@
     "source/content/⭐️ Open Questions/2. How to help my family?/Misc/Bowen family systems - flashcards.md",
     "source/content/⭐️ Open Questions/1. How to think?/Misc/Dialectic and Dialogue - Plato's Practice of Philosophical Inquiry (Gonzalez).md",
     "source/content/⭐️ Open Questions/3. How should I make money?/Misc/Gemini Socrates - Outcapped.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Misc/Should I meditate regularly?.md",
-    "source/content/⭐️ Open Questions/2. How to help my family?/Misc/NVC flashcards.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Misc/Prepping for thinking tutor.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Misc/Why am I publishing stuff semi-privately?.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Misc/06. Learning the Socratic method, part 1 → the rationale.md",
     "source/content/⭐️ Open Questions/3 - cleanup~.py",
     "source/content/⭐️ Open Questions/2 - set-permalink copy.py",
-    "source/content/⭐️ Open Questions/2 - set-permalink.py",
-    "source/content/⭐️ Open Questions/1 - set-blank-permalink.py",
-    "source/content/⭐️ Open Questions/set-permalink.py.sb-28b39369-yzNQaG",
-    "source/content/⭐️ Open Questions/set-permalink.py.sb-28b39369-M72DkC",
-    "source/content/⭐️ Open Questions/set-permalink.py",
-    "source/docs/templates/template.md",
-    "source/content/⭐️ Open Questions/4. How to meditate regularly?/⭐️\"How do I meditate regularly?\" (Open Question).md",
     "source/content/📎 Files/Images/misc/damnit, wont let me rename.png",
     "source/content/📎 Files/Images/misc/alex is creating.png",
     "source/content/📎 Files/Images/misc/Alex is Creating (Finally!).png",
@@ -223,7 +238,6 @@
     "source/content/📎 Files/Images/misc/meditation-setup-1.jpg",
     "source/content/📎 Files/Images/misc/mins-metta-experienced.png",
     "source/content/📎 Files/Images/misc/tmi-stage-3.png",
-    "source/content/📎 Files/Images/misc/tmi-stage-2.png",
-    "source/content/📎 Files/Images/misc/tmi-stage-1.png"
+    "source/content/📎 Files/Images/misc/tmi-stage-2.png"
   ]
 }

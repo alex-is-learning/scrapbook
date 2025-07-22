@@ -1,7 +1,7 @@
 ---
 permalink: how-can-i-change-how-to-orient-to-my-family-open-question
 ---
-
+- [[source/content/index|Home Page]]
 ## Week of 21st July
 - Tue 2025-07-22 
 ## Week of 14th July

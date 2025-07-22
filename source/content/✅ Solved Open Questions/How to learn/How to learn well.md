@@ -1,0 +1,18 @@
+---
+permalink: how-to-learn-well
+---
+- 2025-07-22
+- *Quick writeup:*
+- I first got into this question during something like my third year of uni when I realised how bad I was at learning and how I forgot essentially everything from my lectures within 6 months
+- I did the "Learning how to Learn" coursera course and that set me on the meta-learning path
+- Anki flashcards
+- Made this website, posted it to EA forum, offered free learning coaching, got job at Alvea
+	- https://www.alexislearning.me/learning-blog-2021/
+- I have lots more to say here, but will leave it there for now
+- Some recent scrappy posts
+	- 27th May 2025 - "My Learning Funnel" ([link](https://www.alexislearning.me/blog/2025-05-27-learning-funnel/))
+	- 30th May 2025 - "The new anki algorithm made me weep" ([link](https://www.alexislearning.me/blog/2025-05-30-anki-algorithm/))
+	- 1st June 2025 - "AI walk-and-talks are such a great way to learn" ([link](https://www.alexislearning.me/blog/2025-06-01-ai-walks/))
+	- 2nd June 2025 - "I love you Gemini Deep Research" ([link](https://www.alexislearning.me/blog/2025-06-02-deep-research/))
+	- 11th June 2025 - "Learning to think the Defender of Basic way" ([link](https://www.alexislearning.me/learning-how-to-think/))
+	- 13th June 2025 - "New learning era (?)" ([link](https://www.alexislearning.me/blog/2025-06-13-new-learning-era/))
