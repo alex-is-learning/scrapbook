@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: model-of-fri
 ---
 
 - 21st June 2025

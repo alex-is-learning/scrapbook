@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: formal-ontology---books
 ---
 
 Excellent question. Based on your critique of Kerr's work, you are absolutely on the right track. The field you're looking for is indeed **ontology**, but specifically as it's understood in information science, computer science, and knowledge management, rather than its more abstract, purely philosophical parent.

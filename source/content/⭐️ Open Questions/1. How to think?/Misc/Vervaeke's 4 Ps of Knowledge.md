@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: vervaekes-4-ps-of-knowledge
 ---
 
 - 2025-07-21

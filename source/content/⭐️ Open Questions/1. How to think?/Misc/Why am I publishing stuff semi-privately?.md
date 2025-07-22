@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: why-am-i-publishing-stuff-semi-privately
 ---
 
 - 2025-07-21

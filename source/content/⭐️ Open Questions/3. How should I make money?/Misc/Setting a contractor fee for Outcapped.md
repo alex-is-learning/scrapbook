@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: setting-a-contractor-fee-for-outcapped
 ---
 
 - Am I trying to have the best of both worlds?

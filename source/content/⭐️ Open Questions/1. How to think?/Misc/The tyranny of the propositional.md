@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: the-tyranny-of-the-propositional
 ---
 
 - 2025-07-21

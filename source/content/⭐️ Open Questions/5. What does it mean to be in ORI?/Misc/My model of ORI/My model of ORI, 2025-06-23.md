@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: my-model-of-ori-2025-06-23
 ---
 
 - Below are from conversations with Defender

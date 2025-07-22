@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: popperian-truth
 ---
 
 - I first learned about Karl Popper via Frans Osinga's book on John Boyd

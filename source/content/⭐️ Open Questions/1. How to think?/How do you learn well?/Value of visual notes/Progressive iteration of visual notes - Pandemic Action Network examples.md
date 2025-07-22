@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: progressive-iteration-of-visual-notes---pandemic-action-network-examples
 ---
 
 - I've spent the last 2 days orienting to the "[Pandemic Action Network](https://www.pandemicactionnetwork.org/)", as I'm going to apply to one of their job listings

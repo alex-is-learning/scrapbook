@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: pan-orientation-day-3
 ---
 
 # Day 3 → answering open questions

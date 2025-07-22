@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: formal-ontology
 ---
 
 [[Formal Ontology - books]]

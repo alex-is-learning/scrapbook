@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: resisting-the-urge-to-switch-to-logic-or-rhetoric
 ---
 
 - 2025-07-09
@@ -129,7 +129,7 @@ In short, to get the unified, thorough education you're looking for, your best b
 - I haven't mastered the elenchus yet! 
 - I think there's still much more for me to pull out of Ward Farnsworth's book
 - ![[socratic-method-book.jpg|350]]
-- I think I did a pretty good job of learning from this via writing things up at [[❓"How can I improve my ability to think? (Open Question)]]
+- I think I did a pretty good job of learning from this via writing things up at [[⭐️"How can I improve my ability to think? (Open Question)]]
 	- E.g. 	
 		- [[06. Learning the Socratic method, part 1 → the rationale]]
 		- [[07. Learning the Socratic method, part 2 → the "how"]]

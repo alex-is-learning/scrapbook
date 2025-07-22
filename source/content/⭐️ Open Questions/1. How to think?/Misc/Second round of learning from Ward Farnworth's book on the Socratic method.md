@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: second-round-of-learning-from-ward-farnworths-book-on-the-socratic-method
 ---
 
 - 2025-07-09
@@ -55,5 +55,5 @@ Here are the chapters:
 ## Ok, so...
 - I think the "why"/the profundity is definitely grokked enough. I'm very on board, this is very alive for me currently. I'm currently in a mode where the danger of my own double-ignorance has been made very apparent/salient to me
 	- [[08. Enneagram 3 thinking sins]]
-	- [[💰 How should I make money?]]
+	- [[⭐️"How should I make money?" (Open Question)]]
 	- [[How can I operate from a place of uncertainty?]]

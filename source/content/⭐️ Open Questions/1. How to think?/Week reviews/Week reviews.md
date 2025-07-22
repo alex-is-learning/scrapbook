@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: week-reviews
 ---
 
 - [[source/content/index|Home Page]]

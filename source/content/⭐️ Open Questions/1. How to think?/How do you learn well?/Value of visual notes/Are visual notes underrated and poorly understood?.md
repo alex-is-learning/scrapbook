@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: are-visual-notes-underrated-and-poorly-understood
 ---
 
 # *Note to self → I want to investigate this thread more and then talk to Andy Matuschak*

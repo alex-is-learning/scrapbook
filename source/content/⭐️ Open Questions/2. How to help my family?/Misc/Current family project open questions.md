@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: current-family-project-open-questions
 ---
 
 - 2025-07-18

@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: learning-about-ozempic
 ---
 
 - I don't know much about it

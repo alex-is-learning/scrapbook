@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: project---"are-visual-notes-underrated-and-poorly-understood?"
 ---
 
 - 2025-06-25

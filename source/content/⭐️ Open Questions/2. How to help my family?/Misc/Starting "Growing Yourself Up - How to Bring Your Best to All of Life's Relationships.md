@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: starting-growing-yourself-up---how-to-bring-your-best-to-all-of-life's-relationships
 ---
 
 - Want to learn about "family systems"!

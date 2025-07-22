@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: bowen-family-systems---flashcards
 ---
 
 - 2025-07-11 & 2025-07-12

@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: how-to-construct-the-elenchus
 ---
 
 - Parent page - [[The elenchus]]

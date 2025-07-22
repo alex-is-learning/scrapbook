@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: personal-values-rationality-sprint-v2
 ---
 
 - Feeling really excited and kind of like "oh shit this is so cool", how I'm kind of back to where I was in Jan/Feb, but like, the next level of depth

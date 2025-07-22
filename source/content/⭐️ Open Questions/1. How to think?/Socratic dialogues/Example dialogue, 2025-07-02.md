@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: example-dialogue-2025-07-02
 ---
 
 - I'm really enjoying doing these! 

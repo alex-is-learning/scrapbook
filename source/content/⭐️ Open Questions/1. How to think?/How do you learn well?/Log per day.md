@@ -1,11 +1,11 @@
 ---
-permalink: 
+permalink: log-per-day
 ---
 
 - [[source/content/index|Home Page]]
 - Project pages:
-	- [[❓"How can I improve my ability to think? (Open Question)]]
-	- [[❓"How can I change how to orient to my family?" (Open Question)]]
+	- [[⭐️"How can I improve my ability to think? (Open Question)]]
+	- [[⭐️"How can I change how to orient to my family?" (Open Question)]]
 ## July 2025
 ### Week of 21st July
 - Mon 2025-07-21
@@ -40,13 +40,13 @@ permalink:
 - Wed 2025-07-09
 	- [[Resisting the urge to switch to logic or rhetoric]]
 	- [[Second round of learning from Ward Farnworth's book on the Socratic method]]
-	- [[❓"How can I change how to orient to my family?" (Open Question)]]
+	- [[⭐️"How can I change how to orient to my family?" (Open Question)]]
 		- [[Starting "Growing Yourself Up - How to Bring Your Best to All of Life's Relationships]]
 - Tue 2025-07-08
 	- [[How can I operate from a place of uncertainty?]]
 	- [[Personal values & "rationality" sprint, v2]]
 - Mon 2025-07-07
-	- [[💰 How should I make money?]]
+	- [[⭐️"How should I make money?" (Open Question)]]
 	- [[Gemini Socrates - part-time vs full-time work]]
 ## June 2025
 ### Week of 30th of June 
@@ -54,14 +54,14 @@ permalink:
 	- [[08. Enneagram 3 thinking sins]]
 	- [[09. I'm not good at the elenchus yet (2025-07-06)]]
 - Sat 2025-07-05
-	- [[❓"How can I improve my ability to think? (Open Question)]]
+	- [[⭐️"How can I improve my ability to think? (Open Question)]]
 - Fri 2025-07-04
 	- [[03. Manifesto - "Why I Should Learn the Socratic Method"]]
 	- [[04. Path to becoming Socratic (AKA, what I don't know yet)]]
 	- [[05. Learning the Socratic method, part 1 → the rationale (WIP)]]
 - Wed 2025-07-02
 	- [[Example dialogue, 2025-07-02]]
-	- [[❓"How can I improve my ability to think? (Open Question)]]
+	- [[⭐️"How can I improve my ability to think? (Open Question)]]
 - Tue 2025-07-01
 	- [[01. Writing up my own Socratic dialogues]]
 ### Week of 23rd June
@@ -81,7 +81,7 @@ permalink:
 	- [[Microsolidarity crew call 2025-06-25]]
 - Tue 24th June 
 	- [[🟣 Project - "Are visual notes underrated and poorly understood?"]]
-	- [[❓"How can I change how to orient to my family?" (Open Question)]]
+	- [[⭐️"How can I change how to orient to my family?" (Open Question)]]
 - Mon 23rd June 
 	- [[My model of ORI, 2025-06-23]]
 ### Week of 16th June

@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: the-terrible-pedagogy-of-michael-kerrs-version-of-bowen-family-systems-theory
 ---
 
 - 2025-07-17

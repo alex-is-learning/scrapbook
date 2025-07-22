@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: helping-family---open-questions
 ---
 
 - 2025-06-24

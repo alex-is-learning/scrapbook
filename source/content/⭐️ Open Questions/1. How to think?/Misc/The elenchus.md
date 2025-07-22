@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: the-elenchus
 ---
 
 - [[What is the elenchus?]]

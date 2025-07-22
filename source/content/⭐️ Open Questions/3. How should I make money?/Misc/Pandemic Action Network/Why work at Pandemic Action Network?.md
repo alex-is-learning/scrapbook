@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: why-work-at-pandemic-action-network
 ---
 
 - Made this document whilst streaming

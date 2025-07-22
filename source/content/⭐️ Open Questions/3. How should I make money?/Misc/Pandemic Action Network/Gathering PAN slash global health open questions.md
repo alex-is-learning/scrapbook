@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: gathering-pan-slash-global-health-open-questions
 ---
 
 # Open questions from 2025-06-26

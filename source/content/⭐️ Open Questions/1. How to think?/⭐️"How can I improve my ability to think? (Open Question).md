@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: how-can-i-improve-my-ability-to-think-open-question
 ---
 
 - *This "learning how to think" project started with me doing a rationality sprint in ~Feb 2025, for ~1 month. Now I'm back!*

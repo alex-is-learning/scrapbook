@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: pandemic-action-network
 ---
 
 - 2025-06-29 

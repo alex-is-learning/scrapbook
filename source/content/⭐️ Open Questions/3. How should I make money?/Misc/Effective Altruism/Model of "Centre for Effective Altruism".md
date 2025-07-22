@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: model-of-centre-for-effective-altruism
 ---
 
 - 2025-06-16

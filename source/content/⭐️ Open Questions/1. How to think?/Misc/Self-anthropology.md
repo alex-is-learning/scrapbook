@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: self-anthropology
 ---
 
 - 2025-07-21
