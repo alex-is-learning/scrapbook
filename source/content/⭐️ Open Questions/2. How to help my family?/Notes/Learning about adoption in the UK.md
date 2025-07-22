@@ -220,3 +220,96 @@ and largely revolved around access to birth records
 or intermediary services for letterbox contact, 
 not therapeutic support}}
 ```
+## Filling in the gaps from the above
+- Reviewing the above, and making new flashcards as needed
+### ACES
+- [[The ACES study]]
+```
+What does the acronym ACE stand for in the context of the landmark public health study
+{{c1::Adverse Childhood Experiences}}
+|
+What year was the ACE study published
+{{c1::1998}}
+|
+The ACE Study established 
+{{c1::a dose-response relationship}}
+between 
+{{c2::the number of ACEs}}
+and 
+{{c2::the risk of negative adult outcomes}}
+|
+What core idea does the "dose-response" finding 
+from the ACE Study demonstrate
+{{c1::The more ACEs an individual has, 
+the higher their risk for negative health outcomes}}
+|
+The ACE survey grouped ten types of childhood adversity 
+into what three main categories
+{{c1::Abuse, 
+Neglect, 
+and Household Dysfunction}}
+|
+List the five types 
+of household dysfunction 
+measured by the ACE Study
+{{c1::Parental separation
+Domestic violence 
+Substance misuse 
+Mental illness 
+Incarcerated household member}}
+|
+What was the most revolutionary aspect of the ACE Study's findings 
+{{c1::It linked childhood adversity 
+directly to long-term physical illnesses 
+and leading causes of death, 
+not just mental health issues}}
+|
+The ACE Study helped to explain 
+the biological pathway from childhood adversity to adult illness 
+by popularising what concept?
+{{c1::Chronic, toxic stress}}
+|
+What is the primary mechanism 
+by which toxic stress 
+is thought to cause long-term health problems
+{{c1::By disrupting healthy brain development 
+and dysregulating the nervous, endocrine, and immune systems}}
+|
+Approx n of participants in the original ACE Study
+{{c1::Over 17,000}}
+|
+The population studied in the original ACE Study 
+was primarily from what demographic group
+{{c1::White, middle-class, educated individuals 
+with health insurance}}
+|
+Why was the demographic makeup of the original ACE Study's participants 
+so significant for its findings
+{{c1::It showed that ACEs were a widespread public health issue, 
+not confined to marginalised or "at-risk" populations}}
+|
+According to the original ACE Study, 
+what % of participants 
+reported at least one ACE?
+{{c1::~66%}}
+|
+According to the original ACE Study, 
+what % of participants 
+reported four or more ACEs
+{{c1::~16%}}
+|
+The ACE Study moved the understanding of childhood trauma 
+from a {{c1::purely psychological}} issue 
+to a {{c1::public health}} issue
+|
+How an ACE score is calculated:
+{{c1::By asking a person to answer "yes" or "no" 
+to ten specific questions about their childhood
+Each "yes" answer adds one point to their score, 
+for a possible total ranging from 0 to 10}}
+|
+A person with an ACE score of {{c1::4}} or more 
+Has a significantly increased risk of attempting suicide 
+by what factor compared to someone with a score of 0
+{{c1::12-fold increased risk}}
+```

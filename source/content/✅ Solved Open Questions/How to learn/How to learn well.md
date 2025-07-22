@@ -2,7 +2,7 @@
 permalink: how-to-learn-well
 ---
 - 2025-07-22
-- *Quick writeup:*
+- *Quick and profoundly incomplete writeup:*
 - I first got into this question during something like my third year of uni when I realised how bad I was at learning and how I forgot essentially everything from my lectures within 6 months
 - I did the "Learning how to Learn" coursera course and that set me on the meta-learning path
 - Anki flashcards
@@ -11,6 +11,8 @@ permalink: how-to-learn-well
 - I have lots more to say here, but will leave it there for now
 	- E.g., I think visual notes are hella underrated
 		- [[Are visual notes underrated and poorly understood?]]
+	- I think Obsidian/Roam/second brains are very... honestly, kinda dangerous - easy to become a profound waste of time
+		- I love Sasha's [Notes Against Note-Taking Systems](https://sashachapin.substack.com/p/notes-against-note-taking-systems) post for this
 
 > "**Alex is unusually good at figuring out new things. A related strength is in organizing and communicating complex information. Not only can Alex learn things quickly, but he can distill the important bits in an intuitive and user friendly way**" - [reference from Ethan](https://docs.google.com/document/d/1mBN-iWSwoYM8zUMU25iPGs9Glgzzq3Ps1DRWEivRiFg/edit?tab=t.0)
 
