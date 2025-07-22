@@ -1,7 +1,7 @@
 ---
 permalink: how-can-i-improve-my-ability-to-think-open-question
 ---
-
+- [[source/content/index|Home Page]]
 - *This "learning how to think" project started with me doing a rationality sprint in ~Feb 2025, for ~1 month. Now I'm back!*
 ## Week of 21st July
 - Mon 2025-07-21
