@@ -8,6 +8,13 @@ permalink: log-per-day
 	- [[⭐️"How can I change how to orient to my family?" (Open Question)]]
 ## July 2025
 ### Week of 21st July
+- Tue 2025-07-22
+	- Added "Solved Open Questions"
+		- [[How to learn well]]
+		- [[How to "heal"]]
+		- These were both my top-of-mind "open questions" in previous years (without me necessarily being consciously aware), now they're ~solved enough!
+	- [[I saw a family therapist yesterday]]
+	- [[It's my Dad's birthday today]]
 - Mon 2025-07-21
 	- [[Why am I publishing stuff semi-privately?]]
 	- [[Prepping for thinking tutor]]
