@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: sit-003-report
 ---
 
 - [[Meditation log]]

@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: dialectic-and-dialogue---plato's-practice-of-philosophical-inquiry-(gonzalez)
 ---
 
 ![[Pasted image 20250714134144.png|300]]

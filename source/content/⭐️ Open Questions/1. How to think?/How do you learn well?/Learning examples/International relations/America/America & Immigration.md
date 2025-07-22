@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: america-immigration
 ---
 
 - 2025-03-13

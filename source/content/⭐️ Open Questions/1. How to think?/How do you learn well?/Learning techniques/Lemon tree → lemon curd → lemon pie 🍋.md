@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: lemon-tree-lemon-curd-lemon-pie
 ---
 
 - 2025-07-17

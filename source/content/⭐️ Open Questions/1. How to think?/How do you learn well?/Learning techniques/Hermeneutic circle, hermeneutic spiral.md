@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: hermeneutic-circle-hermeneutic-spiral
 ---
 
 - From [[Are visual notes underrated and poorly understood?]]

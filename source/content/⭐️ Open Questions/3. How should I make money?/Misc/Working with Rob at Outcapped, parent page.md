@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: working-with-rob-at-outcapped-parent-page
 ---
 
 1. [[Gemini Socrates - Outcapped]]

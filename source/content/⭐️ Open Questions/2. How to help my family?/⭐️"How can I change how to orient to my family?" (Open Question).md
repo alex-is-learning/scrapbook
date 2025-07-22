@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: how-can-i-change-how-to-orient-to-my-family-open-question
 ---
 
 ## Week of 21st July

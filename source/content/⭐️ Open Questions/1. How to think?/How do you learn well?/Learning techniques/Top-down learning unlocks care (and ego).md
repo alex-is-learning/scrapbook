@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: top-down-learning-unlocks-care-and-ego
 ---
 
 I'm wondering - why is it the case that learning this way (i.e. by predicting things, like "why does this person think AOC is to blame for the Boulder attack?")" is so much more... memorable. Like, I don't need to make flashcards to remember the outcome, the learning, how the prediction cashed out. What extra context ChatGPT gave me about the Boulder attack. The facts are just in my head now, somehow??

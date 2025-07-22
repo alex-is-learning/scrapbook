@@ -1,7 +1,7 @@
 ---
 created: 2025-06-25 20:01:10
 updated: 2025-06-25 20:34:34
-permalink: 
+permalink: microsolidarity-crew-call-2025-06-25
 ---
 
 ...existing code...

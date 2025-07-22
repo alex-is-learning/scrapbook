@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: bottom-up-learning
 ---
 
 - Vs [[Top-down learning]]

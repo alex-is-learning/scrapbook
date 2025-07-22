@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: amusing-ourselves-to-death-read-1
 ---
 
 - 2025-06-22

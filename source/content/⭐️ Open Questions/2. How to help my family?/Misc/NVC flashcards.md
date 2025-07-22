@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: nvc-flashcards
 ---
 
 # 2025-07-20

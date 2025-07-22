@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: learning-twitch-streams
 ---
 
 - As a slightly unhinged experiment, I'm gonna try streaming to Twitch as I learn

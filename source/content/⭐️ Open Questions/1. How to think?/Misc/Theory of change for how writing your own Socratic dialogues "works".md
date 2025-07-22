@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: theory-of-change-for-how-writing-your-own-socratic-dialogues-works
 ---
 
 ## Gemini's theory of change for how this could work

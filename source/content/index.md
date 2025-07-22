@@ -15,9 +15,10 @@ permalink: home-page
 		- I'm finding that having something that is publicly visible acts as a really great incentive to write more. Stuff published here feels much more "real" than stuff that I might write for myself and then lose in a giant overwhelming Obsidian vault, or that gets tucked away in a Google Drive folder, never to be seen again.
 			- [[Lemon tree → lemon curd → lemon pie 🍋]]
 	- **Focusing on my open questions**
-		- [[❓"How can I improve my ability to think? (Open Question)]]
-		- [[❓"How can I change how to orient to my family?" (Open Question)]]
-		- [[💰 How should I make money?]]
+		- [[⭐️"How can I improve my ability to think? (Open Question)]]
+		- [[⭐️"How can I change how to orient to my family?" (Open Question)]]
+		- [[⭐️"How should I make money?" (Open Question)]]
+		- [[⭐️"How do I meditate regularly?" (Open Question)]]
 	- **Something akin to accountability?**
 		- [[Meditation log]]
 - Old website intro (as the purpose has changed somewhat):

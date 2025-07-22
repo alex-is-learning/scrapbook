@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: anticipatio-mentis
 ---
 
 - Francis Bacon

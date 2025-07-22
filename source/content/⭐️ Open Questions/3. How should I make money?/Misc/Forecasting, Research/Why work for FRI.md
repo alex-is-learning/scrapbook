@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: why-work-for-fri
 ---
 
 - 2025-06-23 

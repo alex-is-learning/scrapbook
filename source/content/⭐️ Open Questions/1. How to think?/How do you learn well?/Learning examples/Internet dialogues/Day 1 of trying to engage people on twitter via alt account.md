@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: day-1-of-trying-to-engage-people-on-twitter-via-alt-account
 ---
 
 - Yesterday was day 1, and absolutely nobody replied to me, lol

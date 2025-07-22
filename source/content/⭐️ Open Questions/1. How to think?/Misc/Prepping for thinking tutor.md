@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: prepping-for-thinking-tutor
 ---
 
 - 2025-07-21

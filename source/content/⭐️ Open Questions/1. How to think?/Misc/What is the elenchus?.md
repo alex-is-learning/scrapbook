@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: what-is-the-elenchus
 ---
 
 - Parent page - [[The elenchus]]

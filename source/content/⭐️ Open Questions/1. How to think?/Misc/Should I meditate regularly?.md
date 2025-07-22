@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: should-i-meditate-regularly
 ---
 
 - 2025-07-20

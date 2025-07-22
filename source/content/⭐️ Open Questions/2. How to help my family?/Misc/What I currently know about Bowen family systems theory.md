@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: what-i-currently-know-about-bowen-family-systems-theory
 ---
 
 - 2025-07-18

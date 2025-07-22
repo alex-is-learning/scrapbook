@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: gilman-equation
 ---
 
 - 2025-07-20

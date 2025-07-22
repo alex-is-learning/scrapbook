@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: interpretatio-naturae
 ---
 
 - Francis Bacon concept

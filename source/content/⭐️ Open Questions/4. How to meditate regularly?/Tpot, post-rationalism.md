@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: tpot-post-rationalism
 ---
 
 - 2025-07-21 

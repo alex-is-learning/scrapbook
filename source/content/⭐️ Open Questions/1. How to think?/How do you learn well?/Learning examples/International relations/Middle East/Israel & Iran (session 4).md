@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: israel-iran-session-4
 ---
 
 - Previous - [[Israel & Iran (session 3)]]

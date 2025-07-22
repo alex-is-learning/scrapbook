@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: meditation-log
 ---
 
 ## Week of 21st July 

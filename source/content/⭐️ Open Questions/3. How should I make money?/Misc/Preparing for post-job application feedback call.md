@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: preparing-for-post-job-application-feedback-call
 ---
 
 - I applied for a role ~2 months ago and got fairly far along. Having a call today with one of the cofounders to get feedback

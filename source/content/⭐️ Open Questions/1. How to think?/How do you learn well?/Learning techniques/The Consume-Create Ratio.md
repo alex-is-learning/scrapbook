@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: the-consume-create-ratio
 ---
 
 - 2025-07-18 

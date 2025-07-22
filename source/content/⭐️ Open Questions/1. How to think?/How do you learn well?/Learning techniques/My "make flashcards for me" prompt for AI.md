@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: my-make-flashcards-for-me-prompt-for-ai
 ---
 
 - I use the open-source text expander app "[Espanso](https://espanso.org/)"

@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: israel
 ---
 
 # Session 1

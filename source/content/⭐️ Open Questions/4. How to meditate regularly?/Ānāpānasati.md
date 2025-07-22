@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: npnasati
 ---
 
 - 2025-07-20

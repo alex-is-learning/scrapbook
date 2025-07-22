@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: collection-and-division
 ---
 
 ### Systole

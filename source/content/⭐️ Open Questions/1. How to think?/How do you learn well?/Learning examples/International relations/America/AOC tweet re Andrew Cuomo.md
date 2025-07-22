@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: aoc-tweet-re-andrew-cuomo
 ---
 
 - 2025-06-14

@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: ancient-greece
 ---
 
 - I'm halfway through "How to Think Like Socrates" and lovingggg it

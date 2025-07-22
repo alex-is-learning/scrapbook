@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: week-of-14th-july-2025
 ---
 
 - [[Week reviews]]

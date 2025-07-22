@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: global-health-flashcards-from-day-3
 ---
 
 # 2025-06-26
