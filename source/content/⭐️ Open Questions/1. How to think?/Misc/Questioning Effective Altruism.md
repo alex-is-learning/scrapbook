@@ -1,5 +1,6 @@
 ---
 title: The case for not associating with the Effective Altruism movement
+permalink: 
 ---
 
 - 2025-07-15

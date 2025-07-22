@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - Parent page - [[How to construct the elenchus]]
 ---
 - Meta note

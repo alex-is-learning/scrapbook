@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-06-23 
 - I wrote this as part of my application to be a part time researcher at FRI and I was pretty proud of it
 # What about our work makes you most interested in working with us?

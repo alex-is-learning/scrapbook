@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - Feeling really excited and kind of like "oh shit this is so cool", how I'm kind of back to where I was in Jan/Feb, but like, the next level of depth
 - That was back when I was at the EA hotel doing my personal values sprint and then my rationality sprints
 	- See [[My goals, values as of January 2025]]

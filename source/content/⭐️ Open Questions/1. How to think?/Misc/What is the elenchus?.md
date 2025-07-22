@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - Parent page - [[The elenchus]]
 ---
 # 1. What is the elenchus?

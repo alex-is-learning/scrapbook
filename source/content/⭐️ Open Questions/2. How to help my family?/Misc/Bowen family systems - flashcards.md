@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-07-11 & 2025-07-12
 - Making with the help of Gemini - feeding it a chapter along with my [[My "make flashcards for me" prompt for AI]]
 - [[The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory]]

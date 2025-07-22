@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-06-24
 - New version - [[Current family project open questions]]
 # Open question 1. Can this be done?

@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-06-16
 - I have a job interview with them today! 
 - I have a rough model, but now is a good time to make some predictions

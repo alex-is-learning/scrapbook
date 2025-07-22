@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-07-18
 - Older version - [[Helping family - open questions]]
 - Next post is [[What I currently know about Bowen family systems theory]]

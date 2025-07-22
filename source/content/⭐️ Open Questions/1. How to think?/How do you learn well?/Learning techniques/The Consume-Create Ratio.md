@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-07-18 
 - From Gemini:
 

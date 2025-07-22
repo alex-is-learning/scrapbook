@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-07-21
 - I've messaged a few ~philosophy tutors on Superprof recently with a message about how I'm currently doing a "learning to think" website (this website, learning about Socrates, the elenchus etc)
 

@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 ![[Pasted image 20250714134144.png|300]]
 - Recommended by John Vervaeke in his "After Socrates" series (in lecture `#`3)
 - So far, seems to be about how Platonic scholars focus too much on propositional knowledge (very much in line with Vervaeke's "tyranny of the propositional")

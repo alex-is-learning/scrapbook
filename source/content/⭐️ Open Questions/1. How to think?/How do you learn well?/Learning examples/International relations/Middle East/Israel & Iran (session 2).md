@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - Following on from [[Israel & Iran (session 1)]]
 - Next- [[Israel & Iran (session 3)]]
 - I'm gonna read the new post by Peter Wildeford ([The Fordow Paradox: Where do Iran and Israel go from here?](https://peterwildeford.substack.com/p/the-fordow-paradox-where-do-iran?utm_source=post-email-title&publication_id=30299&post_id=165884951&utm_campaign=email-post-title&isFreemail=true&r=3mr1o&triedRedirect=true&utm_medium=email))

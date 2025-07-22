@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 ## Gemini's theory of change for how this could work
 My prompt: 
 

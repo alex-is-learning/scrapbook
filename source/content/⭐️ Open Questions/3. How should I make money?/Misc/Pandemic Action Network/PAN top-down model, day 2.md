@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 # Model from 2 days of orientation
 - 2025-06-25
 - I've spent two days orienting (in the Boydian sense) to [Pandemic Action Network](https://www.pandemicactionnetwork.org/)

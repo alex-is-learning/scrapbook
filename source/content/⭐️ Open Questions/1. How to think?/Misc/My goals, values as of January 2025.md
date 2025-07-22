@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - I want to do a bit of introspection re: what I'm motivated by and what I'm actually trying to achieve
 - I have a sense that is already fairly figured out (for the short-term/time being, at least)
 - I did a personal values sprint back in January 2025, via Schmactenberger's "[Dharma Inquiry](https://civilizationemerging.com/dharma-inquiry-2/#:~:text=Dharma%20involves%20your%20being%2C%20your,and%20express%20in%20each%20situation%3F)" questions and the [Clearer Thinking "life leverage points" diagram](https://www.clearerthinking.org/post/behavioral-leverage-points-to-improve-your-life)

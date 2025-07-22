@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - Parent page - [[The elenchus]]
 ---
 ### Skill 1: Find X

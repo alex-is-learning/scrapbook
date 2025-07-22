@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 # Day 3 → answering open questions
 - I feel torn between learning more, orienting more deeply, and applying
 - I definitely don't feel like I have a deep understanding of what they've *done* yet, because my model of e.g. how the WHO works, what the Pandemic Fund is, is poor

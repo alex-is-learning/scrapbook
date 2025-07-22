@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 # Open questions from 2025-06-26
 - What is the G7? What countries?
 - What is the G20? What countries?

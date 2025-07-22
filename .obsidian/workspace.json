@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/2. How to help my family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "❓\"How can I change how to orient to my family?\" (Open Question)"
+              "title": "index"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/3. How should I make money?/💰 How should I make money?.md",
+                "file": "source/content/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 💰 How should I make money?"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/3. How should I make money?/💰 How should I make money?.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 💰 How should I make money?"
+              "title": "Outline of index"
             }
           }
         ]
@@ -206,14 +206,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "90259e85f0bc6c27",
+  "active": "ad36ca9927e8d085",
   "lastOpenFiles": [
-    "test.md",
-    "source/content/⭐️ Open Questions/3. How should I make money?/💰 How should I make money?.md",
+    "source/content/⭐️ Open Questions/2. How to help my family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
     "source/docs/templates/template.md",
+    "source/content/⭐️ Open Questions/3. How should I make money?/💰 How should I make money?.md",
+    "source/content/⭐️ Open Questions/permalink.py",
+    "source/content/permalink.py",
+    "source/permalink.py",
+    "permalink.py",
+    "test.md",
     "source/content/index.md",
     "source/docs/templates",
-    "source/content/⭐️ Open Questions/2. How to help my family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/⭐️ Open Questions/1. How to think?/How do you learn well?/Log per day.md",
     "source/content/⭐️ Open Questions/1. How to think?/Misc/Gilman Equation.md",
     "source/content/⭐️ Open Questions/4. How to meditate well?/Meditation log.md",
@@ -239,7 +243,6 @@
     "source/content/⭐️ Open Questions/1. How to think?/Misc/05. Learning the Socratic method, part 1 → the rationale (WIP).md",
     "source/content/⭐️ Open Questions/1. How to think?/Misc/08. Enneagram 3 thinking sins.md",
     "source/content/⭐️ Open Questions/1. How to think?/Misc/How can I operate from a place of uncertainty?.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Misc/03. Manifesto - \"Why I Should Learn the Socratic Method\".md",
     "source/content/📎 Files/Images/misc/IMG_2116.jpg",
     "source/content/📎 Files/Images/misc/meditation-setup-1.jpg",
     "source/content/⭐️ Open Questions/Meditation log/Untitled",
@@ -249,10 +252,6 @@
     "source/content/📎 Files/Images/misc/tmi-stage-2.png",
     "source/content/📎 Files/Images/misc/tmi-stage-1.png",
     "source/content/⭐️ Open Questions/1. How to think?/Week reviews",
-    "source/content/⭐️ Open Questions/5. What does it mean to be in ORI?/Misc",
-    "source/content/⭐️ Open Questions/3. How should I make money?/Misc",
-    "source/content/⭐️ Open Questions/2. How to help my family?/Misc",
-    "source/content/1. Open Questions/1. Wisdom 🧠/How can you live well?/Misc",
-    "source/content/1. Open Questions/1. Wisdom 🧠/How can you know yourself?/Misc"
+    "source/content/⭐️ Open Questions/5. What does it mean to be in ORI?/Misc"
   ]
 }

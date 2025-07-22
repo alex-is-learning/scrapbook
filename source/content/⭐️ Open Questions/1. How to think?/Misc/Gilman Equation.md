@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-07-20
 - From this great lecture "[Cultural Co-Evolver: Frameworks, Skillsets, & Strategy for Embodied Action w/ Robert Gilman](https://www.youtube.com/watch?v=QYQK8m_EZLc&t=2s)"
 	- [Slides](https://drive.google.com/drive/u/0/folders/1m6--qRLMuGg1zmm4VKeQ3DkpO87YRRqb)

@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-06-22
 - Finished this book today!
 - Want to write up what I remember/what I grokked

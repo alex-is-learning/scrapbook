@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - [[Meditation log]]
 - **Date & Time:** Monday 2025-07-21, 08:15
 - **Duration:** 20 minutes 

@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-07-09
 # Tempted to learn logic or rhetoric
 - I'm feeling tempted to move on to a book about Logic, or maybe rhetoric

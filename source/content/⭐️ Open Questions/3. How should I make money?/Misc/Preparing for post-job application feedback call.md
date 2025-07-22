@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - I applied for a role ~2 months ago and got fairly far along. Having a call today with one of the cofounders to get feedback
 - The role was "Head of Operations/Founding Generalist" at an AI Safety field-building org
 # My model

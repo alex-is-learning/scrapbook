@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 # 2025-06-26
 - ![[Pasted image 20250626174300.png|400]]
 - ☝️182 new flashcards, pray for me

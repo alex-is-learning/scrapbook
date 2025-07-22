@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - LessWrong - "[The Best Tacit Knowledge Videos on Every Subject](https://www.lesswrong.com/posts/SXJGSPeQWbACveJhs/the-best-tacit-knowledge-videos-on-every-subject)"
 - Followup → [post 1](https://parconley.substack.com/p/new-tacit-knowledge-videos-april), [post 2](https://parconley.substack.com/p/new-tacit-knowledge-videos-mayaugust), [post 3](https://parconley.substack.com/p/new-tacit-knowledge-videos-3)
 - Tweet from 2025-06-26 that brought this to my attention [here](https://x.com/parconley/status/1938340657690775555)

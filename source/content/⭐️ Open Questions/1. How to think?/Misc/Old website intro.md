@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - *(Deprecated on 2025-07-17)*:
 - As of 2025-06-12, I am a member of the [Open Research Institute](https://defenderofthebasic.substack.com/p/how-do-we-bootstrap-the-open-research?utm_source=profile&utm_medium=reader2)!
 - This website is me learning how to think via [[Top-down learning]], vs the [[Bottom-up learning]] that I've almost entirely used *up** until this point

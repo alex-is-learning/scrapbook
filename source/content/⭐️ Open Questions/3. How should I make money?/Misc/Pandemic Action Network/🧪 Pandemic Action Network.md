@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-06-29 
 	- [[Gathering PAN slash global health open questions]]
 - 2025-06-28

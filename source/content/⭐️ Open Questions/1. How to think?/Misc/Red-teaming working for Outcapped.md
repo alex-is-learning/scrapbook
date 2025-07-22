@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - Part time role, ~8 poms a day, new company started by the head of internal ops from Alvea, who managed me for ~5 months
 - "Like what we did at Alvea, but for other orgs"
 - https://www.outcapped.com/

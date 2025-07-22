@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-07-16
 - Using Google Gemini, asking it to take on the persona of Socrates to help me with a "[[💰 How should I make money?]]" decision
 # The dialogue

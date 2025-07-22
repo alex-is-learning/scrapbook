@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - [[source/content/index|Home Page]]
 - Project pages:
 	- [[❓"How can I improve my ability to think? (Open Question)]]
