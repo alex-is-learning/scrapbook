@@ -243,3 +243,8 @@ permalink: should-i-meditate-regularly
 - Poor cardio blocks e.g. enjoying running, swimming, squats → get exhausted really quickly
 - Good cardio = suffer less
 - Good shamatha = more benefits 
+---
+- 2025-07-22 
+- Spotted in the wild:
+- ![[conc-vs-metta.png]]
+- ☝️ tweet [link](https://x.com/nosilverv/status/1807465393125982620)
