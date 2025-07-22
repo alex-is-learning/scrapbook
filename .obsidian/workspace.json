@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "46128be48a6966ff",
+            "id": "45a7f5365fffc915",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Learning about adoption in the UK"
-            }
-          },
-          {
-            "id": "45a7f5365fffc915",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/✅ Solved Open Questions/How to learn/How to learn well.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to learn well"
             }
           },
           {
@@ -49,8 +35,7 @@
               "title": "Should I meditate regularly?"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/✅ Solved Open Questions/How to learn/How to learn well.md",
+                "file": "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Learning about adoption in the UK.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How to learn well"
+              "title": "Backlinks for Learning about adoption in the UK"
             }
           },
           {
@@ -179,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/✅ Solved Open Questions/How to learn/How to learn well.md",
+                "file": "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Learning about adoption in the UK.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to learn well"
+              "title": "Outline of Learning about adoption in the UK"
             }
           }
         ]
@@ -206,8 +191,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45a7f5365fffc915",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/✅ Solved Open Questions/How to learn/How to learn well.md",
+    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/The ACES study.md",
+    "source/content/📎 Files/Images/misc/The ACES study1.png",
+    "source/content/📎 Files/Images/misc/The ACES study.png",
+    "source/content/📎 Files/Images/misc/Pasted image 20250722164828.png",
+    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Learning about adoption in the UK.md",
     "source/content/✅ Solved Open Questions/How to heal/How to \"heal\".md",
     "source/content/index.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/08. Enneagram 3 thinking sins.md",
@@ -215,7 +206,6 @@
     "source/content/⭐️ Open Questions/1. How to think?/Notes/06. Learning the Socratic method, part 1 → the rationale.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/What I currently know about Bowen family systems theory.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Should I meditate regularly?.md",
-    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Learning about adoption in the UK.md",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/Anki.md",
     "source/content/📎 Files/Images/misc/anki-2025-07-22.png",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/Gemini Deep Research.md",
@@ -233,26 +223,20 @@
     "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
     "source/content/📎 Files/Images/misc/Learning Twitch Streams.png",
     "source/content/⭐️ Open Questions/3. How should I make money?/Notes/Pandemic Action Network/Twitch stream 2025-06-28 - Top-down model of Pandemic Action Network.md",
-    "source/content/✅ Solved Open Questions/How to learn/How to learn well.md",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Value of visual notes/Are visual notes underrated and poorly understood?.md",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/Lemon tree → lemon curd → lemon pie 🍋.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Helping family - open questions.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Bowen family systems - flashcards.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/How do I pitch going to family therapy to my mum?.md",
     "source/content/Mental Models",
-    "source/content/✅ Solved Open Questions/How to learn/Notes/Logging my journey/Collection of voice notes.md",
-    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/It's my Dad's birthday today.md",
     "source/content/⭐️ Open Questions/4. How to meditate regularly?/Sit reports",
     "source/content/✅ Solved Open Questions/How to learn",
     "source/content/✅ Solved Open Questions/How to heal",
     "source/content/⭐️ Open Questions/4. How to meditate regularly?/Notes",
-    "source/content/📎 Files/Images/misc/diamond-miner-meme.png",
     "source/content/✅ Solved Open Questions",
     "source/content/⭐️ Open Questions/3 - cleanup.py",
     "source/content/⭐️ Open Questions/cleanup.py",
     "source/content/⭐️ Open Questions/3 - cleanup.py.sb-28b39369-8mgtFC",
-    "source/content/⭐️ Open Questions/3 - cleanup~.py",
-    "source/content/📎 Files/Images/misc/damnit, wont let me rename.png",
-    "source/content/📎 Files/Images/misc/alex is creating.png"
+    "source/content/⭐️ Open Questions/3 - cleanup~.py"
   ]
 }
