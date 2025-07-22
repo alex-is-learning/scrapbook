@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Other people working on the \"parents as spiritual practice\" thing.md",
+                "file": "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Learning about adoption in the UK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Other people working on the \"parents as spiritual practice\" thing"
+              "title": "Learning about adoption in the UK"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Other people working on the \"parents as spiritual practice\" thing.md",
+                "file": "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Learning about adoption in the UK.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Other people working on the \"parents as spiritual practice\" thing"
+              "title": "Backlinks for Learning about adoption in the UK"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Other people working on the \"parents as spiritual practice\" thing.md",
+                "file": "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Learning about adoption in the UK.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Other people working on the \"parents as spiritual practice\" thing"
+              "title": "Outline of Learning about adoption in the UK"
             }
           }
         ]
@@ -177,14 +177,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "46128be48a6966ff",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/Anki.md",
+    "source/content/📎 Files/Images/misc/anki-2025-07-22.png",
+    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Learning about adoption in the UK.md",
+    "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/Gemini Deep Research.md",
+    "source/content/✅ Solved Open Questions/How to learn/Notes/Log per day.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Should I meditate regularly?.md",
+    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Other people working on the \"parents as spiritual practice\" thing.md",
+    "source/content/📎 Files/Images/misc/conc-vs-metta.png",
+    "source/content/⭐️ Open Questions/4. How to meditate regularly?/⭐️\"How do I meditate regularly?\" (Open Question).md",
+    "source/content/⭐️ Open Questions/4. How to meditate regularly?/Meditation log.md",
     "source/content/📎 Files/Images/misc/\"Parents as spiritual practice\"4.png",
     "source/content/📎 Files/Images/misc/\"Parents as spiritual practice\"3.png",
     "source/content/📎 Files/Images/misc/\"Parents as spiritual practice\"2.png",
     "source/content/📎 Files/Images/misc/\"Parents as spiritual practice\".png",
     "source/content/⭐️ Open Questions/2. How to help my family?/⭐️\"How can I change how to orient to my family?\" (Open Question).md",
-    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Other people working on the \"parents as spiritual practice\" thing.md",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Logging my journey/Learning Twitch Streams.md",
     "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
     "source/content/📎 Files/Images/misc/Learning Twitch Streams.png",
@@ -193,8 +202,6 @@
     "source/content/✅ Solved Open Questions/How to learn/Notes/Value of visual notes/Are visual notes underrated and poorly understood?.md",
     "source/content/index.md",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/Lemon tree → lemon curd → lemon pie 🍋.md",
-    "source/content/✅ Solved Open Questions/How to learn/Notes/Log per day.md",
-    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Learning about adoption in the UK.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Helping family - open questions.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Bowen family systems - flashcards.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/How do I pitch going to family therapy to my mum?.md",
@@ -205,25 +212,17 @@
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Week Reviews/Week reviews.md",
     "source/content/✅ Solved Open Questions/How to heal/How to \"heal\".md",
     "source/content/✅ Solved Open Questions/How to heal/Tpot, post-rationalism.md",
-    "source/content/⭐️ Open Questions/4. How to meditate regularly?/Notes/2025-07-22 meditation open questions.md",
     "source/content/⭐️ Open Questions/4. How to meditate regularly?/Sit reports",
     "source/content/✅ Solved Open Questions/How to learn",
     "source/content/✅ Solved Open Questions/How to heal",
     "source/content/⭐️ Open Questions/4. How to meditate regularly?/Notes",
     "source/content/📎 Files/Images/misc/diamond-miner-meme.png",
-    "source/content/⭐️ Open Questions/4. How to meditate regularly?/Meditation log.md",
-    "source/content/⭐️ Open Questions/4. How to meditate regularly?/⭐️\"How do I meditate regularly?\" (Open Question).md",
     "source/content/✅ Solved Open Questions",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Should I meditate regularly?.md",
-    "source/content/⭐️ Open Questions/1. How to think?/⭐️\"How can I improve my ability to think? (Open Question).md",
     "source/content/⭐️ Open Questions/3 - cleanup.py",
     "source/content/⭐️ Open Questions/cleanup.py",
     "source/content/⭐️ Open Questions/3 - cleanup.py.sb-28b39369-8mgtFC",
     "source/content/⭐️ Open Questions/3 - cleanup~.py",
     "source/content/📎 Files/Images/misc/damnit, wont let me rename.png",
-    "source/content/📎 Files/Images/misc/alex is creating.png",
-    "source/content/📎 Files/Images/misc/Alex is Creating (Finally!).png",
-    "source/content/📎 Files/Images/misc/Why am I publishing stuff semi-privately?.png",
-    "source/content/📎 Files/Images/misc/IMG_2116.jpg"
+    "source/content/📎 Files/Images/misc/alex is creating.png"
   ]
 }
