@@ -11,6 +11,9 @@ permalink: how-to-learn-well
 - I have lots more to say here, but will leave it there for now
 	- E.g., I think visual notes are hella underrated
 		- [[Are visual notes underrated and poorly understood?]]
+
+> "**Alex is unusually good at figuring out new things. A related strength is in organizing and communicating complex information. Not only can Alex learn things quickly, but he can distill the important bits in an intuitive and user friendly way**" - [reference from Ethan](https://docs.google.com/document/d/1mBN-iWSwoYM8zUMU25iPGs9Glgzzq3Ps1DRWEivRiFg/edit?tab=t.0)
+
 - Some recent scrappy posts
 	- 27th May 2025 - "My Learning Funnel" ([link](https://www.alexislearning.me/blog/2025-05-27-learning-funnel/))
 	- 30th May 2025 - "The new anki algorithm made me weep" ([link](https://www.alexislearning.me/blog/2025-05-30-anki-algorithm/))
