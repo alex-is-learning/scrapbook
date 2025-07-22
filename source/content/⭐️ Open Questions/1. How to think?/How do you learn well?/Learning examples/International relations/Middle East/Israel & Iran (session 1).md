@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - Next - [[Israel & Iran (session 2)]]
 - Israel is attacking Iran
 - Why? 

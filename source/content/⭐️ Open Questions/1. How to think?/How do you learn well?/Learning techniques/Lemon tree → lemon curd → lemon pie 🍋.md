@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-07-17
 - A message to a friend re: substack and lemons, lol
 	- *"There’s something kinda nice in that [previous message from friend] about writing as like attempting to grow a healthy lemon tree, where for a while you can only grow these like shitty shrivelled fruits, it takes a good long while before the fruits are very plump and juicy"*

@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-07-21
 - Re: [[Vervaeke's 4 Ps of Knowledge]]
 - Gemini:

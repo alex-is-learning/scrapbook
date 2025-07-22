@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-07-20
 
 `What's the buddhist word for breath meditation, it's like... anapana something`

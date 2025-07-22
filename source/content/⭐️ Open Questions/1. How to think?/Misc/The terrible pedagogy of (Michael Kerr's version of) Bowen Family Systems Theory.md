@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-07-17
 - I'm doing a deep read of this book:
 - ![[Pasted image 20250717142358.png]]

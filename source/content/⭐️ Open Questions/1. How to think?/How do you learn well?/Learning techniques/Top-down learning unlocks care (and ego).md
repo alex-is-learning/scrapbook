@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 I'm wondering - why is it the case that learning this way (i.e. by predicting things, like "why does this person think AOC is to blame for the Boulder attack?")" is so much more... memorable. Like, I don't need to make flashcards to remember the outcome, the learning, how the prediction cashed out. What extra context ChatGPT gave me about the Boulder attack. The facts are just in my head now, somehow??
 
 And my current working model is that -- it's probably care, care is the thing. I made a prediction, and then I had skin in the game. Am I right, am I wrong? Am I missing something blindingly obvious? Am I about to discover a giant blind spot? 

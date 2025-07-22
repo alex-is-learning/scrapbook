@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-07-18
 - Following on from [[Current family project open questions]]
 - I've spent probably ~10 hours reading [Kerr's book](https://www.amazon.co.uk/Bowen-Theorys-Secrets-Revealing-Families/dp/0393708128), making flashcards etc

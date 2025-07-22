@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - From [[Are visual notes underrated and poorly understood?]]
 > I find that, once I do this in Miro, once I make a crazy cork-board and then iteratively prune and organise it, I end up in a place where I can talk fluently about the topic, without the need for flashcards. 
 

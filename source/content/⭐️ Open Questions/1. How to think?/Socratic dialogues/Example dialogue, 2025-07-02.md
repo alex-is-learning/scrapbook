@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - I'm really enjoying doing these! 
 - This is my eighth one, thought I'd share
 

@@ -2,6 +2,7 @@
 title: Home Page
 aliases:
   - Home Page
+permalink: home-page
 ---
 - *My main website is [here](https://www.alexislearning.me/)*
 	- ☝️ Tbf this has been kinda deprecated, it's pretty much just a place to see my CV and references and other links now

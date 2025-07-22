@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 # Session 1
 - 2025-06-18
 - Going to read more of Peter Wildeford's post

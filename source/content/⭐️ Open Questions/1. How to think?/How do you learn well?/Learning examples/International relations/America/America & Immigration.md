@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-03-13
 So yesterday I did some "bottom-up" learning (that is, learning disconnected from reality/predictions/conversations, via e.g. generating a deep research report, reading it, and making flashcards).
 

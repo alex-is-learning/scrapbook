@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 1. [[Gemini Socrates - Outcapped]]
 2. [[Red-teaming working for Outcapped]]
 3. [[Questioning Effective Altruism]]

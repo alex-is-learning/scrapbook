@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - Am I trying to have the best of both worlds?
 # 1. What I'm trying to do 
 ## Two worlds

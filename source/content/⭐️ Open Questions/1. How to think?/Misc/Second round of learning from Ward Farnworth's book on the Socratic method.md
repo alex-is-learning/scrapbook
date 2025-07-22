@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-07-09
 - See [[Resisting the urge to switch to logic or rhetoric]] for the reasoning here
 # What should I do?

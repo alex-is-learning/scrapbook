@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - Vs [[Top-down learning]]
 
 > *Note - [this twitter thread](https://x.com/ejames_c/status/1895416279722594311)] is where I first heard the terms bottom-up vs top-down learning*

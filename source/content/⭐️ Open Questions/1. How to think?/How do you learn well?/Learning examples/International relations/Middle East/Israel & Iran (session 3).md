@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - Previous - [[Israel & Iran (session 2)]]
 - Next - [[Israel & Iran (session 4)]]
 - 2025-06-18

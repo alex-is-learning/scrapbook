@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - Made this document whilst streaming
 	- [[Twitch stream 2025-06-28 - Top-down model of Pandemic Action Network]]
 - Feel like I don't need to write out my understanding of PAN here → it's grokked

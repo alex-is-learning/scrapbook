@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - See also - [[Twitch stream 2025-06-27 - reviewing WHO and COVID response flashcards]]
 - 👇 Almost 6 hours of tracked work today
 - ![[Pasted image 20250627182123.png]]

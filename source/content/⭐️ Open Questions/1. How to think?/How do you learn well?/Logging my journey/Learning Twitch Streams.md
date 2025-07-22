@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - As a slightly unhinged experiment, I'm gonna try streaming to Twitch as I learn
 - Inspired by Andy Matuschak ([here](https://www.youtube.com/watch?v=kG2_6ToMZgI))
 - I think I'll be much worse at learning than people from the tacit knowledge videos below, so I'm excited to watch those and see how experts do it!

@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - I first learned about Karl Popper via Frans Osinga's book on John Boyd
 - His idea of falsification is one of the key epistemological shifts of the last ~100 years. He was considered the shit, and then Thomas Kuhn came along with his idea of "paradigm shifts" and then everyone became Kuhn Heads. But Popper is still great
 - From Gemini:

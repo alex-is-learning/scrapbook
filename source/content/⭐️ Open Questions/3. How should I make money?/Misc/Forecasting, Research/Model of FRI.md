@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 21st June 2025
 
 > *Below is the result of 2 pomodoros worth of writing to check my model of FRI and why I'd be excited to work there*

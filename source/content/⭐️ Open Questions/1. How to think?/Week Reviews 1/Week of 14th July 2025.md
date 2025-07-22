@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - [[Week reviews]]
 # Wins
 ## 1. Improve thinking

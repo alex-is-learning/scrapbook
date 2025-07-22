@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - I've spent the last 2 days orienting to the "[Pandemic Action Network](https://www.pandemicactionnetwork.org/)", as I'm going to apply to one of their job listings
 # Adding hierarchy for easier parsing
 ![[Meta - on making miros, visual notes.jpg]]

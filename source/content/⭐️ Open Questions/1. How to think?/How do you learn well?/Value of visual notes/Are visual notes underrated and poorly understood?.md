@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 # *Note to self → I want to investigate this thread more and then talk to Andy Matuschak*
 ![[Pasted image 20250624180627.png]]
 # 1. Am I cutting edge? Dumb? Bit of both?

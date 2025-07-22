@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - *Just quickly writing this page as this is grokked (as I've experienced aporia)*
 - Means "impasse"
 - E.g., when an elenchus is used, to show that, although you confirmed that you believe X, and Y, X and Y aren't compatible. Now what?

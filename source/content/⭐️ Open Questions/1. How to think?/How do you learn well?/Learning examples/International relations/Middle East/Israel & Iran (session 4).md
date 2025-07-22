@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - Previous - [[Israel & Iran (session 3)]]
 - Atlantic Council's "[Twenty questions (and expert answers) on the Israel-Iran war](https://www.atlanticcouncil.org/blogs/menasource/twenty-questions-and-expert-answers-on-the-israel-iran-war/)"
 - I'll try to predict the answers to the questions 😎

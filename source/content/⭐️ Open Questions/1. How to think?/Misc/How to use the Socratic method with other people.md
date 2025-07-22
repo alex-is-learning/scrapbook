@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 This is not my priority at all, but I still think it's important to note
 - (Also note that there are whole chapters on this, like "Socratic rules of engagement", that I am not planning on revisiting whilst my main focus remains "get good at doing this on my own)
 - A key thing is that Socrates wouldn't *tell* people what to think → he'd extract someone's own thinking, show how it is paradoxical, and kind of leave them there. A lot of the dialogues end with people leaving, lol, but I imagine they remain very much perplexed

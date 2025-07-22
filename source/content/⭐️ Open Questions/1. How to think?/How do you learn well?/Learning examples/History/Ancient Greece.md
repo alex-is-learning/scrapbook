@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - I'm halfway through "How to Think Like Socrates" and lovingggg it
 - I need a break from job stuff (it is the weekend after all), so I'm gonna read a bit about ancient Greek history because I know essentially nothing
 - Got a deep research report on the [Ancient Greeks](https://docs.google.com/document/d/16_jdEXDsJ1sQeR7dabMw7v9JIexnjpt3u7sIHrjtp8g/edit?usp=sharing) and another on [Socrates' Athens](https://docs.google.com/document/d/1Q9ceGn4e1FZ8s5nDTEMI3fvEvgbMp4lWQSFOG_YJi_g/edit?tab=t.0)

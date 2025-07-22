@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - I don't know much about it
 - I want to quickly investigate it for a family member
 ## Questions

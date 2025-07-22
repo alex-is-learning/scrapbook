@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - Yesterday was day 1, and absolutely nobody replied to me, lol
 - To be expected! There's definitely a knack to this
 - Thought I'd document my interactions to like... show what I did wrong, lol

@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - 2025-07-21
 # 1. Bump from my friend Simmo
 - I shared the following screenshot in my triad group chat 👇

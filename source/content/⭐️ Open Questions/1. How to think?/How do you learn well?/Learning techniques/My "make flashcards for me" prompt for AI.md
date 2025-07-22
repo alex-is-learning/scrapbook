@@ -1,3 +1,7 @@
+---
+permalink: 
+---
+
 - I use the open-source text expander app "[Espanso](https://espanso.org/)"
 - This lets you set up triggers where if you type something like `:example`, it replaces it with whatever text you set up
 - E.g.:
