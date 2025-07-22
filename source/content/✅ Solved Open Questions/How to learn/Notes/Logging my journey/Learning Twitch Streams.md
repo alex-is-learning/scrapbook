@@ -12,6 +12,12 @@ permalink: learning-twitch-streams
 - Voice note to friends re: body-doubling/accountability via Twitch
 ![[2025-06-29-twitch.mp3]]
 ## My videos
+- <span class="text-red">Omg, dude, they're not on twitch any more!!!.</span>
+	- I guess there's something like "we remove your videos after 30 days"
+	- Luckily I did download each, for posterity
+	- I cba to put them on youtube right now, but rest assured, you'd have been *really* impressed. Probably the best videos on the internet
+	- ![[Learning Twitch Streams.png]]
+	- ☝️ the files exist. I will share them with you for the low price of £100,000/MB
 - 2025-06-28 
 	- [[Twitch stream 2025-06-28 - Top-down model of Pandemic Action Network]]
 - 2025-06-27

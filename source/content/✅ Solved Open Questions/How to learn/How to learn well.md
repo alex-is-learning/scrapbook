@@ -9,6 +9,8 @@ permalink: how-to-learn-well
 - Made this website, posted it to EA forum, offered free learning coaching, got job at Alvea
 	- https://www.alexislearning.me/learning-blog-2021/
 - I have lots more to say here, but will leave it there for now
+	- E.g., I think visual notes are hella underrated
+		- [[Are visual notes underrated and poorly understood?]]
 - Some recent scrappy posts
 	- 27th May 2025 - "My Learning Funnel" ([link](https://www.alexislearning.me/blog/2025-05-27-learning-funnel/))
 	- 30th May 2025 - "The new anki algorithm made me weep" ([link](https://www.alexislearning.me/blog/2025-05-30-anki-algorithm/))
@@ -18,3 +20,4 @@ permalink: how-to-learn-well
 	- 13th June 2025 - "New learning era (?)" ([link](https://www.alexislearning.me/blog/2025-06-13-new-learning-era/))
 
 - [[Learning Twitch Streams]]
+	- In case you can't get enough of watching dudes make flashcards
