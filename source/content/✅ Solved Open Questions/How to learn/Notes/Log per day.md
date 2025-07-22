@@ -2,9 +2,6 @@
 permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
-- Project pages:
-	- [[⭐️"How can I improve my ability to think? (Open Question)]]
-	- [[⭐️"How can I change how to orient to my family?" (Open Question)]]
 ## July 2025
 ### Week of 21st July
 - Tue 2025-07-22
