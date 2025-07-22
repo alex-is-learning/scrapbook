@@ -16,6 +16,7 @@ aliases:
 	- **Focusing on my open questions**
 		- [[❓"How can I improve my ability to think? (Open Question)]]
 		- [[❓"How can I change how to orient to my family?" (Open Question)]]
+		- [[💰 How should I make money?]]
 	- **Something akin to accountability?**
 		- [[Meditation log]]
 - Old website intro (as the purpose has changed somewhat):
