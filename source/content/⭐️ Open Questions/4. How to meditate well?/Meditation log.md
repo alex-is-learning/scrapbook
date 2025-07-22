@@ -1,4 +1,7 @@
 ## Week of 21st July 
+- Tue 2025-07-22
+	- 20 min sit, 09:00
+	- 99% distracted, but came back to nostrils at least 6 times, even if only for a few seconds 😅
 - Mon 2025-07-21
 	- [[Sit 003 report]] → 20 mins, 08:15
 	- 10:00, did 10 mins → won't make a report because it was short

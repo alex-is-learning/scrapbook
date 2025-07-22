@@ -1,6 +1,7 @@
 ---
 created: 2025-07-07 14:19:00
 updated: 2025-07-08 11:50:06
+permalink: how-to-make-money
 ---
 - Wed 2025-07-16 
 	- [[Working with Rob at Outcapped, parent page]]

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. Wisdom 🧠/2. How do you learn well?/Log per day.md",
+                "file": "source/docs/templates/template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Log per day"
+              "title": "template"
+            }
+          },
+          {
+            "id": "90259e85f0bc6c27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/⭐️ Open Questions/3. How should I make money?/💰 How should I make money?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "💰 How should I make money?"
             }
           },
           {
@@ -27,30 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gilman Equation.md",
+                "file": "source/content/⭐️ Open Questions/2. How to help my family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gilman Equation"
-            }
-          },
-          {
-            "id": "73210422735734fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/⭐️ Open Questions/Meditation 🧘‍♂️/Meditation log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Meditation log"
+              "title": "❓\"How can I change how to orient to my family?\" (Open Question)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/Meditation 🧘‍♂️/Meditation log.md",
+                "file": "source/content/⭐️ Open Questions/3. How should I make money?/💰 How should I make money?.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Meditation log"
+              "title": "Backlinks for 💰 How should I make money?"
             }
           },
           {
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/Meditation 🧘‍♂️/Meditation log.md",
+                "file": "source/content/⭐️ Open Questions/3. How should I make money?/💰 How should I make money?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Meditation log"
+              "title": "Outline of 💰 How should I make money?"
             }
           }
         ]
@@ -202,55 +202,57 @@
       "daily-notes:Open today's note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "90259e85f0bc6c27",
   "lastOpenFiles": [
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Why am I publishing stuff semi-privately?.md",
+    "test.md",
+    "source/content/⭐️ Open Questions/3. How should I make money?/💰 How should I make money?.md",
+    "source/docs/templates/template.md",
+    "source/content/index.md",
+    "source/docs/templates",
+    "source/content/⭐️ Open Questions/2. How to help my family?/❓\"How can I change how to orient to my family?\" (Open Question).md",
+    "source/content/⭐️ Open Questions/1. How to think?/How do you learn well?/Log per day.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Misc/Gilman Equation.md",
+    "source/content/⭐️ Open Questions/4. How to meditate well?/Meditation log.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Misc/Why am I publishing stuff semi-privately?.md",
     "source/content/📎 Files/Images/misc/damnit, wont let me rename.png",
     "source/content/📎 Files/Images/misc/alex is creating.png",
     "source/content/📎 Files/Images/misc/Alex is Creating (Finally!).png",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/❓\"How can I improve my ability to think? (Open Question).md",
-    "source/content/index.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/2. How do you learn well?/Log per day.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Prepping for thinking tutor.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/06. Learning the Socratic method, part 1 → the rationale.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Vervaeke's 4 Ps of Knowledge.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/The tyranny of the propositional.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/02. Book list re learning how to think.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Gilman Equation.md",
-    "source/content/⭐️ Open Questions/Meditation 🧘‍♂️/Tpot, post-rationalism.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Should I meditate regularly?.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Self-anthropology.md",
+    "source/content/⭐️ Open Questions/1. How to think?/❓\"How can I improve my ability to think? (Open Question).md",
+    "source/content/⭐️ Open Questions/1. How to think?/Misc/Prepping for thinking tutor.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Misc/06. Learning the Socratic method, part 1 → the rationale.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Misc/Vervaeke's 4 Ps of Knowledge.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Misc/The tyranny of the propositional.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Misc/02. Book list re learning how to think.md",
+    "source/content/⭐️ Open Questions/4. How to meditate well?/Tpot, post-rationalism.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Misc/Should I meditate regularly?.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Misc/Self-anthropology.md",
     "source/content/📎 Files/Images/misc/Why am I publishing stuff semi-privately?.png",
-    "source/content/Week Reviews/Week of 14th July 2025.md",
-    "source/content/⭐️ Open Questions/Meditation 🧘‍♂️/Meditation log.md",
-    "source/content/Week Reviews/Week of 21st July 2025.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Week reviews/Week reviews.md",
-    "source/content/Week Reviews",
-    "source/content/⭐️ Open Questions/How should I make money? 💰/Misc/Working with Rob at Outcapped, parent page.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/05. Learning the Socratic method, part 1 → the rationale (WIP).md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/08. Enneagram 3 thinking sins.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/How can I operate from a place of uncertainty?.md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/03. Manifesto - \"Why I Should Learn the Socratic Method\".md",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/04. Path to becoming Socratic (AKA, what I don't know yet).md",
-    "source/content/⭐️ Open Questions/Meditation 🧘‍♂️/Sit 003 report.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Week Reviews 1/Week of 14th July 2025.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Week Reviews 1/Week of 21st July 2025.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Week reviews/Week reviews.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Week Reviews 1",
+    "source/content/⭐️ Open Questions/3. How should I make money?/Misc/Working with Rob at Outcapped, parent page.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Misc/05. Learning the Socratic method, part 1 → the rationale (WIP).md",
+    "source/content/⭐️ Open Questions/1. How to think?/Misc/08. Enneagram 3 thinking sins.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Misc/How can I operate from a place of uncertainty?.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Misc/03. Manifesto - \"Why I Should Learn the Socratic Method\".md",
     "source/content/📎 Files/Images/misc/IMG_2116.jpg",
     "source/content/📎 Files/Images/misc/meditation-setup-1.jpg",
     "source/content/⭐️ Open Questions/Meditation log/Untitled",
-    "source/content/⭐️ Open Questions/Meditation 🧘‍♂️",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc/Old website intro.md",
+    "source/content/⭐️ Open Questions/4. How to meditate well?",
     "source/content/📎 Files/Images/misc/mins-metta-experienced.png",
     "source/content/📎 Files/Images/misc/tmi-stage-3.png",
     "source/content/📎 Files/Images/misc/tmi-stage-2.png",
     "source/content/📎 Files/Images/misc/tmi-stage-1.png",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Week reviews",
-    "source/content/⭐️ Open Questions/What does it mean to be in ORI? 🔬/Misc",
-    "source/content/⭐️ Open Questions/How should I make money? 💰/Misc",
-    "source/content/⭐️ Open Questions/2. Kindness ❤️/How can you help your family?/Misc",
+    "source/content/⭐️ Open Questions/1. How to think?/Week reviews",
+    "source/content/⭐️ Open Questions/5. What does it mean to be in ORI?/Misc",
+    "source/content/⭐️ Open Questions/3. How should I make money?/Misc",
+    "source/content/⭐️ Open Questions/2. How to help my family?/Misc",
     "source/content/1. Open Questions/1. Wisdom 🧠/How can you live well?/Misc",
-    "source/content/1. Open Questions/1. Wisdom 🧠/How can you know yourself?/Misc",
-    "source/content/⭐️ Open Questions/1. Wisdom 🧠/1. How do you think well?/Misc"
+    "source/content/1. Open Questions/1. Wisdom 🧠/How can you know yourself?/Misc"
   ]
 }
