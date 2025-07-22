@@ -1,12 +1,12 @@
 ---
 permalink: lemon-tree-lemon-curd-lemon-pie
 ---
-
 - 2025-07-17
-- A message to a friend re: substack and lemons, lol
-	- *"There’s something kinda nice in that [previous message from friend] about writing as like attempting to grow a healthy lemon tree, where for a while you can only grow these like shitty shrivelled fruits, it takes a good long while before the fruits are very plump and juicy"*
+- My friend Simmo shared a photo of him holding a lemon with the caption "fallen lemons", and another friend said "that'd be a good substack name", and then I said:
+	- *"There’s something kinda nice there, about writing as like attempting to grow a healthy lemon tree, where for a while you can only grow these like shitty shrivelled fruits, it takes a good long while before the fruits are very plump and juicy"*
 	- *"And the raw lemon might be pretty sour so you have to mix in a bunch of sugar (e.g. using storytelling to make the key ideas more palatable/likely to be consumed)"*
-	- *"You pluck a healthy lemon and are like “I’m really pleased with this lemon how it is, but I know I’m gonna need to sweeten it into a curd or something to make other people want it”*
+	- *"You pluck a healthy lemon and are like “I’m really pleased with this lemon how it is, but I know I’m gonna need to sweeten it into a curd or something to make **other** people want it”*
 	- *"My ==public notebook as a load of raw lemons== vs substack as the place to make the curd, and maybe one day I’ll make a lemon meringue pie 🥧"*
+		- Maybe a book or more youtube videos or something?
 - ![[This is where the lemons are 🍋.png|300]]
-- ☝️ my friend Simmo's lemon photo with the message "fallen lemons 💛" that spurred this idea (someone else replied to "fallen lemons" with "New substack title")
+- ☝️ Simmo's now-famous lemon photo

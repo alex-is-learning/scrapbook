@@ -9,11 +9,10 @@ permalink: home-page
 -  ![[profile-pic-pixel.png|120]]
 - It currently serves a few purposes:
 ## 1. Focusing on my open questions
-- **Focusing on my open questions**
-	- [[⭐️"How can I improve my ability to think? (Open Question)]]
-	- [[⭐️"How can I change how to orient to my family?" (Open Question)]]
-	- [[⭐️"How should I make money?" (Open Question)]]
-	- [[⭐️"How do I meditate regularly?" (Open Question)]]
+- [[⭐️"How can I improve my ability to think? (Open Question)]]
+- [[⭐️"How can I change how to orient to my family?" (Open Question)]]
+- [[⭐️"How should I make money?" (Open Question)]]
+- [[⭐️"How do I meditate regularly?" (Open Question)]]
 ## 2. Thinking in public
 - E.g. 
 	- [[Should I meditate regularly?]]
@@ -21,9 +20,9 @@ permalink: home-page
 	- [[06. Learning the Socratic method, part 1 → the rationale|Learning the Socratic Method]]
 	- [[How can I operate from a place of uncertainty?]]
 	- [[08. Enneagram 3 thinking sins|Enneagram 3 thinking sins]]
-- I'm finding that having something that is publicly visible acts as a really great incentive to write more. 
-	- Stuff published here feels much more "real" than stuff that I might write for myself and then lose in a giant overwhelming Obsidian vault, or that gets tucked away in a Google Drive folder, never to be seen again.
-	- [[Lemon tree → lemon curd → lemon pie 🍋]]
+- This has the great benefit of getting me to ==think more clearly & robustly==
+- It also may lead to me ==making more stuff== - substack posts, youtube videos, etc
+	- [[Lemon tree → lemon curd → lemon pie 🍋]], where this place is me picking lemons, super low effort, may turn them into lemon curd later, maybe not
 # 🪵 Logs
 - [[Log per day]] ← <span class="text-red">this is where ~everything goes!</span> 🚨
 - [[Meditation log]]
