@@ -58,6 +58,12 @@ permalink: questioning-effective-altruism
 - Asking Gemini about alternatives to utilitarianism:
 	- ==Care Ethics== →  **Core Idea:** This ethical framework, largely developed by feminist philosophers like Carol Gilligan and Nel Noddings, emphasizes the importance of relationships, dependency, and the moral salience of attending to the needs of "particular others."
 	- ==Virtue Ethics== → **Core Idea:** Drawing inspiration from ancient Greek philosophers like Aristotle, virtue ethics focuses on the character of the moral agent rather than specific rules or consequences. It asks what a virtuous person would do.
+#### Note from Simmo:
+- Simmo read this and said:
+	- *"I guess the other thing is surprise that you see EA as utilitarian"*
+	- *"I think fewer than 50% of self.identified EAs see themselves as utilitarian"*
+	- *"Maybe consequentialist is closer?"*
+- So, my updated point is this - I am not a utilitarian, a virtue ethicist, a deontologist, a consequentialist - I'm just some dude 
 # 4. What would it take to intrinsically care about EA?
 ## 4a. Putting out my own fires?
 - As discussed above, there's a strong sense of the ==suffering of family members== as being more salient than the suffering of non-family members
