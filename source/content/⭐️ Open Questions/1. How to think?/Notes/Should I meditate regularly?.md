@@ -246,5 +246,5 @@ permalink: should-i-meditate-regularly
 ---
 - 2025-07-22 
 - Spotted in the wild:
-- ![[conc-vs-metta.png]]
+- ![[conc-vs-metta rival voices guy opposite.png]]
 - ☝️ tweet [link](https://x.com/nosilverv/status/1807465393125982620)

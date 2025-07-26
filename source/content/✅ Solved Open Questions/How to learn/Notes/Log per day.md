@@ -4,6 +4,8 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 ## July 2025
 ### Week of 21st July
+- Sat 2025-07-26
+	- [[What is next for me after living at my mum's?]]
 - Tue 2025-07-22
 	- Added "Solved Open Questions"
 		- [[How to learn well]]

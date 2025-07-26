@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Questioning Effective Altruism.md",
+                "file": "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/What is next for me after living at my mum's?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questioning Effective Altruism"
+              "title": "What is next for me after living at my mum's?"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tweet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Questioning Effective Altruism.md",
+                "file": "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/What is next for me after living at my mum's?.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Questioning Effective Altruism"
+              "title": "Backlinks for What is next for me after living at my mum's?"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Questioning Effective Altruism.md",
+                "file": "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/What is next for me after living at my mum's?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Questioning Effective Altruism"
+              "title": "Outline of What is next for me after living at my mum's?"
             }
           }
         ]
@@ -179,9 +179,26 @@
   },
   "active": "7bdb082c0562d32d",
   "lastOpenFiles": [
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Should I meditate regularly?.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/10. Why thinking things through is aversive.md",
+    "source/content/📎 Files/Images/misc/conc-vs-metta rival voices guy opposite.png",
+    "source/content/📎 Files/Images/misc/conc-vs-metta rival voices guy opposite cropped.png",
+    "source/content/📎 Files/Images/misc/conc-vs-metta rival voices guy opposite copy.png",
+    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/What is next for me after living at my mum's?.md",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Log per day.md",
+    "source/content/⭐️ Open Questions/5. What next after living at mum's?/⭐️ \"What is next for me after living at my mum's?\" (Open Question).md",
+    "source/content/index.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/How much better do I really need to get at thinking?.md",
+    "source/content/⭐️ Open Questions/2. How to help my family?/⭐️\"How can I change how to orient to my family?\" (Open Question).md",
+    "source/content/⭐️ Open Questions/3. How should I make money?/⭐️\"How should I make money?\" (Open Question).md",
+    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Going to family therapy with my mum! What is the end goal?.md",
+    "source/content/⭐️ Open Questions/1. How to think?/⭐️\"How can I improve my ability to think? (Open Question).md",
+    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes",
+    "source/content/⭐️ Open Questions/5. What next after living at mum's?",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Should I meditate regularly?.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Questioning Effective Altruism.md",
+    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Other people working on the \"parents as spiritual practice\" thing.md",
+    "source/content/✅ Solved Open Questions/How to learn/Notes/Learning examples/International relations/America/AOC tweet re Andrew Cuomo.md",
+    "source/content/📎 Files/Images/misc/care guy nosilver rival voices.png",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/10. Why thinking things through is aversive.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Learning about adoption in the UK.md",
     "source/content/✅ Solved Open Questions/How to learn/How to learn well.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/The ACES study.md",
@@ -189,7 +206,6 @@
     "source/content/📎 Files/Images/misc/The ACES study.png",
     "source/content/📎 Files/Images/misc/Pasted image 20250722164828.png",
     "source/content/✅ Solved Open Questions/How to heal/How to \"heal\".md",
-    "source/content/index.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/08. Enneagram 3 thinking sins.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/How can I operate from a place of uncertainty?.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/06. Learning the Socratic method, part 1 → the rationale.md",
@@ -197,24 +213,10 @@
     "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/Anki.md",
     "source/content/📎 Files/Images/misc/anki-2025-07-22.png",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/Gemini Deep Research.md",
-    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Other people working on the \"parents as spiritual practice\" thing.md",
     "source/content/📎 Files/Images/misc/conc-vs-metta.png",
     "source/content/⭐️ Open Questions/4. How to meditate regularly?/⭐️\"How do I meditate regularly?\" (Open Question).md",
-    "source/content/⭐️ Open Questions/4. How to meditate regularly?/Meditation log.md",
     "source/content/📎 Files/Images/misc/\"Parents as spiritual practice\"4.png",
     "source/content/📎 Files/Images/misc/\"Parents as spiritual practice\"3.png",
-    "source/content/📎 Files/Images/misc/\"Parents as spiritual practice\"2.png",
-    "source/content/📎 Files/Images/misc/\"Parents as spiritual practice\".png",
-    "source/content/⭐️ Open Questions/2. How to help my family?/⭐️\"How can I change how to orient to my family?\" (Open Question).md",
-    "source/content/✅ Solved Open Questions/How to learn/Notes/Logging my journey/Learning Twitch Streams.md",
-    "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
-    "source/content/📎 Files/Images/misc/Learning Twitch Streams.png",
-    "source/content/⭐️ Open Questions/3. How should I make money?/Notes/Pandemic Action Network/Twitch stream 2025-06-28 - Top-down model of Pandemic Action Network.md",
-    "source/content/✅ Solved Open Questions/How to learn/Notes/Value of visual notes/Are visual notes underrated and poorly understood?.md",
-    "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/Lemon tree → lemon curd → lemon pie 🍋.md",
-    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Helping family - open questions.md",
-    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Bowen family systems - flashcards.md",
-    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/How do I pitch going to family therapy to my mum?.md",
     "source/content/Mental Models",
     "source/content/⭐️ Open Questions/4. How to meditate regularly?/Sit reports",
     "source/content/✅ Solved Open Questions/How to learn",
@@ -222,8 +224,6 @@
     "source/content/⭐️ Open Questions/4. How to meditate regularly?/Notes",
     "source/content/✅ Solved Open Questions",
     "source/content/⭐️ Open Questions/3 - cleanup.py",
-    "source/content/⭐️ Open Questions/cleanup.py",
-    "source/content/⭐️ Open Questions/3 - cleanup.py.sb-28b39369-8mgtFC",
-    "source/content/⭐️ Open Questions/3 - cleanup~.py"
+    "source/content/⭐️ Open Questions/cleanup.py"
   ]
 }
