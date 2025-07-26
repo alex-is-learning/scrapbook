@@ -13,6 +13,7 @@ permalink: home-page
 - [[⭐️"How can I change how to orient to my family?" (Open Question)]]
 - [[⭐️"How should I make money?" (Open Question)]]
 - [[⭐️"How do I meditate regularly?" (Open Question)]]
+- [[⭐️ "What is next for me after living at my mum's?" (Open Question)]]
 ## 2. Thinking in public
 - E.g. 
 	- [[Should I meditate regularly?]] (2025-07-20)
