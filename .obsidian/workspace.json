@@ -11,14 +11,12 @@
             "id": "7bdb082c0562d32d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/How much better do I really need to get at thinking?.md",
-                "mode": "source",
-                "source": false
+                "file": "source/content/📎 Files/Images/in-person-connection/friends-tv-show.png"
               },
-              "icon": "lucide-file",
-              "title": "How much better do I really need to get at thinking?"
+              "icon": "lucide-image",
+              "title": "friends-tv-show"
             }
           }
         ]
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/How much better do I really need to get at thinking?.md",
+                "file": "source/content/📎 Files/Images/in-person-connection/friends-tv-show.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How much better do I really need to get at thinking?"
+              "title": "Backlinks for friends-tv-show"
             }
           },
           {
@@ -150,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/How much better do I really need to get at thinking?.md",
+                "file": "source/content/📎 Files/Images/in-person-connection/friends-tv-show.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How much better do I really need to get at thinking?"
+              "title": "Outline of friends-tv-show"
             }
           }
         ]
@@ -179,14 +177,28 @@
   },
   "active": "7bdb082c0562d32d",
   "lastOpenFiles": [
+    "source/content/📎 Files/Images/in-person-connection/review-revue.png",
+    "source/content/📎 Files/Images/in-person-connection/friends-tv-show.png",
+    "README.md",
+    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/Should I value in-person connection highly?.md",
+    "source/content/📎 Files/Images/in-person-connection",
+    "source/content/📎 Files/Images/in-person-connection/harry-potter.png",
+    "source/content/📎 Files/Images/in-person-connection/scott-pilgrim.png",
+    "source/content/📎 Files/Images/in-person-connection/headgum-patreon-2.png",
+    "source/content/📎 Files/Images/in-person-connection/headgum-patreon-1.png",
+    "source/content/📎 Files/Images/in-person-connection/smosh-thumb-8.png",
+    "source/content/📎 Files/Images/in-person-connection/smosh-thumb-7.png",
+    "source/content/📎 Files/Images/in-person-connection/smosh-thumb-6.png",
+    "source/content/📎 Files/Images/in-person-connection/smosh-thumb-5.png",
+    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/What is next for me after living at my mum's? day 1.md",
+    "source/content/⭐️ Open Questions/5. What next after living at mum's?/⭐️ \"What is next for me after living at my mum's?\" (Open Question).md",
+    "source/content/index.md",
     "source/content/⭐️ Open Questions/4. How to meditate regularly?/Sit reports/Sit 001 report.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/How much better do I really need to get at thinking?.md",
     "source/content/📎 Files/Images/meditation gifs",
     "source/content/⭐️ Open Questions/4. How to meditate regularly?/Notes/Ānāpānasati (Anapanasati).md",
-    "source/content/📎 Files/Images/meditation gifs/output_timelapse-2025-07-27-1303.gif",
     "source/content/⭐️ Open Questions/4. How to meditate regularly?/Meditation log.md",
     "source/content/⭐️ Open Questions/4. How to meditate regularly?/Sit reports/Sit 000 report.md",
-    "source/content/index.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Should I meditate regularly?.md",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/pillow-11.3.0.dist-info/REQUESTED",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/pillow-11.3.0.dist-info/INSTALLER",
@@ -196,15 +208,8 @@
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/PIL/__pycache__/_util.cpython-313.pyc",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/PIL/__pycache__/_typing.cpython-313.pyc",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/PIL/__pycache__/_tkinter_finder.cpython-313.pyc",
-    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/PIL/__pycache__/_deprecate.cpython-313.pyc",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/numpy/random/LICENSE.md",
-    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/What is next for me after living at my mum's?.md",
-    "source/content/📎 Files/Images/misc/conc-vs-metta rival voices guy opposite.png",
-    "source/content/📎 Files/Images/misc/conc-vs-metta rival voices guy opposite cropped.png",
-    "source/content/📎 Files/Images/misc/conc-vs-metta rival voices guy opposite copy.png",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Log per day.md",
-    "source/content/⭐️ Open Questions/5. What next after living at mum's?/⭐️ \"What is next for me after living at my mum's?\" (Open Question).md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/How much better do I really need to get at thinking?.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/⭐️\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/⭐️ Open Questions/3. How should I make money?/⭐️\"How should I make money?\" (Open Question).md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Going to family therapy with my mum! What is the end goal?.md",
@@ -212,18 +217,10 @@
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Questioning Effective Altruism.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Other people working on the \"parents as spiritual practice\" thing.md",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Learning examples/International relations/America/AOC tweet re Andrew Cuomo.md",
-    "source/content/📎 Files/Images/misc/care guy nosilver rival voices.png",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/10. Why thinking things through is aversive.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Learning about adoption in the UK.md",
     "source/content/✅ Solved Open Questions/How to learn/How to learn well.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/The ACES study.md",
-    "source/content/📎 Files/Images/misc/The ACES study1.png",
-    "source/content/📎 Files/Images/misc/The ACES study.png",
-    "source/content/📎 Files/Images/misc/Pasted image 20250722164828.png",
-    "source/content/✅ Solved Open Questions/How to heal/How to \"heal\".md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/08. Enneagram 3 thinking sins.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/How can I operate from a place of uncertainty?.md",
-    "source/content/📎 Files/Images/misc/anki-2025-07-22.png",
-    "source/content/📎 Files/Images/misc/conc-vs-metta.png"
+    "source/content/✅ Solved Open Questions/How to heal/How to \"heal\".md"
   ]
 }
