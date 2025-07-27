@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/4. How to meditate regularly?/Sit reports/Sit 001 report.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/How much better do I really need to get at thinking?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sit 001 report"
+              "title": "How much better do I really need to get at thinking?"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/4. How to meditate regularly?/Sit reports/Sit 001 report.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/How much better do I really need to get at thinking?.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sit 001 report"
+              "title": "Backlinks for How much better do I really need to get at thinking?"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/4. How to meditate regularly?/Sit reports/Sit 001 report.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/How much better do I really need to get at thinking?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sit 001 report"
+              "title": "Outline of How much better do I really need to get at thinking?"
             }
           }
         ]
@@ -177,11 +177,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "7bdb082c0562d32d",
   "lastOpenFiles": [
+    "source/content/⭐️ Open Questions/4. How to meditate regularly?/Sit reports/Sit 001 report.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/How much better do I really need to get at thinking?.md",
     "source/content/📎 Files/Images/meditation gifs",
     "source/content/⭐️ Open Questions/4. How to meditate regularly?/Notes/Ānāpānasati (Anapanasati).md",
-    "source/content/⭐️ Open Questions/4. How to meditate regularly?/Sit reports/Sit 001 report.md",
     "source/content/📎 Files/Images/meditation gifs/output_timelapse-2025-07-27-1303.gif",
     "source/content/⭐️ Open Questions/4. How to meditate regularly?/Meditation log.md",
     "source/content/⭐️ Open Questions/4. How to meditate regularly?/Sit reports/Sit 000 report.md",
@@ -196,7 +197,6 @@
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/PIL/__pycache__/_typing.cpython-313.pyc",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/PIL/__pycache__/_tkinter_finder.cpython-313.pyc",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/PIL/__pycache__/_deprecate.cpython-313.pyc",
-    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/PIL/__pycache__/_binary.cpython-313.pyc",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/numpy/random/LICENSE.md",
     "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/What is next for me after living at my mum's?.md",
     "source/content/📎 Files/Images/misc/conc-vs-metta rival voices guy opposite.png",
