@@ -11,12 +11,14 @@
             "id": "7bdb082c0562d32d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "source/content/📎 Files/Images/in-person-connection/friends-tv-show.png"
+                "file": "source/content/Log per day.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "friends-tv-show"
+              "icon": "lucide-file",
+              "title": "Log per day"
             }
           }
         ]
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/📎 Files/Images/in-person-connection/friends-tv-show.png",
+                "file": "source/content/Log per day.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for friends-tv-show"
+              "title": "Backlinks for Log per day"
             }
           },
           {
@@ -148,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/📎 Files/Images/in-person-connection/friends-tv-show.png",
+                "file": "source/content/Log per day.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of friends-tv-show"
+              "title": "Outline of Log per day"
             }
           }
         ]
@@ -177,10 +179,11 @@
   },
   "active": "7bdb082c0562d32d",
   "lastOpenFiles": [
-    "source/content/📎 Files/Images/in-person-connection/review-revue.png",
+    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/Should I value in-person connection highly? (first pass).md",
+    "source/content/Log per day.md",
     "source/content/📎 Files/Images/in-person-connection/friends-tv-show.png",
+    "source/content/📎 Files/Images/in-person-connection/review-revue.png",
     "README.md",
-    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/Should I value in-person connection highly?.md",
     "source/content/📎 Files/Images/in-person-connection",
     "source/content/📎 Files/Images/in-person-connection/harry-potter.png",
     "source/content/📎 Files/Images/in-person-connection/scott-pilgrim.png",
@@ -209,7 +212,6 @@
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/PIL/__pycache__/_typing.cpython-313.pyc",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/PIL/__pycache__/_tkinter_finder.cpython-313.pyc",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/numpy/random/LICENSE.md",
-    "source/content/✅ Solved Open Questions/How to learn/Notes/Log per day.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/⭐️\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/⭐️ Open Questions/3. How should I make money?/⭐️\"How should I make money?\" (Open Question).md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Going to family therapy with my mum! What is the end goal?.md",
