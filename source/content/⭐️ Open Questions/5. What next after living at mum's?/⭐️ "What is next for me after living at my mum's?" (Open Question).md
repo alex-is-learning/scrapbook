@@ -1,2 +1,4 @@
+- 2025-07-27
+	- [[Should I value in-person connection highly?]]
 - 2025-07-26
-	- [[What is next for me after living at my mum's?]]
+	- [[What is next for me after living at my mum's? day 1]]
