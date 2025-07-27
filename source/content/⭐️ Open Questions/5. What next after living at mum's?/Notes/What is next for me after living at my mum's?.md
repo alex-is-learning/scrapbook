@@ -56,3 +56,9 @@ permalink:
 		- Social skills (perspectival and procedural) as open question
 	- The amount of social podcasts I listen to!
 - Similar to [[Should I meditate regularly?]], I'd like to write something up like [[Should I value in-person connection highly?]]
+# 4. Currently in limbo
+- Waiting for family therapy session 1 
+- Waiting to start contractor role 
+- In a village with no car, no in person friends, and no live projects (/the total inability to make myself *do anything*)
+	- Suddenly feel like I have nothing to do. Bored, but totally lacking the energy to make myself do anything work-shaped, productive-shaped. It's like my Apollian reserves are just totally empty 
+	- So I had fun playing Minecraft for the first time since I was a teenager, but that now feels hollow too

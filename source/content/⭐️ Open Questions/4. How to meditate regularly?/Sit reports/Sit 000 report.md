@@ -1,12 +1,13 @@
 ---
-permalink: sit-003-report
+permalink: sit-000-report
 ---
 
 - [[Meditation log]]
+- Calling this sit 0 because it's pre-me locking in a proper routine
 - **Date & Time:** Monday 2025-07-21, 08:15
 - **Duration:** 20 minutes 
 	- *(was aiming for 30 but got restless)*
-- **Technique:** [[Ānāpānasati]]
+- **Technique:** [[Ānāpānasati (Anapanasati)]]
 - **Summary of the Sit:** 
     - I think I'm already a bit more aware of the inside of my nostrils from doing it yesterday - on a walk yesterday I was also paying attention to my nostrils a bit and it felt like the sensations had been upweighted. I imagine it's similar to flashcards (or learning a skill like the guitar) - when you sleep on it and then wake up, your brain has "consolidated" somewhat, and you find things easier
     - Overall, still super mind-wander-y, of course. ~95-99% distracted
