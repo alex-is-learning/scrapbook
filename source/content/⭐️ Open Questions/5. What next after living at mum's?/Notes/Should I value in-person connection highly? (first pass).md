@@ -4,6 +4,15 @@ permalink: should-i-value-in-person-connection-highly
 - 2025-07-27
 - It's a Sunday, I'm emerging from a low energy few days, I'm timeboxing this to a single pomodoro for now 🍅
 - As discussed yesterday in [[What is next for me after living at my mum's? day 1]]
+# *Meta - Message sent to my friends re: this post*
+> *"Did a 1-pom treatment on the “should I value in-person connection more highly?” thing"*
+> *"at the very least I was thinking that, to explicitly map out my parasocial life might be useful (re: e.g. ridiculousness audit, giving Simmo an insight into how chronically online introverts live etc lol)*
+
+> *"perhaps a goal is to totally reduce parasocial life with social life. This intuitively seems like a no brainer (although I’d miss my parasocial besties, but then of course that’s the thing, they’re not my besties, they’re people i’ll never meet)"*
+ 
+ >*"(be an in-person friend, not an online fan, you dweeb)"*
+
+---
 # 1. "I need to get better at thinking"
 - Something that's been on my mind recently is:
 	- How much do I really need to "learn how to think"? Isn't this website enough?
