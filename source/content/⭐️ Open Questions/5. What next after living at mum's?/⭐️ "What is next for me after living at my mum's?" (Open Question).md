@@ -1,4 +1,4 @@
 - 2025-07-27
-	- [[Should I value in-person connection highly?]]
+	- [[Should I value in-person connection highly? (first pass)]]
 - 2025-07-26
 	- [[What is next for me after living at my mum's? day 1]]

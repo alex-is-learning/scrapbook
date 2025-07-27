@@ -4,6 +4,8 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 ## July 2025
 ### Week of 21st July
+- Sun 2025-07-27
+	- [[Should I value in-person connection highly? (first pass)]]
 - Sat 2025-07-26
 	- [[What is next for me after living at my mum's? day 1]]
 - Tue 2025-07-22
