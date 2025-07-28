@@ -4,6 +4,7 @@ permalink: old-website-intro
 
 - *(Deprecated on 2025-07-17)*:
 - As of 2025-06-12, I am a member of the [Open Research Institute](https://defenderofthebasic.substack.com/p/how-do-we-bootstrap-the-open-research?utm_source=profile&utm_medium=reader2)!
+	- https://openresearchinstitute.org/ & Github https://github.com/Open-Research-Institute
 - This website is me learning how to think via [[Top-down learning]], vs the [[Bottom-up learning]] that I've almost entirely used *up** until this point
 - This is inspired by [this post by Defender of Basic](https://defenderofthebasic.substack.com/p/geoffrey-hinton-on-developing-your). 
 - Kickoff post with a quick sketch of why I'm doing this - [here](https://www.alexislearning.me/learning-how-to-think/)
