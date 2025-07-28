@@ -11,6 +11,6 @@ created: 2025-07-28 19:55
     - Really not much sensation at the tips of my nostrils - much more inside my nose
 - **Key Takeaway / Question:** 
     - Just keep going! 
-## Timestamp, now with Buddhist stats
+## Timestamp, now with (totally real) Buddhist stats
 - Watch my spine compress in real time!
 - ![[output_timelapse_20250728-195044.gif]]
