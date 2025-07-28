@@ -2,9 +2,13 @@
 permalink: meditation-log
 ---
 - [[⭐️"How do I meditate regularly?" (Open Question)]]
+## Week for 28th July
+- Mon 2025-07-28
+	- [[Sit 002 report]] → 1 hour, with timelapse
 ## Week of 21st July 
 - Sun 2025-07-27
 	- [[Sit 001 report]] → 1 hour, with timelapse (lol)
+	- And later on - a 15 min sit just before bed
 - Tue 2025-07-22
 	- 20 min sit, 09:00
 	- 99% distracted, but came back to nostrils at least 6 times, even if only for a few seconds 😅

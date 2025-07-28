@@ -42,7 +42,9 @@ permalink: should-i-value-in-person-connection-highly
 - I have all these parasocial besties but guess what, we're not besties! It's parasocial!
 
 > Meta note: I think there's something interesting here re: mapping out my "parasocial" life - something that is this background thing that other people don't see. Very interesting and weird modern phenomenon
-
+##### What's the first thing I do when I wake up?
+- Throw on a comedy podcast when I make breakfast/brush my teeth etc
+- Immediate (parasocial) connection
 #### Current
 ##### Headgum podcast - friends hanging out
 - I've listened to 2+ hours of this show for monthsssss
@@ -89,5 +91,19 @@ permalink: should-i-value-in-person-connection-highly
 - ![[harry-potter.png]]
 # 4. So yeah
 - This doc was just a quick dump. But CLEARLY there's something here re: the importance of connection, comedy, fun, etc. I'm not just a lil enneagram 3w4 nerd. Part of me would love to have in-person friendships like the above. It feels daunting to replicate or have as a north star vs "get a great job" or "learn a bunch about xyz" or whatever, but oh man, can't help but think it'd be... life changing etc
+# scrappy things added after the fact
+### People I know who don't listen to podcasts
+- 2025-07-28 → friends from school who now live in London and don't have time for podcasts (as they have so much IRL connection with a great friend group)
+### Simmo claim: "you wouldn't miss your parasocial besties"
+- From Simmo:
+
+> *"Claim. Alex would not miss his para-social besties at all"*
+
+> *"He'll make real friends, have fond memories of these shows but won't miss them like he would real friends because the connections are one-way"*
+
+### "What if I quit cold turkey?"
+- I think given how isolated I am from people atm (living at my mum's in a small village), quitting cold turkey would be net bad
+- It might make me message/call people more. but idk, it feels important to have some "connection" even if it's fake - spending "time" with people who are funny, similar senses of humour, role models etc. Feels like it would be very... idk, self-punitive, isolating, to cold turkey right now
+
 ---
 [^1]: Well, some of them
