@@ -6,4 +6,6 @@ permalink: how-to-heal
 - I'm not *done*, but huge progress has been made
 	- See e.g. [Consensus-ism (pt 2)](https://alexislearning.substack.com/p/consensus-ism-part-2)
 	- No more alexithymia, no more social anxiety, no more PTSD
-- Thanks tpot/post-rationalist space! 
+- Thanks tpot/post-rationalist space! Thanks IFS! Thanks consensus-ism! Thanks Buddhism!
+- Progress has been made on (Shamil Chandaria's?) "liberation-awakening" graph, basically:
+	- ![[liberation-awakening.png]]

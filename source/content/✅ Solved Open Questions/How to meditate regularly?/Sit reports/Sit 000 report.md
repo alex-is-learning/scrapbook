@@ -2,7 +2,7 @@
 permalink: sit-000-report
 ---
 
-- [[Meditation log]]
+- [[🧘‍♂️ Meditation log]]
 - Calling this sit 0 because it's pre-me locking in a proper routine
 - **Date & Time:** Monday 2025-07-21, 08:15
 - **Duration:** 20 minutes 

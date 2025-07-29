@@ -3,6 +3,10 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 ## July 2025
+## Week of 28th July
+- Tue 2025-07-29
+	- [[I am now making money!]]
+	- [[Going to family therapy with my mum!]]
 ### Week of 21st July
 - Sun 2025-07-27
 	- [[Should I value in-person connection highly? (first pass)]]
@@ -10,8 +14,8 @@ permalink: log-per-day
 	- [[What is next for me after living at my mum's? day 1]]
 - Tue 2025-07-22
 	- Added "Solved Open Questions"
-		- [[How to learn well]]
-		- [[How to "heal"]]
+		- [[✅ "How can I learn effectively?" (Solved Question)]]
+		- [[✅ "How do I 'heal'?" (Solved Question)]]
 		- These were both my top-of-mind "open questions" in previous years (without me necessarily being consciously aware), now they're ~solved enough!
 	- [[I saw a family therapist yesterday]]
 	- [[It's my Dad's birthday today]]
@@ -24,7 +28,7 @@ permalink: log-per-day
 	- [[NVC flashcards]]
 	- [[Should I meditate regularly?]]
 	- [[Gilman Equation]]
-	- [[Meditation log]]
+	- [[🧘‍♂️ Meditation log]]
 - Fri 2025-07-18
 	- [[Setting a contractor fee for Outcapped]]
 	- [[Current family project open questions]]

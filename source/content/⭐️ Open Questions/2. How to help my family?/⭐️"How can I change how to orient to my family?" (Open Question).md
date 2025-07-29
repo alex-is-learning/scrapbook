@@ -4,7 +4,7 @@ permalink: how-can-i-change-how-to-orient-to-my-family-open-question
 - [[source/content/index|Home Page]]
 ## Week of 21st July
 - Sat 2025-07-26
-	- [[Going to family therapy with my mum! What is the end goal?]]
+	- [[Going to family therapy with my mum!]]
 - Tue 2025-07-22 
 	- [[I saw a family therapist yesterday]]
 	- [[It's my Dad's birthday today]]
