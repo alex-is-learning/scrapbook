@@ -16,4 +16,4 @@ permalink: sit-001-report
 - With timestamps to prove that I did the full time
 - Workflow is "message my friends that I'm gonna sit for an hour and if I fail I pay them £10 each", then share the gif as proof
 - Made sitting for 1 hour exponentially easier, so good
-- ![[output_timelapse-2025-07-27-1303.gif]]
+- ![[sit 001 output_timelapse-2025-07-27-1303.gif]]
