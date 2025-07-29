@@ -7,14 +7,13 @@ permalink: home-page
 # Intro
 - Hi! Welcome to my ==digital scrapbook== :) 
 -  ![[profile-pic-pixel.png|120]]
-- [[Log per day]] ← <span class="text-red">this is where ~everything goes!</span> 🚨
+- [[🪵 Log per day]] ← <span class="text-red">this is where ~everything goes!</span> 🚨
 - *(I'm vaguely aligned with the Open Research Institute, see [[Old website intro]])*
 - It currently serves a few purposes:
 ## 1. Focusing on my open questions
 - [[⭐️"How can I improve my ability to think? (Open Question)]]
 - [[⭐️"How can I change how to orient to my family?" (Open Question)]]
 - [[⭐️"How should I make money?" (Open Question)]]
-- [[⭐️"How do I meditate regularly?" (Open Question)]]
 - [[⭐️ "What is next for me after living at my mum's?" (Open Question)]]
 ## 2. Thinking in public
 - E.g. 
@@ -27,12 +26,13 @@ permalink: home-page
 - It also may lead to me ==making more stuff== - substack posts, youtube videos, etc
 	- [[Lemon tree → lemon curd → lemon pie 🍋]], where this place is me picking lemons, super low effort, may turn them into lemon curd later, maybe not
 # 🪵 Logs
-- [[Log per day]] ← <span class="text-red">this is where ~everything goes!</span> 🚨
-- [[Meditation log]]
+- [[🪵 Log per day]] ← <span class="text-red">this is where ~everything goes!</span> 🚨
+- [[🧘‍♂️ Meditation log]]
 - [[Week reviews]]
 # Other website
 - My other website is [here](https://www.alexislearning.me/)
 	- ☝️ Tbf this has been kinda deprecated, it's pretty much just a place to see my <span class="text-green">CV and references and other links</span> now!
 # ✅ Solved Open Questions
-- [[How to learn well]]
-- [[How to "heal"]]
+- [[✅ "How can I learn effectively?" (Solved Question)]]
+- [[✅ "How do I 'heal'?" (Solved Question)]]
+- [[✅ "How do I meditate regularly?" (Solved Question)]]
