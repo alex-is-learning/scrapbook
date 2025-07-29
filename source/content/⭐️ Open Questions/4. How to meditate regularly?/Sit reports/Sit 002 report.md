@@ -13,4 +13,4 @@ created: 2025-07-28 19:55
     - Just keep going! 
 ## Timestamp, now with (totally real) Buddhist stats
 - Watch my spine compress in real time!
-- ![[output_timelapse_20250728-195044.gif]]
+- ![[sit 002 output_timelapse_20250728-195044.gif]]

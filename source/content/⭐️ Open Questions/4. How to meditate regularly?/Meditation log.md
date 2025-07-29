@@ -3,6 +3,8 @@ permalink: meditation-log
 ---
 - [[⭐️"How do I meditate regularly?" (Open Question)]]
 ## Week for 28th July
+- Tue 2025-07-29
+	- [[Sit 003 report]] → 1 hour, with timelapse
 - Mon 2025-07-28
 	- [[Sit 002 report]] → 1 hour, with timelapse
 ## Week of 21st July 
