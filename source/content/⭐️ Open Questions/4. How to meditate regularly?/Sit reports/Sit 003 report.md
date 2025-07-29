@@ -13,3 +13,4 @@ created: 2025-07-29
 	- Timelapse thing continues to make sitting for an entire hour totally effortless. No desire at any point to cut it short. Messaged my friends "1 hour long sit, black mirror gif or £10 fine!"
 - **Key Takeaway / Question:** 
     - Just keep going!!
+- ![[sit 003 output_timelapse_20250729-122450.gif]]
