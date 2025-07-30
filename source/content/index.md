@@ -28,6 +28,7 @@ permalink: home-page
 # 🪵 Logs
 - [[🪵 Log per day]] ← <span class="text-red">this is where ~everything goes!</span> 🚨
 - [[Meditation log]]
+- [[Workout log]]
 - [[Week reviews]]
 # Other website
 - My other website is [here](https://www.alexislearning.me/)
@@ -36,6 +37,7 @@ permalink: home-page
 - [[✅ "How can I learn effectively?" (Solved Question)]]
 - [[✅ "How do I 'heal'?" (Solved Question)]]
 - [[✅ "How do I meditate regularly?" (Solved Question)]]
+- [[✅ "How do I get fit?" (Solved Question)]]
 # Want a cool website like this?
 - [Here's the guide](https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1)!
 	- It's an Obsidian/Quartz setup
