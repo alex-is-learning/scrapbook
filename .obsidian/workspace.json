@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/🧘‍♂️ Meditation log.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🧘‍♂️ Meditation log"
+              "title": "index"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/🧘‍♂️ Meditation log.md",
+                "file": "source/content/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🧘‍♂️ Meditation log"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/🧘‍♂️ Meditation log.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🧘‍♂️ Meditation log"
+              "title": "Outline of index"
             }
           }
         ]
@@ -179,10 +179,13 @@
   },
   "active": "7bdb082c0562d32d",
   "lastOpenFiles": [
-    "source/content/index.md",
+    "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 004 report.md",
+    "source/content/📎 Files/Images/meditation gifs/sit 004 output_timelapse_20250730-115158.gif",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/🧘‍♂️ Meditation log.md",
-    "source/content/🪵 Log per day.md",
+    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/Should I value in-person connection highly? (first pass).md",
     "source/content/⭐️ Open Questions/5. What next after living at mum's?/⭐️ \"What is next for me after living at my mum's?\" (Open Question).md",
+    "source/content/index.md",
+    "source/content/🪵 Log per day.md",
     "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/What is next for me after living at my mum's? day 1.md",
     "source/content/⭐️ Open Questions/1. How to think?/⭐️\"How can I improve my ability to think? (Open Question).md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/How much better do I really need to get at thinking?.md",
@@ -204,18 +207,14 @@
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 002 report.md",
     "source/content/📎 Files/Images/meditation gifs/sit 003 output_timelapse_20250729-122450.gif",
     "source/content/📎 Files/Images/meditation gifs/sit 002 output_timelapse_20250728-195044.gif",
-    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/Should I value in-person connection highly? (first pass).md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Old website intro.md",
     "source/content/📎 Files/Images/in-person-connection/friends-tv-show.png",
     "source/content/📎 Files/Images/in-person-connection/review-revue.png",
-    "README.md",
     "source/content/📎 Files/Images/in-person-connection",
     "source/content/📎 Files/Images/in-person-connection/harry-potter.png",
     "source/content/📎 Files/Images/in-person-connection/scott-pilgrim.png",
     "source/content/📎 Files/Images/in-person-connection/headgum-patreon-2.png",
     "source/content/📎 Files/Images/in-person-connection/headgum-patreon-1.png",
-    "source/content/📎 Files/Images/in-person-connection/smosh-thumb-8.png",
-    "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 001 report.md",
     "source/content/📎 Files/Images/meditation gifs",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/pillow-11.3.0.dist-info/REQUESTED",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/pillow-11.3.0.dist-info/INSTALLER",
