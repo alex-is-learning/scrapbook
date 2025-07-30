@@ -2,7 +2,7 @@
 permalink: sit-002-report
 created: 2025-07-28 19:55
 ---
--  [[🧘‍♂️ Meditation log]]
+-  [[Meditation log]]
 - **Date & Time:** 2025-07-28 18:55
 - **Duration:** 1 hour
 - **Technique:** [[Ānāpānasati (Anapanasati)]]

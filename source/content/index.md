@@ -27,7 +27,7 @@ permalink: home-page
 	- [[Lemon tree → lemon curd → lemon pie 🍋]], where this place is me picking lemons, super low effort, may turn them into lemon curd later, maybe not
 # 🪵 Logs
 - [[🪵 Log per day]] ← <span class="text-red">this is where ~everything goes!</span> 🚨
-- [[🧘‍♂️ Meditation log]]
+- [[Meditation log]]
 - [[Week reviews]]
 # Other website
 - My other website is [here](https://www.alexislearning.me/)
