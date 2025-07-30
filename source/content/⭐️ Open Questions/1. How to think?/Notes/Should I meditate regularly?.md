@@ -4,7 +4,7 @@ permalink: should-i-meditate-regularly
 
 - 2025-07-20
 - Outcome of writing this → I've convinced myself to give it a proper go! 
-	- [[🧘‍♂️ Meditation log]]
+	- [[Meditation log]]
 # 1. My meditation journey so far
 ## 1ST EXPOSURE - Headspace - 2013
 - I remember being maybe 17 and first hearing about Headspace - this was my first 

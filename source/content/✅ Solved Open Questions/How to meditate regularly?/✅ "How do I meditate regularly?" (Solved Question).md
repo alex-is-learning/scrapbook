@@ -2,7 +2,7 @@
 permalink: how-do-i-meditate-regularly-open-question
 ---
 - [[source/content/index|Home Page]]
-- [[🧘‍♂️ Meditation log]]
+- [[Meditation log]]
 ## Week of 28th July
 - Tue 2025-07-29
 	- [[I think I've solved "how do I meditate regularly"?]]

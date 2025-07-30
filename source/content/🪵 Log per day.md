@@ -2,6 +2,7 @@
 permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
+- See also [[Meditation log]]
 ## July 2025
 ## Week of 28th July
 - Tue 2025-07-29
@@ -28,7 +29,7 @@ permalink: log-per-day
 	- [[NVC flashcards]]
 	- [[Should I meditate regularly?]]
 	- [[Gilman Equation]]
-	- [[🧘‍♂️ Meditation log]]
+	- [[Meditation log]]
 - Fri 2025-07-18
 	- [[Setting a contractor fee for Outcapped]]
 	- [[Current family project open questions]]
