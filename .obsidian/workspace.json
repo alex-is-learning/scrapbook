@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit 005 report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Sit 005 report"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit 005 report.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Sit 005 report"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit 005 report.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Sit 005 report"
             }
           }
         ]
@@ -192,14 +192,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "42e5dde847f42c59",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Week Reviews/Week reviews.md",
+    "source/content/📎 Files/Voice notes/signal-2025-07-31-133412.mp3",
+    "source/content/📎 Files/Images/meditation gifs/sit 005 output_timelapse_20250731-121727.gif",
+    "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
+    "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit 005 report.md",
     "source/content/index.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Week Reviews/Week reviews.md",
     "source/content/✅ Solved Open Questions/How to get fit/Workout log.md",
     "source/content/✅ Solved Open Questions/How to get fit/✅ \"How do I get fit?\" (Solved Question).md",
     "source/content/✅ Solved Open Questions/How to get fit",
-    "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 001 report.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 004 report.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 003 report.md",
@@ -221,8 +224,6 @@
     "source/content/⭐️ Open Questions/2. How to help my family?/⭐️\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Going to family therapy with my mum!.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/What I currently know about Bowen family systems theory.md",
-    "source/content/⭐️ Open Questions/3. How should I make money?/⭐️\"How should I make money?\" (Open Question).md",
-    "source/content/⭐️ Open Questions/3. How should I make money?/Notes/I am now making money!.md",
     "source/content/📎 Files/Images/meditation gifs/sit 003 output_timelapse_20250729-122450.gif",
     "source/content/📎 Files/Images/meditation gifs/sit 002 output_timelapse_20250728-195044.gif",
     "source/content/📎 Files/Images/in-person-connection/friends-tv-show.png",
@@ -231,7 +232,6 @@
     "source/content/📎 Files/Images/in-person-connection/harry-potter.png",
     "source/content/📎 Files/Images/in-person-connection/scott-pilgrim.png",
     "source/content/📎 Files/Images/in-person-connection/headgum-patreon-2.png",
-    "source/content/📎 Files/Images/in-person-connection/headgum-patreon-1.png",
     "source/content/📎 Files/Images/meditation gifs",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/pillow-11.3.0.dist-info/REQUESTED",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/pillow-11.3.0.dist-info/INSTALLER",
