@@ -4,15 +4,17 @@ permalink: meditation-log
 - [[✅ "How do I meditate regularly?" (Solved Question)]]
 - [[Should I meditate regularly?]]
 ## Week for 28th July
+- Thur 2025-07-31
+	- [[Sit 005 report]] → 1 hour, with time-lapse
 - Wed 2025-07-30
-	- [[Sit 004 report]] → 1 hour, with timelapse
+	- [[Sit 004 report]] → 1 hour, with time-lapse
 - Tue 2025-07-29
-	- [[Sit 003 report]] → 1 hour, with timelapse
+	- [[Sit 003 report]] → 1 hour, with time-lapse
 - Mon 2025-07-28
-	- [[Sit 002 report]] → 1 hour, with timelapse
+	- [[Sit 002 report]] → 1 hour, with time-lapse
 ## Week of 21st July 
 - Sun 2025-07-27
-	- [[Sit 001 report]] → 1 hour, with timelapse (lol)
+	- [[Sit 001 report]] → 1 hour, with time-lapse (lol)
 	- And later on - a 15 min sit just before bed
 - Tue 2025-07-22
 	- 20 min sit, 09:00
