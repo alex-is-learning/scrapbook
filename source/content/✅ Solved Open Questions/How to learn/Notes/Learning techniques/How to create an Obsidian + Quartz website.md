@@ -1,5 +1,5 @@
 # Option 1 - pay for Obsidian Publish
-- You can pay $10 / month for [Obsidian Publish](https://obsidian.md/publish) ($8 / month if annual)
+- You can pay `$10` / month for [Obsidian Publish](https://obsidian.md/publish) (`$8` / month if annual)
 - I checked my bank account to see how much this cashed out to in GBP + VAT and it was £7.77/month for monthly non-annual
 - Example sites [1](https://lab.marconoris.com/now), [2](https://arkadiuszlenkiewicz.pl/Witaj+w+%C5%9Bwiecie+zarz%C4%85dzania+informacj%C4%85), [3](https://mister-chad.com/welcome)
 ## Pros and cons
