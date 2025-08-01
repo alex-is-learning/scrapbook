@@ -7,6 +7,7 @@ permalink: log-per-day
 ## Week of 28th July
 - Fri 2025-08-01
 	- [[How to create an Obsidian + Quartz website]]
+	- [[Superprof Philosophy, Ethics tutor]]
 - Tue 2025-07-29
 	- [[I am now making money!]]
 	- [[Going to family therapy with my mum!]]
