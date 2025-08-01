@@ -5,6 +5,8 @@ permalink: log-per-day
 - See also [[Meditation log]]
 ## July 2025
 ## Week of 28th July
+- Fri 2025-08-01
+	- [[How to create an Obsidian + Quartz website]]
 - Tue 2025-07-29
 	- [[I am now making money!]]
 	- [[Going to family therapy with my mum!]]
