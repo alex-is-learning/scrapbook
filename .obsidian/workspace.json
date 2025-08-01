@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/🪵 Log per day.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Superprof tutor lesson 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🪵 Log per day"
+              "title": "Superprof tutor lesson 1"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tweet",
+                "query": "kegan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/🪵 Log per day.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Superprof tutor lesson 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🪵 Log per day"
+              "title": "Backlinks for Superprof tutor lesson 1"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/🪵 Log per day.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Superprof tutor lesson 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🪵 Log per day"
+              "title": "Outline of Superprof tutor lesson 1"
             }
           }
         ]
@@ -177,8 +177,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7bdb082c0562d32d",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/Bottom-up learning.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Superprof tutor lesson 1.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Questioning Effective Altruism.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Superprof Philosophy, Ethics tutor.md",
+    "source/content/⭐️ Open Questions/1. How to think?/⭐️\"How can I improve my ability to think? (Open Question).md",
+    "source/content/index.md",
+    "source/content/🪵 Log per day.md",
+    "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
+    "source/content/✅ Solved Open Questions/How to get fit/Workout log.md",
+    "source/content/✅ Solved Open Questions/How to get fit/✅ \"How do I get fit?\" (Solved Question).md",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/How to create an Obsidian + Quartz website.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Visual metaphors for the \"how can I help my family\" project.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Meta - about the \"how can I help my family\" project.md",
@@ -192,28 +202,18 @@
     "source/content/1. Open Questions",
     "source/content/My cool blog post.md",
     "test.md",
-    "source/content/✅ Solved Open Questions/How to get fit/✅ \"How do I get fit?\" (Solved Question).md",
-    "source/content/index.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 006 report.md",
-    "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit 005 report.md",
     "source/content/📎 Files/Voice notes/signal-2025-07-31-133412.mp3",
     "source/content/📎 Files/Images/meditation gifs/sit 005 output_timelapse_20250731-121727.gif",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Week Reviews/Week reviews.md",
-    "source/content/✅ Solved Open Questions/How to get fit/Workout log.md",
     "source/content/✅ Solved Open Questions/How to get fit",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 001 report.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 004 report.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 003 report.md",
     "Meditation log.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Meditation log.md",
-    "source/content/🪵 Log per day.md",
     "source/content/📎 Files/Images/meditation gifs/sit 004 output_timelapse_20250730-115158.gif",
-    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/Should I value in-person connection highly? (first pass).md",
-    "source/content/⭐️ Open Questions/5. What next after living at mum's?/⭐️ \"What is next for me after living at my mum's?\" (Open Question).md",
-    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/What is next for me after living at my mum's? day 1.md",
-    "source/content/⭐️ Open Questions/1. How to think?/⭐️\"How can I improve my ability to think? (Open Question).md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/How much better do I really need to get at thinking?.md",
     "source/content/📎 Files/Images/misc/liberation-awakening.png",
     "source/content/📎 Files/Images/meditation gifs/sit 003 output_timelapse_20250729-122450.gif",
     "source/content/📎 Files/Images/meditation gifs/sit 002 output_timelapse_20250728-195044.gif",
