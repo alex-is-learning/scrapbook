@@ -39,9 +39,4 @@ permalink: home-page
 - [[✅ "How do I meditate regularly?" (Solved Question)]]
 - [[✅ "How do I get fit?" (Solved Question)]]
 # Want a cool website like this?
-- [Here's the guide](https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1)!
-	- It's an Obsidian/Quartz setup
-		- It's an open source, free version of Obsidian Sync
-		- If you want to skip the setup, I'd recommend just paying for Obsidian Sync - it's like $8/month?
-	- It's totally free! 
-	- The article assumes a bit of Github/git knowledge I think, but if you chat with AI as you follow the steps you'll definitely get there. So, the setup is a little technical, but after the 30-60 mins of setup, all you have to do is write things in Obsidian and hit publish
+- [[How to create an Obsidian + Quartz website]]

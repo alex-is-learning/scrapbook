@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 006 report.md",
+                "file": "How to create an Obsidian + Quartz website.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sit 006 report"
+              "title": "How to create an Obsidian + Quartz website"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 006 report.md",
+                "file": "How to create an Obsidian + Quartz website.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sit 006 report"
+              "title": "Backlinks for How to create an Obsidian + Quartz website"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 006 report.md",
+                "file": "How to create an Obsidian + Quartz website.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sit 006 report"
+              "title": "Outline of How to create an Obsidian + Quartz website"
             }
           }
         ]
@@ -194,12 +194,13 @@
   },
   "active": "42e5dde847f42c59",
   "lastOpenFiles": [
-    "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
+    "source/content/index.md",
+    "How to create an Obsidian + Quartz website.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 006 report.md",
+    "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit 005 report.md",
     "source/content/📎 Files/Voice notes/signal-2025-07-31-133412.mp3",
     "source/content/📎 Files/Images/meditation gifs/sit 005 output_timelapse_20250731-121727.gif",
-    "source/content/index.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Week Reviews/Week reviews.md",
     "source/content/✅ Solved Open Questions/How to get fit/Workout log.md",
     "source/content/✅ Solved Open Questions/How to get fit/✅ \"How do I get fit?\" (Solved Question).md",
@@ -224,7 +225,6 @@
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/2025-07-22 meditation open questions.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/⭐️\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Going to family therapy with my mum!.md",
-    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/What I currently know about Bowen family systems theory.md",
     "source/content/📎 Files/Images/meditation gifs/sit 003 output_timelapse_20250729-122450.gif",
     "source/content/📎 Files/Images/meditation gifs/sit 002 output_timelapse_20250728-195044.gif",
     "source/content/📎 Files/Images/in-person-connection/friends-tv-show.png",
