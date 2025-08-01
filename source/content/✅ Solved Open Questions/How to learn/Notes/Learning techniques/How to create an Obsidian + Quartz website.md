@@ -1,3 +1,14 @@
+---
+permalink: how-to-create-obsidian-quartz-website
+created: 2025-08-01
+---
+- 2025-08-01
+# Why an Obsidian-based website?
+- I shared this guide with a friend and he was like "why not Wix or Wordpress? They have free tiers"
+- The point, for me, is that with this setup, you just use Obsidian as normal, and hit "publish" periodically
+	- So, if you're already a fan of Obsidian, it's the environment you already like, but as a website
+- At the time of writing (2025-08-01), this "website" has 144 different pages - I imagine this'd be a pain in Wordpress etc
+- And I can interconnect them etc
 # Option 1 - pay for Obsidian Publish
 - You can pay `$10` / month for [Obsidian Publish](https://obsidian.md/publish) (`$8` / month if annual)
 - I checked my bank account to see how much this cashed out to in GBP + VAT and it was £7.77/month for monthly non-annual
