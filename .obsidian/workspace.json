@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to create an Obsidian + Quartz website.md",
+                "file": "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/How to create an Obsidian + Quartz website.md",
                 "mode": "source",
                 "source": false
               },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to create an Obsidian + Quartz website.md",
+                "file": "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/How to create an Obsidian + Quartz website.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to create an Obsidian + Quartz website.md",
+                "file": "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/How to create an Obsidian + Quartz website.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,10 +192,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "42e5dde847f42c59",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
     "source/content/index.md",
-    "How to create an Obsidian + Quartz website.md",
+    "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/How to create an Obsidian + Quartz website.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 006 report.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit 005 report.md",

@@ -18,5 +18,6 @@
 		- Stuff than you could totally do with the help of AI - nothing advanced at all. True "101"-level stuff
 		- Note - actually, you may not need to worry about the terminal & Git at all, step 4 of the guide is "(4) Download the repository with GitHub desktop" 
 	- Ongoing cost → you upload your files to Github (via "git push"), so there's more of a chance of error (e.g. you have to ensure your files are in the "content" folder)
+		- E.g., I just published this page, and then realised that I forgot to add this page to the correct folder, so now I need to drag it into the folder and republish. It's a little niggle than you mostly remember to do and sometimes forget. Vs in Obsidian Publish, this isn't a thing you need to remember. But then again, maybe it's worth it to save the £80-£95/year that it costs to use Obsidian Publish, ymmv!
 ## Guide
 - I followed this guide by Defender of Basic: "[Host your Obsidian notebook on GitHub Pages for free](https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1)"
