@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit 005 report.md",
+                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 006 report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sit 005 report"
+              "title": "Sit 006 report"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit 005 report.md",
+                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 006 report.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sit 005 report"
+              "title": "Backlinks for Sit 006 report"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit 005 report.md",
+                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 006 report.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sit 005 report"
+              "title": "Outline of Sit 006 report"
             }
           }
         ]
@@ -192,12 +192,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "42e5dde847f42c59",
   "lastOpenFiles": [
+    "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
+    "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 006 report.md",
+    "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit 005 report.md",
     "source/content/📎 Files/Voice notes/signal-2025-07-31-133412.mp3",
     "source/content/📎 Files/Images/meditation gifs/sit 005 output_timelapse_20250731-121727.gif",
-    "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
-    "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit 005 report.md",
     "source/content/index.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Week Reviews/Week reviews.md",
     "source/content/✅ Solved Open Questions/How to get fit/Workout log.md",
@@ -238,7 +239,6 @@
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/PIL/__pycache__/report.cpython-313.pyc",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/PIL/__pycache__/features.cpython-313.pyc",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/PIL/__pycache__/_version.cpython-313.pyc",
-    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/PIL/__pycache__/_util.cpython-313.pyc",
-    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/PIL/__pycache__/_typing.cpython-313.pyc"
+    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/PIL/__pycache__/_util.cpython-313.pyc"
   ]
 }
