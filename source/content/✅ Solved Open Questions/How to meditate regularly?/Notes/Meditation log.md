@@ -4,8 +4,10 @@ permalink: meditation-log
 - [[✅ "How do I meditate regularly?" (Solved Question)]]
 - [[Should I meditate regularly?]]
 ## Week for 28th July
+- Sat 2025-08-02
+	- [[Sit 007 report]] → 1 hour
 - Fri 2025-08-01
-	- [[Sit 006 report]]
+	- [[Sit 006 report]] → 1 hour
 - Thur 2025-07-31
 	- [[Sit 005 report]] → 1 hour, with time-lapse
 - Wed 2025-07-30
