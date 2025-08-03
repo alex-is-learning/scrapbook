@@ -2,7 +2,7 @@
 permalink: week-of-21st-july-2025
 ---
 
-- [[Week reviews]]
+- [[Life Reviews]]
 - At the time of writing, it's Monday, 2025-07-21
 - Below are my priorities for the week/where I'm currently at with things:
 # Upcoming week

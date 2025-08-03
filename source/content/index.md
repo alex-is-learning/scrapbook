@@ -29,7 +29,7 @@ permalink: home-page
 - [[🪵 Log per day]] ← <span class="text-red">this is where ~everything goes!</span> 🚨
 - [[Meditation log]]
 - [[Workout log]]
-- [[Week reviews]]
+- [[Life Reviews]]
 # Other website
 - My other website is [here](https://www.alexislearning.me/)
 	- ☝️ Tbf this has been kinda deprecated, it's pretty much just a place to see my <span class="text-green">CV and references and other links</span> now!
