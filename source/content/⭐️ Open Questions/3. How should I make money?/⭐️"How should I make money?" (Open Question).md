@@ -5,6 +5,8 @@ permalink: how-to-make-money
 ---
 - [[source/content/index|Home Page]]
 ## Week of 28th July
+- Sun 2025-08-03
+	- [[My July 2025 spending]]
 - Tue 2025-07-29
 	- [[I am now making money!]]
 ## Week of 14th July
