@@ -24,6 +24,8 @@ created: 2025-08-03
 ## Body
 - ![[My July 2025 spending3.png]]
 - Turns out I've been paying £23 a month for a gym I signed up to probably a year ago when I was in Blackpool short-term 😭
+- Re: invisalign → £1,995.00 total, £83.12/month, I've got £664.96 left to pay
+	- expensive but worth it IMO, my teeth were getting noticeably wonkier over time as I lost my post-braces retainer when I was an undergrad
 ## Social 
 - ![[My July 2025 spending4.png]]
 ## Books
