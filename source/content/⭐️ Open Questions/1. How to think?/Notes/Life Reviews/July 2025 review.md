@@ -17,7 +17,7 @@ created: 2025-08-03
 - I chose a "learning to think" tutor and read the essay he assigned to me
 	- [[Superprof tutor lesson 1 (The Fundamental Decision)]]
 #### 2. "How can I think things through more regularly?"
-- Using this website to write up my thinking on various things, e.g.
+- I used this website to write up my thinking on various things, e.g.
 	- [[11. Manifesto - "Time to re-assess full-time vs part-time work"]]
 	- [[Questioning Effective Altruism]]
 	- [[Should I meditate regularly?]]
@@ -25,17 +25,17 @@ created: 2025-08-03
 		- [[Working with Rob at Outcapped, parent page]]
 	- [[Should I value in-person connection highly? (first pass)]]
 #### 3. "What high-leverage things should I learn?"
-- Learned about Socrates
+- I learned about Socrates
 	- Read "How to think like Socrates" by Donald J. Robertson
 	- Read "The Socratic Method" by Ward Farnsworth (and made loads of flashcards)
 	- Listened to the first few episodes of John Vervaeke's "After Socrates" series, & started reading Gonzalez' book on the dialectic/dialogos
 		- [[Dialectic and Dialogue - Plato's Practice of Philosophical Inquiry (Gonzalez)]]
-- Learned Bowen family systems theory
+- I learned Bowen family systems theory
 	- [[What I currently know about Bowen family systems theory]]
 	- Read Jenny Brown's book "Growing Yourself Up"
 	- Read the first ~100 pages of Michael Kerr's book on Bowen family theory
 		- [[The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory]]
-- Tried Byron Katie's "The Work"
+- I tried Byron Katie's "The Work"
 ### "What can you do in August to really make headway on that?"
 1. How can I get more skilled at analysing my own thinking?
 	- ~Weekly call with philosophy tutor as I was really excited by what he assigned for me for homework 1
