@@ -5,6 +5,8 @@ permalink: log-per-day
 - See also [[Meditation log]]
 ## July 2025
 ## Week of 28th July
+- Sun 2025-08-03
+	- [[My July 2025 spending]]
 - Fri 2025-08-01
 	- [[How to create an Obsidian + Quartz website]]
 	- [[Superprof Philosophy, Ethics tutor]]
