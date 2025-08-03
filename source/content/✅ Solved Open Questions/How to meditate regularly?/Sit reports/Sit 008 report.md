@@ -28,27 +28,9 @@ created:
 - _(I am grateful for this opportunity to practise. I will engage wholeheartedly for the entire session.)_
 	- It's true! I'm grateful to be on this path. I'm also *really* grateful that vibe-coding is a thing → I love my "take a photo of me every 5 mins" python script
 # Post-Meditation Reflection
-- **Actual Duration:**
-- **Proof image**:
+- **Actual Duration:** 60 mins
 ### 1. General Impression
 - _(Without judgement, what was the overall flavour of this sit? (e.g., calm, restless, sleepy, focused, agitated, clear, dull))_
-	- 
-### 2. Key Experiences & Observations
-- _(What do I remember? Note specific events without needing to analyse them yet.)_
-- **Attention on the Breath:** _(How was my connection with the meditation object? Was it clear and vivid, or faint and inconsistent?)_
-	-     
-- **Mind-Wandering / Forgetting:** _(How frequent was mind-wandering? Did I remember to use the "aha!" moment? Did I notice moments of "forgetting" (Stage 3+)?)_
-	 -    
-- **Dominant Distractions:** _(What were the main types of distractions? (e.g., planning, memories, sounds, physical sensations))_
-	-   
-- **Moments of Stability or Clarity:** _(Were there any periods, even brief ones, where attention felt stable and effortless?)_
-	- 
-### 3. Challenges Encountered
-- _(What was most difficult about this session? Did the hindrances I anticipated arise? How did I work with them?)_
-	- 
-### 4. Insights & Learnings
-- _(What, if anything, did I learn about my mind or my practice today? Did I realise anything new?)_
-	- 
-### 5. Intention for Next Time
-- _(Based on this reflection, what is one small thing I can bring into my next sit? (e.g., adjust posture, focus on a gentler return, be more diligent with labelling))_
-	- 
+	- Very lost in thought
+	- Never got up to 10 mindful breaths
+	- Had 15+ "remembering" moments (sati)
