@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/3. How should I make money?/Notes/My July 2025 spending.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My July 2025 spending"
+              "title": "index"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/3. How should I make money?/Notes/My July 2025 spending.md",
+                "file": "source/content/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for My July 2025 spending"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/3. How should I make money?/Notes/My July 2025 spending.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of My July 2025 spending"
+              "title": "Outline of index"
             }
           }
         ]
@@ -177,12 +177,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7bdb082c0562d32d",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/index.md",
-    "source/content/🪵 Log per day.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Superprof Philosophy, Ethics tutor.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Week Reviews/July 2025 review.md",
+    "source/content/1. Open Questions/How should I make money? 💰/🟣 How should I make money?.md",
+    "source/content/⭐️ Open Questions/1. How to think?/⭐️\"How can I improve my ability to think? (Open Question).md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Week Reviews/Week reviews.md",
     "source/content/⭐️ Open Questions/3. How should I make money?/Notes/My July 2025 spending.md",
+    "source/content/🪵 Log per day.md",
+    "source/content/index.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Week Reviews/Week of 14th July 2025.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Week Reviews/Week of 21st July 2025.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Superprof Philosophy, Ethics tutor.md",
     "source/content/📎 Files/Images/misc/My July 2025 spending2.png",
     "source/content/📎 Files/Images/misc/My July 2025 spending5.png",
     "source/content/📎 Files/Images/misc/My July 2025 spending4-1.png",
@@ -197,29 +203,24 @@
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Superprof tutor lesson 1.md",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/Bottom-up learning.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Questioning Effective Altruism.md",
-    "source/content/⭐️ Open Questions/1. How to think?/⭐️\"How can I improve my ability to think? (Open Question).md",
     "source/content/✅ Solved Open Questions/How to get fit/Workout log.md",
     "source/content/✅ Solved Open Questions/How to get fit/✅ \"How do I get fit?\" (Solved Question).md",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/How to create an Obsidian + Quartz website.md",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Visual metaphors for the \"how can I help my family\" project.md",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Meta - about the \"how can I help my family\" project.md",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Microsolidarity crew call 2025-06-25.md",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Call with my friend \"S\" - 2025-06-23.md",
+    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Visual metaphors for the \"how can I help my family\" project 1.md",
+    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Meta - about the \"how can I help my family\" project 1.md",
+    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Microsolidarity crew call 2025-06-25 1.md",
+    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Call with my friend \"S\" - 2025-06-23 1.md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?",
     "source/content/1. Open Questions/2. Kindness ❤️",
-    "source/content/1. Open Questions/How should I make money? 💰/🟣 How should I make money?.md",
     "source/content/1. Open Questions/How should I make money? 💰",
     "source/content/1. Open Questions",
     "source/content/My cool blog post.md",
     "test.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 006 report.md",
-    "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit 005 report.md",
     "source/content/📎 Files/Voice notes/signal-2025-07-31-133412.mp3",
     "source/content/📎 Files/Images/meditation gifs/sit 005 output_timelapse_20250731-121727.gif",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Week Reviews/Week reviews.md",
     "source/content/✅ Solved Open Questions/How to get fit",
-    "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 001 report.md",
     "source/content/📎 Files/Images/meditation gifs/sit 004 output_timelapse_20250730-115158.gif",
     "source/content/📎 Files/Images/in-person-connection",
     "source/content/📎 Files/Images/meditation gifs",
