@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Life Reviews/July 2025 review.md",
+                "file": "Sit 008 report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "July 2025 review"
+              "title": "Sit 008 report"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Life Reviews/July 2025 review.md",
+                "file": "Sit 008 report.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for July 2025 review"
+              "title": "Backlinks for Sit 008 report"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Life Reviews/July 2025 review.md",
+                "file": "Sit 008 report.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of July 2025 review"
+              "title": "Outline of Sit 008 report"
             }
           }
         ]
@@ -179,14 +179,34 @@
   },
   "active": "7bdb082c0562d32d",
   "lastOpenFiles": [
-    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/Should I value in-person connection highly? (first pass).md",
+    "source/docs/templates/2. meditation.md",
+    "source/docs/templates/1. permalink-and-created.md",
+    "Sit 008 report.md",
+    "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
+    "source/docs/authoring content.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Life Reviews/July 2025 review.md",
+    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/licenses/LICENSE.txt",
+    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/top_level.txt",
+    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/licenses",
+    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/WHEEL",
+    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/REQUESTED",
+    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/RECORD",
+    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/METADATA",
+    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/INSTALLER",
+    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info",
+    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio/test_audio/notes_2_16_44.wav",
+    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Visual metaphors for the \"how can I help my family\" project.md",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Meta - about the \"how can I help my family\" project.md",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Microsolidarity crew call 2025-06-25.md",
+    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Call with my friend \"S\" - 2025-06-23.md",
+    "source/content/1. Open Questions/How should I make money? 💰/🟣 How should I make money?.md",
+    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/Should I value in-person connection highly? (first pass).md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Superprof tutor lesson 1 (The Fundamental Decision).md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/06. Learning the Socratic method, part 1 → the rationale.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Life Reviews/Life Reviews.md",
     "source/content/index.md",
     "source/content/🪵 Log per day.md",
-    "source/content/1. Open Questions/How should I make money? 💰/🟣 How should I make money?.md",
     "source/content/⭐️ Open Questions/1. How to think?/⭐️\"How can I improve my ability to think? (Open Question).md",
     "source/content/⭐️ Open Questions/3. How should I make money?/Notes/My July 2025 spending.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Life Reviews/Week of 14th July 2025.md",
@@ -202,28 +222,8 @@
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 007 report.md",
     "source/content/📎 Files/Images/meditation gifs/13-30.0.jpg",
     "source/content/📎 Files/Images/meditation gifs/image_20250802-222858.jpg",
-    "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/Bottom-up learning.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Questioning Effective Altruism.md",
-    "source/content/✅ Solved Open Questions/How to get fit/Workout log.md",
-    "source/content/✅ Solved Open Questions/How to get fit/✅ \"How do I get fit?\" (Solved Question).md",
-    "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/How to create an Obsidian + Quartz website.md",
-    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Visual metaphors for the \"how can I help my family\" project 1.md",
-    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Meta - about the \"how can I help my family\" project 1.md",
-    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Microsolidarity crew call 2025-06-25 1.md",
-    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Call with my friend \"S\" - 2025-06-23 1.md",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?",
-    "source/content/1. Open Questions/2. Kindness ❤️",
-    "source/content/1. Open Questions/How should I make money? 💰",
-    "source/content/1. Open Questions",
-    "source/content/My cool blog post.md",
-    "source/content/📎 Files/Voice notes/signal-2025-07-31-133412.mp3",
     "source/content/📎 Files/Images/meditation gifs/sit 005 output_timelapse_20250731-121727.gif",
-    "source/content/✅ Solved Open Questions/How to get fit",
-    "source/content/📎 Files/Images/meditation gifs/sit 004 output_timelapse_20250730-115158.gif",
-    "source/content/📎 Files/Images/in-person-connection",
-    "source/content/📎 Files/Images/meditation gifs",
-    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/pillow-11.3.0.dist-info/REQUESTED"
+    "source/content/📎 Files/Images/meditation gifs/sit 004 output_timelapse_20250730-115158.gif"
   ]
 }
