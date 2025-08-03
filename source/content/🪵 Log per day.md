@@ -6,6 +6,7 @@ permalink: log-per-day
 ## July 2025
 ## Week of 28th July
 - Sun 2025-08-03
+	- [[July 2025 review]]
 	- [[My July 2025 spending]]
 - Fri 2025-08-01
 	- [[How to create an Obsidian + Quartz website]]

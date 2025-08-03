@@ -2,7 +2,7 @@
 permalink: week-of-14th-july-2025
 ---
 
-- [[Week reviews]]
+- [[Life Reviews]]
 # Wins
 ## 1. Improve thinking
 1. Wrote up a manifesto re: “maybe I should stop working at EA orgs”
