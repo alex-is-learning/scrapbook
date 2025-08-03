@@ -40,6 +40,6 @@ created: 2025-08-03
 - ![[My July 2025 spending5.png]]
 ## Learning
 - £39 for a month of Superprof. It's insane that you have to pay that much just for the privilege of messaging tutors. But, I figured I'd pay for 1 month, message as many people as I need, then cancel and no longer need their platform
-- And I got to have two free calls with possible philosophy tutors, and I chose one of them to go ahead with, who gave me readings ([[Superprof tutor lesson 1]]), so, worth the money!
+- And I got to have two free calls with possible philosophy tutors, and I chose one of them to go ahead with, who gave me readings ([[Superprof tutor lesson 1 (The Fundamental Decision)]]), so, worth the money!
 ## Food
 - Some snacks to celebrate getting my contractor role at Outcapped

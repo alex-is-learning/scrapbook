@@ -7,21 +7,24 @@ created: 2025-08-03
 # Goals
 ## 1. Thinking
 ### "What problem are you really trying to solve here?"
-- See [[⭐️"How can I improve my ability to think? (Open Question)]]
-#### 1. How can I get more skilled at analysing my own thinking?
-- Socratic method, learning about Socrates
-- Writing my own Socratic dialogues to learn the elenchus
-- Using Gemini Socrates
-- Had two calls with potential "learning to think" tutors
-- Choosing a "learning to think" tutor and going ahead with them
-#### 2. How can I think things through more regularly?
+#### 1. "How can I get more skilled at analysing my own thinking?"
+- I learned about Socrates, and the Socratic method 
+	- E.g. [[06. Learning the Socratic method, part 1 → the rationale]]
+- I wrote my own Socratic dialogues to practice "the elenchus"
+- I used Gemini Socrates to have dialogues on various topics
+	- E.g. [[Gemini Socrates - part-time vs full-time work]]
+- Had two calls with potential "learning to think" tutors from Superprof.co.uk
+- I chose a "learning to think" tutor and read the essay he assigned to me
+	- [[Superprof tutor lesson 1 (The Fundamental Decision)]]
+#### 2. "How can I think things through more regularly?"
 - Using this website to write up my thinking on various things, e.g.
 	- [[11. Manifesto - "Time to re-assess full-time vs part-time work"]]
 	- [[Questioning Effective Altruism]]
 	- [[Should I meditate regularly?]]
 	- Thought through if I wanted to work for Outcapped or not 
 		- [[Working with Rob at Outcapped, parent page]]
-#### 3. What high-leverage things should I learn
+	- [[Should I value in-person connection highly? (first pass)]]
+#### 3. "What high-leverage things should I learn?"
 - Learned about Socrates
 	- Read "How to think like Socrates" by Donald J. Robertson
 	- Read "The Socratic Method" by Ward Farnsworth (and made loads of flashcards)
@@ -36,22 +39,24 @@ created: 2025-08-03
 ### "What can you do in August to really make headway on that?"
 1. How can I get more skilled at analysing my own thinking?
 	- ~Weekly call with philosophy tutor as I was really excited by what he assigned for me for homework 1
-	- [[Superprof tutor lesson 1]]
+	- [[Superprof tutor lesson 1 (The Fundamental Decision)]]
 2. How can I think things through more regularly?
 	- Keep using this website to write up my thinking
 ## 2. Soul
 ### "What problem are you really trying to solve here?"
 #### 1. "How do I change how I orient to my family?"
 - Learned about Bowen family systems theory
+	- [[What I currently know about Bowen family systems theory]]
 - Prepared to pitch my mum on going to family therapy
 - Pitched my mum on going to family therapy 
-- Went with my mum to family therapy
+- Went with my mum to family therapy!
+	- Huge milestone
 - Learned the basics of nonviolent communication
 #### 2. Other
 - Experimented with TRE
 ### "What can you do in August to really make headway on that?"
 1. "How do I change how I orient to my family?"
-	- Continue going to family therapy
+	- Continue going to family therapy, see what insights emerge
 ## 3. Money
 ### "What problem are you really trying to solve here?"
 1. How do I make money consistently and reliably?
