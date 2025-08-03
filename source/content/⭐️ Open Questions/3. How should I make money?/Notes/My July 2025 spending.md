@@ -3,6 +3,10 @@ permalink: july-2025-spending
 created: 2025-08-03
 ---
 - 2025-08-03
+- Your total spending for July 2025 was **£669.39**.
+- This was split between:
+	- **Ad-hoc spending:** £465.85
+	- **Monthly spending:** £203.54
 # Month of getting my spending in order
 - Finally did the aversive thing of:
 	1. Looking through my accounts to see what I'm subscribed to
