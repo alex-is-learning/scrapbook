@@ -3,7 +3,10 @@ permalink: meditation-log
 ---
 - [[✅ "How do I meditate regularly?" (Solved Question)]]
 - [[Should I meditate regularly?]]
+- "1-hour long sit" streak → 7 days in a row 🔥
 ## Week for 28th July
+- Sun 2025-08-03
+	- [[Sit 008 report]]
 - Sat 2025-08-02
 	- [[Sit 007 report]] → 1 hour
 - Fri 2025-08-01
