@@ -18,6 +18,8 @@ created: 2025-08-01
 # 2. Pulling out key concepts from his essay via AI
 - Using this prompt → https://parconley.com/keyword-map/
 1. The Fundamental Decision
+	- [[ILC (Implicitly Leaving to Chance)]]
+	- [[RLC (Rejecting Leaving to Chance)]]
 2. Concepts of Chance and Luck
 3. The Nature of Learning
 4. Transformation on Path RLC
@@ -104,6 +106,7 @@ created: 2025-08-01
         - Kantian Constructivism
 # 3. Flashcards on key concept 1 (the fundamental decision)
 - *Why flashcards? See [[Bottom-up learning]]*
+- [[RLC as the Kegan 3 to Kegan 4 transition]]
 ```
 Dan argues that the most fundamental decision a person faces is 
 {{c1::the choice between 3 paths}}
