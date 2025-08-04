@@ -41,7 +41,7 @@ This is a standard requirement of US commencement speeches, the deployment of di
 
 Stated as an English sentence, of course, this is just a banal platitude, but the fact is that in the day to day trenches of adult existence, banal platitudes can have a life or death importance, or so I wish to suggest to you on this dry and lovely morning.
 
-> *"Banal platitudes can have a life or death importance", the profundity of cliches. [[Cliches are banal vs cliches signify profound truths]]*
+> *<span class="text-red">"Banal platitudes can have a life or death importance", the profundity of cliches.</span> [[Cliches are banal vs cliches signify profound truths]]*
 
 ## 2. "The purported aim of a liberal arts education"
 
@@ -63,11 +63,11 @@ Because we prize tolerance and diversity of belief, nowhere in our liberal arts 
 
 Which is fine, except ==we also never end up talking about just where these individual templates and beliefs come from==. Meaning, where they come from INSIDE the two guys. ==As if a person’s most basic orientation toward the world, and the meaning of his experience were somehow just hard-wired, like height or shoe-size; or automatically absorbed from the culture, like language. As if how we construct meaning were not actually a matter of personal, intentional choice.== 
 
-> [[ILC (Implicitly Leaving to Chance)]] vs [[RLC (Rejecting Leaving to Chance)]]
+> <span class="text-red">[[ILC (Implicitly Leaving to Chance)]] vs [[RLC (Rejecting Leaving to Chance)]]</span>
 
 Plus, there’s the whole matter of arrogance. The nonreligious guy is so totally certain in his dismissal of the possibility that the passing Eskimos had anything to do with his prayer for help. True, there are plenty of religious people who seem arrogant and certain of their own interpretations, too. They’re probably even more repulsive than atheists, at least to most of us. But religious dogmatists’ problem is exactly the same as the story’s unbeliever: ==blind certainty, a close-mindedness that amounts to an imprisonment so total that the prisoner doesn’t even know he’s locked up.==
 
-> *Socratic "double ignorance"* 
+> <span class="text-red">*Socratic "double ignorance"*</span>
 
 ## 5. To be less certain, less arrogant, to doubt more
 
@@ -84,21 +84,21 @@ Please don’t worry that I’m getting ready to lecture you about compassion or
 ## 7. Learning to exercise control over how and what you think
 Given the triumphant academic setting here, an obvious question is how much of this work of adjusting our default setting involves actual knowledge or intellect. This question gets very tricky. Probably the most dangerous thing about an academic education–least in my own case–is that it enables ==my tendency to over-intellectualise stuff, to get lost in abstract argument inside my head, instead of simply paying attention to what is going on right in front of me, paying attention to what is going on inside me==.
 
-> *Alexithymia, left-hemisphere capture, vs phenomenology, Gendlin's Focusing, being-in-the-world*
+> <span class="text-red">*Alexithymia, left-hemisphere capture, vs phenomenology, Gendlin's Focusing, being-in-the-world*</span>
 
 As I’m sure you guys know by now, it is extremely difficult to stay alert and attentive, instead of getting ==hypnotised by the constant monologue inside your own head== (may be happening right now). 
 
 Twenty years after my own graduation, I have come gradually to understand that the liberal arts cliché about teaching you how to think is actually shorthand for a much deeper, more serious idea: ==learning how to think really means learning how to exercise some control over how and what you think. It means being conscious and aware enough to choose what you pay attention to and to choose how you construct meaning from experience==. Because if you cannot exercise this kind of choice in adult life, you will be totally hosed. Think of the old cliché about “the mind being an excellent servant but a terrible master.”
 
-> *This is so astoundingly proto-tpot, proto-postrationalist to me. I mean, I know that tpot/post-rationalism didn't invent this stuff. But it's soooo built around this stuff. E.g., Alexander Technique is all about existing in the gap between stimulus and response, increasing your agency and ability to act in a non-automatic way. Meditation of course is also about this is a key way. IFS as a way to address your conditioning. Memory reconsolidation, neural annealing, etc. It's so deeply wild to me how much this resonated with me as a 19 year old but I had no idea what to do next, and then 7 years later I was introduced to a community that is all about this stuff!!! This feels relevant to Defender of Basic's "The universe is an organism" thing* → [[The universe (you're a cell inside an organism)]]
+> <span class="text-red">*This is so astoundingly proto-tpot, proto-postrationalist to me. I mean, I know that tpot/post-rationalism didn't invent this stuff. But it's soooo built around this stuff. E.g., Alexander Technique is all about existing in the gap between stimulus and response, increasing your agency and ability to act in a non-automatic way. Meditation of course is also about this is a key way. IFS as a way to address your conditioning. Memory reconsolidation, neural annealing, etc. It's so deeply wild to me how much this resonated with me as a 19 year old but I had no idea what to do next, and then 7 years later I was introduced to a community that is all about this stuff!!! This feels relevant to Defender of Basic's "The universe is an organism" thing* → [[The universe (you're a cell inside an organism)]]</span>
 
-> *"I think, therefore I am" is wrong → you are not your thoughts! "I am, therefore I think". We're literally hypnotised by the ~LLM in our heads, but it's just one sub-module. Stream entry, meditation, can help you get space from this.*
+> <span class="text-red">*"I think, therefore I am" is wrong → you are not your thoughts! "I am, therefore I think". We're literally hypnotised by the ~LLM in our heads, but it's just one sub-module. Stream entry, meditation, can help you get space from this.*</span>
 
-- 👇 *Re: this [youtube video]([https://www.youtube.com/watch?v=Ca_RbPXraDE](https://www.youtube.com/watch?v=Ca_RbPXraDE "https://www.youtube.com/watch?v=Ca_RbPXraDE")), a description by someone in the Open Research Initiative Discord server:*
-> *"Elan Bernholtz’s framing—that language is a symbolic self-running organism, unmoored from sensation—feels like McLuhan inverted through Chomsky and trained on the latent space of LLMs. A model that recursively generates itself, like the Torah in the Zohar—a fire that writes fire. And Hahn pushing it further, suggesting we aren’t a person with software, but a virtual machine stack containing selves, instantiated by pressure, necessity, or inheritance. God as an informational agent. Memory as just-in-time regeneration. Mind as autoregressive dance."*
+- 👇 <span class="text-red">*Re: this [youtube video]([https://www.youtube.com/watch?v=Ca_RbPXraDE](https://www.youtube.com/watch?v=Ca_RbPXraDE "https://www.youtube.com/watch?v=Ca_RbPXraDE")), a description by someone in the Open Research Initiative Discord server:*</span>
+> <span class="text-red">*"Elan Bernholtz’s framing—that language is a symbolic self-running organism, unmoored from sensation—feels like McLuhan inverted through Chomsky and trained on the latent space of LLMs. A model that recursively generates itself, like the Torah in the Zohar—a fire that writes fire. And Hahn pushing it further, suggesting we aren’t a person with software, but a virtual machine stack containing selves, instantiated by pressure, necessity, or inheritance. God as an informational agent. Memory as just-in-time regeneration. Mind as autoregressive dance."*</span>
 
-- ☝️ *This is a key theme of DFW, see e.g. Good Old Neon, and of course his debut novel "Broom of the System" is in large part about Wittgenstein, so he was very much aware of the whole "there are no philosophical problems, only linguistic confusions"-type stuff.*
-- *See also Vervaeke's [[Vervaeke's 4 Ps of Knowledge]], how language is only one (propositional knowledge), and how we live in the tyranny of the propositional*
+- ☝️ <span class="text-red">*This is a key theme of DFW, see e.g. Good Old Neon, and of course his debut novel "Broom of the System" is in large part about Wittgenstein, so he was very much aware of the whole "there are no philosophical problems, only linguistic confusions"-type stuff.*</span>
+- <span class="text-red">*See also Vervaeke's [[Vervaeke's 4 Ps of Knowledge]], how language is only one (propositional knowledge), and how we live in the tyranny of the propositional*</span>
 
 This, ==like many clichés, so lame and unexciting on the surface, actually expresses a great and terrible truth==. It is not the least bit coincidental that adults who commit suicide with firearms almost always shoot themselves in: the head. They shoot the terrible master. And the truth is that most of these suicides are actually dead long before they pull the trigger.
 
@@ -106,11 +106,11 @@ This, ==like many clichés, so lame and unexciting on the surface, actually expr
 
 And I submit that this is what the real, no bullshit value of your liberal arts education is supposed to be about: how to keep from going through your comfortable, prosperous, respectable adult life dead, unconscious, ==a slave to your head and to your natural default setting of being uniquely, completely, imperially alone== day in and day out. 
 
-> *The way he says "uniquely, completely, **imperially** alone" gives me goosebumps every time. Actually, this most recent time I listened to it, I had a strong feeling of gratitude to him for delivering the speech so well. It's not only incredibly well written and structured, it's also very well spoken. And he'd often comment on how much he hated book readings because his stuff doesn't "conform to the breath" well (all those long, frantic sentences), so it's lovely to hear this thing that was meant to be read aloud, and to have a recording of the author reading it*
+> <span class="text-red">*The way he says "uniquely, completely, **imperially** alone" gives me goosebumps every time. Actually, this most recent time I listened to it, I had a strong feeling of gratitude to him for delivering the speech so well. It's not only incredibly well written and structured, it's also very well spoken. And he'd often comment on how much he hated book readings because his stuff doesn't "conform to the breath" well (all those long, frantic sentences), so it's lovely to hear this thing that was meant to be read aloud, and to have a recording of the author reading it*</span>
 
 That may sound like hyperbole, or abstract nonsense. Let’s get concrete. The plain fact is that you graduating seniors do not yet have any clue what “day in day out” really means. There happen to be whole, large parts of adult American life that nobody talks about in commencement speeches. One such part involves ==boredom, routine and petty frustration==. The parents and older folks here will know all too well what I’m talking about.
 
-> *This has always made me wonder → does this still apply, in the age of the smart-phone, in the age of airpods and podcasts and tiktok? I don't think we have the "bored in the check-out lines" experiences that his Gen X generation did, but we still have the same ultimate problem of being fundamentally self-centered. "Look at all these people in my way", etc.* 
+> <span class="text-red">*This has always made me wonder → does this still apply, in the age of the smart-phone, in the age of airpods and podcasts and tiktok? I don't think we have the "bored in the check-out lines" experiences that his Gen X generation did, but we still have the same ultimate problem of being fundamentally self-centered. "Look at all these people in my way", etc.*</span>
 
 ### Supermarket - angry at delays, at shitty music, at inconvenience
 By way of example, let’s say it’s an average adult day, and you get up in the morning, go to your challenging, white-collar, college-graduate job, and you work hard for eight or ten hours, and at the end of the day you’re tired and somewhat stressed and all you want is to go home and have a good supper and maybe unwind for an hour, and then hit the sack early because, of course, you have to get up the next day and do it all again. But then you remember there’s no food at home. You haven’t had time to shop this week because of your challenging job, and so now after work you have to get in your car and drive to the supermarket. It’s the end of the work day and the traffic is apt to be: very bad. So getting to the store takes way longer than it should, and when you finally get there, the supermarket is very crowded, because of course it’s the time of day when all the other people with jobs also try to squeeze in some grocery shopping. And the store is hideously lit and infused with soul-killing muzak or corporate pop and it’s pretty much the last place you want to be but you can’t just get in and quickly out; you have to wander all over the huge, over-lit store’s confusing aisles to find the stuff you want and you have to manoeuvre your junky cart through all these other tired, hurried people with carts (et cetera, et cetera, cutting stuff out because this is a long ceremony) and eventually you get all your supper supplies, except now it turns out there aren’t enough check-out lanes open even though it’s the end-of-the-day rush. So the checkout line is incredibly long, which is stupid and infuriating. But you can’t take your frustration out on the frantic lady working the register, who is overworked at a job whose daily tedium and meaninglessness surpasses the imagination of any of us here at a prestigious college.
@@ -132,7 +132,7 @@ You get the idea.
 If I choose to think this way in a store and on the freeway, fine. Lots of us do. Except thinking this way tends to be so easy and automatic that it doesn’t have to be a choice. It is my natural default setting. It’s the automatic way that I experience the boring, frustrating, crowded parts of adult life when I’m operating on the automatic, unconscious belief that I am the centre of the world, and that my immediate needs and feelings are what should determine the world’s priorities.
 
 ## 11. The skillful, agentic, effortful choice to see things differently 
-> *John Vervaeke's "perspectival knowledge" ([[Vervaeke's 4 Ps of Knowledge]]*
+> <span class="text-red">*John Vervaeke's "perspectival knowledge" ([[Vervaeke's 4 Ps of Knowledge]]*</span>
 
 The thing is that, of course, there are totally different ways to think about these kinds of situations. In this traffic, all these vehicles stopped and idling in my way, ==it’s not impossible that some of these people in SUV’s have been in horrible auto accidents in the past==, and now find driving so terrifying that their therapist has all but ordered them to get a huge, heavy SUV so they can feel safe enough to drive. 
 
@@ -144,7 +144,7 @@ Again, please don’t think that I’m giving you moral advice, or that I’m sa
 
 But most days, if you’re aware enough to give yourself a choice, you can choose to look differently at this fat, dead-eyed, over-made-up lady who just screamed at her kid in the checkout line. ==Maybe she’s not usually like this==. 
 
-> *Chills and tears at the way he delivers this line, it's so gorgeous*
+> <span class="text-red">*Chills and tears at the way he delivers this line, it's so gorgeous*</span>
 
 Maybe she’s been up three straight nights holding the hand of a ==husband who is dying of bone cancer==. Or maybe this very lady is the low-wage clerk at the motor vehicle department, who just yesterday helped your spouse resolve a horrific, infuriating, red-tape problem through some small act of bureaucratic kindness. 
 
@@ -153,7 +153,7 @@ Maybe she’s been up three straight nights holding the hand of a ==husband who 
 
 But if you really learn how to pay attention, then you will know there are other options. ==It will actually be within your power to experience a crowded, hot, slow, consumer-hell type situation as not only meaningful, but sacred, on fire with the same force that made the stars: love, fellowship, the mystical oneness of all things deep down==.
 
-> *So gorgeous. And reminds me of my Jhourney meditation retreat experience where I experience jhana 2 → a gratitude cascade, all these happy childhood memories flooding into my awareness. Magical, vibrant, incredible. And my ~stream entry experience - the world as vivid, tangible, miraculous.*
+> <span class="text-red">*So gorgeous. And reminds me of my Jhourney meditation retreat experience where I experience jhana 2 → a gratitude cascade, all these happy childhood memories flooding into my awareness. Magical, vibrant, incredible. And my ~stream entry experience - the world as vivid, tangible, miraculous.*</span>
 
 Not that that mystical stuff is necessarily true. The only thing that’s capital-T True is that you get to decide how you’re gonna try to see it.
 
@@ -165,7 +165,7 @@ Because here’s something else that’s weird but true: ==in the day-to-day tre
 
 And the compelling reason for maybe choosing some sort of god or spiritual-type thing to worship–be it JC or Allah, be it YHWH or the Wiccan Mother Goddess, or the Four Noble Truths, or some inviolable set of ethical principles–is that pretty much ==anything else you worship will eat you alive==. 
 
-> *Again, his delivery is just so so good. "-is that pretty much anything else you worship will Eat. You. Alive.*"
+> <span class="text-red">*Again, his delivery is just so so good. "-is that pretty much anything else you worship will Eat. You. Alive.*"</span>
 
 If you worship ==money== and things, if they are where you tap real meaning in life, then you will never have enough, never feel you have enough. It’s the truth. Worship your body and ==beauty== and sexual allure and you will always feel ugly. And when time and age start showing, you will die a million deaths before they finally plant you. 
 
@@ -173,7 +173,7 @@ On one level, we all know this stuff already. It’s been codified as myths, pro
 
 Worship ==power==, you will end up feeling weak and afraid, and you will need ever more power over others to numb you to your own fear. Worship your ==intellect==, being seen as smart, you will end up feeling stupid, a fraud, always on the verge of being found out. 
 
-> *No matter how smart you are, no matter how much you learn, it'll only be an infinitesimally part of The Ruliad. You'll never learn enough. There's no "completing" life*. [[08. Enneagram 3 thinking sins]]
+> <span class="text-red">*No matter how smart you are, no matter how much you learn, it'll only be an infinitesimally part of The Ruliad. You'll never learn enough. There's no "completing" life*. [[08. Enneagram 3 thinking sins]]</span>
 
 ## 14. The kind of worship that you slip into, unconsciously
 
@@ -185,7 +185,7 @@ They’re the kind of worship you just gradually slip into, day after day, getti
 
 Our own present culture has harnessed these forces in ways that have yielded extraordinary wealth and comfort and personal freedom. The freedom all to be lords of our tiny skull-sized kingdoms, alone at the centre of all creation. 
 
-> *Richard Rohr says that we exist in the world of the enneagram 3. Achievement, productivity, capitalism, "keeping up with the Joneses", etc.*
+> <span class="text-red">*Richard Rohr says that we exist in the world of the enneagram 3. Achievement, productivity, capitalism, "keeping up with the Joneses", etc.*</span>
 
 ## 15. The really important kind of freedom
 This kind of freedom has much to recommend it. But of course there are all different kinds of freedom, and the kind that is most precious you will not hear much talk about much in the great outside world of wanting and achieving…. The really important kind of freedom involves a==ttention and awareness and discipline, and being able truly to care about other people and to sacrifice for them over and over in myriad petty, unsexy ways every day==.
@@ -206,4 +206,4 @@ It is ==unimaginably hard to do this, to stay conscious and alive in the adult w
 
 I wish you way more than luck.
 
-> Goosebumps just *reading* this, despite having listened to it a few days ago. So potent, important, urgent. And so well structured - to bring it back to "this is water", and to invoke another cliche, and to bring it back to the value of education. Just gorgeous.
+> <span class="text-red">Goosebumps just *reading* this, despite having listened to it a few days ago. So potent, important, urgent. And so well structured - to bring it back to "this is water", and to invoke another cliche, and to bring it back to the value of education. Just gorgeous.</span>
