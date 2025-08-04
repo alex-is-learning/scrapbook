@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "What \"This is Water\" means to me (WIP)"
             }
-          },
-          {
-            "id": "807cc57c1e711312",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Superprof tutor lesson 1 (The Fundamental Decision).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Superprof tutor lesson 1 (The Fundamental Decision)"
-            }
-          },
-          {
-            "id": "0eacc4912adefb7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/The Kegan 3 to Kegan 4 transition.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Kegan 3 to Kegan 4 transition"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/The Kegan 3 to Kegan 4 transition.md",
+                "file": "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/What \"This is Water\" means to me (WIP).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Kegan 3 to Kegan 4 transition"
+              "title": "Backlinks for What \"This is Water\" means to me (WIP)"
             }
           },
           {
@@ -179,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/The Kegan 3 to Kegan 4 transition.md",
+                "file": "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/What \"This is Water\" means to me (WIP).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Kegan 3 to Kegan 4 transition"
+              "title": "Outline of What \"This is Water\" means to me (WIP)"
             }
           }
         ]
@@ -206,17 +177,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "e160475d65de650d",
   "lastOpenFiles": [
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/RLC as the Kegan 3 to Kegan 4 transition.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/08. Enneagram 3 thinking sins.md",
+    "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/What \"This is Water\" means to me (WIP).md",
+    "source/content/⭐️ Open Questions/What does it mean to be in ORI?/The universe (you're a cell inside an organism).md",
+    "source/content/⭐️ Open Questions/What does it mean to be in ORI?/The universe (you're a cell inside an organism).png",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Superprof tutor lesson 1 (The Fundamental Decision).md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/The Kegan 3 to Kegan 4 transition.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/RLC as the Kegan 3 to Kegan 4 transition.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Kegan 4.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Kegan 3.md",
     "source/content/📎 Files/Images/misc/kegan 3 reddit.png",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Superprof tutor lesson 1 (The Fundamental Decision).md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/RLC (Rejecting Leaving to Chance).md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/ILC (Implicitly Leaving to Chance).md",
-    "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/What \"This is Water\" means to me (WIP).md",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/David Foster Wallace (parent page).md",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/Why do I love DFW's fiction so much?.md",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/Cliches are banal vs cliches signify profound truths.md",
@@ -247,12 +221,9 @@
     "source/content/Other",
     "source/content/1. Open Questions/How should I make money? 💰/🟣 How should I make money?.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
-    "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 008 report.md",
-    "source/docs/templates/2. meditation.md",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/licenses/LICENSE.txt",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/top_level.txt",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/licenses",
-    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/WHEEL",
-    "source/content/📎 Files/Images/misc/My July 2025 spending2.png"
+    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/WHEEL"
   ]
 }

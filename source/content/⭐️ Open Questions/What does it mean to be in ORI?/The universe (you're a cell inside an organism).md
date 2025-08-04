@@ -1,0 +1,2 @@
+- ![[The universe (you're a cell inside an organism).png]]
+- https://x.com/DefenderOfBasic/status/1944509871220830490
