@@ -3,6 +3,7 @@ permalink: my-dfw-journey
 created: 2025-08-04
 ---
 - 2025-08-04
+- Parent page - [[David Foster Wallace (parent page)]]
 ## Film: "the end of the tour"
 - Probably in my second year of uni, when I was ~19 (so, essentially 10 years ago)
 - [[Circumstantial luck]] → a friend at university put on the film "[[The End of the Tour]]", which introduced me to David Foster Wallace. 
