@@ -1,0 +1,3 @@
+- 2025-08-04
+- I was in love from page 1. I'm not sure I can quite explain why
+	- I wrote more here which I've now ported to [[Why do I love DFW's fiction so much?]]	

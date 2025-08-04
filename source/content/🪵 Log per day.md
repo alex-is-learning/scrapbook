@@ -5,7 +5,9 @@ permalink: log-per-day
 - See also [[Meditation log]]
 ## 03. August 2025
 - Mon 2025-08-04
-	- [[What "This is Water" means to me]]
+	- [[What "This is Water" means to me (WIP)]]
+	- [[David Foster Wallace (parent page)]]
+	- [[Why do I love DFW's fiction so much?]]
 ## 02. July 2025
 ### Week of 28th July
 - Sun 2025-08-03
