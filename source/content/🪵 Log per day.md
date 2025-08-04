@@ -3,8 +3,11 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 - See also [[Meditation log]]
-## July 2025
-## Week of 28th July
+## 03. August 2025
+- Mon 2025-08-04
+	- [[What "This is Water" means to me]]
+## 02. July 2025
+### Week of 28th July
 - Sun 2025-08-03
 	- [[July 2025 review]]
 	- [[My July 2025 spending]]
@@ -67,7 +70,7 @@ permalink: log-per-day
 - Mon 2025-07-07
 	- [[⭐️"How should I make money?" (Open Question)]]
 	- [[Gemini Socrates - part-time vs full-time work]]
-## June 2025
+## 01. June 2025
 ### Week of 30th of June 
 - Sun 2025-07-06 
 	- [[08. Enneagram 3 thinking sins]]
