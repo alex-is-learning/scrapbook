@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Call with my friend \"S\" - 2025-06-23 2.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Circumstantial luck.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Call with my friend \"S\" - 2025-06-23 2"
+              "title": "Circumstantial luck"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Call with my friend \"S\" - 2025-06-23 2.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Circumstantial luck.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Call with my friend \"S\" - 2025-06-23 2"
+              "title": "Backlinks for Circumstantial luck"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Call with my friend \"S\" - 2025-06-23 2.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Circumstantial luck.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Call with my friend \"S\" - 2025-06-23 2"
+              "title": "Outline of Circumstantial luck"
             }
           }
         ]
@@ -177,13 +177,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7bdb082c0562d32d",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/⭐️ Open Questions/4. What matters to me?/Notes",
+    "source/content/⭐️ Open Questions/4. What matters to me?",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Thomas Nagel's 4 types of moral luck.md",
+    "source/content/⭐️ Open Questions/4. What matters to me?/Notes/What \"This is Water\" means to me.md",
+    "source/content/📎 Files/Images/misc/This is where the lemons are 🍋.png",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Constitutive luck.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Circumstantial luck.md",
+    "source/content/🪵 Log per day.md",
+    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Call with my friend \"S\" - 2025-06-23 2.md",
     "source/content/Other",
     "source/content/1. Open Questions/How should I make money? 💰/🟣 How should I make money?.md",
-    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Call with my friend \"S\" - 2025-06-23 2.md",
-    "source/content/Other/What \"This is Water\" means to me.md",
-    "source/content/🪵 Log per day.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 008 report.md",
     "source/docs/templates/2. meditation.md",
@@ -198,8 +204,6 @@
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/RECORD",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/METADATA",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/INSTALLER",
-    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info",
-    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio/test_audio/notes_2_16_44.wav",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Visual metaphors for the \"how can I help my family\" project 2.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Meta - about the \"how can I help my family\" project 2.md",
@@ -212,18 +216,14 @@
     "source/content/⭐️ Open Questions/1. How to think?/⭐️\"How can I improve my ability to think? (Open Question).md",
     "source/content/⭐️ Open Questions/3. How should I make money?/Notes/My July 2025 spending.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Life Reviews/Week of 14th July 2025.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Life Reviews/Week of 21st July 2025.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Superprof Philosophy, Ethics tutor.md",
     "source/content/📎 Files/Images/misc/My July 2025 spending2.png",
     "source/content/📎 Files/Images/misc/My July 2025 spending5.png",
     "source/content/📎 Files/Images/misc/My July 2025 spending4-1.png",
     "source/content/📎 Files/Images/misc/My July 2025 spending4.png",
     "source/content/📎 Files/Images/misc/My July 2025 spending3.png",
     "source/content/📎 Files/Images/misc/My July 2025 spending.png",
-    "source/content/⭐️ Open Questions/3. How should I make money?/⭐️\"How should I make money?\" (Open Question).md",
     "source/content/📎 Files/Images/meditation gifs/13-30.0.jpg",
     "source/content/📎 Files/Images/meditation gifs/image_20250802-222858.jpg",
-    "source/content/📎 Files/Images/meditation gifs/sit 005 output_timelapse_20250731-121727.gif",
-    "source/content/📎 Files/Images/meditation gifs/sit 004 output_timelapse_20250730-115158.gif"
+    "source/content/📎 Files/Images/meditation gifs/sit 005 output_timelapse_20250731-121727.gif"
   ]
 }
