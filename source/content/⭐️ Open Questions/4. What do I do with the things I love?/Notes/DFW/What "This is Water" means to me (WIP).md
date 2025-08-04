@@ -9,10 +9,12 @@ created: 2025-08-04
 	- ![[This is Water.mp3]]
 - So I thought I'd write up something about what it means to me
 # Tracking my growth
-- It was really amazing to re-listen to it the other day and have so much more in my brain that relates to it
-- Like, when I listened to it as a ~19 year old, it was the first thing like it that I've ever heard.
-- I discovered (or actually, was introduced by a friend, again [[Circumstantial luck]] and the importance of connection! [[Should I value in-person connection highly? (first pass)]]) - I discovered the [[Tpot, post-rationalism]] scene ~7 years later, and recently I've been in a real intellectual renaissance that has given me a bunch of new concepts etc
-- So it was really gorgeous to hear it again and just to have *lived* a lot more, to have loved and lost, to be reckoning with morality and ethics and how to live, etc. Like, his speech is to the graduating class, but really to their older selves, or at least, preparing them for the "adult trenches". And at 19, I hadn't lived in those trenches - I was still in university
+- It was really amazing to re-listen to it the other day and have ==so much more in my brain== that relates to it
+- Like, when I listened to it as a ~==19== year old, it was the first thing like it that I've ever heard.
+	- I discovered (or actually, was introduced by a friend ([[Circumstantial luck]], [[Should I value in-person connection highly? (first pass)|importance of friendships]]) - I discovered the [[Tpot, post-rationalism]] scene ~7 years later, and recently I've been in a real intellectual renaissance that has given me a bunch of new concepts etc
+- So it was really gorgeous to hear it again and just to have *lived* a lot more, to have been through difficult experiences, to be currently reckoning with my world-view and morality and ethics and how to live, etc. 
+	- [[RLC as the Kegan 3 to Kegan 4 transition]]
+- Like, his speech is to the graduating class, but really to their older selves, or at least, preparing them for the "adult trenches". And at 19, I hadn't lived in those trenches - I was still in university
 # This is his philosophy, boiled down
 - The themes from This is Water appear in all his fiction. It's rare to get something as potent as a commencement speech to condense the key themes down, it's a real gift
 # Liberal arts education 80/20? 
@@ -28,6 +30,9 @@ created: 2025-08-04
 - I think I want to copy-paste the entire thing and add commentary, rather than write up what it means to me off the top of my head
 - Because it's an speech, I've never truly grokked/studied it, so I'm seeing this as an opportunity to do that too
 - Getting the transcript from [here](https://fs.blog/david-foster-wallace-this-is-water/)
+
+---
+
 ## 01. Intro - the most important realities are often hardest to talk about
 
 Greetings parents and congratulations to Kenyon’s graduating class of 2005. There are these two young fish swimming along and they happen to meet an older fish swimming the other way, who nods at them and says “Morning, boys. How’s the water?” And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes “==What the hell is water?==”
