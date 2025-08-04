@@ -29,9 +29,8 @@
 - Again, from Good Old Neon. He also talks about this in the short story "The Depressed Person"
 > However tedious and sketchy all this is, you’re at least getting an idea, I think, of what it was like inside my head. If nothing else, you’re seeing how exhausting and solipsistic it is to be like this. And I had been this way my whole life, at least from age four onward, as far as I could recall. Of course, it’s also a really stupid and egotistical way to be, of course you can see that.
 
-### Cliches are banal vs cliches signify profound truths
-- A key theme that comes up often, particularly in Infinite Jest, and also This is Water. I believe this is because he had to go to AA or narcotics anonymous and reckon with the "I am incredibly intelligent and well-educated and all the advice here sounds so banal and lame but actually I have to do it and stop intellectualising"
-> Basically I was in that state in which a man realizes that everything he sees will outlast him. As a verbal construction I know that’s a cliché. As a state in which to actually be, though, it’s something else, believe me.
+### [[Cliches are banal vs cliches signify profound truths]]
+
 
 ## Fuck it, let's go to Goodreads
 
