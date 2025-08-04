@@ -9,17 +9,6 @@ created: 2025-08-04
 	- MP3:
 	- ![[This is Water.mp3]]
 - So I thought I'd write up something about what it means to me
-# Tracking my growth
-- It was really amazing to re-listen to it the other day and have ==so much more in my brain== that relates to it
-- Like, when I listened to it as a ~==19== year old, it was the first thing like it that I've ever heard.
-	- I discovered (or actually, was introduced by a friend ([[Circumstantial luck]], [[Should I value in-person connection highly? (first pass)|importance of friendships]]) - I discovered the [[Tpot, post-rationalism]] scene ~7 years later, and recently I've been in a real intellectual renaissance that has given me a bunch of new concepts etc
-- So it was really gorgeous to hear it again and just to have *lived* a lot more, to have been through difficult experiences, to be currently reckoning with my world-view and morality and ethics and how to live, etc. 
-	- [[RLC as the Kegan 3 to Kegan 4 transition]]
-- Like, his speech is to the graduating class, but really to their older selves, or at least, preparing them for the "adult trenches". And at 19, I hadn't lived in those trenches - I was still in university
-# This is his philosophy, boiled down
-- The themes from This is Water appear in all his fiction. It's rare to get something as potent as a commencement speech to condense the key themes down, it's a real gift
-# Liberal arts education 80/20? 
-- I'm sure this isn't the case, but → I didn't get a liberal arts education, so I kinda like the idea that David is giving "the important thing" here. Like, all isn't lost because I didn't go to a prestigious university and do a liberal arts education. (In fact, what he points at as being "the key thing" in this speech feels like something you're more likely to grok via e.g. serious meditation, than education, maybe?)
 
 ---
 # When was this speech delivered? 
@@ -27,13 +16,29 @@ created: 2025-08-04
 - 9 years after Infinite Jest, 1 year after Oblivion
 - Married, living in California
 - 3 years before death :(
+# What does it mean to me? Initial guesses
+## This is his philosophy, boiled down
+- The themes from This is Water appear in all his fiction. It's rare to get something as potent as a commencement speech to condense the key themes down, it's a real gift
+## Liberal arts education 80/20? 
+- I'm sure this isn't the case, but → I didn't get a liberal arts education, so I kinda like the idea that David is giving "the important thing" here. Like, all isn't lost because I didn't go to a prestigious university and do a liberal arts education. (In fact, what he points at as being "the key thing" in this speech feels like something you're more likely to grok via e.g. serious meditation, than education, maybe?)
+## Wildly proto-tpot, & tracking my growth
+- It was really amazing to re-listen to it the other day and have ==so much more in my brain== that relates to it
+- Like, when I listened to it as a ~==19== year old, it was the first thing like it that I've ever heard.
+	- I discovered (or actually, was introduced by a friend ([[Circumstantial luck]], [[Should I value in-person connection highly? (first pass)|importance of friendships]]) - I discovered the [[Tpot, post-rationalism]] scene ~7 years later, and recently I've been in a real intellectual renaissance that has given me a bunch of new concepts etc
+- So it was really gorgeous to hear it again and just to have *lived* a lot more, to have been through difficult experiences, to be currently reckoning with my world-view and morality and ethics and how to live, etc. 
+	- [[RLC as the Kegan 3 to Kegan 4 transition]]
+- Like, his speech is to the graduating class, but really to their older selves, or at least, preparing them for the "adult trenches". And at 19, I hadn't lived in those trenches - I was still in university
+
+---
+
 # The transcript
 - I think I want to copy-paste the entire thing and add commentary, rather than write up what it means to me off the top of my head
 - Because it's an speech, I've never truly grokked/studied it, so I'm seeing this as an opportunity to do that too
 - Getting the transcript from [here](https://fs.blog/david-foster-wallace-this-is-water/)
 - Will add my own commentary like this:
-
 > <span class="text-red">Red font in a "block quote"</span>
+
+And I've ==highlighted== key parts (maybe a bit too much highlighting...)
 
 ---
 
@@ -65,7 +70,7 @@ It’s easy to run this story through kind of a standard liberal arts analysis: 
 
 Because we prize tolerance and diversity of belief, nowhere in our liberal arts analysis do we want to claim that one guy’s interpretation is true and the other guy’s is false or bad. 
 
-Which is fine, except ==we also never end up talking about just where these individual templates and beliefs come from==. Meaning, where they come from INSIDE the two guys. ==As if a person’s most basic orientation toward the world, and the meaning of his experience were somehow just hard-wired, like height or shoe-size; or automatically absorbed from the culture, like language. As if how we construct meaning were not actually a matter of personal, intentional choice.== 
+Which is fine, except ==we also never end up talking about just where these individual templates and beliefs come from==. Meaning, where they come from INSIDE the two guys. As if a person’s most basic orientation toward the world, and the meaning of his experience were somehow just ==hard-wired, like height or shoe-size; or automatically absorbed from the culture, like language. As if how we construct meaning were not actually a matter of personal, intentional choice.== 
 
 > <span class="text-red">[[ILC (Implicitly Leaving to Chance)]] vs [[RLC (Rejecting Leaving to Chance)]]</span>
 
@@ -75,32 +80,40 @@ Plus, there’s the whole matter of arrogance. The nonreligious guy is so totall
 
 ## 5. To be less certain, less arrogant, to doubt more
 
-The point here is that I think this is one part of what teaching me how to think is really supposed to mean. ==To be just a little less arrogant. To have just a little critical awareness about myself and my certainties. Because a huge percentage of the stuff that I tend to be automatically certain of is, it turns out, totally wrong and deluded==. I have learned this the hard way, as I predict you graduates will, too.
+The point here is that I think this is one part of what teaching me how to think is really supposed to mean. To be just a little less arrogant. To have just a little ==critical awareness about myself and my certainties==.
 
+Because a huge percentage of the stuff that I tend to be automatically certain of is, it turns out, ==totally wrong and deluded==. I have learned this the hard way, as I predict you graduates will, too.
 ## 6. To be well-adjusted is to work to be less self-centered
 
-Here is just one example of the total wrongness of something I tend to be automatically sure of: ==everything in my own immediate experience supports my deep belief that I am the absolute centre of the universe; the realest, most vivid and important person in existence==. We rarely think about this sort of natural, basic self-centredness because it’s so socially repulsive. But it’s pretty much the same for all of us. It is our default setting, hard-wired into our boards at birth. 
+Here is just one example of the total wrongness of something I tend to be automatically sure of: everything in my own immediate experience supports ==my deep belief that I am the absolute centre of the universe==; the realest, most vivid and important person in existence. 
+
+We rarely think about this sort of natural, basic self-centredness because it’s so socially repulsive. But it’s pretty much the same for all of us. It is our default setting, hard-wired into our boards at birth. 
 
 Think about it: there is no experience you have had that you are not the absolute centre of. The world as you experience it is there in front of YOU or behind YOU, to the left or right of YOU, on YOUR TV or YOUR monitor. And so on. Other people’s thoughts and feelings have to be communicated to you somehow, but your own are so immediate, urgent, real.
 
-Please don’t worry that I’m getting ready to lecture you about compassion or other-directedness or all the so-called virtues. ==This is not a matter of virtue. It’s a matter of my choosing to do the work of somehow altering or getting free of my natural, hard-wired default setting which is to be deeply and literally self-centered and to see and interpret everything through this lens of self. People who can adjust their natural default setting this way are often described as being “well-adjusted”, which I suggest to you is not an accidental term.==
+Please don’t worry that I’m getting ready to lecture you about compassion or other-directedness or all the so-called virtues. This is not a matter of virtue. It’s a matter of my choosing to do the work of somehow altering or getting free of my natural, ==hard-wired default setting which is to be deeply and literally self-centered and to see and interpret everything through this lens of self.==
+
+People who can adjust their natural default setting this way are often described as being ==“well-adjusted”,== which I suggest to you is not an accidental term.
 
 ## 7. Learning to exercise control over how and what you think
-Given the triumphant academic setting here, an obvious question is how much of this work of adjusting our default setting involves actual knowledge or intellect. This question gets very tricky. Probably the most dangerous thing about an academic education–least in my own case–is that it enables ==my tendency to over-intellectualise stuff, to get lost in abstract argument inside my head, instead of simply paying attention to what is going on right in front of me, paying attention to what is going on inside me==.
+Given the triumphant academic setting here, an obvious question is how much of this work of adjusting our default setting involves actual knowledge or intellect. This question gets very tricky. Probably the most dangerous thing about an academic education–least in my own case–is that it enables ==my tendency to over-intellectualise stuff,== to get lost in abstract argument inside my head, instead of simply paying attention to what is going on right in front of me, paying attention to what is going on ==inside me==.
 
-> <span class="text-red">*Alexithymia, left-hemisphere capture, vs phenomenology, Gendlin's Focusing, being-in-the-world*</span>
+> <span class="text-red">*Alexithymia, left-hemisphere capture, vs phenomenology, Gendlin's Focusing, being-in-the-world. The Heideggerian "ontological turn" away from theorising (vorhanenheit) and towards being in the world, being embodied, situated.*</span>
 
 As I’m sure you guys know by now, it is extremely difficult to stay alert and attentive, instead of getting ==hypnotised by the constant monologue inside your own head== (may be happening right now). 
 
 Twenty years after my own graduation, I have come gradually to understand that the liberal arts cliché about teaching you how to think is actually shorthand for a much deeper, more serious idea: ==learning how to think really means learning how to exercise some control over how and what you think. It means being conscious and aware enough to choose what you pay attention to and to choose how you construct meaning from experience==. Because if you cannot exercise this kind of choice in adult life, you will be totally hosed. Think of the old cliché about “the mind being an excellent servant but a terrible master.”
 
-> <span class="text-red">*This is so astoundingly proto-tpot, proto-postrationalist to me. I mean, I know that tpot/post-rationalism didn't invent this stuff. But it's soooo built around this stuff. E.g., Alexander Technique is all about existing in the gap between stimulus and response, increasing your agency and ability to act in a non-automatic way. Meditation of course is also about this is a key way. IFS as a way to address your conditioning. Memory reconsolidation, neural annealing, etc. It's so deeply wild to me how much this resonated with me as a 19 year old but I had no idea what to do next, and then 7 years later I was introduced to a community that is all about this stuff!!! This feels relevant to Defender of Basic's "The universe is an organism" thing* → [[The universe (you're a cell inside an organism)]]</span>
-
-> <span class="text-red">*"I think, therefore I am" is wrong → you are not your thoughts! "I am, therefore I think". We're literally hypnotised by the ~LLM in our heads, but it's just one sub-module. Stream entry, meditation, can help you get space from this.*</span>
-
-- 👇 <span class="text-red">*Re: this [youtube video]([https://www.youtube.com/watch?v=Ca_RbPXraDE](https://www.youtube.com/watch?v=Ca_RbPXraDE "https://www.youtube.com/watch?v=Ca_RbPXraDE")), a description by someone in the Open Research Initiative Discord server:*</span>
-> <span class="text-red">*"Elan Bernholtz’s framing—that language is a symbolic self-running organism, unmoored from sensation—feels like McLuhan inverted through Chomsky and trained on the latent space of LLMs. A model that recursively generates itself, like the Torah in the Zohar—a fire that writes fire. And Hahn pushing it further, suggesting we aren’t a person with software, but a virtual machine stack containing selves, instantiated by pressure, necessity, or inheritance. God as an informational agent. Memory as just-in-time regeneration. Mind as autoregressive dance."*</span>
-
+- <span class="text-red">This is so astoundingly proto-tpot, proto-postrationalist to me.</span>
+- <span class="text-red">I mean, I know that tpot/post-rationalism didn't invent this stuff. But it's soooo built around this stuff.</span> 
+- <span class="text-red">E.g., Alexander Technique is all about existing in the gap between stimulus and response, increasing your agency and ability to act in a non-automatic way.</span> 
+- <span class="text-red">Meditation of course is also about this is a key way.</span> 
+- <span class="text-red">IFS as a way to address your conditioning. Memory reconsolidation, neural annealing, etc.</span>
+- <span class="text-red">It's so deeply wild to me how much this resonated with me as a 19 year old but I had no idea what to do next, and then 7 years later I was introduced to a community that is all about this stuff!!!</span>
+	- <span class="text-red">This feels relevant to Defender of Basic's "The universe is an organism" thing* → [[The universe (you're a cell inside an organism)]]</span>
+- <span class="text-red">*"I think, therefore I am" is wrong → you are not your thoughts! "I am, therefore I think". We're literally hypnotised by the ~LLM in our heads, but it's just one sub-module. Stream entry, meditation, can help you get space from this.*</span>
+	- 👇 <span class="text-red">*Re: this [youtube video]([https://www.youtube.com/watch?v=Ca_RbPXraDE](https://www.youtube.com/watch?v=Ca_RbPXraDE "https://www.youtube.com/watch?v=Ca_RbPXraDE")), a description by someone in the Open Research Initiative Discord server:*</span>
+	-  <span class="text-red">*"Elan Bernholtz’s framing—that language is a symbolic self-running organism, unmoored from sensation—feels like McLuhan inverted through Chomsky and trained on the latent space of LLMs. A model that recursively generates itself, like the Torah in the Zohar—a fire that writes fire. And Hahn pushing it further, suggesting we aren’t a person with software, but a virtual machine stack containing selves, instantiated by pressure, necessity, or inheritance. God as an informational agent. Memory as just-in-time regeneration. Mind as autoregressive dance."*</span>
 - ☝️ <span class="text-red">*This is a key theme of DFW, see e.g. Good Old Neon, and of course his debut novel "Broom of the System" is in large part about Wittgenstein, so he was very much aware of the whole "there are no philosophical problems, only linguistic confusions"-type stuff.*</span>
 - <span class="text-red">*See also Vervaeke's [[Vervaeke's 4 Ps of Knowledge]], how language is only one (propositional knowledge), and how we live in the tyranny of the propositional*</span>
 
