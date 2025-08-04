@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/What \"This is Water\" means to me (WIP).md",
+                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 009 report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What \"This is Water\" means to me (WIP)"
+              "title": "Sit 009 report"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/What \"This is Water\" means to me (WIP).md",
+                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 009 report.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What \"This is Water\" means to me (WIP)"
+              "title": "Backlinks for Sit 009 report"
             }
           },
           {
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/What \"This is Water\" means to me (WIP).md",
+                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 009 report.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of What \"This is Water\" means to me (WIP)"
+              "title": "Outline of Sit 009 report"
             }
           }
         ]
@@ -191,12 +191,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e160475d65de650d",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/📎 Files/Images/meditation gifs/sit 009 output_timelapse_20250805-003520.gif",
+    "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
+    "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 009 report.md",
+    "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/What \"This is Water\" means to me (WIP).md",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/Why do I love DFW's fiction so much?.md",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/David Foster Wallace (parent page).md",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/My DFW Journey.md",
-    "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/What \"This is Water\" means to me (WIP).md",
     "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/08. Enneagram 3 thinking sins.md",
     "source/content/⭐️ Open Questions/What does it mean to be in ORI?/The universe (you're a cell inside an organism).md",
@@ -231,10 +234,7 @@
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Thomas Nagel's 4 types of moral luck.md",
     "source/content/📎 Files/Images/misc/This is where the lemons are 🍋.png",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Constitutive luck.md",
-    "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Call with my friend \"S\" - 2025-06-23 2.md",
     "source/content/Other",
-    "source/content/1. Open Questions/How should I make money? 💰/🟣 How should I make money?.md",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/licenses/LICENSE.txt",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/top_level.txt",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/licenses",
