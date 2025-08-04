@@ -2,6 +2,7 @@
 permalink: what-this-is-water-means-to-me
 created: 2025-08-04
 ---
+- Parent page - [[David Foster Wallace (parent page)]]
 - Mon 2025-08-04
 - I listened to "This is Water" again a few nights ago for the first time in probably 6+ months and it made me cry, as per usual, lol
 	- [Youtube](https://www.youtube.com/watch?v=DCbGM4mqEVw)
@@ -30,6 +31,9 @@ created: 2025-08-04
 - I think I want to copy-paste the entire thing and add commentary, rather than write up what it means to me off the top of my head
 - Because it's an speech, I've never truly grokked/studied it, so I'm seeing this as an opportunity to do that too
 - Getting the transcript from [here](https://fs.blog/david-foster-wallace-this-is-water/)
+- Will add my own commentary like this:
+
+> <span class="text-red">Red font in a "block quote"</span>
 
 ---
 

@@ -1,3 +1,6 @@
+- 2025-08-04
+- Parent page - [[David Foster Wallace (parent page)]]
+---
 
 - I think partly, there's just this dizzying sense of being with someone who is an incredible ==intellect==. Like, I had never (and have never, not that I have read *that much* fiction) experienced writing like this before. It feels like peeking into an entirely different way of existing. And as someone who grew up feeling relatively intelligent, and relatively good at writing, there was a sense both of kinship but also of deep awe
 	- Also, David isn't just a flashy "show off" writer. (E.g., I tried reading Dave Eggers and couldn't stand him, and Jonathan Franzen often sounds really pompous and overwrought IMO (not Crossroads though, Crossroads is brilliant). He's incredibly ==humane==. 
