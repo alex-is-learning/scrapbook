@@ -29,3 +29,7 @@
 ## 4. Setting up some hotkeys
 - This is optional, but the final step for me personally to have things be easy to navigate via the keyboard
 - [[Obsidian hotkeys]]
+
+--- 
+
+- If you're going to use Quartz too, return to [[Alex's Obsidian Guide]] and see the appendix!

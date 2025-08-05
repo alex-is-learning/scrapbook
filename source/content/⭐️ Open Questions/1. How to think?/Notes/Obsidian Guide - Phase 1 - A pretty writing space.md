@@ -15,7 +15,7 @@
 - However, for the purposes of this guide, we're just making one vault
 ### Ok so, a fresh vault
 - Tada, here's a fresh vault
-- ![[source/content/📎 Files/Images/guides/Basic Obsidian guide.png]]
+- ![[source/content/📎 Files/Images/guides/Basic Obsidian guide0001.png]]
 - As you can see, it's very plain looking. 
 ## 03. Choosing a theme
 - I'd recommend choosing a nice theme!
@@ -40,7 +40,9 @@
 # 4. Write! (With markdown)
 - In Obsidian, every note is .md (markdown)
 - See this [formatting guide](https://help.obsidian.md/syntax)
-# NOTE - MAYBE STOP HERE!
+# Note - maybe stop here!
 - *The below are quality of life things*
 - *But they're probably not worth bothering with until you find that your life is lacking quality due to little niggles*
 - *I would probably recommend pausing here, enjoying your pretty Obsidian, and writing something*
+
+- Then, [[Obsidian Guide - Phase 2 - A slightly more intentional infrastructure]]
