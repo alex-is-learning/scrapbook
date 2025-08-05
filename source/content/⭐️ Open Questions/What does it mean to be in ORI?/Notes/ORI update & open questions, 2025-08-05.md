@@ -1,21 +1,42 @@
+---
+title: ORI update & open questions, 2025-08-05 (WIP)
+---
 - 2025-08-05
 - [[⭐️ "What does it mean to be in ORI?" (Open Question)]]
 - I haven't really thought about ORI recently, but I'm in the Discord and poke my head in sometimes (mostly to marvel about how out of the loop I am, lol)
-	- I initially got into it just by reading Defender's post on how he learned to think
-		- I wrote about it [here](https://www.alexislearning.me/learning-how-to-think/)
-		- And under his guidance, I set up this website, and discover the crucial high-leverage thing of clarifying and working on your open questions (mad that I wasn't doing this before!)
-		- And he's messaged me sometimes about cultural engineering stuff, but it's never resonated with me. Feels abstract, and like... I'm not worried about propaganda and dark memetics atm, I'm trying to solve my burning problems (e.g., what do I do about my family, how do I make money) - worldly shit?
+# Phases of my involvement in ORI
+## Phase 1 → copying his path
+- I initially got into it just by reading Defender's post on how he learned to think
+- I wrote about it [here](https://www.alexislearning.me/learning-how-to-think/) → "Learning to think the Defender of Basic way - Oh god there’s someone else like me" → about how excited I was to find someone who said that they "learned to think" at 30
+- Initially, I copied him → "Defender says that what you should do is have conversations with people on Twitter with an alt, so you can learn more about them and the world"
+- See e.g. [[Day 1 of trying to engage people on twitter via alt account]]
+## Phase 2 → elucidating my open questions
+- "Oh wait, I'm applying what worked for Defender, but I don't have the same open questions that he had"
+- His obsession was something like "why don't people agree?" or "why don't people realise that we've figured stuff out" or *something*, I forget exactly what
+	- So, creating an alt and engaging with people in good faith, to figure out their world view etc, solved a problem for him
+	- But, I have no interest in this stuff!
+- So, phase 2 became the phase of ==elucidating my own open questions==, and they came pretty quick!
+- It's crazy to think that before this, this isn't what I was doing. I was doing stuff like learning about John Boyd, doing Math Academy, because... it'll educate me... it might be useful one day.. etc → rather than asking "what are my current burning questions"
+	- Why so low agency?
+		- Partly it may have been a feeling of intractability → "obviously I'm not gonna read a book about how to fix my exact family, clearly it's not something I can solve". Too much looking *outside*, thinking that the knowledge is *out there somewhere*
+		- A feeling of overwhelm, a blind spot (always looking outside, meaning you never introspect → your problems become "ugh fields", and you'll never stumble across them, because you're never looking where they are)
+		- [[The streetlight effect]]
+		- ![[the streetlight effect.png]]
+## Phase 3 (not begun, and the profundity has not "clicked" yet)
+- Defender has messaged a few times about cultural engineering, and obviously, open memetics is like, his whole thing
+- So far, it hasn't clicked for me how this could be relevant for me. But there is obviously strong evidence that there's a "there"
+- So yeah, he's messaged me sometimes about cultural engineering stuff, but it's never resonated with me. 
+- Feels abstract, and like... I'm not worried about propaganda and dark memetics atm, I'm trying to solve my burning problems (e.g., what do I do about my family, how do I make money) - worldly shit?
 - I'm kinda the resident normie in ORI, and it's a role that has a fair amount of resistance
-	- The (in my eyes) slightly schizo people are having a great time, saying a bunch of (to me) mostly incoherent shit, seemingly at the cutting edge
+	- The (in my eyes) slightly schizo people are having a great time, saying a bunch of (to me) mostly incoherent shit, seemingly at the cutting edge of various things (e.g. "reality is information"). They seem to think they're gonna make loads of money from this kinda stuff, somehow, soonish
 	- Vs I'm here trying to figure out how to ruminate less about my family, how I should make money, etc
 - Defender has messaged a few times like "does cultural engineering resonate with you", and "have you tried sharing your writings with people, tweeting your open questions?"
-- I have some unreplied to messages from DefenderofBasic
 - The main threads that are alive for me currently
 	- "Oh man I'm such a normie compared to the people in the Discord" vs "destigmatise being dumb"
 	- "Oh man my concerns are so like quotidian/worldly/non-scalable" (e.g., thinking about my family rather than like, shaping culture or whatever the hell) vs "normies are useful because... it's useful to have people around who are grounded... etc?"
 	- "The things I'm trying to do haven't been solved" (?)
-# Let's see what DoB has said and what my gut reactions are
-## 1. Stuff that just doesn't resonate that much
+# Investigating phase 3 stuff
+## Attention markets & engineering culture
 - DoB sent this post to me ([How attention markets work](https://defenderofthebasic.substack.com/p/how-attention-markets-work)) and asked if it resonates at all
 ### Then I said
 > "the post doesn't resonate much beyond an initial 'oh, this sounds like a cool way for me to discover new exciting cutting-edge stuff like blowtorch theory and observer theory!'"
@@ -37,26 +58,27 @@
     - Because if it's true then it means most effort, most grants, are wasted money. 
     - People spend millions of dollars and thousands of man hours trying to solve problems that already solved, just that none one is paying attention and, that random people in society can fix this problem. 
     - Just by learning to cut through the noise, to find something true & amplify it
-### Ok so, let me think more about open cultural engineering
-- Because yeah, at a gut sense I don't quite belief it, or at least, I have resistance
-# Thinking about open cultural engineering and my resistance to it
-
-## "Most problems in the world already have solutions"
-## From DefenderofBasic
-most problems in our world today already have solutions, but the environment is too noisy, so we don't hear about them, and so they don't get done
-    - ☝️ that's an insane claim right? most people don't believe it. 
-    - Because if it's true then it means most effort, most grants, are wasted money. 
-    - People spend millions of dollars and thousands of man hours trying to solve problems that already solved, just that none one is paying attention and, that random people in society can fix this problem. 
-    - Just by learning to cut through the noise, to find something true & amplify it
-# My (initial) reply
+## Attention markets and engineering culture doesn't feel relevant? 
 - So initial gut sense is something like, "for the problems that *I'm* trying to solve, there aren't solutions that I can just like, plug-and-play, because I still have to be the one to like, *do the thing*"
-- E.g., is it true that the culture has already solved how to help my family? Or is something like "learn about family systems theory, convince family to go to therapy, iterate from there" as good at it gets, and still requires a lot of work from me?
+### "Social sciences"-type stuff vs hard science-type stuff?
+- E.g., is it true that the culture has already solved how to help my family? 
+	- And I just need to get better at prompting the universe, remembering that I'm a cell inside an organism? [[ORI idea - the universe (you're a cell inside an organism)]]
+- Or is something like "learn about family systems theory, convince family to go to therapy, iterate from there" as good at it gets, and still requires a lot of work from me?
 	- Or perhaps someone has "solved" it and it's a different thing, it's "dude don't even bother with family therapy, you can't change other people, you just need to do 1000 hours of metta meditation" or something
+		- Or "dude DFW has already provided the road map in This is Water"
+			- [[What "This is Water" means to me (WIP)]]
 	- This is why I'm skeptical re: fixes about this kind of thing - it seems very person-dependent. Like, maybe there is frontier knowledge that solves problems in *maths* or something, but my very quotidian everyday concerns feel much more akin to the social sciences or psychology or something - no "real answers", no concrete truths, etc
 		- But, maybe I'm just not realising that these things are in fact solved, it's just not commonly known?
-	- Like, if I'm trying to figure out some shit like Observer Theory, let's say, then if I "post into the void" enough, someone may reply like "oh shit this other person is working on this too!"
+	- Like, if I'm trying to figure out some shit like Observer Theory, let's say, then if I "post into the void" enough, someone may reply like "oh shit this other person is working on this too!" and then we work on it together, we progress the theory, we predict things (e.g. what Blowtorch Theory did), and we... monetise it or some shit
 		- A la → [[ORI idea - the universe (you're a cell inside an organism)]]
 	- Vs it feels at least intuitively like something as specific as family stuff won't have a similar kind of "feedback loop"?
+		- Like, someone else with the same family setup as me
+			- (But then, maybe all people, all families are actually very similar? Like, "complex adaptive systems" vibes - complex emergent properties arising from very simple local rules? Maybe I'm totally wrong that a family is more complex than like, Observer Theory, lol. May be incredibly myopic. Maybe this is way simpler than I'm imagining?)
+### Maybe I'm being dumb and forgetting how to think
+- I'm acting like "don't you get it, my open questions are unknowable!"
+- Vs approaching them like a scientist → making predictions, running experiments, etc.
+- I wonder if the stuff I'm working on, because it's so quite emotive and personal (how do I make money, what do I do about my family, how do I think better) → maybe I've been in a bit too like, blended with the anxiety and overwhelm, rather than zooming out and being like "ok, scientist mode, let's go"
+- So maybe phase 3 is something like getting more scientific, a more neutral observer? Idk
 # Like, what am I trying to solve?
 - [[⭐️"How can I improve my ability to think? (Open Question)]]
 	- If there was someone smart in my life who could peer into my brain and say like "yes, you're already a good thinker, you can pause this", or like "oh dude, it's crazy that you don't know [topic], you gotta rectify that ASAP", that'd be great...
