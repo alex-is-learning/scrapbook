@@ -114,6 +114,7 @@ title: ORI update & open questions, 2025-08-05
 	2. Or, is it because he's saying that my problems are solved, and I just need to "probe the universe" better?
 		- [[ORI idea - the universe (you're a cell inside an organism)]]
 		- However, I only have ~150 twitter followers, it's hard to probe 😅
+		- [[ORI idea - Problems are actually already solved]]
 	3. He can see that I'm not thinking things through all the way → I'm getting stuck in overwhelm mode, acting as if things are intractable and unknowable, rather than approaching things as a scientist?
 
 ---
