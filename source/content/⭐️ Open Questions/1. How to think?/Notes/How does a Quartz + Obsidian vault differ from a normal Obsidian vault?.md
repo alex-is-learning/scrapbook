@@ -16,3 +16,13 @@
 - This one is slightly annoying
 - If I have a file in a folder called "Open Questions", and I share the URL with a friend, but I then change that folder to be called "⭐️Open Questions", the URL will now be different, and the old link will no longer work
 # 4. Changing the aesthetic is trickier
+- Styling is done via CSS 
+- In your Quartz folder, there's the folder:
+	- source → quartz → styles
+- This is where the CSS lives
+	- ![[How does a Quartz + Obsidian vault differ from a normal Obsidian vault? 2.png]]
+- You can set up custom CSS → I recommend vibe coding here! 
+- E.g., I set up red font, 
+	- e.g. see [[What "This is Water" means to me (WIP)]]
+- And I set up dialogue formatting, 
+	- e.g. see [[Gemini Socrates - part-time vs full-time work]]
