@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Setting up Quartz if you already have an Obsidian setup.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/How does a Quartz + Obsidian vault differ from a normal Obsidian vault?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setting up Quartz if you already have an Obsidian setup"
+              "title": "How does a Quartz + Obsidian vault differ from a normal Obsidian vault?"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 1 - A pretty writing space.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/How does a Quartz + Obsidian vault differ from a normal Obsidian vault?.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Obsidian Guide - Phase 1 - A pretty writing space"
+              "title": "Backlinks for How does a Quartz + Obsidian vault differ from a normal Obsidian vault?"
             }
           },
           {
@@ -164,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 1 - A pretty writing space.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/How does a Quartz + Obsidian vault differ from a normal Obsidian vault?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Obsidian Guide - Phase 1 - A pretty writing space"
+              "title": "Outline of How does a Quartz + Obsidian vault differ from a normal Obsidian vault?"
             }
           }
         ]
@@ -193,15 +194,21 @@
   },
   "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Alex's Obsidian Guide.md",
+    "source/content/📎 Files/Images/guides/How does a Quartz + Obsidian vault differ from a normal Obsidian vault? 1.png",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 1 - A pretty writing space.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/How does a Quartz + Obsidian vault differ from a normal Obsidian vault?.md",
+    "source/content/📎 Files/Images/guides/How does a Quartz + Obsidian vault differ from a normal Obsidian vault?.png",
+    "source/content/📎 Files/Images/guides/How does a Quartz + Obsidian vault differ from a normal Obsidian vault?-2.png",
+    "source/content/📎 Files/Images/guides/How does a Quartz + Obsidian vault differ from a normal Obsidian vault?-1.png",
+    "source/docs/plugins/index.md",
     "source/content/index.md",
-    "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/How to create an Obsidian + Quartz website.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Alex's Obsidian Guide.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Setting up Quartz if you already have an Obsidian setup.md",
+    "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/How to create an Obsidian + Quartz website.md",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/⭐️ What do I do with the things I love? (Open Question).md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Making a second Obsidian Vault (and retaining your settings, hotkeys, etc).md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 3 - Small quality of life things.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 2 - A slightly more intentional infrastructure.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 1 - A pretty writing space.md",
     "source/content/🪵 Log per day.md",
     "source/content/📎 Files/Images/guides/Obsidian hotkeys.png",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian hotkeys.md",
@@ -213,9 +220,6 @@
     "source/content/📎 Files/Images/guides/Basic Obsidian guide.png",
     "Pasted image 20250805151341.png",
     "source/content/📎 Files/Images/guides",
-    "source/content/📎 Files/Images/guides/Basic Obsidian guide-9.png",
-    "source/content/📎 Files/Images/guides/Basic Obsidian guide-8.png",
-    "source/content/📎 Files/Images/guides/Basic Obsidian guide-7.png",
     "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/On turning 29.md",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/David Foster Wallace (parent page).md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Dealing with overwhelm at work.md",
@@ -227,9 +231,6 @@
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Visual metaphors for the \"how can I help my family\" project.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 009 report.md",
-    "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/What \"This is Water\" means to me (WIP).md",
-    "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/Why do I love DFW's fiction so much?.md",
-    "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/My DFW Journey.md",
     "source/content/📎 Files/mp3s",
     "source/content/📎 Files/mp3s/This is Water.mp3",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW",
