@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes to self (e.g., CSS)"
+              "title": "index"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
+                "file": "source/content/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notes to self (e.g., CSS)"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes to self (e.g., CSS)"
+              "title": "Outline of index"
             }
           }
         ]
@@ -179,6 +179,9 @@
   },
   "active": "e160475d65de650d",
   "lastOpenFiles": [
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Wow Alex! I want a cool website like this!!!.md",
+    "source/content/index.md",
+    "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
     "source/quartz/styles/variables.scss",
     "source/quartz/styles/syntax.scss",
     "source/quartz/styles/callouts.scss",
@@ -190,7 +193,6 @@
     "source/content/📎 Files/Images/guides/Basic Obsidian guide-file-explorer43.png",
     "source/quartz/styles/default quartz CSS/_variables.scss",
     "source/quartz/styles/default quartz CSS/_syntax.scss",
-    "source/quartz/styles/default quartz CSS/_callouts.scss",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 3 - Small quality of life things.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Alex's Obsidian Guide.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 2 - A slightly more intentional infrastructure.md",
@@ -204,7 +206,6 @@
     "source/content/📎 Files/Images/guides/How does a Quartz + Obsidian vault differ from a normal Obsidian vault?-2.png",
     "source/content/📎 Files/Images/guides/How does a Quartz + Obsidian vault differ from a normal Obsidian vault?-1.png",
     "source/docs/plugins/index.md",
-    "source/content/index.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Setting up Quartz if you already have an Obsidian setup.md",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/How to create an Obsidian + Quartz website.md",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/⭐️ What do I do with the things I love? (Open Question).md",
@@ -219,7 +220,6 @@
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/David Foster Wallace (parent page).md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Dealing with overwhelm at work.md",
     "source/content/⭐️ Open Questions/1. How to think?/⭐️\"How can I improve my ability to think? (Open Question).md",
-    "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Meta - about the \"how can I help my family\" project.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/⭐️\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Call with my friend \"S\" - 2025-06-23.md",
