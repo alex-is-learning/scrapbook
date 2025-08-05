@@ -11,14 +11,12 @@
             "id": "e160475d65de650d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 3 - Small quality of life things.md",
-                "mode": "source",
-                "source": false
+                "file": "source/content/📎 Files/Images/guides/Basic Obsidian guide-file-explorer43.png"
               },
-              "icon": "lucide-file",
-              "title": "Obsidian Guide - Phase 3 - Small quality of life things"
+              "icon": "lucide-image",
+              "title": "Basic Obsidian guide-file-explorer43"
             }
           }
         ]
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 3 - Small quality of life things.md",
+                "file": "source/content/📎 Files/Images/guides/Basic Obsidian guide-file-explorer43.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Obsidian Guide - Phase 3 - Small quality of life things"
+              "title": "Backlinks for Basic Obsidian guide-file-explorer43"
             }
           },
           {
@@ -150,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 3 - Small quality of life things.md",
+                "file": "source/content/📎 Files/Images/guides/Basic Obsidian guide-file-explorer43.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Obsidian Guide - Phase 3 - Small quality of life things"
+              "title": "Outline of Basic Obsidian guide-file-explorer43"
             }
           }
         ]
@@ -177,10 +175,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e160475d65de650d",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Alex's Obsidian Guide.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 3 - Small quality of life things.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Alex's Obsidian Guide.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 2 - A slightly more intentional infrastructure.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 1 - A pretty writing space.md",
     "source/content/📎 Files/Images/guides/Basic Obsidian guide0001.png",
@@ -202,7 +200,7 @@
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian hotkeys.md",
     "source/content/📎 Files/Images/guides/Obsidian hotkeys3.png",
     "source/content/📎 Files/Images/guides/Obsidian hotkeys2.png",
-    "source/content/📎 Files/Images/Basic Obsidian guide-file-explorer.png",
+    "source/content/📎 Files/Images/guides/Basic Obsidian guide-file-explorer43.png",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian third-party plugins.md",
     "source/content/📎 Files/Images/guides",
     "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/On turning 29.md",
