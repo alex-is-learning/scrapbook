@@ -177,6 +177,17 @@
   },
   "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/quartz/styles/default quartz CSS/_variables.scss",
+    "source/quartz/styles/default quartz CSS/_syntax.scss",
+    "source/quartz/styles/default quartz CSS/_callouts.scss",
+    "source/quartz/styles/default quartz CSS/_base.scss",
+    "source/quartz/styles/callouts.scss",
+    "source/quartz/styles/base.scss",
+    "source/quartz/styles/custom.scss",
+    "source/quartz/styles/syntax.scss",
+    "source/quartz/styles/variables.scss",
+    "source/quartz/styles/default quartz CSS/variables.scss",
+    "source/quartz/styles/default quartz CSS/syntax.scss",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 3 - Small quality of life things.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Alex's Obsidian Guide.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 2 - A slightly more intentional infrastructure.md",
@@ -202,7 +213,6 @@
     "source/content/📎 Files/Images/guides/Obsidian hotkeys2.png",
     "source/content/📎 Files/Images/guides/Basic Obsidian guide-file-explorer43.png",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian third-party plugins.md",
-    "source/content/📎 Files/Images/guides",
     "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/On turning 29.md",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/David Foster Wallace (parent page).md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Dealing with overwhelm at work.md",
@@ -212,15 +222,6 @@
     "source/content/⭐️ Open Questions/2. How to help my family?/⭐️\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Call with my friend \"S\" - 2025-06-23.md",
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Visual metaphors for the \"how can I help my family\" project.md",
-    "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
-    "source/content/📎 Files/mp3s",
-    "source/content/📎 Files/mp3s/This is Water.mp3",
-    "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW",
-    "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes",
-    "source/content/⭐️ Open Questions/4. What do I do with the things I love?",
-    "source/content/Other",
-    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/licenses/LICENSE.txt",
-    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/top_level.txt",
-    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/licenses"
+    "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md"
   ]
 }
