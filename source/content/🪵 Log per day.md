@@ -4,6 +4,9 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 - See also [[Meditation log]]
 ## 03. August 2025
+### Week of 4th August
+- Tue 2025-08-05
+	- [[Dealing with overwhelm at work]]
 - Mon 2025-08-04
 	- [[What "This is Water" means to me (WIP)]]
 	- [[David Foster Wallace (parent page)]]
