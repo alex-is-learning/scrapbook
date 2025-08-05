@@ -101,6 +101,10 @@ title: ORI update & open questions, 2025-08-05
 ## Ok, but so obviously DoB thinks that cultural engineering is relevant to me?
 - Is that because:
 	1. He sees that my "problems" are fake? Downstream of "dark memetics"?
+		- E.g., there's the schizoposter "Crayon" who would probably say something like "the society you think you live in no longer exists", etc. Like, all my problems are downstream of me believing in the importance of stuff that hasn't really mattered for a few decades, like... having a conventional full time job etc, idk.
+		- Some meta-crisis thinker has a similar quote of like "we're all living in a world that no longer exists"
+		- Maybe instead of doing object-level stuff, shift the culture and your problems go away?
+			- But of *course*, object-level, worldly concerns feel more pressing and possibly tractable than like, "let's shift the Overton window, and don't you realise, this is all fake anyway", etc, idk
 	2. Or, is it because he's saying that my problems are solved, and I just need to "probe the universe" better?
 		- [[ORI idea - the universe (you're a cell inside an organism)]]
 		- However, I only have ~150 twitter followers, it's hard to probe 😅
