@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/On turning 29.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "On turning 29"
+              "title": "index"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/On turning 29.md",
+                "file": "source/content/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for On turning 29"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/On turning 29.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of On turning 29"
+              "title": "Outline of index"
             }
           }
         ]
@@ -192,10 +192,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "26028f07a4d1c1a0",
   "lastOpenFiles": [
-    "source/content/🪵 Log per day.md",
     "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/On turning 29.md",
+    "source/content/🪵 Log per day.md",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/⭐️ What do I do with the things I love? (Open Question).md",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/David Foster Wallace (parent page).md",
     "source/content/index.md",
