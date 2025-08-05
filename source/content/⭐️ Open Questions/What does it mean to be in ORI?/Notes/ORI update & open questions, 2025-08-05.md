@@ -33,12 +33,12 @@ title: ORI update & open questions, 2025-08-05
 - So far, it hasn't clicked for me how this could be relevant for me. But there is obviously strong evidence that there's a "there" there
 - So yeah, he's messaged me sometimes about cultural engineering stuff, but it's never resonated with me. 
 - Feels abstract, and like... I'm not worried about propaganda and dark memetics atm, I'm trying to solve my burning problems (e.g., what do I do about my family, how do I make money) - worldly shit?
-- I'm kinda the resident normie in ORI, and it's a role that has a fair amount of resistance
+- I'm kinda the resident normie in the ORI Discord server, and it's a role that has a fair amount of resistance
 	- The (in my eyes) slightly schizo people are having a great time, saying a bunch of (to me) mostly incoherent shit, seemingly at the cutting edge of various things (e.g. "reality is information"). They seem to think they're gonna make loads of money from this kinda stuff, somehow, soonish
 	- Vs I'm here trying to figure out how to ruminate less about my family, how I should make money, etc
 - Defender has messaged a few times like "does cultural engineering resonate with you", and "have you tried sharing your writings with people, tweeting your open questions?"
 - The main threads that are alive for me currently
-	- "Oh man I'm such a normie compared to the people in the Discord" vs "destigmatise being dumb"
+	- "Oh man I'm such a normie compared to the people in the Discord" vs "[destigmatise being dumb](https://defenderofthebasic.substack.com/p/destigmatize-being-dumb)"
 	- "Oh man my concerns are so like quotidian/worldly/non-scalable" (e.g., thinking about my family rather than like, shaping culture or whatever the hell) vs "normies are useful because... it's useful to have people around who are grounded... etc?"
 	- "The things I'm trying to do haven't been solved" (?)
 # Investigating phase 3 stuff
@@ -164,9 +164,9 @@ title: ORI update & open questions, 2025-08-05
 	- [How attention markets work](https://defenderofthebasic.substack.com/p/how-attention-markets-work?utm_source=profile&utm_medium=reader2)
 - And I guess it, at least in an abstract way, addresses my thing of:
 	- "Even if someone has solved my problem of 'how do I orient to my family', how do I know who solved it, how do I find them, and how do I verify it?"
-- Hypothetical situation
+- **Hypothetical situation**
 	- 100 people post "how to have a better relationship with your family" solutions
 	- 10,000 reputable people check out the 100 solutions, vote on which seem good
 	- A few particularly reputable people cast their votes, and this skews things even further. "Oh shit, I want to go with the solution that Expert Y suggested, because their profile shows that they're really good at finding the things that work"
 - An then, I experiment with an approach, and "resolve" the question
-	- "Ok, the highest rated thing was 'treat others as you want to be treated', so I did that for a year and it was great"
+	- "==Ok, the highest rated thing was 'treat others as you want to be treated', so I did that for a year and it was great=="
