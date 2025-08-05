@@ -1,6 +1,10 @@
 - 2025-08-05
 - [[⭐️ "What does it mean to be in ORI?" (Open Question)]]
 - I haven't really thought about ORI recently, but I'm in the Discord and poke my head in sometimes (mostly to marvel about how out of the loop I am, lol)
+	- I initially got into it just by reading Defender's post on how he learned to think
+		- I wrote about it [here](https://www.alexislearning.me/learning-how-to-think/)
+		- And under his guidance, I set up this website, and discover the crucial high-leverage thing of clarifying and working on your open questions (mad that I wasn't doing this before!)
+		- And he's messaged me sometimes about cultural engineering stuff, but it's never resonated with me. Feels abstract, and like... I'm not worried about propaganda and dark memetics atm, I'm trying to solve my burning problems (e.g., what do I do about my family, how do I make money) - worldly shit?
 - I'm kinda the resident normie in ORI, and it's a role that has a fair amount of resistance
 	- The (in my eyes) slightly schizo people are having a great time, saying a bunch of (to me) mostly incoherent shit, seemingly at the cutting edge
 	- Vs I'm here trying to figure out how to ruminate less about my family, how I should make money, etc
