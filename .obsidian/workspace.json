@@ -48,20 +48,6 @@
               "icon": "lucide-file",
               "title": "ORI update & open questions, 2025-08-05"
             }
-          },
-          {
-            "id": "eead53618615ff01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes to self (e.g., CSS)"
-            }
           }
         ],
         "currentTab": 2
@@ -222,15 +208,16 @@
   },
   "active": "c677f2ff2a566d73",
   "lastOpenFiles": [
+    "source/content/📎 Files/Images/ORI update & open questions, 2025-08-05adf.png",
+    "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
+    "source/content/⭐️ Open Questions/What does it mean to be in ORI?/Notes/ORI update & open questions, 2025-08-05.md",
     "source/content/⭐️ Open Questions/What does it mean to be in ORI?/Notes/ORI idea - Problems are actually already solved.md",
     "source/content/📎 Files/Images/ORI idea - Problems are actually already solved-1.png",
     "source/content/📎 Files/Images/ORI idea - Problems are actually already solved.png",
-    "source/content/⭐️ Open Questions/What does it mean to be in ORI?/Notes/ORI update & open questions, 2025-08-05.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Circumstantial luck.md",
     "source/content/⭐️ Open Questions/What does it mean to be in ORI?/⭐️ \"What does it mean to be in ORI?\" (Open Question).md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Old website intro.md",
     "source/content/⭐️ Open Questions/What does it mean to be in ORI?/Notes/My model of ORI/My model of ORI, 2025-06-23.md",
-    "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
     "source/content/⭐️ Open Questions/What does it mean to be in ORI?/The streetlight effect.md",
     "source/content/📎 Files/Images/the streetlight effect.png",
     "source/content/🪵 Log per day.md",

@@ -73,6 +73,8 @@ title: ORI update & open questions, 2025-08-05
 	- It seems like the human condition that no one agrees on this stuff, that there are no universal quick fixes, it's hermeneutics all the way down, there's no foundation to grasp onto, etc
 	- Or is something like "learn about family systems theory, convince family to go to therapy, iterate from there" as good at it gets, and still requires a lot of work from me?
 	- Or perhaps someone has "solved" it and it's a different thing, it's "dude don't even bother with family therapy, you can't change other people, you just need to do 1000 hours of metta meditation" or something
+		- ![[ORI update & open questions, 2025-08-05adf.png]]
+		- ☝️ data-point for this that I just saw
 	- Or "dude DFW has already provided the road map in This is Water"
 			- [[What "This is Water" means to me (WIP)]]
 - This is why ==I'm skeptical re: fixes about this kind of thing== - it seems very person-dependent. 
