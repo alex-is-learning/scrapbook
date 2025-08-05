@@ -18,5 +18,6 @@
 # Appendix
 - [[Making a second Obsidian Vault (and retaining your settings, hotkeys, etc)]]
 - [[Setting up Quartz if you already have an Obsidian setup]]
+- [[How does a Quartz + Obsidian vault differ from a normal Obsidian vault?]]
 - It'll have you download a "new" Obsidian vault
 - So, copy-paste your files into the new vault, and your setup file thing
