@@ -87,3 +87,9 @@ most problems in our world today already have solutions, but the environment is 
 	   - ![[Thinking about open cultural engineering and my resistance to it (2025-08-05).png]]
     - have you tweeted this / and or have people in mind that you'd like to be in a study group with, and have you tried @ ing them / asking them?
 		- <span class="text-red">Oh, perhaps my wording was unclear → these are the things I currently do. I'm also planning a group house for ~October. This feels like a solved problem!</span>
+# Ok, but so obviously DoB thinks that cultural engineering is relevant to me?
+- Is that because:
+	1. He sees that my "problems" are fake? Downstream of "dark memetics"?
+	2. Or, is it because he's saying that my problems are solved, and I just need to "probe the universe" better?
+		- [[ORI idea - the universe (you're a cell inside an organism)]]
+		- However, I only have ~150 twitter followers, it's hard to probe 😅
