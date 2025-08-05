@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/4. What do I do with the things I love?/⭐️ What do I do with the things I love? (Open Question).md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 1 - A pretty writing space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⭐️ What do I do with the things I love? (Open Question)"
+              "title": "Obsidian Guide - Phase 1 - A pretty writing space"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Setting up Quartz if you already have an Obsidian setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Setting up Quartz if you already have an Obsidian setup"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 1 - A pretty writing space.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Obsidian Guide - Phase 1 - A pretty writing space"
             }
           },
           {
@@ -165,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 1 - A pretty writing space.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Obsidian Guide - Phase 1 - A pretty writing space"
             }
           }
         ]
@@ -192,13 +191,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26028f07a4d1c1a0",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/On turning 29.md",
-    "source/content/🪵 Log per day.md",
-    "source/content/⭐️ Open Questions/4. What do I do with the things I love?/⭐️ What do I do with the things I love? (Open Question).md",
-    "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/David Foster Wallace (parent page).md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Alex's Obsidian Guide.md",
     "source/content/index.md",
+    "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/How to create an Obsidian + Quartz website.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Setting up Quartz if you already have an Obsidian setup.md",
+    "source/content/⭐️ Open Questions/4. What do I do with the things I love?/⭐️ What do I do with the things I love? (Open Question).md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Making a second Obsidian Vault (and retaining your settings, hotkeys, etc).md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 3 - Small quality of life things.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 2 - A slightly more intentional infrastructure.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 1 - A pretty writing space.md",
+    "source/content/🪵 Log per day.md",
+    "source/content/📎 Files/Images/guides/Obsidian hotkeys.png",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian hotkeys.md",
+    "source/content/📎 Files/Images/guides/Obsidian hotkeys3.png",
+    "source/content/📎 Files/Images/guides/Obsidian hotkeys2.png",
+    "source/content/📎 Files/Images/Basic Obsidian guide-file-explorer.png",
+    "source/content/📎 Files/Images/Basic Obsidian guide-01.png",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian third-party plugins.md",
+    "source/content/📎 Files/Images/guides/Basic Obsidian guide.png",
+    "Pasted image 20250805151341.png",
+    "source/content/📎 Files/Images/guides",
+    "source/content/📎 Files/Images/guides/Basic Obsidian guide-9.png",
+    "source/content/📎 Files/Images/guides/Basic Obsidian guide-8.png",
+    "source/content/📎 Files/Images/guides/Basic Obsidian guide-7.png",
+    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/On turning 29.md",
+    "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/David Foster Wallace (parent page).md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Dealing with overwhelm at work.md",
     "source/content/⭐️ Open Questions/1. How to think?/⭐️\"How can I improve my ability to think? (Open Question).md",
     "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
@@ -208,29 +227,10 @@
     "source/content/⭐️ Open Questions/2. How to help my family?/Notes/Visual metaphors for the \"how can I help my family\" project.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Sit 009 report.md",
-    "source/content/📎 Files/Images/meditation gifs/sit 009 output_timelapse_20250805-003520.gif",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/What \"This is Water\" means to me (WIP).md",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/Why do I love DFW's fiction so much?.md",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/My DFW Journey.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/08. Enneagram 3 thinking sins.md",
-    "source/content/⭐️ Open Questions/What does it mean to be in ORI?/The universe (you're a cell inside an organism).md",
-    "source/content/⭐️ Open Questions/What does it mean to be in ORI?/The universe (you're a cell inside an organism).png",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Superprof tutor lesson 1 (The Fundamental Decision).md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/The Kegan 3 to Kegan 4 transition.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/RLC as the Kegan 3 to Kegan 4 transition.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Kegan 4.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Kegan 3.md",
-    "source/content/📎 Files/Images/misc/kegan 3 reddit.png",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/RLC (Rejecting Leaving to Chance).md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/ILC (Implicitly Leaving to Chance).md",
-    "source/content/📎 Files/Images/misc/Oblivion page 1.png",
-    "source/content/📎 Files/Images/misc/The End of the Tour.png",
     "source/content/📎 Files/mp3s",
-    "source/content/📎 Files/Images/misc/The End of the Tour2.png",
-    "source/content/📎 Files/Images/misc/Another Pioneer page 1.png",
-    "Oblivion2.png",
-    "source/content/📎 Files/Images/misc/Mr Squishy page 1.png",
-    "source/content/📎 Files/Images/misc/Good Old Neon page 1.png",
     "source/content/📎 Files/mp3s/This is Water.mp3",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes",
@@ -238,7 +238,6 @@
     "source/content/Other",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/licenses/LICENSE.txt",
     "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/top_level.txt",
-    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/licenses",
-    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/WHEEL"
+    "source/content/⭐️ Open Questions/venv/lib/python3.13/site-packages/simpleaudio-1.0.4.dist-info/licenses"
   ]
 }
