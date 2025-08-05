@@ -11,12 +11,14 @@
             "id": "e160475d65de650d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "source/content/📎 Files/Images/guides/Basic Obsidian guide-file-explorer43.png"
+                "file": "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Basic Obsidian guide-file-explorer43"
+              "icon": "lucide-file",
+              "title": "Notes to self (e.g., CSS)"
             }
           }
         ]
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/📎 Files/Images/guides/Basic Obsidian guide-file-explorer43.png",
+                "file": "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Basic Obsidian guide-file-explorer43"
+              "title": "Backlinks for Notes to self (e.g., CSS)"
             }
           },
           {
@@ -148,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/📎 Files/Images/guides/Basic Obsidian guide-file-explorer43.png",
+                "file": "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Basic Obsidian guide-file-explorer43"
+              "title": "Outline of Notes to self (e.g., CSS)"
             }
           }
         ]
@@ -175,19 +177,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "e160475d65de650d",
   "lastOpenFiles": [
+    "source/quartz/styles/variables.scss",
+    "source/quartz/styles/syntax.scss",
+    "source/quartz/styles/callouts.scss",
+    "source/quartz/styles/base.scss",
+    "source/quartz/styles/_variables.scss",
+    "source/quartz/styles/_syntax.scss",
+    "source/quartz/styles/_callouts.scss",
+    "source/quartz/styles/_base.scss",
+    "source/content/📎 Files/Images/guides/Basic Obsidian guide-file-explorer43.png",
     "source/quartz/styles/default quartz CSS/_variables.scss",
     "source/quartz/styles/default quartz CSS/_syntax.scss",
     "source/quartz/styles/default quartz CSS/_callouts.scss",
-    "source/quartz/styles/default quartz CSS/_base.scss",
-    "source/quartz/styles/callouts.scss",
-    "source/quartz/styles/base.scss",
-    "source/quartz/styles/custom.scss",
-    "source/quartz/styles/syntax.scss",
-    "source/quartz/styles/variables.scss",
-    "source/quartz/styles/default quartz CSS/variables.scss",
-    "source/quartz/styles/default quartz CSS/syntax.scss",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 3 - Small quality of life things.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Alex's Obsidian Guide.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 2 - A slightly more intentional infrastructure.md",
@@ -211,7 +214,6 @@
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian hotkeys.md",
     "source/content/📎 Files/Images/guides/Obsidian hotkeys3.png",
     "source/content/📎 Files/Images/guides/Obsidian hotkeys2.png",
-    "source/content/📎 Files/Images/guides/Basic Obsidian guide-file-explorer43.png",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian third-party plugins.md",
     "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/On turning 29.md",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/David Foster Wallace (parent page).md",
