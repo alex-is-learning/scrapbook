@@ -3,6 +3,10 @@ title: ORI update & open questions, 2025-08-05
 ---
 - 2025-08-05
 - [[⭐️ "What does it mean to be in ORI?" (Open Question)]]
+- Note - this is a document of me thinking stuff through, so if I say something dumb, I may make progress on it a bit further down the document!
+	- E.g. right now the final section is called "Ok I've been on a walk and I think i've been being dumb"
+---
+
 - I haven't really thought about ORI recently, but I'm in the Discord and poke my head in sometimes (mostly to marvel about how out of the loop I am, lol)
 # Phases of my involvement in ORI
 ## Phase 1 → copying Defender's path
@@ -137,3 +141,17 @@ title: ORI update & open questions, 2025-08-05
 - Tweet more? Get over "small account aversion"?
 - Post more in ORI discord?
 - Write up a post on how probing the universe has benefited me so far (already a tiny version of this re: [[Circumstantial luck]] page/what it links to)
+---
+
+# Ok I've been on a walk and I think i've been being dumb
+- Defender of Basic says:
+	- "Hey basically a lot of problems are already solved and it's just not like, known yet"
+	- "Also, there's a lot of propaganda and like, bad epistemics etc"
+- And I'm like:
+	- "Ahhh, what does this mean?? does this mean it could be true for my problems?? No, my problems are super niche and intractable and can't be solved! People haven't solved my problems before!"
+- Vs Defender is very clearly breadcrumbing me to:
+	- Most problems are solved problems
+	- Also most problems are fake
+- Also, he's asked me:
+	- "Do your emotions get in the way of good reasoning ever?"
+- As I've felt that my stuff is too complex and intractable to just like, soberly break down, decompose, ask for help, etc
