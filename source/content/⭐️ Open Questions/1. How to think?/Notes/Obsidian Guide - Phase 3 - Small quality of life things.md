@@ -19,9 +19,9 @@
 ## 2. File browser
 - If you're just using Obsidian, I recommend not even caring about this. 
 - You can put your files in folders, but it's not worth the hassle IMO
-- ![[Basic Obsidian guide-01.png]]
+- ![[Basic Obsidian guide-0134.png]]
 - (If you're using Quartz, you just have to make sure that files live in the "content" folder)
-- ![[Basic Obsidian guide-file-explorer.png]]
+- ![[Basic Obsidian guide-file-explorer43.png]]
 ## 3. Third party plugins
 - To make Quartz work, you'll want the "git" plugin - other than that, none are essential
 - I'll write a bit more about them here, hiding in a subpage because it's optional! 
