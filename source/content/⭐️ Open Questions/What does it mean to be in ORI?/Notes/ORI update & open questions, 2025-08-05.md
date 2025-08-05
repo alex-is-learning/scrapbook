@@ -133,3 +133,7 @@ title: ORI update & open questions, 2025-08-05
 	   - ![[Thinking about open cultural engineering and my resistance to it (2025-08-05).png]]
     - have you tweeted this / and or have people in mind that you'd like to be in a study group with, and have you tried @ ing them / asking them?
 		- <span class="text-red">Oh, perhaps my wording was unclear → these are the things I currently do. I'm also planning a group house for ~October. This feels like a solved problem!</span>
+# Get better at probing the universe? 
+- Tweet more? Get over "small account aversion"?
+- Post more in ORI discord?
+- Write up a post on how probing the universe has benefited me so far (already a tiny version of this re: [[Circumstantial luck]] page/what it links to)
