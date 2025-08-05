@@ -157,3 +157,14 @@ title: ORI update & open questions, 2025-08-05
 - Also, he's asked me:
 	- "Do your emotions get in the way of good reasoning ever?"
 - As I've felt that my stuff is too complex and intractable to just like, soberly break down, decompose, ask for help, etc
+# Oh, maybe that's why the "prediction market but for ideas" thing is good
+- Defender shared this with me
+	- [How attention markets work](https://defenderofthebasic.substack.com/p/how-attention-markets-work?utm_source=profile&utm_medium=reader2)
+- And I guess it, at least in an abstract way, addresses my thing of:
+	- "Even if someone has solved my problem of 'how do I orient to my family', how do I know who solved it, how do I find them, and how do I verify it?"
+- Hypothetical situation
+	- 100 people post "how to have a better relationship with your family" solutions
+	- 10,000 reputable people check out the 100 solutions, vote on which seem good
+	- A few particularly reputable people cast their votes, and this skews things even further. "Oh shit, I want to go with the solution that Expert Y suggested, because their profile shows that they're really good at finding the things that work"
+- An then, I experiment with an approach, and "resolve" the question
+	- "Ok, the highest rated thing was 'treat others as you want to be treated', so I did that for a year and it was great"
