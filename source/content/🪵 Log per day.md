@@ -8,7 +8,6 @@ permalink: log-per-day
 - Tue 2025-08-05
 	- [[Dealing with overwhelm at work]]
 	- [[What turning 29 means in Chinese culture (according to Gemini)]]
-	- [[Who am I on my 29th birthday? (WIP, maybe delete?)]]
 	- [[ORI update & open questions, 2025-08-05]]
 - Mon 2025-08-04
 	- [[What "This is Water" means to me (WIP)]]

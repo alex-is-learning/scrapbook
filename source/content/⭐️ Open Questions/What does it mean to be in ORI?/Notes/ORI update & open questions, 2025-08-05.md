@@ -1,4 +1,5 @@
 - 2025-08-05
+- [[⭐️ "What does it mean to be in ORI?" (Open Question)]]
 - I haven't really thought about ORI recently, but I'm in the Discord and poke my head in sometimes (mostly to marvel about how out of the loop I am, lol)
 - I'm kinda the resident normie in ORI, and it's a role that has a fair amount of resistance
 	- The (in my eyes) slightly schizo people are having a great time, saying a bunch of (to me) mostly incoherent shit, seemingly at the cutting edge
