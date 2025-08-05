@@ -1,7 +1,7 @@
 ---
 permalink: my-model-of-ori-2025-06-23
 ---
-
+- [[⭐️ "What does it mean to be in ORI?" (Open Question)]]
 - Below are from conversations with Defender
 # Diagrams
 - [Alex's ORI slides #01](https://docs.google.com/presentation/d/1wpY2UgIeDiav_d71h9iJPs34nXxwiZZ2rEKCSWLrnsc/edit?usp=sharing)

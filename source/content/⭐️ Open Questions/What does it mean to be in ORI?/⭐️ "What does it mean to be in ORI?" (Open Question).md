@@ -1,5 +1,4 @@
-add my ORI writeups
-
+- [[source/content/index|Home Page]]
 - 2025-08-05
 	- [[ORI update & open questions, 2025-08-05]]
 - 2025-06-23

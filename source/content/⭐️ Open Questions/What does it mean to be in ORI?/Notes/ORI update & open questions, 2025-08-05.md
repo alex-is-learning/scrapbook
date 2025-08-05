@@ -1,5 +1,5 @@
 ---
-title: ORI update & open questions, 2025-08-05 (WIP)
+title: ORI update & open questions, 2025-08-05
 ---
 - 2025-08-05
 - [[⭐️ "What does it mean to be in ORI?" (Open Question)]]
@@ -17,14 +17,15 @@ title: ORI update & open questions, 2025-08-05 (WIP)
 	- But, I have no interest in this stuff!
 - So, phase 2 became the phase of ==elucidating my own open questions==, and they came pretty quick!
 - It's crazy to think that before this, this isn't what I was doing. I was doing stuff like learning about John Boyd, doing Math Academy, because... it'll educate me... it might be useful one day.. etc → rather than asking "what are my current burning questions"
-	- Why so low agency?
-		- Partly it may have been a feeling of intractability → "obviously I'm not gonna read a book about how to fix my exact family, clearly it's not something I can solve". Too much looking *outside*, thinking that the knowledge is *out there somewhere*
-		- A feeling of overwhelm, a blind spot (always looking outside, meaning you never introspect → your problems become "ugh fields", and you'll never stumble across them, because you're never looking where they are)
-		- [[The streetlight effect]]
-		- ![[the streetlight effect.png]]
+### Why had I never (explicitly) elucidated my open questions, until ORI?
+- Partly it may have been a feeling of intractability → "obviously I'm not gonna read a book about how to fix my exact family, clearly it's not something I can solve". 
+- Too much looking *outside*, thinking that the knowledge is *out there somewhere*
+- A feeling of overwhelm, a blind spot (always looking outside, meaning you never introspect → your problems become "ugh fields", and you'll never stumble across them, because you're never looking where they are)
+- [[The streetlight effect]]
+- ![[the streetlight effect.png]]
 ## Phase 3 (not begun, and the profundity has not "clicked" yet)
 - Defender has messaged a few times about cultural engineering, and obviously open memetics is like, his whole thing
-- So far, it hasn't clicked for me how this could be relevant for me. But there is obviously strong evidence that there's a "there"
+- So far, it hasn't clicked for me how this could be relevant for me. But there is obviously strong evidence that there's a "there" there
 - So yeah, he's messaged me sometimes about cultural engineering stuff, but it's never resonated with me. 
 - Feels abstract, and like... I'm not worried about propaganda and dark memetics atm, I'm trying to solve my burning problems (e.g., what do I do about my family, how do I make money) - worldly shit?
 - I'm kinda the resident normie in ORI, and it's a role that has a fair amount of resistance
@@ -36,7 +37,7 @@ title: ORI update & open questions, 2025-08-05 (WIP)
 	- "Oh man my concerns are so like quotidian/worldly/non-scalable" (e.g., thinking about my family rather than like, shaping culture or whatever the hell) vs "normies are useful because... it's useful to have people around who are grounded... etc?"
 	- "The things I'm trying to do haven't been solved" (?)
 # Investigating phase 3 stuff
-## Attention markets & engineering culture
+## 1. Attention markets & engineering culture
 - DoB sent this post to me ([How attention markets work](https://defenderofthebasic.substack.com/p/how-attention-markets-work)) and asked if it resonates at all
 ### Then I said
 > "the post doesn't resonate much beyond an initial 'oh, this sounds like a cool way for me to discover new exciting cutting-edge stuff like blowtorch theory and observer theory!'"
@@ -58,20 +59,21 @@ title: ORI update & open questions, 2025-08-05 (WIP)
     - Because if it's true then it means most effort, most grants, are wasted money. 
     - People spend millions of dollars and thousands of man hours trying to solve problems that already solved, just that none one is paying attention and, that random people in society can fix this problem. 
     - Just by learning to cut through the noise, to find something true & amplify it
-## Attention markets and engineering culture doesn't feel relevant? 
+## 2. Attention markets and engineering culture doesn't feel relevant? 
 - So initial gut sense is something like, "for the problems that *I'm* trying to solve, there aren't solutions that I can just like, plug-and-play, because I still have to be the one to like, *do the thing*"
 ### "Social sciences"-type stuff vs hard science-type stuff?
 - E.g., is it true that the culture has already solved how to help my family? 
 	- And I just need to get better at prompting the universe, remembering that I'm a cell inside an organism? [[ORI idea - the universe (you're a cell inside an organism)]]
-- Or is something like "learn about family systems theory, convince family to go to therapy, iterate from there" as good at it gets, and still requires a lot of work from me?
+	- It seems like the human condition that no one agrees on this stuff, that there are no universal quick fixes, it's hermeneutics all the way down, there's no foundation to grasp onto, etc
+	- Or is something like "learn about family systems theory, convince family to go to therapy, iterate from there" as good at it gets, and still requires a lot of work from me?
 	- Or perhaps someone has "solved" it and it's a different thing, it's "dude don't even bother with family therapy, you can't change other people, you just need to do 1000 hours of metta meditation" or something
-		- Or "dude DFW has already provided the road map in This is Water"
+	- Or "dude DFW has already provided the road map in This is Water"
 			- [[What "This is Water" means to me (WIP)]]
-	- This is why I'm skeptical re: fixes about this kind of thing - it seems very person-dependent. Like, maybe there is frontier knowledge that solves problems in *maths* or something, but my very quotidian everyday concerns feel much more akin to the social sciences or psychology or something - no "real answers", no concrete truths, etc
+- This is why ==I'm skeptical re: fixes about this kind of thing== - it seems very person-dependent. 
+	- Like, maybe there is frontier knowledge that solves problems in *maths* or something, but my very quotidian everyday concerns feel much more akin to the social sciences or psychology or something - no "real answers", no concrete truths, etc
 		- But, maybe I'm just not realising that these things are in fact solved, it's just not commonly known?
 		- E.g., maybe there actually are very easy fixes here, like "dude, stop trying to change your family, move into an intentional community". Idk
 	- Like, if I'm trying to figure out some shit like Observer Theory, let's say, then if I "post into the void" enough, someone may reply like "oh shit this other person is working on this too!" and then we work on it together, we progress the theory, we predict things (e.g. what Blowtorch Theory did), and we... monetise it or some shit
-		- A la → [[ORI idea - the universe (you're a cell inside an organism)]]
 	- Vs it feels at least intuitively like something as specific as family stuff won't have a similar kind of "feedback loop"?
 		- Like, someone else with the same family setup as me
 			- (But then, maybe all people, all families are actually very similar? Like, "complex adaptive systems" vibes - complex emergent properties arising from very simple local rules? Maybe I'm totally wrong that a family is more complex than like, Observer Theory, lol. May be incredibly myopic. Maybe this is way simpler than I'm imagining?)
@@ -96,9 +98,18 @@ title: ORI update & open questions, 2025-08-05 (WIP)
 	- This is a new one, not many writeups on it yet, but I've been deeply, autistically passionate about various things in my life, and like, idk what to do with the knowledge/passion
 - [[⭐️ "What is next for me after living at my mum's?" (Open Question)]]
 	- Gut sense is "group house in London with my good friend Simmo and some other people we can rustle up"
+## Ok, but so obviously DoB thinks that cultural engineering is relevant to me?
+- Is that because:
+	1. He sees that my "problems" are fake? Downstream of "dark memetics"?
+	2. Or, is it because he's saying that my problems are solved, and I just need to "probe the universe" better?
+		- [[ORI idea - the universe (you're a cell inside an organism)]]
+		- However, I only have ~150 twitter followers, it's hard to probe 😅
+	3. He can see that I'm not thinking things through all the way → I'm getting stuck in overwhelm mode, acting as if things are intractable and unknowable, rather than approaching things as a scientist?
 
 ---
+# Other 
 ## DoB looking at my open questions
+### Getting better at thinking
 - for the question of "getting better at thinking", 
 	- where does the role of emotions/intuition fall for you in the pursuit of truth? 
 	- <span class="text-blue">Like, do you have a way to not let "emotions get in the way of your rational processing"?</span>
@@ -106,18 +117,14 @@ title: ORI update & open questions, 2025-08-05 (WIP)
 			- <span class="text-red">But this... feels like a good thing to me? Like, not being a disembodied, alexithmic, left-hemisphere-captured rationalist</span>
 			- <span class="text-red">E.g., I wrote up a thing about whether I should go to a friend's bday thing in a different country, and the writeup (and the Guesstimate model I made, lol) clearly showed that going was a good idea. But I even after the rational writing up and weighing up options etc, it still just felt like a "no" in my body, so I trusted that, which felt good</span>
 			- Note → now I've written more, I'm wondering if my emotions have been blocking me making progress, by making my open questions feel intractable?
+### New job 
    - New job
 	- I'm also curious how your (potential) new job is going, but also understand if you don't want to reflect on that publicly
 		- <span class="text-red">It feels too early to say anything too definitive yet - today was my 7th work day. It's been *ok* - it's not thrilling, it's not terrible. I may be able to make it better, or there may be key incompatibilities, I'm still trying to figure this out... could for sure say more privately</span>
 		- There's a sense of not wanting to be an internal operations person, feels bad in a few ways
+### Friendships
    - Friendships
+	   - Screenshot from one of my docs:
 	   - ![[Thinking about open cultural engineering and my resistance to it (2025-08-05).png]]
     - have you tweeted this / and or have people in mind that you'd like to be in a study group with, and have you tried @ ing them / asking them?
 		- <span class="text-red">Oh, perhaps my wording was unclear → these are the things I currently do. I'm also planning a group house for ~October. This feels like a solved problem!</span>
-# Ok, but so obviously DoB thinks that cultural engineering is relevant to me?
-- Is that because:
-	1. He sees that my "problems" are fake? Downstream of "dark memetics"?
-	2. Or, is it because he's saying that my problems are solved, and I just need to "probe the universe" better?
-		- [[ORI idea - the universe (you're a cell inside an organism)]]
-		- However, I only have ~150 twitter followers, it's hard to probe 😅
-	3. He can see that I'm not thinking things through all the way → I'm getting stuck in overwhelm mode, acting as if things are intractable and unknowable, rather than approaching things as a scientist?
