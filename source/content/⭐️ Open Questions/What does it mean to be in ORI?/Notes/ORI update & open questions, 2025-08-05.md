@@ -64,6 +64,7 @@ title: ORI update & open questions, 2025-08-05
 ### "Social sciences"-type stuff vs hard science-type stuff?
 - E.g., is it true that the culture has already solved how to help my family? 
 	- And I just need to get better at prompting the universe, remembering that I'm a cell inside an organism? [[ORI idea - the universe (you're a cell inside an organism)]]
+		- (I guess me writing this up and sending it the the ORI discord and DMing it to Defender is an instance of me contacting other cells in the organism!)
 	- It seems like the human condition that no one agrees on this stuff, that there are no universal quick fixes, it's hermeneutics all the way down, there's no foundation to grasp onto, etc
 	- Or is something like "learn about family systems theory, convince family to go to therapy, iterate from there" as good at it gets, and still requires a lot of work from me?
 	- Or perhaps someone has "solved" it and it's a different thing, it's "dude don't even bother with family therapy, you can't change other people, you just need to do 1000 hours of metta meditation" or something
