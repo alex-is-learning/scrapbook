@@ -28,6 +28,7 @@ title: ORI update & open questions, 2025-08-05
 - [[The streetlight effect]]
 - ![[the streetlight effect.png]]
 ## Phase 3 (not begun, and the profundity has not "clicked" yet)
+- *Post-walk Alex - perhaps phase 3 is "soberly work on your problems, realising that they are probably solved, that they're not intractable, that you can ask the universe for help*
 - Defender has messaged a few times about cultural engineering, and obviously open memetics is like, his whole thing
 - So far, it hasn't clicked for me how this could be relevant for me. But there is obviously strong evidence that there's a "there" there
 - So yeah, he's messaged me sometimes about cultural engineering stuff, but it's never resonated with me. 
