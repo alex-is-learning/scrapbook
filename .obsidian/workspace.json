@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e160475d65de650d",
+            "id": "42499c57fe99e9e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "42499c57fe99e9e5",
+            "id": "c677f2ff2a566d73",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,7 +35,8 @@
               "title": "ORI update & open questions, 2025-08-05"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,10 +192,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "c677f2ff2a566d73",
   "lastOpenFiles": [
-    "source/content/⭐️ Open Questions/What does it mean to be in ORI?/Notes/ORI idea - the universe (you're a cell inside an organism).md",
+    "source/content/🪵 Log per day.md",
+    "source/content/⭐️ Open Questions/Other, quick-add/Who am I on my 29th birthday? (WIP, maybe delete?).md",
     "source/content/⭐️ Open Questions/What does it mean to be in ORI?/Notes/ORI update & open questions, 2025-08-05.md",
+    "source/content/⭐️ Open Questions/What does it mean to be in ORI?/Notes/ORI idea - the universe (you're a cell inside an organism).md",
     "source/content/⭐️ Open Questions/What does it mean to be in ORI?/⭐️ \"What does it mean to be in ORI?\" (Open Question).md",
     "source/content/⭐️ Open Questions/What does it mean to be in ORI?/Notes/My model of ORI/My model of ORI, 2025-06-23.md",
     "source/content/Meta (ignore me)/Notes to self (e.g., CSS).md",
@@ -203,9 +206,7 @@
     "source/content/📎 Files/Images/Thinking about open cultural engineering and my resistance to it (2025-08-05).png",
     "source/content/index.md",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/⭐️ \"What do I do with the things I love?\" (Open Question).md",
-    "source/content/🪵 Log per day.md",
     "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/What turning 29 means in Chinese culture (according to Gemini).md",
-    "source/content/⭐️ Open Questions/Other, quick-add/Who am I on my 29th birthday? (WIP, maybe delete?).md",
     "source/content/⭐️ Open Questions/Other, quick-add",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Wow Alex! I want a cool website like this!!!.md",
     "source/quartz/styles/variables.scss",
