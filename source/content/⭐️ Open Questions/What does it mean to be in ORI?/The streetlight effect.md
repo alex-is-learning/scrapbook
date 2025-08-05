@@ -1,0 +1,2 @@
+- ![[the streetlight effect.png]]
+- https://en.wikipedia.org/wiki/Streetlight_effect

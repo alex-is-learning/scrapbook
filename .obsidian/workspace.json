@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Old website intro.md",
+                "file": "source/content/🪵 Log per day.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Old website intro"
+              "title": "🪵 Log per day"
             }
           },
           {
@@ -206,13 +206,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c677f2ff2a566d73",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/⭐️ Open Questions/What does it mean to be in ORI?/The streetlight effect.md",
+    "source/content/⭐️ Open Questions/What does it mean to be in ORI?/Notes/ORI update & open questions, 2025-08-05.md",
+    "source/content/📎 Files/Images/the streetlight effect.png",
+    "source/content/🪵 Log per day.md",
+    "source/content/✅ Solved Open Questions/How to learn/Notes/Learning examples/Internet dialogues/Day 1 of trying to engage people on twitter via alt account.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Old website intro.md",
     "source/content/⭐️ Open Questions/What does it mean to be in ORI?/⭐️ \"What does it mean to be in ORI?\" (Open Question).md",
     "source/content/index.md",
-    "source/content/🪵 Log per day.md",
-    "source/content/⭐️ Open Questions/What does it mean to be in ORI?/Notes/ORI update & open questions, 2025-08-05.md",
     "source/content/⭐️ Open Questions/Other, quick-add/Who am I on my 29th birthday? (WIP, maybe delete?).md",
     "source/content/⭐️ Open Questions/What does it mean to be in ORI?/Notes/ORI idea - the universe (you're a cell inside an organism).md",
     "source/content/⭐️ Open Questions/What does it mean to be in ORI?/Notes/My model of ORI/My model of ORI, 2025-06-23.md",
@@ -250,9 +253,6 @@
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Setting up Quartz if you already have an Obsidian setup.md",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Learning techniques/How to create an Obsidian + Quartz website.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Making a second Obsidian Vault (and retaining your settings, hotkeys, etc).md",
-    "source/content/📎 Files/Images/guides/Obsidian hotkeys.png",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian hotkeys.md",
-    "source/content/📎 Files/Images/guides/Obsidian hotkeys3.png",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian third-party plugins.md"
+    "source/content/📎 Files/Images/guides/Obsidian hotkeys.png"
   ]
 }
