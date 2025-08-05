@@ -14,8 +14,9 @@ permalink: home-page
 - [[⭐️"How can I improve my ability to think? (Open Question)]]
 - [[⭐️"How can I change how to orient to my family?" (Open Question)]]
 - [[⭐️"How should I make money?" (Open Question)]]
-- [[⭐️ What do I do with the things I love? (Open Question)]]
+- [[⭐️ "What do I do with the things I love?" (Open Question)]]
 - [[⭐️ "What is next for me after living at my mum's?" (Open Question)]]
+- [[⭐️ "What does it mean to be in ORI?" (Open Question)]]
 ## 2. Thinking in public
 - E.g. 
 	- [[Should I meditate regularly?]] (2025-07-20)
