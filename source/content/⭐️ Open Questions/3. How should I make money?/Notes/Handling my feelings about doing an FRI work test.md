@@ -51,21 +51,28 @@ created: 2025-08-06
 - So it does feel like there's good, positive, useful data to be gained from doing it (and it's paid too)
 - Like, nothing to lose (apart from ~5-10 hours of time, and there's the risk of a blow to the ol' "I'm a smart guy" ego, lol)
 - Nice, feels pretty resolved to me now. Clearly worth *trying* - no expectation, gut sense says this looks difficult and outside of my element, but why not give it a go, could unlock a new path
-## Maybe it's not that hard? 
-- I could totally imagine my friends being like "dude this isn't a big deal"
-- I've been realising recently that I have a tendency towards overwhelm and like "omg this thing is so hard"/"it's intractable"/"it's beyond my skill level"
-	- Kinda "fixed mindset" shit
-	- Rather than "growth mindset" like "wahoo, sounds interesting, let's give it a shot!"
+## Maybe it's in my wheelhouse? 
+### Maybe I have the propensity for this stuff and don't realise
+- E.g., they said "You are one of the top applicants for the part-time Research Assistant position" in the email, so clearly I show promise, lol
+- I could totally imagine my friends being like "dude this isn't a big deal", you do this stuff all the time, just not about policy
+### "Policy" sets off "I don't know anything about this!" alarm bells
 - I think I can hear "policy" and think like "oh god, that's like, advanced shit, I didn't do a political science degree" etc. 
 - Vs maybe it's really not a big deal
 - ![[Handling my feelings about doing an FRI work test123.png]]
 - I think I can patiently do each step and not freak out
 - Completionist urge of "wahhh I need to know about all the policies!" vs "I just need to choose one policy debate and zoom in on it"
+### Initial overwhelm vs "just patiently give it your best shot"
+- I've been realising recently that I have a tendency towards overwhelm and like "omg this thing is so hard"/"it's intractable"/"it's beyond my skill level"
+	- Kinda "fixed mindset" shit
+	- Rather than "growth mindset" like "wahoo, sounds interesting, let's give it a shot!"
+- Writing up the below section and the 5 steps → none of this seems wildly beyond me. 
+	- As I said, the mention of "policy debate" can trigger feelings of "I have spent 0 hours of my life looking into policy debates", but the point of being a generalist researcher is that you just growth mindset-style read into stuff, think about stuff, etc. Which I guess I'm already doing in this doc!
+## How each step of the work trial feels
 ### 1. Pick a policy debate
-- Feel free to select any topic; we recommend selecting a topic with which you’re **already familiar**.
-	- This set off overwhelm alarm bells of like "eeee but I don't know anything about any policy debates"
-	- *But*, I am a person who (like everyone), lived through COVID for example, so it seems like I can pick one that I'm aware of because it's "in the water", even if I have spent 0 minutes of my life thinking about the policy debate
-	- The application didn't say "you must know lots about policy" - you just need to be able to reason, right?
+> *"Feel free to select any topic; we recommend selecting a topic with which you’re **already familiar**."*
+- This set off overwhelm alarm bells of like "eeee but I don't know anything about any policy debates"
+- *But*, I am a person who (like everyone), lived through COVID for example, so it seems like I can pick one that I'm aware of because it's "in the water", even if I have spent 0 minutes of my life thinking about the policy debate
+- The application didn't say "==you must know lots about policy==" - you just need to be able to reason, right?
 ### 2. Summarise the 2 sides of the debate
 - This is the classic move of "steelmanning"
 ### 3. Identify a forecast question that approximates the overarching disagreement
@@ -76,4 +83,3 @@ created: 2025-08-06
 ### 5. Provide estimate forecasts and a brief explanation
 - Again, they provide pointers on how to do this, and an example table
 ## The test for me is just "can I do this in a level-headed way"
-- Writing up the above section, none of this seems wildly beyond me. As I said, the mention of "policy debate" can trigger feelings of "I have spent 0 hours of my life looking into policy debates", but the point of being a generalist researcher is that you just growth mindset-style read into stuff, think about stuff, etc. Which I guess I'm already doing in this doc
