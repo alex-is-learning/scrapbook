@@ -9,6 +9,7 @@ permalink: log-per-day
 - Wed 2025-08-06
 	- [[FRI (Parent Page)]]
 	- [[Handling my feelings about doing an FRI work test]]
+	- [[Addicted to this new Hayley Williams music video]]
 - Tue 2025-08-05 🎉🎂 birthday 🎂🎉 
 	- [[Dealing with overwhelm at work]]
 	- [[What turning 29 means in Chinese culture (according to Gemini)]]

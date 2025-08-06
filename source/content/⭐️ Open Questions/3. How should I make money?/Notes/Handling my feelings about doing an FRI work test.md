@@ -111,3 +111,12 @@ created: 2025-08-06
 	- The point of forecasting is that you can't know everything, you have to find proxies and etc
 	- I keep being hit with "oh god, to properly orient to this sub-task would take me hours, it's impossible"! and then remembering "oh yeah that's the point, you're not supposed to be able to do that, you're supposed to wisely interface with uncertainty"
 	- It could be a sign that this kind of work just is not for me because it constantly triggers me, or it could be a sign that it's the ideal type of work for me because it forces me to confront some key failure modes that keep me in "overwhelm"/"I can't start this project because it'll be too complicated" mode
+## Realising that step 5 actually has many sub-steps
+- Steps 1-4 are like "frame the debate", and step 5 is "model both sides of the argument, come up with forecasts from their POV, including how much their forecasts would change if the crux came true"
+- This is complex!!!!
+- ![[Handling my feelings about doing an FRI work test1231.png]]
+## Making a Miro board
+- ![[Handling my feelings about doing an FRI work test333.png]]
+- ☝️ quickly porting stuff from Obsidian to Miro → will organise it more, but it immediately feels great to see everything in one view. Like, this is *everything*, there's no hidden nested doc somewhere
+# I'm allowed to do more than 10 hours
+- It's unlikely that I'll hit >10 hours in 2 days (the deadline is tomorrow), but even if I got up to like 13+ hours, I think that's fine, because I've spent a huge amount of time in meta confusion land, "how do I do a task like this", rather than actually executing. There's all this confusion and infrastructure stuff to figure out now, as someone who has never attempting to model the ~contingent beliefs & world models of opposing groups. This is hopefully the most confused I'll be. It's very educational!
