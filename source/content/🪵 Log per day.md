@@ -3,6 +3,7 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 - See also [[Meditation log]]
+- [[Daily progress updates, streaks]]
 ## 03. August 2025
 ### Week of 4th August
 - Wed 2025-08-06

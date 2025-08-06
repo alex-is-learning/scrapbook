@@ -40,6 +40,13 @@
 # 4. Write! (With markdown)
 - In Obsidian, every note is .md (markdown)
 - See this [formatting guide](https://help.obsidian.md/syntax)
+# 5. Essential features
+## 1. Essential keyboard shortcuts/features
+- Command/control + N = new note
+- Command/control + O = open/search file name
+- Command/control + P = "command palette"
+- Command/control + , = settings 
+- Connect one page to another with the `[[double square brackets]]` notation
 # Note - maybe stop here!
 - *The below are quality of life things*
 - *But they're probably not worth bothering with until you find that your life is lacking quality due to little niggles*
