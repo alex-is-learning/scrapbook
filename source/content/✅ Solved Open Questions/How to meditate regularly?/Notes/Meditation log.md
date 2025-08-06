@@ -8,7 +8,8 @@ permalink: meditation-log
 	- 🔥 11 🔥
 ## Week of 4th August
 - Wed 2025-08-06
-	- 
+	- only 10 mins, wah. should have messaged my friends to create accountability
+	- Feel really fried after a day of the work trial
 - Tue 2025-08-05
 	- Left it too late and broke my 8-day "1 hour long sits" streak!
 		- Did 30 minutes from 23:30, intending to do an hour, but started to fall asleep during the sit
