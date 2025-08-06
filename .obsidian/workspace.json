@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/3. How should I make money?/Notes/Forecasting, Research/Model of FRI.md",
+                "file": "source/content/⭐️ Open Questions/3. How should I make money?/Notes/FRI (Parent Page).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Model of FRI"
+              "title": "FRI (Parent Page)"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/3. How should I make money?/Notes/FRI (Parent Page).md",
+                "file": "source/content/⭐️ Open Questions/3. How should I make money?/Notes/Handling my feelings about doing an FRI work test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FRI (Parent Page)"
+              "title": "Handling my feelings about doing an FRI work test"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/3. How should I make money?/Notes/FRI (Parent Page).md",
+                "file": "source/content/⭐️ Open Questions/3. How should I make money?/Notes/Handling my feelings about doing an FRI work test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for FRI (Parent Page)"
+              "title": "Backlinks for Handling my feelings about doing an FRI work test"
             }
           },
           {
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/3. How should I make money?/Notes/FRI (Parent Page).md",
+                "file": "source/content/⭐️ Open Questions/3. How should I make money?/Notes/Handling my feelings about doing an FRI work test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of FRI (Parent Page)"
+              "title": "Outline of Handling my feelings about doing an FRI work test"
             }
           }
         ]
@@ -206,19 +206,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e90b7e9f508c49e",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/📎 Files/Images/misc/Handling my feelings about doing an FRI work test123.png",
+    "source/content/⭐️ Open Questions/3. How should I make money?/Notes/FRI (Parent Page).md",
+    "source/content/⭐️ Open Questions/3. How should I make money?/Notes/Forecasting, Research/Why work for FRI.md",
+    "source/content/⭐️ Open Questions/3. How should I make money?/Notes/Forecasting, Research/Model of FRI.md",
+    "source/content/⭐️ Open Questions/3. How should I make money?/Notes/Handling my feelings about doing an FRI work test.md",
     "source/content/⭐️ Open Questions/3. How should I make money?/Notes/What actually is the FRI role?.md",
     "source/content/📎 Files/Images/misc/What actually is the FRI role?.png",
-    "source/content/⭐️ Open Questions/3. How should I make money?/Notes/Forecasting, Research/Model of FRI.md",
-    "source/content/⭐️ Open Questions/3. How should I make money?/Notes/FRI (Parent Page).md",
     "source/content/📎 Files/Images/misc/What actually is the FRI role?-4.png",
     "source/content/📎 Files/Images/misc/What actually is the FRI role?-3.png",
     "source/content/📎 Files/Images/misc/FRI.jpg",
     "source/content/📎 Files/Images/misc/What actually is the FRI role?-2.png",
     "source/content/📎 Files/Images/misc/What actually is the FRI role?-1.png",
-    "source/content/⭐️ Open Questions/3. How should I make money?/Notes/Forecasting, Research/Why work for FRI.md",
-    "source/content/⭐️ Open Questions/3. How should I make money?/Notes/Handling my feelings about doing an FRI work test.md",
     "model.md",
     "source/content/⭐️ Open Questions/3. How should I make money?/Notes/I am now making money!.md",
     "source/content/Other, quick-add/“'Handle your feelings about the task' is the zeroth item on any todo list\".md",
