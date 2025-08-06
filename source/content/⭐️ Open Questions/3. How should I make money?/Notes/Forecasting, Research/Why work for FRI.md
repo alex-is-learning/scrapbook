@@ -3,6 +3,7 @@ permalink: why-work-for-fri
 ---
 
 - 2025-06-23 
+- [[FRI (Parent Page)]]
 - I wrote this as part of my application to be a part time researcher at FRI and I was pretty proud of it
 # What about our work makes you most interested in working with us?
 I recently completed a project that involved ~50 hours of study of John Boyd, as I had identified him as one of the best strategists to learn from. He put together a compelling argument re: the importance of the OODA loop, of observing new information, orienting skillfully to it, updating your model so that you can more skillfully act, etc. It occurred to me during investigating this role that forecasting is a direct continuation of the work started (or at least, unified) under Boyd, which is very exciting to me. 

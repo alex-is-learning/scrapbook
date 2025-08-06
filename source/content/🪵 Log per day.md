@@ -5,6 +5,9 @@ permalink: log-per-day
 - See also [[Meditation log]]
 ## 03. August 2025
 ### Week of 4th August
+- Wed 2025-08-06
+	- [[FRI (Parent Page)]]
+	- [[Handling my feelings about doing an FRI work test]]
 - Tue 2025-08-05
 	- [[Dealing with overwhelm at work]]
 	- [[What turning 29 means in Chinese culture (according to Gemini)]]
