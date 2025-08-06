@@ -82,4 +82,3 @@ created: 2025-08-06
 - I'm not 100% sure how 3 and 4 differ at this point, but I imagine it's simple
 ### 5. Provide estimate forecasts and a brief explanation
 - Again, they provide pointers on how to do this, and an example table
-## The test for me is just "can I do this in a level-headed way"
