@@ -33,5 +33,8 @@ Many times, very "reassuring myself", meditative vibes
 
 - Fuck it here's the voice note I sent to my friends I need to get ready for bed
 - ![[signal-2025-08-06-20-59-21-770.m4a]]
+- Is "full conviction mode" the same as [[Max aura]] mode?
 # Vs Wet Leg - lower conviction
+- https://www.youtube.com/watch?v=AzUHNjKMeV4
+- I love this btw - never listened to them before, CPR (song 1) is great but song 2 (Mangetout) is *so good* → the band sound so tight, the group vocals ruleeee
 - ![[Addicted to this new Hayley Williams music video213.png]]
