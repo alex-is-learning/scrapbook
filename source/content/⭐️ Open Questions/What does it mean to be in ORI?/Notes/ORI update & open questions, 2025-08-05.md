@@ -170,3 +170,7 @@ title: ORI update & open questions, 2025-08-05
 	- A few particularly reputable people cast their votes, and this skews things even further. "Oh shit, I want to go with the solution that Expert Y suggested, because their profile shows that they're really good at finding the things that work"
 - An then, I experiment with an approach, and "resolve" the question
 	- "==Ok, the highest rated thing was 'treat others as you want to be treated', so I did that for a year and it was great=="
+
+---
+- 👇 like, is this me
+![[trying-to-solve-the-wrong-problem.png]]

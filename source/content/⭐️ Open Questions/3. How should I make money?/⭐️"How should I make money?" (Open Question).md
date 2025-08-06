@@ -4,6 +4,10 @@ updated: 2025-07-08 11:50:06
 permalink: how-to-make-money
 ---
 - [[source/content/index|Home Page]]
+## Week of 4th August
+- Wed 2025-08-06
+	- [[FRI (Parent Page)]]
+	- [[Handling my feelings about doing an FRI work test]]
 ## Week of 28th July
 - Sun 2025-08-03
 	- [[My July 2025 spending]]

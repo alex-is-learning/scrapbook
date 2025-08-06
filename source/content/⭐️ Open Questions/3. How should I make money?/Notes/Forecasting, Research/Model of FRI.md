@@ -3,6 +3,8 @@ permalink: model-of-fri
 ---
 
 - 21st June 2025
+- See also [[Why work for FRI]]
+- And [[FRI (Parent Page)]]
 
 > *Below is the result of 2 pomodoros worth of writing to check my model of FRI and why I'd be excited to work there*
 
@@ -11,7 +13,12 @@ permalink: model-of-fri
 - What the role is, what FRI does, learning more about forecasting, etc
 - After learning/orienting in a "bottom-up" way for a bit (reading deep research reports about forecasting, Philip Tetlock, etc), I want to switch to top-down, check my model, connecting the dots vibes
 - I've got some nascent thought of like "the forecasting/superforecasting movement is the successor movement to what John Boyd started with his military briefings", which I'm excited to think about more
-# My model
+# 1. Visual notes
+- ![[What actually is the FRI role?.png]]
+- ![[What actually is the FRI role?-1.png]]
+- ![[What actually is the FRI role?-2.png]]
+- ![[FRI.jpg]]
+# 2. My model
 - Writing out what I know off the top of my head. No flashcards have been made yet - this is from reading & orienting by e.g. making a Miro board
 ## What does FRI do?
 - "Generation 1" of Philip Tetlock's work was all about discovering what good forecasting involves?
@@ -83,3 +90,4 @@ permalink: model-of-fri
 - Give decision-makers better information, let them make better informed decisions
 	- Better actions
 	- Less waste
+---
