@@ -6,10 +6,10 @@
 ## Hypnotic
 - I love how repetitive it is. There's a hypnotic quality that I find really compelling. The way on the chorus she sounds pretty much exactly the same 4 times, it feels like a chant to reassure herself,
 
->Can only go up from here
->Can only go up from here
->Can only go up from here
->Can only go up, can only go up
+> Can only go up from here
+> Can only go up from here
+> Can only go up from here
+> Can only go up, can only go up
 
 And then she repeats again but with this kind of unsettling new tone where she slides between the notes, I love it
 
