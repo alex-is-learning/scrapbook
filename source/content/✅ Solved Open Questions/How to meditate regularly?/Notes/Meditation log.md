@@ -3,6 +3,7 @@ permalink: meditation-log
 ---
 - [[✅ "How do I meditate regularly?" (Solved Question)]]
 - [[Should I meditate regularly?]]
+- [[Daily progress updates, streaks]]
 ## Week of 4th August
 - Wed 2025-08-06
 - Tue 2025-08-05

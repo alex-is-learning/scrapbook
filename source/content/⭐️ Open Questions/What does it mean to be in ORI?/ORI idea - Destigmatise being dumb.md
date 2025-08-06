@@ -1,0 +1,2 @@
+- https://defenderofthebasic.substack.com/p/destigmatize-being-dumb
+- ![[ORI idea - Destigmatise being dumb.png]]

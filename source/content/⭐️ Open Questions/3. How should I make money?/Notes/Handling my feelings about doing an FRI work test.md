@@ -49,6 +49,7 @@ created: 2025-08-06
 - It could be the case that I *suck* at the work task, and I don't get to the next stage, and I'm like "yeah fair enough, that kind of work is just not for me"
 - Or it could be that I actually do fairly well and this unlocks a new avenue of work for me
 - So it does feel like there's ==good, positive, useful data== to be gained from doing it (and it's paid too)
+	- Like, maybe even if I suck at it, it'll be like "I want to get better at this, I found doing this much more interesting than the type of work I usually do"
 - Like, nothing to lose (apart from ~5-10 hours of time, and there's the risk of a blow to the ol' "I'm a smart guy" ego, lol)
 - Nice, feels pretty resolved to me now. Clearly worth *trying* - no expectation, gut sense says this looks difficult and outside of my element, but why not give it a go, could unlock a new path
 ## Maybe it's in my wheelhouse? 
@@ -62,6 +63,7 @@ created: 2025-08-06
 - ![[Handling my feelings about doing an FRI work test123.png]]
 - I think I can patiently do each step and not freak out
 - Completionist urge of "wahhh I need to know about all the policies!" vs "I just need to choose one policy debate and zoom in on it and think in an iterative way"
+- Also, a way to get smarter is to [[ORI idea - Destigmatise being dumb|Destigmatise being dumb]]
 ### Initial overwhelm vs "just patiently give it your best shot"
 - I've been realising recently that I have a tendency towards overwhelm and like "omg this thing is so hard"/"it's intractable"/"it's beyond my skill level"
 	- Kinda "fixed mindset" shit
@@ -83,3 +85,29 @@ created: 2025-08-06
 - I'm not 100% sure how 3 and 4 differ at this point, but I imagine it's simple
 ### 5. Provide estimate forecasts and a brief explanation
 - Again, they provide pointers on how to do this, and an example table
+
+---
+# How it's going (18:10)
+- I'm ~4 hours in right now
+	- 1 hour step on "task 0" (that is, writing this doc)
+		- [[“'Handle your feelings about the task' is the zeroth item on any todo list"]]
+	- 3 hours working on the task 
+		- A few pomodoros orienting to it, lots of talking to Gemini (and prompting it to be much less sycophantic)
+- It's *painful*. I'm really not great at handling uncertainty. I think with a bit of practice, I could be pretty good at this kind of work, but this is the first time I've ever done it, and it's yeah, fairly painful
+- The deadline is tomorrow - kinda wish I started it earlier. But also, good to have a strict looming deadline.
+	- It's 18:10 now, I want to do another ~2-3 hours on it today, and 2-3 hours tomorrow, maybe
+- It's a great work trial because it's teaching me how to do a new thing
+	- Doesn't bode very well for me - the ideal work trial (at least w/r/t p(passing it)) has a feeling of "nice, I've done this task a bunch before, should be easy"
+	- But, even if I don't pass, this is the most thorough "worldview modeling" I've ever done of other people, and I'm getting paid to do it
+# How it's going now (19:15)
+- It's 19:15 
+- I've decided to pay for Miro again and port my thinking to there
+- I'm finding that I'm trying to juggle an overwhelming amount of stuff in my working memory/in a corner of Obsidian, and it feels terrible. 
+- I think nested Obsidian pages can actually be a really bad move for stuff like this, I need to have a single Miro board where I can see everything and not feel overwhelmed. And also to be able to easy diagram
+	- I've tried using Excalidraw, because it's free instead of ~£10/month, but I just really don't like the vibe, idk. I could probably get over it with more use and save myself some money, but I know empirically how great Miro is for me, so... time to return
+	- I've just budgeted 2 pomodoros to port my thinking from Obsidian to Miro - feels like a pain, but I think it'll be worth it for the clarity 
+	- The sucky thing about Obsidian is you end up with all these nested pages with to-dos in them, vs in Miro you can just like use a bunch of purple post-its to denote to-dos, so it's literally impossible to lose stuff
+- I think this is a great task for teaching me to not be a completionist
+	- The point of forecasting is that you can't know everything, you have to find proxies and etc
+	- I keep being hit with "oh god, to properly orient to this sub-task would take me hours, it's impossible"! and then remembering "oh yeah that's the point, you're not supposed to be able to do that, you're supposed to wisely interface with uncertainty"
+	- It could be a sign that this kind of work just is not for me because it constantly triggers me, or it could be a sign that it's the ideal type of work for me because it forces me to confront some key failure modes that keep me in "overwhelm"/"I can't start this project because it'll be too complicated" mode
