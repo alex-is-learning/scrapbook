@@ -32,7 +32,7 @@ created: 2025-08-06
 - The work task looks *hard*
 - ![[Handling my feelings about doing an FRI work test123.png]]
 - It's about identifying cruxes in policy debates
-- I've used Fatebook.io for a few months so I've got experience in forecasting (in a very low stakes way), but I've never thought about policy etc
+- I've used Fatebook.io for a few months so I've got experience in forecasting (in a very low stakes way), but ==I've never thought about policy etc==
 - It could be the kind of thing that I can do, because ultimately it's just reasoning, being thorough etc, but my gut sense is "oh man, doing a *brand new thing* during a work trial does not bode well for my success"
 - So, after reading the task document, my p(pass the work trial) has dropped
 	- It's not like 0% chance I pass → maybe they're not looking for experts here (I mean, it's a part-time contractor role, not a full time employee position)
@@ -48,24 +48,25 @@ created: 2025-08-06
 ## The work task seems like a great filter for "do I want this role"
 - It could be the case that I *suck* at the work task, and I don't get to the next stage, and I'm like "yeah fair enough, that kind of work is just not for me"
 - Or it could be that I actually do fairly well and this unlocks a new avenue of work for me
-- So it does feel like there's good, positive, useful data to be gained from doing it (and it's paid too)
+- So it does feel like there's ==good, positive, useful data== to be gained from doing it (and it's paid too)
 - Like, nothing to lose (apart from ~5-10 hours of time, and there's the risk of a blow to the ol' "I'm a smart guy" ego, lol)
 - Nice, feels pretty resolved to me now. Clearly worth *trying* - no expectation, gut sense says this looks difficult and outside of my element, but why not give it a go, could unlock a new path
 ## Maybe it's in my wheelhouse? 
 ### Maybe I have the propensity for this stuff and don't realise
-- E.g., they said "You are one of the top applicants for the part-time Research Assistant position" in the email, so clearly I show promise, lol
-- I could totally imagine my friends being like "dude this isn't a big deal", you do this stuff all the time, just not about policy
+- E.g., they said "==You are one of the top applicants for the part-time Research Assistant position==" in the email, so clearly I show promise, lol
+	- Overall, I think it's true that my own intelligence/usefulness is relatively invisible to me. Like, I feel like I'm just some dumb guy, but I actually have lots of feedback that I'm e.g. ==really good at meta-cognition==
+- I could totally imagine my friends being like "dude this isn't a big deal, you do this stuff all the time, just not about policy"
 ### "Policy" sets off "I don't know anything about this!" alarm bells
 - I think I can hear "policy" and think like "oh god, that's like, advanced shit, I didn't do a political science degree" etc. 
 - Vs maybe it's really not a big deal
 - ![[Handling my feelings about doing an FRI work test123.png]]
 - I think I can patiently do each step and not freak out
-- Completionist urge of "wahhh I need to know about all the policies!" vs "I just need to choose one policy debate and zoom in on it"
+- Completionist urge of "wahhh I need to know about all the policies!" vs "I just need to choose one policy debate and zoom in on it and think in an iterative way"
 ### Initial overwhelm vs "just patiently give it your best shot"
 - I've been realising recently that I have a tendency towards overwhelm and like "omg this thing is so hard"/"it's intractable"/"it's beyond my skill level"
 	- Kinda "fixed mindset" shit
 	- Rather than "growth mindset" like "wahoo, sounds interesting, let's give it a shot!"
-- Writing up the below section and the 5 steps → none of this seems wildly beyond me. 
+- Writing up the below section and the 5 steps → ==none of this seems wildly beyond me==. 
 	- As I said, the mention of "policy debate" can trigger feelings of "I have spent 0 hours of my life looking into policy debates", but the point of being a generalist researcher is that you just growth mindset-style read into stuff, think about stuff, etc. Which I guess I'm already doing in this doc!
 ## How each step of the work trial feels
 ### 1. Pick a policy debate
