@@ -1,8 +1,25 @@
 - 2025-08-07
 - Oooohhhh, this is a good insight!!!
 - Re: [[Vervaeke's 4 Ps of Knowledge]]
-- Non-fiction is all facts, arguments, logic, reasoning
-- Whereas fiction is perspectival, putting you in someone's shoes, showing you what it's like to live as them.
-- And it controls your salience landscape, maybe. The author is literally controlling your salience landscape 
-- So, after writing a book, you have this amazing embodied feeling of having really *been* there, of having really felt through that situation, to have inhabited another person. Empathy-expanding, enriching
-- Maybe I'm 
+## Non-fiction = propositional knowledge
+- Non-fiction is all facts, arguments, logic, reasoning (propositional knowledge)
+	- And, because we live in the "tyranny of the propositional", we can undervalue fiction
+	- "I just get the pure knowledge from the non-fiction, no need to waste time on stupid stories"
+## Fiction = perspectival (& perhaps participatory?)
+- Whereas fiction gives you perspectival knowledge, 
+	- putting you in someone's shoes, showing you what it's like to live as them
+- And it probably induces participatory knowing too
+	- And it controls your salience landscape. The author is literally controlling your salience landscape, showing you things, "here, see this?"
+	- And then things resonate with you, or give you insights - "oh cool, I wouldn't have gotten to this insight from my everyday life, I needed to take on a new perspective and have a novel salience landscape"
+- So, after reading a book, you have this amazing embodied feeling of having really *been* there, of having really felt through that situation, to have inhabited another person. Empathy-expanding, enriching
+- Off the top of my head, I have somewhat "being-in-the-world", embodied, situated, participatory knowledge of:
+	- Infinite Jest:
+		- Being at a Boston AA meeting (infinite jest)
+		- Being the chosen one and saving the wizarding world (Harry Potter, lol)
+	- Crossroads (Jonathan Franzen)
+		- *OMG Jonathan Franzen is so good at this!*
+		- I went from thinking the wife in Crossroads was really pathetic, to when you get to the point in the book where you inhabit her life, actually finding her really empathetic and lovable and interesting and tragic and really rooting for her to reclaim her power
+		- And the exact inverse with the husband - thinking he's this kinda great charismatic guy with this lame wife, and then oh no actually he's a fucking craven loser 
+		- And Becky the daughter!!! Her experience of experiencing Christ's presence, her conversion from cool girl to very devout christian, man this book RULED
+		- Maybe Franzen is the master of this, of *really* creating vivid characters. Infinite Jest is so fractured that you don't spend a huge amount of time "being" a character, and they're kind of always narrated to you in a DFW-style voice? 2nd person, the theory that maybe the whole book is being told to you by the wraith, or something?
+	- It's 23:18 I'll stop here lol 
