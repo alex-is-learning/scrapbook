@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Should I meditate regularly?.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian third-party plugins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Should I meditate regularly?"
+              "title": "Obsidian third-party plugins"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Should I meditate regularly?.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian third-party plugins.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Should I meditate regularly?"
+              "title": "Backlinks for Obsidian third-party plugins"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Should I meditate regularly?.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian third-party plugins.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Should I meditate regularly?"
+              "title": "Outline of Obsidian third-party plugins"
             }
           }
         ]
@@ -192,13 +192,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "b36be87d212245d3",
   "lastOpenFiles": [
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 3 - Small quality of life things.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Alex's Obsidian Guide.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Wow Alex! I want a cool website like this!!!.md",
+    "source/content/index.md",
+    "source/content/🪵 Log per day.md",
+    "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/Addicted to this new Hayley Williams music video.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Should I meditate regularly?.md",
     "source/content/📎 Files/Images/misc/stream-entry-1.webp",
     "source/content/Other, quick-add/Excited to be employeed as a (self-described) Kegan 4.md",
     "source/content/Other, quick-add/Writing from the POV of \"parts\".md",
-    "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/Addicted to this new Hayley Williams music video.md",
-    "source/content/🪵 Log per day.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250807122917.webp",
     "source/content/📎 Files/Images/misc/writing-up-confusions.webp",
     "source/content/Other, quick-add/Ask dumb questions.md",
@@ -212,13 +217,10 @@
     "source/content/⭐️ Open Questions/1. How to think?/Notes/10. Why thinking things through is aversive.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/08. Enneagram 3 thinking sins.md",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/Cliches are banal vs cliches signify profound truths.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Wow Alex! I want a cool website like this!!!.md",
     "source/content/Other, quick-add/Writing public-facing manifestos, slash showing your thought process, seems powerful.md",
     "source/content/Other, quick-add/Work with the garage door up.md",
     "source/content/📎 Files/Images/misc/Work with the garage door up.webp",
-    "source/content/index.md",
     "source/content/Other, quick-add/Digital Garden (Digital Orchard?).md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Should I meditate regularly?.md",
     "source/content/📎 Files/Images/misc/Digital Garden.webp",
     "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/⭐️ \"What do I do with the things I love?\" (Open Question).md",
@@ -227,10 +229,8 @@
     "source/content/📎 Files/Images/misc/Addicted to this new Hayley Williams music video213.webp",
     "source/content/📎 Files/Images/misc/Addicted to this new Hayley Williams music video12.webp",
     "source/content/📎 Files/mp3s/signal-2025-08-06-20-59-21-770.m4a",
-    "source/content/📎 Files/Images/misc/Handling my feelings about doing an FRI work test333.webp",
     "source/content/Other, quick-add/Espanso.md",
     "source/content/Other, quick-add/Using LLMs.md",
-    "source/content/Other, quick-add/Daily progress updates, streaks.md",
     "source/content/Other, quick-add",
     "source/quartz/styles/variables.scss",
     "source/quartz/styles/syntax.scss",

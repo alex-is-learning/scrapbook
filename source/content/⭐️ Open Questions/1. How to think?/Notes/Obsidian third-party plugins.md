@@ -10,3 +10,6 @@ I don't think any third party plugins are essential
 ### Some others I use
 - You actually will need the git plugin for Quartz to work
 - I recommend "scroll offset" to ensure that Obsidian auto-scrolls for you (so you're not staring at the very bottom of your screen when you type) (there's a typewriter plugin that does a similar thing)
+# You should probably compress your images?
+- The plugin "Image Converter" makes this very easy
+- I just converted all my images to .webp format and compressed from like 500MB to ~80MB, really easy to do, you just add the plugin, right click your images folder and tell the plugin to change them to .webp
