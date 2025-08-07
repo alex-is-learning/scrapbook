@@ -105,3 +105,6 @@ Here's a breakdown of what Socrates would say you should do:
     
 
 In essence, Socrates believed that to care for your soul, you must devote yourself to the lifelong pursuit of wisdom and virtue through rigorous self-examination and rational inquiry, always prioritising the internal state of your being over external possessions or fleeting pleasures.
+
+---
+- "uncertainty is painful" → [[Handling my feelings about doing an FRI work test]]
