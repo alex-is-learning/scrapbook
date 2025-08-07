@@ -15,7 +15,7 @@ permalink: meta---about-the-"how-can-i-help-my-family"-project
 - This feels like a "smack yourself on the forehead and exclaim 'of course!!!'" thing - such an incredibly obvious problem, in hindsight
 - Coming from a family where 
 	- ~every family member is moderate-to-severe traumatised (in the Sasha Chapin "steelman of trauma" sense
-	![[Pasted image 20250104155021.png]]
+	![[Pasted image 20250104155021.webp]]
 	- This is top of mind for me pretty much always, especially when I go on walks, especially as I'm living with family right now so I'm really *in it* 
 	- Thinking about helping has always just felt so intractable 
 	- But, this is clearly such a profound thing. To get my family to a happier place would be a huge source of pride and happiness for the rest of my life, a really profound project

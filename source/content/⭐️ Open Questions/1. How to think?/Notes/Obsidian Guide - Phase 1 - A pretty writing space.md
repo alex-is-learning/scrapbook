@@ -15,7 +15,7 @@
 - However, for the purposes of this guide, we're just making one vault
 ### Ok so, a fresh vault
 - Tada, here's a fresh vault
-- ![[source/content/📎 Files/Images/guides/Basic Obsidian guide0001.png]]
+- ![[Basic Obsidian guide0001.webp]]
 - As you can see, it's very plain looking. 
 ## 03. Choosing a theme
 - I'd recommend choosing a nice theme!
@@ -23,20 +23,20 @@
 - Also, unlike Quartz, where changing the aesthetic involves altering the CSS file(s) yourself, Obsidian has a built-in theme gallery - you just find one you like an install it, easy
 - Press "command/control + ," to go to the **settings** (or, click the cog)
 - Go to appearance → themes → manage
-- ![[Basic Obsidian guide-2.png]]
+- ![[Basic Obsidian guide-2.webp]]
 - Now you can browse the themes
-- ![[Basic Obsidian guide-3.png]]
+- ![[Basic Obsidian guide-3.webp]]
 
 - Here are the themes I use:
 ### Pink Topaz (for this website)
-- ![[Basic Obsidian guide-1.png]]
+- ![[Basic Obsidian guide-1.webp]]
 - ☝️ Pink Topaz, for my website vault. I like a "light mode" theme, but hate staring at bright white, so I found this one to be a nice soft pink and sepia vibe, feels conducive to writng
 ### Material Gruvbox (for my 2025 vault)
-- ![[Basic Obsidian guide-4.png]]
+- ![[Basic Obsidian guide-4.webp]]
 ### Solarized (Dark Mode)
-- ![[Basic Obsidian guide-5.png]]
+- ![[Basic Obsidian guide-5.webp]]
 ### Prism (for my contractor job)
-- ![[Basic Obsidian guide-6.png]]
+- ![[Basic Obsidian guide-6.webp]]
 # 4. Write! (With markdown)
 - In Obsidian, every note is .md (markdown)
 - See this [formatting guide](https://help.obsidian.md/syntax)

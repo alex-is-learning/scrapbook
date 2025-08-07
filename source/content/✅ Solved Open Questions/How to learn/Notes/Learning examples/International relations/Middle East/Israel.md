@@ -50,9 +50,9 @@ permalink: israel
 
 - VC funding per capita → top 5!
 	- Really surprised to see Sweden and Switzerland so high up. And kinda surprised to see the UK in the top 6, as a Brit
-![[Pasted image 20250618105818.png]]
+![[Pasted image 20250618105818.webp]]
 - Global Innovation Index → doesn't appear!
-![[Pasted image 20250618110031.png]]
+![[Pasted image 20250618110031.webp]]
 - I'm gonna say that I got this ✅ right - 5th highest VC funding per GDP
 
 4. Two of the top 4 reasons why Israel is a key US ally are "key beacon of US values" + "domestic support from American Jews" – 70%

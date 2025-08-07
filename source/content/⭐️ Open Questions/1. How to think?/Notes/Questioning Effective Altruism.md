@@ -122,9 +122,9 @@ permalink: questioning-effective-altruism
 # 5. The power of care
 - This is inspired by a tweet I saw, so it’s not like, a deeply validated/considered view
 - However, it deeply resonated, and feels true based on my lived experience
-![[care guy nosilver rival voices.png]]
+![[care guy nosilver rival voices.webp]]
 - Another one:
-- ![[Care is the number 1 thing, everything is bottlenecked by care.png]]
+- ![[Care is the number 1 thing, everything is bottlenecked by care.webp]]
 - I have a sense that the ideal path is "follow care", and this could look like
 	- landing on a cause area (and maybe not even an EA one) that I’m truly passionate about, then upskill, then apply from a place of genuine passion (or build my own thing, or whatever)
 	- Like e.g. truly landing on “oh, I absolutely want to be a coach”, or whatever

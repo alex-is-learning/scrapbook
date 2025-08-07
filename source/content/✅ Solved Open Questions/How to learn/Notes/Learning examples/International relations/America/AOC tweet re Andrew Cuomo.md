@@ -8,7 +8,7 @@ So yesterday ([[America & Immigration]]) I just did bottom-up learning, so today
 First tweet I saw:
 
 # 1. AOC re: Andrew Cuomo
-![[Pasted image 20250613171403.png]]
+![[Pasted image 20250613171403.webp]]
 [Link](https://x.com/AOC/status/1933319082746786074)
 
 - Ok so, as an English guy who doesn't really follow the news, this is very juicy, because idk wtf is going on here
@@ -55,7 +55,7 @@ First tweet I saw:
 13. Cuomo is backed by the establishment because he is seen as the most viable candidate - 80%
 14. Cuomo's top competitors are relative unknowns and therefore the establishment doesn't want to get behind them - 70%
 ## Put them in Fatebook so I get to update my calibration score
-![[Pasted image 20250613175257.png]]
+![[Pasted image 20250613175257.webp]]
 
 ## Updates
 

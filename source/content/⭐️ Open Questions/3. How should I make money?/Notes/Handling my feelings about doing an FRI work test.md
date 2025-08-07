@@ -8,7 +8,7 @@ created: 2025-08-06
 - I've taken the day off from my contractor job to do it the work trial (or at least, a big chunk of it)
 - But, I'm feeling aversion!
 - Then I remembered this banger tweet
-	- ![[“'handle your feelings about the task' is the zeroth item on any todo list".png]]
+	- ![[“'handle your feelings about the task' is the zeroth item on any todo list".webp]]
 	- Page → [[“'Handle your feelings about the task' is the zeroth item on any todo list"]]
 - So, here I am, to handle my feelings
 - There are I'm sure very straightforward things leading to the aversion, that will resolve once brought to the light (or, will make a case for "don't do the work trial")
@@ -30,7 +30,7 @@ created: 2025-08-06
 	- Ok, I've now looked at the work trial instructions
 ## I've never done anything like this before
 - The work task looks *hard*
-- ![[Handling my feelings about doing an FRI work test123.png]]
+- ![[Handling my feelings about doing an FRI work test123.webp]]
 - It's about identifying cruxes in policy debates
 - I've used Fatebook.io for a few months so I've got experience in forecasting (in a very low stakes way), but ==I've never thought about policy etc==
 - It could be the kind of thing that I can do, because ultimately it's just reasoning, being thorough etc, but my gut sense is "oh man, doing a *brand new thing* during a work trial does not bode well for my success"
@@ -60,7 +60,7 @@ created: 2025-08-06
 ### "Policy" sets off "I don't know anything about this!" alarm bells
 - I think I can hear "policy" and think like "oh god, that's like, advanced shit, I didn't do a political science degree" etc. 
 - Vs maybe it's really not a big deal
-- ![[Handling my feelings about doing an FRI work test123.png]]
+- ![[Handling my feelings about doing an FRI work test123.webp]]
 - I think I can patiently do each step and not freak out
 - Completionist urge of "wahhh I need to know about all the policies!" vs "I just need to choose one policy debate and zoom in on it and think in an iterative way"
 - Also, a way to get smarter is to [[ORI idea - Destigmatise being dumb|Destigmatise being dumb]]
@@ -114,9 +114,9 @@ created: 2025-08-06
 ## Realising that step 5 actually has many sub-steps
 - Steps 1-4 are like "frame the debate", and step 5 is "model both sides of the argument, come up with forecasts from their POV, including how much their forecasts would change if the crux came true"
 - This is complex!!!!
-- ![[Handling my feelings about doing an FRI work test1231.png]]
+- ![[Handling my feelings about doing an FRI work test1231.webp]]
 ## Making a Miro board
-- ![[Handling my feelings about doing an FRI work test333.png]]
+- ![[Handling my feelings about doing an FRI work test333.webp]]
 - ☝️ quickly porting stuff from Obsidian to Miro → will organise it more, but it immediately feels great to see everything in one view. Like, this is *everything*, there's no hidden nested doc somewhere
 # I'm allowed to do more than 10 hours
 - It's unlikely that I'll hit >10 hours in 2 days (the deadline is tomorrow), but even if I got up to like 13+ hours, I think that's fine, because I've spent a huge amount of time in meta confusion land, "how do I do a task like this", rather than actually executing. There's all this confusion and infrastructure stuff to figure out now, as someone who has never attempting to model the ~contingent beliefs & world models of opposing groups. This is hopefully the most confused I'll be. It's very educational!
@@ -127,4 +127,4 @@ created: 2025-08-06
 - It's been a very humbling work trial → grappling with uncertainty, with an intellectual task that I've never quite attempted before (at least not at this scale), etc
 
 - Also:
-- ![[writing-up-my-confusions.png]]
+- ![[writing-up-my-confusions.webp]]

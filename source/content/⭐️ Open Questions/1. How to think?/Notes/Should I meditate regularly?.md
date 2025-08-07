@@ -45,9 +45,9 @@ permalink: should-i-meditate-regularly
 - I really liked this
 - I think it might be trying to "foreground the background", to get you to a non-dual state or stream entry experience
 - Relevant tweets
-	- ![[Should I meditate regularly? - 1s.png]]
-	- ![[Should I meditate regularly?2.png]]
-	- ![[Should I meditate regularly?-1daf.png]]
+	- ![[Should I meditate regularly? - 1s.webp]]
+	- ![[Should I meditate regularly?2.webp]]
+	- ![[Should I meditate regularly?-1daf.webp]]
 ### I quit the "45 Days to Awakening Course", for... some reason?
 - I forget why... probably some relatively poorly thought out and intuitive thing like "I can't spare 1 hour a day" → neuroticism around "wasted time" is one of my key failure modes
 ## 3RD exposure - 10-day vipassana retreat - September 2023
@@ -76,13 +76,13 @@ permalink: should-i-meditate-regularly
 - This actually felt worse, like not an upgrade but a downgrade ("ew, I don't like noticing this!"). But it was clearly an insight into my mind, and better than ignorance
 - This realisation, post-retreat, was why I wrote this Substack post → "[The meditation retreat _was_ working](https://alexislearning.substack.com/p/the-meditation-retreat-_was_-working)"
 - 👇 My private hut
-- ![[goenka-1.jpeg]]
+- ![[goenka-1.webp]]
 - 👇 Where we ate together, whilst avoiding eye contact, lol
-- ![[goenka-2.jpeg]]
+- ![[goenka-2.webp]]
 - 👇 One of the signs
-- ![[goenka-3.jpeg]]
+- ![[goenka-3.webp]]
 - 👇 I felt so reborn that I shaved my head on like day 7. Funny to talk to other attendees who were there with me on day 10 and they were like "...you had hair at the start, right??"
-- ![[goenka-4.jpeg]]
+- ![[goenka-4.webp]]
 ## 4TH EXPOSURE - Stream entry - Feb 2024
 - See Substack post - [Consensus-ism part 2](https://alexislearning.substack.com/p/consensus-ism-part-2)
 - I got *explained into* something like a stream entry experience, via repeated Socratic dialogues with some friends who were trying an experimental new technique
@@ -94,9 +94,9 @@ permalink: should-i-meditate-regularly
 - So, this *really* showed me that there's a "there there", that Buddhism is pointing at empirical things. This happened to me in Feb of 2024 and my life and experience has been radically changed. This shit is real
 - I had a call with Sasha Chapin after this happened → I emailed him like "yoooo, I think the 'deep okayness' thing that you wrote about has happened to me", and we had a great call. He said it sounded like 
 - 👇 My stream entry spot (but it was at night)
-- ![[stream-entry-1.jpeg]]
+- ![[stream-entry-1.webp]]
 - 👇 My stream entry spot, looking the other way
-- ![[stream-entry-2.jpeg]]I had a "kensho" experience, which was my first exposure to that idea
+- ![[stream-entry-2.webp]]I had a "kensho" experience, which was my first exposure to that idea
 - 
 ## 5TH EXPOSURE - Jhourney retreat - August 2024
 - I did a Jhourney at-home retreat
@@ -111,7 +111,7 @@ permalink: should-i-meditate-regularly
 		- See a fat person → "ugh, look how fat they are, how can you do that to yourself"
 		- See an old hunched over person → "ugh, imagine letting yourself get that hunched over, why didn't they learn to stretch/do yoga/go to a physio", etc
 - 👇 My sublet in Toronto where I did my Jhourney retreat - such a gorgeous place 🥰
-- ![[toronto-house.jpeg]]
+- ![[toronto-house.webp]]
 ## 6TH EXPOSURE → call with Sasha Chapin in Toronto - Sep 2024
 - I had a coaching call with him to discuss like "dude, I thought healing was my path, now I feel healed enough, idk what to do now"
 - I asked him to tell me to meditate, and he was like "do open awareness mediation bro"
@@ -134,7 +134,7 @@ permalink: should-i-meditate-regularly
 2. The perceived value of the old needs to be trumped by the perceived value of the old
 	- (This this what the red arrow signifies → you want to *lower* the perceived value)
 3. The gained value needs to trump the cost of change
-- ![[gilman-5-equation-of-change.png]]
+- ![[gilman-5-equation-of-change.webp]]
 ### Perceived value of the new
 - I haven't had a clear personal narrative re: the value of meditation
 - I've had other people's narratives (e.g., "Ingram is enlightened, and he... likes it"), but I haven't made my own coherent narrative
@@ -145,7 +145,7 @@ permalink: should-i-meditate-regularly
 - This is a key thing for me → as someone who is overly neurotic about wasted time, the perceived cost of meditating loads has been very high. "I can't carve out an hour a day!" etc. 
 ### So, my Gilman equation for meditation is something like this:
 
-- ![[Should I meditate regularly? 1.png]]
+- ![[Should I meditate regularly? 1.webp]]
 - So:
 	- My "perceived value of the new" has been essentially 0, as I haven't grokked the profundity of regular meditation, I don't *believe* it
 	- My "perceived value of the old" is essentially 100 → "this is totally fine and normal"
@@ -155,7 +155,7 @@ permalink: should-i-meditate-regularly
 	- There's a hugeeee gulf
 ### Vs, the shape I could get my Gilman equation into 
 - vs 
-- ![[Should I meditate regularly?-1 1.png]]
+- ![[Should I meditate regularly?-1 1.webp]]
 	- Perceived value of the new = 100 
 		- "Holy shit, meditation would be so deeply transformational"
 	- Perceived value of the old = -100
@@ -186,11 +186,11 @@ permalink: should-i-meditate-regularly
 		- Intellectus sibi permissus
 		- Socratic "double ignorance", which Socrates believed was _the worst thing of all_
 - The Mind Illuminated, stage 1
-	- ![[tmi-stage-1.png]]
+	- ![[tmi-stage-1.webp]]
 - The Mind Illuminated, stage 2
-	- ![[tmi-stage-2.png]]
+	- ![[tmi-stage-2.webp]]
 - The Mind Illuminated, stage 3
-	![[tmi-stage-3.png]]
+	![[tmi-stage-3.webp]]
 #### Benefits of metta
 - This one is pretty obvious actually. The thing is, I've never had a metta practice from a place of also having decent shamatha, so I've only made a little tiny bit of metta, then been distracted as all hell
 - But yeah, lovingkindness, compassion, both for yourself and others, so clearly just a profound state to rest in daily
@@ -224,7 +224,7 @@ permalink: should-i-meditate-regularly
 		- 30 minute metta sit where I'm 99% distracted = 18 seconds of metta experienced
 		- 30 minutes of metta where I'm 80% distracted = 6 minutes of metta experienced
 		- 30 minute metta sit where I'm 30% distracted = 21 minutes of metta experienced
-- ![[mins-metta-experienced.png]]
+- ![[mins-metta-experienced.webp]]
 # Final insight
 ## The two unexamined beliefs that have blocked me from meditating regularly
 - I've been operating on two beliefs that are clearly silly and incompatible when viewed clearly:
@@ -246,5 +246,5 @@ permalink: should-i-meditate-regularly
 ---
 - 2025-07-22 
 - Spotted in the wild:
-- ![[conc-vs-metta rival voices guy opposite.png]]
+- ![[conc-vs-metta rival voices guy opposite.webp]]
 - ☝️ tweet [link](https://x.com/nosilverv/status/1807465393125982620)

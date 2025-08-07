@@ -74,19 +74,19 @@ permalink: what-i-currently-know-about-bowen-family-systems-theory
 ### Pattern 2: Emotional conflict
 - Anxiety builds, then two people argue. Now the anxiety is externalised into the argument, the blaming, which calms the people (as now it's "out" of them). But this ultimately creates distance
 - 👇 at first, each person is anxious. Then, they argue, and the anxiety is externalised into the argument, and their dogmatic positions. They not feel calmer, but distance is created
-- ![[emotional-conflict.png]]
+- ![[emotional-conflict.webp]]
 ### Pattern 3: Triangulation
 - 3 people is the smallest "stable" group of people (dyads are unstable for... some reason, idk, they just say "triangles are the smallest molecule)
 - Triangulation is where two people offload their anxiety with each other, by scapegoating another person. The two are "insiders", the third is the "outsider". The outsider absorbs the anxiety
 
-![[triangulation.png]]
+![[triangulation.webp]]
 
 ### Pattern 4: Emotional distance
 - Pulling away from people as a way to reduce anxiety. Could be leaving the family entirely. Ultimately, not super healthy or effective
 # That's all the important stuff so far IMO
 - I've only read the first ~100 pages, flashcards of first ~65 pages
 - 👇 I've read up to the start of the "Emotional Regression" chapter
-- ![[kerr-contents.png]]
+- ![[kerr-contents.webp]]
 - ☝️ 🚨 I wonder if I should actually skip to part 2 and read that - 68 pages on how to be more differentiated, how to be a different node in the system
 # Appendix - how to change a system
 ### Ooh, Robert Gilman lecture! 
@@ -95,14 +95,14 @@ permalink: what-i-currently-know-about-bowen-family-systems-theory
 	- [Slides](https://drive.google.com/drive/u/0/folders/1m6--qRLMuGg1zmm4VKeQ3DkpO87YRRqb)
 - He talks about this exact thing - how to be a "cultural co-evolver". Where, as a human, you are a node in the system of "culture", and you have some agency to change it. But you need to use systems thinking, rather than cause-and-effect/reductionist thinking
 - Relevant slides:
-- ![[gilman-1.png]]
-- ![[gilman-2.png]]
-- ![[gilman-3.png]]
+- ![[gilman-1.webp]]
+- ![[gilman-2.webp]]
+- ![[gilman-3.webp]]
 - 👇 Improve the system by offering better paths forwards. Instead of "burn it all down", make old, maladaptive behaviours die out by offering alternatives, so the old ways become obsolete, because no one would intentionally choose a worse option. "Survival of the best ideas"
-- ![[gilman-4.png]]
+- ![[gilman-4.webp]]
 - "*You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.*" -R. Buckminster Fuller
 #### Gilman's equation of change
-- ![[gilman-5-equation-of-change.png]]
+- ![[gilman-5-equation-of-change.webp]]
 - [[Gilman Equation]]
 - Gilman's equation of change, for changing a system.
 1.  The perceived value of the new needs to be high

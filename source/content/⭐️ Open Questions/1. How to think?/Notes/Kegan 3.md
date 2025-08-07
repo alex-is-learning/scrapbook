@@ -27,5 +27,5 @@ To be a Kegan 3 is to be stuck in [Flatland](https://space.ong.ac/escaping-flatl
 > The claim I’d make here is that many of these undergrads are _stuck in flatland_. they’re operating within some plane of legibility, adopting its goals and markers of prestige, maybe occasionally acknowledging the existence of other planes at points where they intersect. but they never quite realise that the plane they live in isn’t the only plane in the world — and, importantly, _never explicitly make the choice_ to inhabit that particular plane as opposed to any other.
 
 Satire, but still: 
-![[kegan 3 reddit.png]]
+![[kegan 3 reddit.webp]]
 `Is this essentially what kegan stage 3 is?`

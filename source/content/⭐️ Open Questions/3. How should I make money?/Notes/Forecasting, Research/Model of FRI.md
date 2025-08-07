@@ -14,10 +14,10 @@ permalink: model-of-fri
 - After learning/orienting in a "bottom-up" way for a bit (reading deep research reports about forecasting, Philip Tetlock, etc), I want to switch to top-down, check my model, connecting the dots vibes
 - I've got some nascent thought of like "the forecasting/superforecasting movement is the successor movement to what John Boyd started with his military briefings", which I'm excited to think about more
 # 1. Visual notes
-- ![[What actually is the FRI role?.png]]
-- ![[What actually is the FRI role?-1.png]]
-- ![[What actually is the FRI role?-2.png]]
-- ![[FRI.jpg]]
+- ![[What actually is the FRI role?.webp]]
+- ![[What actually is the FRI role?-1.webp]]
+- ![[What actually is the FRI role?-2.webp]]
+- ![[FRI.webp]]
 # 2. My model
 - Writing out what I know off the top of my head. No flashcards have been made yet - this is from reading & orienting by e.g. making a Miro board
 ## What does FRI do?
@@ -46,7 +46,7 @@ permalink: model-of-fri
 		- Heisenberg's Uncertainty Principle → the closer we get to knowing {quantum physics thing 1}, the greater the uncertainty of {quantum physics thing 2}. In this example, it is impossible to know both at once. A fundamental example of uncertainty
 		- Oh god what's the other one... let me ask ChatGPT (and make a new flashcard because I used to know all 3 easily). Ah that's it, it's the second law of thermodynamics - in a closed system, entropy increases to heat death. His point is that you have to have an *open* system, or else chaos (in this analogy, information) will increaseto the point of chaos. Another instance of "you have to look outside the system for answers"
 - But not just uncertainty → the OODA loop
-- ![[OODA.jpg]]
+- ![[OODA.webp]]
 - Orientation is the most important part of the OODA loop. Boyd called it "The Big O".
 - I had the sudden realisation that forecasting is the continuation of Boyd's work
 	- Observation comes in
@@ -63,7 +63,7 @@ permalink: model-of-fri
 - I love Boyd
 - The neo-Darwinian revolution → survival of the best informed. Post-modern, 4th generation warfare (?) is all about intelligence, "getting inside your opponent's decision cycle", rapid OODA looping, outpacing opponent
 - Fingerspitzengefuhl:
-- ![[Pasted image 20250621142045.png]]
+- ![[Pasted image 20250621142045.webp]]
 - Forecasting as a way to empirically test the accuracy of your model. To OODA loop rapidly, to take in new info, adjust your predictions via Bayesian updating. Empirical Boydianism, for civilians
 	- Because Boyd's stuff is *very* military focused, very zero sum game, and also fairly niche/unknown. Vs superforecasting, and now the whole community/industry around it, has taken off. 
 # Survival of the best informed

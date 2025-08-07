@@ -485,7 +485,7 @@ Your final position is that this structured compromise is a "good enough" path f
 - How long will it take for me to read & make flashcards from the first 200 pages of "Bowen Theory's Secrets" by Michael Kerr?
 - I could definitely sprint on it, pause Socrates/Plato (i.e., reading Gonzalez's book ([[Dialectic and Dialogue - Plato's Practice of Philosophical Inquiry (Gonzalez)]]))
 - End of August feels very doable 👇 → if I treat this as my primary project, pausing Gonzalez, treating it like I did Frans Osinga's book on Boyd. I'm currently at ~page 60
-- ![[Pasted image 20250716151752.png]]
+- ![[Pasted image 20250716151752.webp]]
 ## 5. Lock in anti-enneagram 3 habits
 - Ceiling of 20 hours/week
 - Never start before noon

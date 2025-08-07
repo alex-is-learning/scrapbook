@@ -2,4 +2,4 @@
 permalink: 
 created:
 ---
-![[max-aura.jpeg]]
+![[max-aura.webp]]

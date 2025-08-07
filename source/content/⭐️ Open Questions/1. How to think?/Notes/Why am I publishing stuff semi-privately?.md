@@ -5,7 +5,7 @@ permalink: why-am-i-publishing-stuff-semi-privately
 - 2025-07-21
 # 1. Bump from my friend Simmo
 - I shared the following screenshot in my triad group chat 👇
-	- ![[Why am I publishing stuff semi-privately?.png]]
+	- ![[Why am I publishing stuff semi-privately?.webp]]
 - and got a voice note reply from Simmo:
 	- *"Awesome, Alex - yeah, I’m curious, why is that you’re ==publishing less publicly than substack?=="*
 	- *"My sense is that at least a quarter of this stuff, somewhere between 25%-75% of the stuff you publish on your personal site, would be ==really good content== 
@@ -227,11 +227,11 @@ permalink: why-am-i-publishing-stuff-semi-privately
 	- So the idea of unifying all my disparate shit, returning to making youtube videos (which I really enjoy), talking about all the shit I'm currently on, etc, sounds great
 # Youtube merger!
 ## Goodbye "Alex is Creating (Finally!)"
-- ![[alex is creating.png]]
+- ![[alex is creating.webp]]
 ## Hello [error]
 - Damnit, it won't let me rename??
 - But at least I've modernised/standardised my profile pic, and updated the handle
-- ![[damnit, wont let me rename.png]]
+- ![[damnit, wont let me rename.webp]]
 
 
 ---

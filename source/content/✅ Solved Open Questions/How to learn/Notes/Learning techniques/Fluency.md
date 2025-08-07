@@ -2,4 +2,4 @@
 permalink: fluency
 ---
 
-![[Pasted image 20250627171937.png]]
+![[Pasted image 20250627171937.webp]]

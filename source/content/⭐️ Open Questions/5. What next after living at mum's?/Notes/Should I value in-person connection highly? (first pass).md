@@ -20,7 +20,7 @@ permalink: should-i-value-in-person-connection-highly
 # 2. "I need to get better at in-person connection"
 - Perhaps it's my nerdy introvert brain saying "you've gotta fix your epistemics bro, obviously that's the most important thing bro, and also learn all about philosophy while you're at it bro"
 - Meanwhile I'm here living at my mums with no in-person friends, no car, no dating prospects etc
-- ![[conc-vs-metta rival voices guy opposite cropped.png]]
+- ![[conc-vs-metta rival voices guy opposite cropped.webp]]
 # 3. Signs that I care a lot about in-person connection
 ## Peak memories
 - May be true that all my peak memories involve *being with other people*
@@ -51,44 +51,44 @@ permalink: should-i-value-in-person-connection-highly
 - Geoffrey James (the host) is so incredibly funny
 - And what am I watching? I'm watching (or listening to) friends hang out and laugh together
 - And guess what, it recently moved to Patreon, so now I'm paying to watch friends hang out, lmao
-- ![[headgum-patreon-1.png]]
-- ![[headgum-patreon-2.png]]
+- ![[headgum-patreon-1.webp]]
+- ![[headgum-patreon-2.webp]]
 ##### Smosh videos - friends having fun and hanging out
 - My youtube algorithm is like 70% smosh atm, I'm really having a smosh renaissance
 - It's charismatic funny hot people hanging out and making each other laugh *a lot*
 - Sure serotonin/dopamine. Monetised friendship, basically, very parasocial
 - Sharing some thumbnails from my youtube recommendation feed:
-- ![[smosh-thumb-1.png]]
-- ![[smosh-thumb-2.png]]
-- ![[smosh-thumb-3.png]]
-- ![[smosh-thumb-4.png]]
-- ![[smosh-thumb-5.png]]
-- ![[smosh-thumb-6.png]]
-- ![[smosh-thumb-7.png]]
-- ![[smosh-thumb-8.png]]
+- ![[smosh-thumb-1.webp]]
+- ![[smosh-thumb-2.webp]]
+- ![[smosh-thumb-3.webp]]
+- ![[smosh-thumb-4.webp]]
+- ![[smosh-thumb-5.webp]]
+- ![[smosh-thumb-6.webp]]
+- ![[smosh-thumb-7.webp]]
+- ![[smosh-thumb-8.webp]]
 - The gang 👇
-- ![[smosh-family.png]]
+- ![[smosh-family.webp]]
 ##### Perfect Person podcast - comedy people having fun and connecting
-- ![[perfect-person.png]]
+- ![[perfect-person.webp]]
 #### Past
 ##### My Dad Wrote a Porno - friends having fun
 - (Haven't listened to this for a few years but I lovedddd their chemistry, so fun)
-- ![[my-dad-wrote-a-porno.png]]
+- ![[my-dad-wrote-a-porno.webp]]
 ##### Review Revue
 - When I lived in Albania for a month and talked to 0 people IRL I listened to this constantlyyyy
-- ![[review-revue.png]]
+- ![[review-revue.webp]]
 ##### Friends!
 - Of course, a classic
 - Season 1 is maybe my fav?
 - Popularity of this show as a testament to how much people want a friend group like this - they're in New York yet they live across the hall[^1] and see each other before work each day, lol
-- ![[friends-tv-show.png]]
+- ![[friends-tv-show.webp]]
 ##### Scott Pilgrim
 - Kinda all about friends hanging out
 - And Scott dating Ramona
-- ![[scott-pilgrim.png]]
+- ![[scott-pilgrim.webp]]
 ##### Harry Potter!!!!
 - I wonder how much of the appeal of this (I read it non-stop, on repeat for YEARS as a kid) was due to the friendship dynamic??
-- ![[harry-potter.png]]
+- ![[harry-potter.webp]]
 # 4. So yeah
 - This doc was just a quick dump. But CLEARLY there's something here re: the importance of connection, comedy, fun, etc. I'm not just a lil enneagram 3w4 nerd. Part of me would love to have in-person friendships like the above. It feels daunting to replicate or have as a north star vs "get a great job" or "learn a bunch about xyz" or whatever, but oh man, can't help but think it'd be... life changing etc
 # scrappy things added after the fact

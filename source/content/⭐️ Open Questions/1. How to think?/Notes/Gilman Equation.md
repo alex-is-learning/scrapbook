@@ -12,7 +12,7 @@ permalink: gilman-equation
 	- (This this what the red arrow signifies → you want to *lower* the perceived value of the old thing, the status quo)
 3. The gained value needs to trump the cost of change
 	- The red arrow here → you can reduce the perceived cost via e.g. planning well, reducing friction
-- ![[gilman-5-equation-of-change.png]]
+- ![[gilman-5-equation-of-change.webp]]
 # Rhymes with Luke Muehlhauser's "procrastination equation"
 - From his 2011 post "[How to Beat Procrastination](https://www.lesswrong.com/posts/RWo4LwFzpHNQCTcYt/how-to-beat-procrastination)"
 $$

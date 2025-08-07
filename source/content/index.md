@@ -6,7 +6,7 @@ permalink: home-page
 ---
 # Intro
 - Hi! Welcome to my ==digital scrapbook== :) 
--  ![[profile-pic-pixel.png|120]]
+-  ![[profile-pic-pixel.webp|120]]
 - [[🪵 Log per day]] ← <span class="text-red">this is where ~everything goes!</span> 🚨
 - *(I'm vaguely aligned with the Open Research Institute, see [[Old website intro]])*
 - It currently serves a few purposes:

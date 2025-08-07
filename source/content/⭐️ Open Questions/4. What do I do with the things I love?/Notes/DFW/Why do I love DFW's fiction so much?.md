@@ -11,14 +11,14 @@
 # Showing the intellect
 ## The first page of the first story (Mister Squishy)
 - The first thing of DFW's that I ever read. I was blown away immediately, which might be surprising given that it's about a focus group trying a new like, twinkie-thing
-- ![[Mr Squishy page 1.png]]
-- ![[Another Pioneer page 1.png]]
+- ![[Mr Squishy page 1.webp]]
+- ![[Another Pioneer page 1.webp]]
 
 ## Oblivion
-- ![[Oblivion page 1.png]]
+- ![[Oblivion page 1.webp]]
 # Showing the heart
 ## Good Old Neon
-- ![[Good Old Neon page 1.png]]
+- ![[Good Old Neon page 1.webp]]
 - Gathering quotes showing DFW's humaneness is a project I don't have time for right now!!! 
 - Unless I have a kindle copy of any of his books where I've highlighted passages 👀
 	- Ayyyy, I do! I have Infinite Jest and Oblivion

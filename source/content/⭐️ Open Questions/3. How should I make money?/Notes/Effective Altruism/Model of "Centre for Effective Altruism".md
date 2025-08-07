@@ -82,7 +82,7 @@ permalink: model-of-centre-for-effective-altruism
 - How are functions split across the events team? What are the AORs?
 # Starting a Miro board
 - I'm a huge huge huge fan of Miro for knowledge management/project management
-![[Pasted image 20250616151050.png]]
+![[Pasted image 20250616151050.webp]]
 # Current confusions
 - I feel surprised, actually, that a team of 11 can run 3 EAGs and 9 EAGx-s per year. Like, there must be a lot of logistics involved!! 
 - Although perhaps it was hardest at first and now they have great SOPs, already scoped out venues, already know the recipe for a successful EAG, a successful EAGx

@@ -43,7 +43,7 @@ permalink:
 	- How much do I really need to "learn how to think"? Isn't this website enough?
 		- I've been learning about philosophy, and I trialed a few tutors last week via Superprof
 		- But then I saw this tweet:
-- ![[conc-vs-metta rival voices guy opposite cropped.png]]
+- ![[conc-vs-metta rival voices guy opposite cropped.webp]]
 - And it does feel true that, looking at my life → *thinking* isn't necessarily the #1 bottleneck
 	- I probably have the 80/20 down at this point 
 - It definitely could be true that, now I have income, and am on the path to "leaving home in a healthy way", post-family therapy, the next step is living in a group house or intentional community and like, just learning to hang out, and to value it correctly 

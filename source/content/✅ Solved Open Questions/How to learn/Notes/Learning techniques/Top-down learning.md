@@ -13,7 +13,7 @@ permalink: top-down-learning
 
 See also [[Top-down learning unlocks care (and ego)]] & my [this-project kickoff post](https://www.alexislearning.me/learning-how-to-think/)
 
-![[Pasted image 20250618120001.png]]- *[From this thread](https://x.com/ejames_c/status/1895416279722594311)*
+![[Pasted image 20250618120001.webp]]- *[From this thread](https://x.com/ejames_c/status/1895416279722594311)*
 
 --- 
 

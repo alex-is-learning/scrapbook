@@ -33,7 +33,7 @@ permalink: 2025-07-08-uncertainty-manifesto
 - Then, I did reckon with how confused I've been; I did a rationality sprint, and a personal values sprint, and then landed on some values, with some empirical backing, and embarked on the "I want to be a high-impact leader!" story 
 - (The error here was in not looking for other stories, other frames, ways I might be wrong)
 ## A shitty diagram
-- ![[Pasted image 20250708120042.png]]
+- ![[Pasted image 20250708120042.webp]]
 - The green line represents being uncertain (should've been red, smh)
 - Then, I'm possessed by a story, and follow it for a few months (a coloured loop)
 - Then, I realise that maybe it was wrong, and I return to the green line, kind of back at square one (although I guess not really)
@@ -110,4 +110,4 @@ In essence, Socrates believed that to care for your soul, you must devote yourse
 - "uncertainty is painful" → [[Handling my feelings about doing an FRI work test]]
 
 
-- ![[writing-up-my-confusions.png]]
+- ![[writing-up-my-confusions.webp]]

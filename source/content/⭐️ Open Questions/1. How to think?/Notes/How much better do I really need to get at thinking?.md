@@ -9,4 +9,4 @@ permalink: how-much-better-at-thinking-2025-07-27
 	- Epistemics → I haven't e.g. used [[The elenchus]] to discover [[Popperian truth]]s to use as ==north stars==
 	- Morality → I know nothing about morality and free will. I imagine learning about this could be useful. (I had an intro call with a philosophy tutor the other day who shared a really dense thing with me that seems like it could be useful)
 	- 👇 planning on making my way through this
-	- ![[strawson-essay.png]]
+	- ![[strawson-essay.webp]]
