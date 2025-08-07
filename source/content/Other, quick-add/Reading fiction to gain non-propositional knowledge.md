@@ -1,0 +1,8 @@
+- 2025-08-07
+- Oooohhhh, this is a good insight!!!
+- Re: [[Vervaeke's 4 Ps of Knowledge]]
+- Non-fiction is all facts, arguments, logic, reasoning
+- Whereas fiction is perspectival, putting you in someone's shoes, showing you what it's like to live as them.
+- And it controls your salience landscape, maybe. The author is literally controlling your salience landscape 
+- So, after writing a book, you have this amazing embodied feeling of having really *been* there, of having really felt through that situation, to have inhabited another person. Empathy-expanding, enriching
+- Maybe I'm 

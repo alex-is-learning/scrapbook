@@ -8,6 +8,8 @@ permalink: log-per-day
 ### Week of 4th August
 - Thu 2025-08-07
 	- [[Excited to be employeed as a (self-described) Kegan 4]]
+	- [[On fiction (parent page)]]
+	- [[Writing to explore ideas]]
 - Wed 2025-08-06
 	- [[FRI (Parent Page)]]
 	- [[Handling my feelings about doing an FRI work test]]
