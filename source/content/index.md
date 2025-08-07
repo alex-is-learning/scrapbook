@@ -18,6 +18,7 @@ permalink: home-page
 - [[⭐️ "What is next for me after living at my mum's?" (Open Question)]]
 - [[⭐️ "What does it mean to be in ORI?" (Open Question)]]
 ## 2. Thinking in public
+- [[Writing public-facing manifestos, slash showing your thought process, seems powerful]]
 - E.g. 
 	- [[Should I meditate regularly?]] (2025-07-20)
 	- [[What I currently know about Bowen family systems theory|What I know about Bowen family systems theory]] (2025-07-18)
