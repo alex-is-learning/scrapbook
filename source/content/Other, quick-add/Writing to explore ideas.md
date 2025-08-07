@@ -14,3 +14,4 @@
 	- I think it's cool how Eliezer Yudkowski wrote "Harry Potter and the Methods of Rationality" (kind of genius, in fact)
 	- Richard Ngo writes fiction about AGI, e.g. "[The Gentle Romance](https://www.asimov.press/p/gentle-romance)"
 # Non-fiction as propositional knowledge, fiction as also including the others????
+- [[Reading fiction to gain non-propositional knowledge]]

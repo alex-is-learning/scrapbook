@@ -5,8 +5,12 @@ permalink: meditation-log
 - [[Should I meditate regularly?]]
 - [[Daily progress updates, streaks]]
 - How many days of meditation in a row?
-	- 🔥 11 🔥
+	- 🔥 12 🔥
 ## Week of 4th August
+- Thur 2025-08-07
+	- 5 mins
+	- So lame, but I'm superrrr fried from the work trial 
+	- Tomorrow I think I want to return to 1 hour long sits, or at least, think about duration. I've been wondering if 1 hour is excessive when you're a beginner (but then, it's what I did during the Finder's course, and it go me to access concentration)
 - Wed 2025-08-06
 	- only 10 mins, wah. should have messaged my friends to create accountability
 	- Feel really fried after a day of the work trial
