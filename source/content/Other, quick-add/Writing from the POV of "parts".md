@@ -15,3 +15,4 @@ created:
 - This is blindingly obvious, of course. But I found that, if I were to make a song, I'd feel a strong urge to explain it, or to not take a stance that I don't fully endorse, which leaves you with this kind of draining/tiresome voice which is always relativistic, always trying to indicate that it's aware of the nuance and etc, vs just wholeheartedly blending with a part
 
 - [[Addicted to this new Hayley Williams music video]]
+- [[Writing to explore ideas]]
