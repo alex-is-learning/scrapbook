@@ -120,3 +120,8 @@ created: 2025-08-06
 - ☝️ quickly porting stuff from Obsidian to Miro → will organise it more, but it immediately feels great to see everything in one view. Like, this is *everything*, there's no hidden nested doc somewhere
 # I'm allowed to do more than 10 hours
 - It's unlikely that I'll hit >10 hours in 2 days (the deadline is tomorrow), but even if I got up to like 13+ hours, I think that's fine, because I've spent a huge amount of time in meta confusion land, "how do I do a task like this", rather than actually executing. There's all this confusion and infrastructure stuff to figure out now, as someone who has never attempting to model the ~contingent beliefs & world models of opposing groups. This is hopefully the most confused I'll be. It's very educational!
+# Uncertainty is painful 
+- Idk if the pain of this work trial is signal that this absolutely is not the type of work for me, or perhaps signal that it's the perfect work for me 
+	- E.g., to help counter [[08. Enneagram 3 thinking sins]]
+	- And also I wrote this about [[How can I operate from a place of uncertainty?]]
+- It's been a very humbling work trial → grappling with uncertainty, with an intellectual task that I've never quite attempted before (at least not at this scale), etc
