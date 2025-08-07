@@ -13,7 +13,21 @@
 
 And then she repeats again but with this kind of unsettling new tone where she slides between the notes, I love it
 
-Similar to the final song on Fiona Apple's "Fetch The Bolt Cutters" where she repeats:
+But also, the verses are repetitive and hypnotic too
+
+> I'll be the biggest star  
+> At this racist country singer's bar  
+> No use shooting for the moon  
+> No use chasing waterfalls
+
+> I'm the biggest star  
+> At this racist country singer's bar  
+> No use shooting for the moon  
+> No use chasing waterfalls
+
+Like, it's "repetitive, hypnotic verse x2, then repetitive, hypnotic verse x2"
+
+Kinda reminds me of the final song on Fiona Apple's "Fetch The Bolt Cutters" where she repeats:
 
 **Fiona:**
 

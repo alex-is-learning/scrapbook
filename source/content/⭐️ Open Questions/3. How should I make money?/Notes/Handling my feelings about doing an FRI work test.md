@@ -125,3 +125,6 @@ created: 2025-08-06
 	- E.g., to help counter [[08. Enneagram 3 thinking sins]]
 	- And also I wrote this about [[How can I operate from a place of uncertainty?]]
 - It's been a very humbling work trial → grappling with uncertainty, with an intellectual task that I've never quite attempted before (at least not at this scale), etc
+
+- Also:
+- ![[writing-up-my-confusions.png]]
