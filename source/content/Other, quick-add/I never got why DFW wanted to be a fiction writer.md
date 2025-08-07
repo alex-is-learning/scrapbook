@@ -1,0 +1,12 @@
+- 2025-08-07
+- It's interesting to me how I've listened to many hours of DFW interviews, and I've read a bunch of his stuff and clearly been moved by it, but it didn't make me want to be a fiction writer
+- The purpose of it has still never quite rung true for me or clicked for me, somehow. Like, his thing of "books are about making people feel less lonely" never quite resonated or seemed that convincing. 
+- Like, it can be very nice to read something and be like "holy shit, that's me!", but it doesn't... get you anywhere, right?
+- (But on the other hand - that is pretty profound, to experience the words of another consciousness and to find resonance)
+- Or like, the Harold Bloom thing of being just absolutely obsessed with books, devouring them. Michael Silverblatt of Bookworm too. I actually barely read fiction, it's often just a passing fancy for me 
+- How can it be the case that you can love someone's work, but also doubt the profundity of it, somehow? It seems like there's a clash in my model or understanding here. The fact that I've been deeply touched by DFW's writing is proof that writing is deeply touching... 
+- I guess maybe I think that fiction can clearly produce these incredible states, but to me it feels so tied to DFW, like, I'm skeptical I'll find the same thing elsewhere. So it's like, ok, yes, I have empirical proof that fiction can sometimes stay with me for years after reading it and be incredibly vivid and resonant, but the chance of that happening per fiction book seems vanishingly low
+	- Maybe I'm just not reading the right books! But it does feel like I've read fiction that is touted as great (Donna Tartt, John Irving are recent examples) and just... yeah they were solid, they were good, but... non-profound, ultimately?
+# Recent things
+- [[Writing from the POV of "parts"]]
+- [[Writing to explore ideas]]
