@@ -122,8 +122,8 @@ In short, you are right to think the core idea is simple. The genius of the ACES
 # The study
 - [The study](https://www.ajpmonline.org/article/S0749-3797(98)00017-8/fulltext)
 - [The PDF](https://www.ajpmonline.org/action/showPdf?pii=S0749-3797%2898%2900017-8)
-- ![[The ACES study.png]]
+- ![[The ACES study.webp]]
 ## Figures
 - I'm just quickly skimming it AKA literally just grabbing the figures 
-- ![[The ACES study1.png]]
+- ![[The ACES study1.webp]]
 - Ah, that's the only figure, rest are tables

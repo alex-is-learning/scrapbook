@@ -43,7 +43,7 @@ Many times, very "reassuring myself", meditative vibes
 - *Ughhhh, I got nerd-sniped trying to add gifs here, tried making them and they were way too big* 
 - Anyway, there's a scene where she's with someone who is clearly aware that he's on camera and he's trying to do a cool weird dance like her but is clearly very much in "am I doing it right" mode and this self-conscious like "looking out the corner of my eye at her, and also wearing this big smile that's a little forced to look like I'm comfortable and having fun", vs she's just totally in it and total conviction no eye movements just totally locked in 
 - 👇 this bit
-- ![[Addicted to this new Hayley Williams music video12.png]]
+- ![[Addicted to this new Hayley Williams music video12.webp]]
 
 - Fuck it here's the voice note I sent to my friends I need to get ready for bed
 - ![[signal-2025-08-06-20-59-21-770.m4a]]
@@ -51,4 +51,4 @@ Many times, very "reassuring myself", meditative vibes
 # Vs Wet Leg - lower conviction
 - https://www.youtube.com/watch?v=AzUHNjKMeV4
 - I love this btw - never listened to them before, CPR (song 1) is great but song 2 (Mangetout) is *so good* → the band sound so tight, the group vocals ruleeee
-- ![[Addicted to this new Hayley Williams music video213.png]]
+- ![[Addicted to this new Hayley Williams music video213.webp]]

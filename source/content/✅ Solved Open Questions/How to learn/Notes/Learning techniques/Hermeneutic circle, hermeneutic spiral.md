@@ -15,4 +15,4 @@ From [[Bottom-up learning]] - what Michael talks about is also the hermeneutic c
 
 > By bottom-up learning I mean learning by collecting all the more basic, essential facts, memorising them, then going up to the next level of abstraction/complexity, memorising/grokking this level, then climbing up, etc 
 
- > Michael Nielsen details it in his incredible [Augmenting Long-Term Memory](https://augmentingcognition.com/ltm.html) post from his Augmenting Cognition blog:![[Michael Nielsen highlighted.png]]
+ > Michael Nielsen details it in his incredible [Augmenting Long-Term Memory](https://augmentingcognition.com/ltm.html) post from his Augmenting Cognition blog:![[Michael Nielsen highlighted.webp]]

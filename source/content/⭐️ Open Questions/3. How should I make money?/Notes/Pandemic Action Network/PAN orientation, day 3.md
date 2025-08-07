@@ -86,7 +86,7 @@ I want an overview of the key players (e.g. WHO, pandemic action network)
 things like funds, RANA, Africa CDC's New Public Health Order, the CDC, etc
 ```
 
-![[Pasted image 20250626075750.png]]
+![[Pasted image 20250626075750.webp]]
 - ☝️ I love deep research so so much
 - Ah, I shouldn't have specified orgs as examples, as it over-indexed on them 
 - So I also asked ChatGPT o3:
@@ -101,18 +101,18 @@ What would a map of this space look like? I'm imagining there are categories of 
 I currently don't have a good map in my head, I don't know what the different stakeholder types are called
 ```
 
-- ![[Pasted image 20250626090200.png]]
+- ![[Pasted image 20250626090200.webp]]
 - ChatGPT made this - looks non-hallucinatory to me! Great starting point
 - My version 👇
-![[Pasted image 20250626092753.png]]
+![[Pasted image 20250626092753.webp]]
 - Much better IMO as it has grouping, rather than just "here are 11 things, good luck" 
 - I also picked the colours vaguely based on Ken Wilbur's spiral dynamics framework, lol. Nerd easter egg
 - ![[Pasted image 20250626094830.png]]
-- ![[Pasted image 20250626103705.png]]
+- ![[Pasted image 20250626103705.webp]]
 - Realising I'd like to get an overview of the history of global health, in the same way that I did when I was learning about the nuclear space
 - Really useful to have a narrative overview of what happened when, what the key innovations have been, etc
 - Deep research to the rescue
 - `please make a report on the history of global health & pandemic PPR`
-- ![[Pasted image 20250626104220.png]]
+- ![[Pasted image 20250626104220.webp]]
 - Will read with Speechify and then feed into AI to make flashcards, skip the Miro stage
 - See [[Global Health flashcards from day 3]]

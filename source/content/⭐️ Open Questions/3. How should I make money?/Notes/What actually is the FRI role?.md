@@ -4,8 +4,8 @@ created: 2025-08-06
 ---
 - [[FRI (Parent Page)]]
 # Visual notes
-- ![[What actually is the FRI role?-3.png]]
-- ![[What actually is the FRI role?-4.png]]
+- ![[What actually is the FRI role?-3.webp]]
+- ![[What actually is the FRI role?-4.webp]]
 # Logistics
 - This is a part time, contractor role, 
 - with a preference for candidates who will be available 10+ hours/week.

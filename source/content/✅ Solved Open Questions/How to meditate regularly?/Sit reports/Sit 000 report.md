@@ -17,6 +17,6 @@ permalink: sit-000-report
 - I already have this goofy little tiny meditation cushion from amazon
 - Yesterday I was like "ooh, I know, I need knee cushions, that was a key thing I learned at the vipassana retreat"
 - And then I realised "hang on, I don't have to buy knee cushions from amazon, surely I have something I could use for free" → so I'm using my laundry bag and a blanket lol. Works perfectly 😎 shoutout to the new frugal Alex
-- ![[meditation-setup-1.jpg|400]]
+- ![[meditation-setup-1.webp|400]]
 - 👇 cool dude alert
-- ![[IMG_2116.jpg|400]]
+- ![[IMG_2116.webp|400]]

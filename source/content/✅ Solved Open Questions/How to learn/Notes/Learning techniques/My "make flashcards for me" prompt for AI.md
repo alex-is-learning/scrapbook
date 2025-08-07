@@ -5,8 +5,8 @@ permalink: my-make-flashcards-for-me-prompt-for-ai
 - I use the open-source text expander app "[Espanso](https://espanso.org/)"
 - This lets you set up triggers where if you type something like `:example`, it replaces it with whatever text you set up
 - E.g.:
-	- ![[Pasted image 20250627102417.png]]
-	- ![[Pasted image 20250627102439.png]]
+	- ![[Pasted image 20250627102417.webp]]
+	- ![[Pasted image 20250627102439.webp]]
 # `:flash`
 Act as an expert educational content analyst and Anki flashcard creator. Your task is to analyze the provided text, integrate it with your broader knowledge of the subject, and generate Anki cloze deletion flashcards based on the combined understanding.
 

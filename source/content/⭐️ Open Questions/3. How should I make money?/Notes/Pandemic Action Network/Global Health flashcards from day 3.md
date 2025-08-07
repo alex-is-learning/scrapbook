@@ -3,10 +3,10 @@ permalink: global-health-flashcards-from-day-3
 ---
 
 # 2025-06-26
-- ![[Pasted image 20250626174300.png|400]]
+- ![[Pasted image 20250626174300.webp|400]]
 - ☝️182 new flashcards, pray for me
 - 23:18 update 👇
-- ![[Pasted image 20250626231851.png]]
+- ![[Pasted image 20250626231851.webp]]
 - I studied them all!!!! 
 - Happy to have seen them all today because sleeping on it is a really powerful way to speed up learning, and I'm definitely ready for bed
 ## From my "PPR map"

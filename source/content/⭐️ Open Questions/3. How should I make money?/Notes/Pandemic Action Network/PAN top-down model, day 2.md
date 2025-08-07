@@ -8,7 +8,7 @@ permalink: pan-top-down-model-day-2
 - Aim - to have a thorough grasp of who they are, what they do, what they've done, and their theory of change
 - There's a lot to learn! This is not a scrappy little effective altruist org with a simple mission/not much available info → they have 5 annual reports and they've done a *lot* of amazing stuff
 - I now have a neat Miro board full of visual notes about them ([slide deck of visual notes](https://docs.google.com/presentation/d/15rrsNpgGta1bJhfBIRhKg3DPcdUPFfWS-ugrwBg06F8/edit?slide=id.g36292da8d7e_0_178#slide=id.g36292da8d7e_0_178))
-- ![[Pasted image 20250626065326.png]]
+- ![[Pasted image 20250626065326.webp]]
 - Post-it notes indicate things that I currently don't understand/open questions, to look into later, in the Michael Nielsen "iterative deepening" way (from [[Bottom-up learning]], also [[Hermeneutic circle, hermeneutic spiral]])
 - I still haven't made any flashcards, I'm going to test what I've grokked just from actively engaging with the info as I've ordered it, condensed it, adding hierarchies etc
 	- See [[Are visual notes underrated and poorly understood?]]
@@ -27,7 +27,7 @@ permalink: pan-top-down-model-day-2
 - Policy docs are deeply informed by diverse network
 - Signal boosting - can coordinate across network to spread message(s)
 - Key organiser of various things, key voice, kind of _the_ org at the middle of this hub-and-spoke model
-- ![[Pasted image 20250626070432.png]]
+- ![[Pasted image 20250626070432.webp]]
 - Led to huge outcomes like (and this is where flashcards will be useful)
 	- Summits 
 	- WHO things

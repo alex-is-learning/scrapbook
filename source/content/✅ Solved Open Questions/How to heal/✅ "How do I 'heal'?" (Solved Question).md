@@ -8,4 +8,4 @@ permalink: how-to-heal
 	- No more alexithymia, no more social anxiety, no more PTSD
 - Thanks tpot/post-rationalist space! Thanks IFS! Thanks consensus-ism! Thanks Buddhism!
 - Progress has been made on (Shamil Chandaria's?) "liberation-awakening" graph, basically:
-	- ![[liberation-awakening.png]]
+	- ![[liberation-awakening.webp]]

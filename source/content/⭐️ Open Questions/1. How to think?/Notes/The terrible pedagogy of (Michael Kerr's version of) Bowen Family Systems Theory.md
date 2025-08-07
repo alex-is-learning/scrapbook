@@ -4,7 +4,7 @@ permalink: the-terrible-pedagogy-of-michael-kerrs-version-of-bowen-family-system
 
 - 2025-07-17
 - I'm doing a deep read of this book:
-- ![[Pasted image 20250717142358.png]]
+- ![[Pasted image 20250717142358.webp]]
 - (I'm new to Bowen's theory, and I haven't read any of Bowen's writings yet. I was told that this book is the best modern thing to read to get the whole theory)
 - I have scribbled at various points in Michael Kerr's book on Bowen Family Systems theory  that the pedagogy of this theory is *trash*
 	- Both Bowen's original terms, and some of the new ones from Kerr
@@ -67,7 +67,7 @@ permalink: the-terrible-pedagogy-of-michael-kerrs-version-of-bowen-family-system
 - You can't have more than one "most important thing"! Which is it??
 ## 5. Being a book
 - I think there are limits to the book format (v.s. e.g. a mnemonic medium). It needs far more diagrams, it needs definitions to be pulled out and formatted much more clearly, it needs far more clarity. E.g., this bit of text is batshit and would be so much better in a different format:
-- ![[Pasted image 20250717142821.png]]
+- ![[Pasted image 20250717142821.webp]]
 - "Fusion" isn't defined until ~40 pages later. The structure of the book is a mess.
 ## 6. Dominant-adaptive (deferential)
 - Instead of "dominant-adaptive" being one of the 4 patterns of emotional function, Kerr's term is "dominant-adaptive (deferential)" - this is just more of a mouthful, harder to remember, redundant, stupid
@@ -75,7 +75,7 @@ permalink: the-terrible-pedagogy-of-michael-kerrs-version-of-bowen-family-system
 - Uses terms (e.g. "fusion") for ~60 pages before finally defining them
 ## 8. Figure 5.3 is straight up wrong
 - I had to draw my own on top to confirm - I swear to god, the actual graph implies that most people are 50/100 "differentiated", which is definitely not Kerr's point. It's supposed to be a graph with a long tail, but it's drawn to look essentially symmetrical. Am I missing something??
-- ![[Pasted image 20250717144517.png]]
+- ![[Pasted image 20250717144517.webp]]
 # Maybe it's anti-memetic because they haven't explained it well?
 - From the intro to Kerr's book
 > *"Despite Bowen theory being based on research begun more than seventy years ago, the value of viewing human beings as profoundly emotionally driven creatures and human families functioning as emotional units ==has yet to significantly penetrate the public consciousness==. Nor has the view of the forest as a social network penetrated the public consciousness. Both insights are secret, or at least largely hidden from view. This is obviously not the result of a conspiracy to suppress the information but, in the case of the family as an emotional unit, requires a radical and thus difficult shift in conceptual thinking. Most people acknowledge that the family is critically important to human health and well-being, but ==few are aware of the emotional forces and patterns of interaction in all families that govern whether the unit functions as a resource or stressor for its members=="*

@@ -4,7 +4,7 @@ permalink: global-health-flashcards-from-day-4
 
 - See also - [[Twitch stream 2025-06-27 - reviewing WHO and COVID response flashcards]]
 - 👇 Almost 6 hours of tracked work today
-- ![[Pasted image 20250627182123.png]]
+- ![[Pasted image 20250627182123.webp]]
 # 1. WHO flashcards
 - Three 25-minute pomodoros to:
 	- Make a Gemini deep research report on the WHO
@@ -15,9 +15,9 @@ permalink: global-health-flashcards-from-day-4
 	- Review the flashcards in anki, editing as needed (e.g., adding photos, adding colour to text)
 	- Also making additional ones as needed
 		- e.g. - realising that I don't know what "primary health care" is:
-		- ![[Pasted image 20250627092239.png]]
+		- ![[Pasted image 20250627092239.webp]]
 	- Now have 61 new ones to review
-	- ![[Pasted image 20250627085600.png]]
+	- ![[Pasted image 20250627085600.webp]]
 ## 1 
 ```
 The World Health Organisation (WHO) is the principal international authority dedicated to {{c1::global public health}}
@@ -277,9 +277,9 @@ is considered the cornerstone of WHO's transformation"
 ## Make the report
 - [Link to report](https://docs.google.com/document/d/1qM0XB46aVTsyuLhiurG08895jsNhGOzfswGotrXo8Wc/edit?usp=sharing)
 	- *I love Gemini Deep Research so much*
-- ![[Pasted image 20250627085924.png]]
+- ![[Pasted image 20250627085924.webp]]
 ## Initial read (with speechify)
-- ![[Pasted image 20250627093727.png]]
+- ![[Pasted image 20250627093727.webp]]
 - Read whilst listening at a relatively high speed. I find that speechify massively reduces willpower needed to read, as someone else is setting the pace (the person who is reading out loud)
 ## Make flashcards with Gemini
 - As per [[My "make flashcards for me" prompt for AI]]
@@ -287,7 +287,7 @@ is considered the cornerstone of WHO's transformation"
 - So I've just exported pages 1-6, 6-10, 10-15, 15-18 and 18-21 to separate PDFs, to ensure I get thorough flashcards from each
 ## Put the first round of flashcards into Neovim (Neovide), & edit
 - I have a .txt file called import.txt where I put flashcards to be edited
-- ![[Pasted image 20250627103018.png]]
+- ![[Pasted image 20250627103018.webp]]
 - Often need to add more line breaks to make the flashcards faster to parse
 - And may need to make additional flashcards, or delete some that I already know/don't want to know
 - I have the `:flash` prompt for making flashcards via AI use the "|" on a new line to separate the flashcards for my own readability & ease of editing whilst in neovim. Before importing to anki, I use a Python script to clean up the .txt file to be a format that works for Anki's import feature
@@ -405,12 +405,12 @@ if __name__ == "__main__":
 ```
 - The above looks for a file called import.txt, cleans it up, saves the output to output.txt, and wipes import.txt so it's empty and ready for future flashcards
 - All the files need to be in the same directory:
-	- ![[Pasted image 20250627105008.png]]
+	- ![[Pasted image 20250627105008.webp]]
 ## Import into anki
 - 👇 "Import file" at the bottom
-- ![[Pasted image 20250627105050.png]]
-- ![[Pasted image 20250627105141.png]]
-- ![[Pasted image 20250627105208.png]]
+- ![[Pasted image 20250627105050.webp]]
+- ![[Pasted image 20250627105141.webp]]
+- ![[Pasted image 20250627105208.webp]]
 ## Flashcards
 - Ah, I imported the first round into anki and forgot to port them here
 ### Round 2

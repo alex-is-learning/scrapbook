@@ -1,6 +1,6 @@
 - I guess this is the thing? I'm still not entirely sure how this applies to "wordly concerns" (but then again, maybe it totally does)
-- ![[ORI idea - Problems are actually already solved.png]]
-- ![[ORI idea - Problems are actually already solved-1.png]]
+- ![[ORI idea - Problems are actually already solved.webp]]
+- ![[ORI idea - Problems are actually already solved-1.webp]]
 - So like, a complex worldview, a complex solution, is more likely to be wrong and bad
 - Vs, lower level, simple, straightforward, profound, universal, 1:1 match with reality?
 	- E.g., "The Golden Rule" vs a complicated ethical framework which gets bogged down in an infinite regress

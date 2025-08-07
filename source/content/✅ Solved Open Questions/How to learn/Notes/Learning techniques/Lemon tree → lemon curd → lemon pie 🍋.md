@@ -8,5 +8,5 @@ permalink: lemon-tree-lemon-curd-lemon-pie
 	- *"You pluck a healthy lemon and are like “I’m really pleased with this lemon how it is, but I know I’m gonna need to sweeten it into a curd or something to make **other** people want it”*
 	- *"My ==public notebook as a load of raw lemons== vs substack as the place to make the curd, and maybe one day I’ll make a lemon meringue pie 🥧"*
 		- Maybe a book or more youtube videos or something?
-- ![[This is where the lemons are 🍋.png|300]]
+- ![[This is where the lemons are 🍋.webp|300]]
 - ☝️ Simmo's now-famous lemon photo

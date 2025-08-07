@@ -3,7 +3,7 @@ permalink: are-visual-notes-underrated-and-poorly-understood
 ---
 
 # *Note to self → I want to investigate this thread more and then talk to Andy Matuschak*
-![[Pasted image 20250624180627.png]]
+![[Pasted image 20250624180627.webp]]
 # 1. Am I cutting edge? Dumb? Bit of both?
 - A thing which I feel like I'm on the cutting edge of, and that doesn't have a clear name yet/a clear codified skillset, and I oscillate between "I think this is incredibly powerful and underrated" and "maybe I'm literally just stupid and have a learning disability of some kind" is - making visual notes
 - To orient to a new project I pretty much always make a mega miro board - this is one I've been making today for a job I'm going to apply to:

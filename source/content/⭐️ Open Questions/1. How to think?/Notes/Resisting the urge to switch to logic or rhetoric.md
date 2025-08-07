@@ -6,7 +6,7 @@ permalink: resisting-the-urge-to-switch-to-logic-or-rhetoric
 # Tempted to learn logic or rhetoric
 - I'm feeling tempted to move on to a book about Logic, or maybe rhetoric
 - E.g., apparently this textbook is a classic
-	- ![[Pasted image 20250709073757.png|300]]
+	- ![[Pasted image 20250709073757.webp|300]]
 # Why?
 - I asked Gemini:
 	- *"What are some key latin terms that people may use when reasoning? I want to expand my kind of... rationality terminology"*
@@ -128,7 +128,7 @@ In short, to get the unified, thorough education you're looking for, your best b
 # HOWEVER
 - I haven't mastered the elenchus yet! 
 - I think there's still much more for me to pull out of Ward Farnsworth's book
-- ![[socratic-method-book.jpg|350]]
+- ![[socratic-method-book.webp|350]]
 - I think I did a pretty good job of learning from this via writing things up at [[⭐️"How can I improve my ability to think? (Open Question)]]
 	- E.g. 	
 		- [[06. Learning the Socratic method, part 1 → the rationale]]

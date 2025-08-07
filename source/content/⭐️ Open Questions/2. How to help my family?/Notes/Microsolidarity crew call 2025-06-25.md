@@ -14,7 +14,7 @@ permalink: microsolidarity-crew-call-2025-06-25
 1. T → "I know how much helping people, being useful means to people, so I can imagine how painful it is to not be able to share this with your family"
 2. Johnson & the empty box
 	- I talked about how the sections of my planning Miro board for understanding the family are detailed, and the box of "what it's like to be me" is totally blank b/c it doesn't feel has pressing
-	- ![[Pasted image 20250625201530.png]]
+	- ![[Pasted image 20250625201530.webp]]
 	- Johnson said that he thinks I should thoroughly fill this out, like an entire book's worth, and then continue with the rest
 	- This feels counter to my "planning/strategy/wanting to get to actionable stuff" brain, but I think it's very true that getting a much clearer model of what it's been like to be me through all this will be very useful. Being able to lead with how I've felt, leading with authentic emotion rather than "doer" energy
 3. Johnson wants to support

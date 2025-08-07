@@ -26,7 +26,7 @@ title: ORI update & open questions, 2025-08-05
 - Too much looking *outside*, thinking that the knowledge is *out there somewhere*
 - A feeling of overwhelm, a blind spot (always looking outside, meaning you never introspect → your problems become "ugh fields", and you'll never stumble across them, because you're never looking where they are)
 - [[The streetlight effect]]
-- ![[the streetlight effect.png]]
+- ![[the streetlight effect.webp]]
 ## Phase 3 (not begun, and the profundity has not "clicked" yet)
 - *Post-walk Alex - perhaps phase 3 is "soberly work on your problems, realising that they are probably solved, that they're not intractable, that you can ask the universe for help*
 - Defender has messaged a few times about cultural engineering, and obviously open memetics is like, his whole thing
@@ -73,7 +73,7 @@ title: ORI update & open questions, 2025-08-05
 	- It seems like the human condition that no one agrees on this stuff, that there are no universal quick fixes, it's hermeneutics all the way down, there's no foundation to grasp onto, etc
 	- Or is something like "learn about family systems theory, convince family to go to therapy, iterate from there" as good at it gets, and still requires a lot of work from me?
 	- Or perhaps someone has "solved" it and it's a different thing, it's "dude don't even bother with family therapy, you can't change other people, you just need to do 1000 hours of metta meditation" or something
-		- ![[ORI update & open questions, 2025-08-05adf.png]]
+		- ![[ORI update & open questions, 2025-08-05adf.webp]]
 		- ☝️ data-point for this that I just saw
 	- Or "dude DFW has already provided the road map in This is Water"
 			- [[What "This is Water" means to me (WIP)]]
@@ -138,7 +138,7 @@ title: ORI update & open questions, 2025-08-05
 ### Friendships
    - Friendships
 	   - Screenshot from one of my docs:
-	   - ![[Thinking about open cultural engineering and my resistance to it (2025-08-05).png]]
+	   - ![[Thinking about open cultural engineering and my resistance to it (2025-08-05).webp]]
     - have you tweeted this / and or have people in mind that you'd like to be in a study group with, and have you tried @ ing them / asking them?
 		- <span class="text-red">Oh, perhaps my wording was unclear → these are the things I currently do. I'm also planning a group house for ~October. This feels like a solved problem!</span>
 # Get better at probing the universe? 
@@ -173,4 +173,4 @@ title: ORI update & open questions, 2025-08-05
 
 ---
 - 👇 like, is this me
-![[trying-to-solve-the-wrong-problem.png]]
+![[trying-to-solve-the-wrong-problem.webp]]

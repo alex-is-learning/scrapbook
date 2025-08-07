@@ -2,5 +2,5 @@
 - I'm doing a lot of "noticing my confusions and aversions at work and speaking up about them", feels great
 - Today, it led to the internal tactics we were following shifting, which is a huge win
 - Kegan 3 Alvea/Refract Alex would have been like "whatever you say goes, sounds good to me!", whereas now I'm writing memos on what I'm confused about, naming blockers and aversion and confusion in meetings etc.
-- ![[writing-up-confusions.png]]
-- ![[Pasted image 20250807122917.png]]
+- ![[writing-up-confusions.webp]]
+- ![[Pasted image 20250807122917.webp]]
