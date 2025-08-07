@@ -108,3 +108,6 @@ In essence, Socrates believed that to care for your soul, you must devote yourse
 
 ---
 - "uncertainty is painful" → [[Handling my feelings about doing an FRI work test]]
+
+
+- ![[writing-up-my-confusions.png]]

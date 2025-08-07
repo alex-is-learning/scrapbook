@@ -1,0 +1,6 @@
+- Only want to add ones as I reference them in my writing, rather than making a big inert list of things that I don't actually do!
+- [[“'Handle your feelings about the task' is the zeroth item on any todo list"]]
+- [[Ask dumb questions]]
+- [[ORI idea - Destigmatise being dumb]]
+- [[ORI idea - the universe (you're a cell inside an organism)]]
+- [[ORI idea - Problems are actually already solved]]
