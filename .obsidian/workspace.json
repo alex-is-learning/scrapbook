@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
+                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Switching to open awareness practice 2025-08-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meditation log"
+              "title": "Switching to open awareness practice 2025-08-08"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
+                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Switching to open awareness practice 2025-08-08.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Meditation log"
+              "title": "Backlinks for Switching to open awareness practice 2025-08-08"
             }
           },
           {
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
+                "file": "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Switching to open awareness practice 2025-08-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Meditation log"
+              "title": "Outline of Switching to open awareness practice 2025-08-08"
             }
           }
         ]
@@ -206,8 +206,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b36be87d212245d3",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/📎 Files/Images/misc/imageadfadfla.webp",
+    "source/content/📎 Files/Voice notes/signal-2025-08-08-223440.mp3",
+    "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Meditation log.md",
+    "source/content/✅ Solved Open Questions/How to meditate regularly?/Sit reports/Switching to open awareness practice 2025-08-08.md",
     "source/quartz/static/icon.png",
     "source/quartz/static/icon_depracated.png",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Visual metaphors for the \"how can I help my family\" project.md",
@@ -233,26 +237,21 @@
     "source/content/🪵 Log per day.md",
     "source/content/Other, quick-add/Writing from the POV of \"parts\".md",
     "image-1.png",
-    "image.png",
     "source/content/⭐️ Open Questions/4. What do I do with the things I love?/Notes/DFW/Why do I love DFW's fiction so much?.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian third-party plugins.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Obsidian Guide - Phase 3 - Small quality of life things.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Alex's Obsidian Guide.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Wow Alex! I want a cool website like this!!!.md",
     "source/content/index.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Should I meditate regularly?.md",
     "source/content/📎 Files/Images/misc/stream-entry-1.webp",
-    "source/content/Other, quick-add/Excited to be employeed as a (self-described) Kegan 4.md",
     "source/content/📎 Files/Images/misc/Pasted image 20250807122917.webp",
     "source/content/📎 Files/Images/misc/writing-up-confusions.webp",
     "source/content/📎 Files/Images/misc/Ask dumb questions.webp",
     "source/content/📎 Files/Images/misc/writing-up-my-confusions.webp",
     "source/content/📎 Files/Images/misc/Work with the garage door up.webp",
-    "source/content/📎 Files/Images/misc/Digital Garden.webp",
     "source/content/📎 Files/mp3s/signal-2025-08-06-20-59-21-770.m4a",
     "source/content/Other, quick-add",
     "source/quartz/styles/variables.scss",
-    "source/quartz/styles/syntax.scss",
-    "source/quartz/styles/callouts.scss"
+    "source/quartz/styles/syntax.scss"
   ]
 }

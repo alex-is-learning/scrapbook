@@ -1,0 +1,24 @@
+- [[Meditation log]]
+- 2025-08-08
+- 👇 sent this to my friends
+- ![[signal-2025-08-08-223440.mp3]]
+- I want to get more ambitious and experience deconstruction and "foregrounding the background" states again!!!
+- From Sasha's "[What I wish someone had told me about starting a meditation practice](https://sashachapin.substack.com/p/what-i-wish-someone-had-told-me-about)"
+- ![[imageadfadfla.webp]]
+- ☝️ this is exactly what I've been doing lol, [[Ānāpānasati (Anapanasati)]]
+	- In my defence, it did get me to "access concentration" when I did the Finder's Course. But weirdly I feel like it wasn't going very well over the ~9 days that I did 1 hour per day, I didn't feel like I was progressing
+- So, open awareness! Surrender! Relaxation! Deconstruction!
+- Other great posts by him on this
+	- "[What I wish someone had told me about starting a meditation practice](https://sashachapin.substack.com/p/what-i-wish-someone-had-told-me-about)"
+	- "[Should you meditate, and also, what is even meditation](https://sashachapin.substack.com/p/should-you-meditate-and-also-what)"
+	- "[A Non-Definitive Non-Guide to Non-Duality](https://sashachapin.substack.com/p/a-non-definitive-non-guide-to-non)"
+
+---
+- [[Meditation log]]
+- **Date & Time:** 
+- **Duration:** 
+- **Technique:** 
+- **Summary of the Sit:** 
+    - 
+- **Key Takeaway / Question:** 
+    - 
