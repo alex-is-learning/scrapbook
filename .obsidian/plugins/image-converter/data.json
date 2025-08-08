@@ -214,8 +214,8 @@
   "modalBehavior": "never",
   "singleImageModalSettings": {
     "conversionPresetName": "None",
-    "outputFormat": "ORIGINAL",
-    "quality": 20,
+    "outputFormat": "WEBP",
+    "quality": 69,
     "colorDepth": 1,
     "resizeMode": "None",
     "desiredWidth": 800,
