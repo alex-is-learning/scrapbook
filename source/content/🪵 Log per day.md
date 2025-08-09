@@ -6,6 +6,9 @@ permalink: log-per-day
 - [[Daily progress updates, streaks]]
 ## 03. August 2025
 ### Week of 4th August
+- Sat 2025-08-09
+	- [[How to think in a rigorous way]]
+	- [[Is it unethical to take my mum to family therapy?]]
 - Thu 2025-08-07
 	- [[Excited to be employeed as a (self-described) Kegan 4]]
 	- [[On fiction (parent page)]]
@@ -19,7 +22,7 @@ permalink: log-per-day
 	- [[What turning 29 means in Chinese culture (according to Gemini)]]
 	- [[ORI update & open questions, 2025-08-05]]
 - Mon 2025-08-04
-	- [[What "This is Water" means to me (WIP)]]
+	- [[What "This is Water" means to me]]
 	- [[David Foster Wallace (parent page)]]
 	- [[Why do I love DFW's fiction so much?]]
 ## 02. July 2025

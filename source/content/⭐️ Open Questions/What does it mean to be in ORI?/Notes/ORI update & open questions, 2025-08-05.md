@@ -76,7 +76,7 @@ title: ORI update & open questions, 2025-08-05
 		- ![[ORI update & open questions, 2025-08-05adf.webp]]
 		- ☝️ data-point for this that I just saw
 	- Or "dude DFW has already provided the road map in This is Water"
-			- [[What "This is Water" means to me (WIP)]]
+			- [[What "This is Water" means to me]]
 - This is why ==I'm skeptical re: fixes about this kind of thing== - it seems very person-dependent. 
 	- Like, maybe there is frontier knowledge that solves problems in *maths* or something, but my very quotidian everyday concerns feel much more akin to the social sciences or psychology or something - no "real answers", no concrete truths, etc
 		- But, maybe I'm just not realising that these things are in fact solved, it's just not commonly known?

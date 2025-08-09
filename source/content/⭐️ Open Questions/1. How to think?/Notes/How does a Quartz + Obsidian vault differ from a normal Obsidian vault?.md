@@ -23,6 +23,6 @@
 	- ![[How does a Quartz + Obsidian vault differ from a normal Obsidian vault? 2.webp]]
 - You can set up custom CSS → I recommend vibe coding here! 
 - E.g., I set up red font, 
-	- e.g. see [[What "This is Water" means to me (WIP)]]
+	- e.g. see [[What "This is Water" means to me]]
 - And I set up dialogue formatting, 
 	- e.g. see [[Gemini Socrates - part-time vs full-time work]]

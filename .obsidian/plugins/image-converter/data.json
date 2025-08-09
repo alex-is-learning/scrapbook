@@ -28,7 +28,7 @@
       "conflictResolution": "increment"
     }
   ],
-  "selectedFilenamePreset": "Keep original name",
+  "selectedFilenamePreset": "NoteName-Timestamp",
   "outputFormat": "NONE",
   "quality": 100,
   "colorDepth": 1,
@@ -49,6 +49,22 @@
   "subfolderTemplate": "",
   "conversionPresets": [
     {
+      "name": "Web95",
+      "outputFormat": "WEBP",
+      "quality": 95,
+      "colorDepth": 1,
+      "resizeMode": "None",
+      "desiredWidth": 800,
+      "desiredHeight": 600,
+      "desiredLongestEdge": 1000,
+      "enlargeOrReduce": "Auto",
+      "allowLargerFiles": false,
+      "skipConversionPatterns": "",
+      "ffmpegExecutablePath": "",
+      "ffmpegCrf": 23,
+      "ffmpegPreset": "medium"
+    },
+    {
       "name": "None",
       "outputFormat": "NONE",
       "quality": 100,
@@ -62,6 +78,22 @@
       "skipConversionPatterns": "",
       "pngquantExecutablePath": "",
       "pngquantQuality": "65-80",
+      "ffmpegExecutablePath": "",
+      "ffmpegCrf": 23,
+      "ffmpegPreset": "medium"
+    },
+    {
+      "name": "web95",
+      "outputFormat": "WEBP",
+      "quality": 95,
+      "colorDepth": 1,
+      "resizeMode": "None",
+      "desiredWidth": 800,
+      "desiredHeight": 600,
+      "desiredLongestEdge": 1000,
+      "enlargeOrReduce": "Auto",
+      "allowLargerFiles": false,
+      "skipConversionPatterns": "",
       "ffmpegExecutablePath": "",
       "ffmpegCrf": 23,
       "ffmpegPreset": "medium"
@@ -103,17 +135,8 @@
       "ffmpegPreset": "medium"
     }
   ],
-  "selectedConversionPreset": "None",
-  "globalPresets": [
-    {
-      "name": "WebP 75",
-      "folderPreset": "Default (Obsidian setting)",
-      "filenamePreset": "NoteName-Timestamp",
-      "conversionPreset": "WEBP (75, no resizing)",
-      "linkFormatPreset": "Default (Wikilink, Shortest)",
-      "resizePreset": "Default (No Resize)"
-    }
-  ],
+  "selectedConversionPreset": "WEBP (75, no resizing)",
+  "globalPresets": [],
   "selectedGlobalPreset": "",
   "linkFormatSettings": {
     "linkFormatPresets": [

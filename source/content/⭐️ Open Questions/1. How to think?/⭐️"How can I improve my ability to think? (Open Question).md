@@ -5,6 +5,8 @@ permalink: how-can-i-improve-my-ability-to-think-open-question
 - *This "learning how to think" project started with me doing a rationality sprint in ~Feb 2025, for ~1 month. Now I'm back!*
 # August 2025
 ## Week of 4th August
+- Sat 2025-08-09
+	- [[How to think in a rigorous way]]
 - Tue 2025-08-05
 	- [[Dealing with overwhelm at work]]
 # July 2025

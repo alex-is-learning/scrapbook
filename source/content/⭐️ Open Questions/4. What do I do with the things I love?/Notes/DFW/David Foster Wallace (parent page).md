@@ -6,5 +6,5 @@ created: 2025-08-04
 	- [[On fiction (parent page)]]
 - Monday 2025-08-04
 	- [[My DFW Journey]]
-	- [[What "This is Water" means to me (WIP)]]
+	- [[What "This is Water" means to me]]
 	- [[Why do I love DFW's fiction so much?]]
