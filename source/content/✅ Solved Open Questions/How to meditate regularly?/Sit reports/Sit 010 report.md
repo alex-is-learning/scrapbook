@@ -1,0 +1,3 @@
+- [[Meditation log]]
+- Eye gazing in the mirror leading to visual deconstruction, hell yeah
+- 30 mins
