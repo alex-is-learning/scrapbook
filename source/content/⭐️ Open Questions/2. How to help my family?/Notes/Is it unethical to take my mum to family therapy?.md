@@ -10,7 +10,7 @@
 - Similar to above point, but I think p(a year from now I think I was totally in the wrong re: my worldview, my plans, etc) is *very* high. I think I'll think "totally makes sense that 29 year old Alex felt that way, and his heart was absolutely in the right place, but oh my god, the youthful arrogance"
 - 40 year old Alex: "remember that time when I was about to turn 29 and I thought I should drag my mum to family therapy to get her to 'wake up' and change, whilst I was personally barely an adult and still had a huge amount of personal waking up/cleaning up/showing up to do? Why the hell did I choose that time to try to change *someone else*? Ultimately, because I was hoping it'd give me more peace of mind. I felt like I'd never be able to 'move on' whilst my family members were suffering (even if mostly unbeknownst to them)"
 ## 1c. Is it ethical to say terrible things to someone?
-- If you are deeply judgemental to someone, should you tell them your judgemental thoughts? Or should you keep them to yourself? Are they useful data points for them to understand how they hurt you, that might help them to change? Or are they deeply hurtful things that they'll never be able to unhear, and will reinforce their default state of being which involves repressing difficult truths?
+- If you are deeply judgemental about someone, should you tell them your judgemental thoughts? Or should you keep them to yourself? Are they useful data points for them to understand how they hurt you, that might help them to change? Or are they deeply hurtful things that they'll never be able to unhear, and will reinforce their default state of being which involves repressing difficult truths?
 ## 1d. Is my prescription remotely possible?
 - ![[Is it unethical to take my mum to family therapy_-1754738534774.webp]]
 - https://x.com/sashachapin/status/1865558631405752393
@@ -23,6 +23,8 @@
 - This also reminds me of the Simone Weil quote
 	- This sequence reveals a profound connection between her lived experience and her
 	developing metaphysics. Her later philosophy would posit that divine grace "==can only enter where there is a void to receive it==". → who am I to try to induce the creation of the void?
+## 1e. The curse of knowledge
+- There's something here around → I've spend ~2-3 difficult, stumbling years trying to make progress in the "healing" space. I had a series of lucky breaks, circumstantial and constitutional luck. I don't have a simple formula that I can prescribe. But, because I've made progress, I'm like "you've got to try, it's worth it, and you'll get there!". But my progress isn't even apparent to my family, and I don't have a clear path to prescribe to them, other than... "face your pain, increase your self awareness, get involved in the community", which, is anyone going to do that when they're in their 60s? 
 # 2. Who am I to judge?
 ## 2a. Being angry at family members for human nature
 ### Ignorance
