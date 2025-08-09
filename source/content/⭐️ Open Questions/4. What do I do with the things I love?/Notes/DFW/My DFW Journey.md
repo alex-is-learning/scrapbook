@@ -23,4 +23,4 @@ created: 2025-08-04
 - I've only read this once, and it's of course unfinished - my sense was that it's a little dull, and hard to track, but there are moments are real beauty. The scene with the titular character and a woman in a diner where he listens to intently to her life story that he levitates a few inches off the chair. The whole short story about the "wastoid" stoner guy who discovers the importance of... civic duty? And becomes an IRS man? 
 - I think the themes are incredibly interesting and of the times (instead of focusing on entertainment, as he did in Infinite Jest, he's focusing on boredom, mundanity, sacrifice, etc.). I should really read it again 👀
 ## This is Water
-- [[What "This is Water" means to me (WIP)]]
+- [[What "This is Water" means to me]]
