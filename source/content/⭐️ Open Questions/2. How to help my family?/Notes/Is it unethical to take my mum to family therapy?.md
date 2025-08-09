@@ -20,6 +20,9 @@
 - "How do I 'help' my family" → 
 	- "by waking them up to their cowardice and avoidance and shadow, and finally make profound changes to hugely improve their quality of life" 
 	- "by being kinder to them and loving them"
+- This also reminds me of the Simone Weil quote
+	- This sequence reveals a profound connection between her lived experience and her
+	developing metaphysics. Her later philosophy would posit that divine grace "==can only enter where there is a void to receive it==". → who am I to try to induce the creation of the void?
 # 2. Who am I to judge?
 ## 2a. Being angry at family members for human nature
 ### Ignorance
