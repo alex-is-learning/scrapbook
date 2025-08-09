@@ -9,6 +9,7 @@ permalink: log-per-day
 - Sat 2025-08-09
 	- [[How to think in a rigorous way]]
 	- [[Is it unethical to take my mum to family therapy?]]
+	- [[Visual deconstruction via eye gazing and verbal debugging]]
 - Thu 2025-08-07
 	- [[Excited to be employeed as a (self-described) Kegan 4]]
 	- [[On fiction (parent page)]]
