@@ -19,6 +19,6 @@
 - **Duration:** 
 - **Technique:** 
 - **Summary of the Sit:** 
-    - 
+    - started too late again!! was falling asleep
 - **Key Takeaway / Question:** 
     - 

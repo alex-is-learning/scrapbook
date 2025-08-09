@@ -7,8 +7,10 @@ permalink: meditation-log
 - How many days of meditation in a row?
 	- 🔥 12 🔥
 ## Week of 4th August
+- Sat 2025-08-09
+	- [[Sit 010 report]]
 - Friday 2025-08-08
-	- [[Switching to open awareness practice 2025-08-08]]
+	- [[Switching to open awareness practice 2025-08-08 (sit 010)]]
 - Thur 2025-08-07
 	- 5 mins
 	- So lame, but I'm superrrr fried from the work trial 
