@@ -32,10 +32,15 @@
 - I've known for ages that the constant comedy podcast usage is probably dumb. I've read "Amusing Ourselves to Death", I've read Infinite Jest (twice!). But, idk, I don't have access to good in person connection, is my reasoning - why, am I supposed to be totally isolated? Surely laughs with my parasocial fake friends is better for my brain? It's good to laugh!
 	- I think there's truth in this. But there's also truth in this - I've probably listened to enough comedy podcasts. I know where they lead - they don't cumulative, there's not that much to be gained, long term. And perhaps their value in keeping loneliness and boredom away is actually counterproductive - perhaps loneliness and boredom would be very useful. There's an obvious way in which listening to podcasts is a rejection of the current moment - "this isn't stimulating enough, this isn't fun enough, I can't just brush my teeth without being entertained, that would be a waste of time, why not multi-task?" But there's a depth of experience in being present. And there's a unity of experience in always single-tasking, treating the day as an unbroken sequence of events that you are fully present for (or at least, endeavouring to be fully present).
 # 3. What I've done so far
-- My airpods are now hidden in the shed
-- My apple watch is turned off
+1. My airpods are now hidden in the shed
+2. My apple watch is turned off
 	- Notifications on your wrist - why?
 	- Sleep tracking - why? I can tell if I'm tired or not
 	- Fitness tracking - I do like being able to see my cardio health. But if I work out and swim for a few months, I'll get more fit
-- My iphone is downstairs
+3. My iphone is downstairs
 	- I put my iphone in its box, and put a post-it note on the box, and wrote what time it went in the box. It went in the box at 8pm, and I got it out of the box at 9am, after waking up early and going on a walk with no technology on me at all.
+# 4. What about assessing the rhetoric before making changes?
+- I've been aware for a while, especially since starting at my contractor job, that I'm juggling far too much, day-to-day. Juggling a bunch of things and never really making progress on anything. Wild amounts of procrastination on certain admin-y things. 
+- I've also been aware of the ridiculousness of my comedy podcast habits for months, and half-hoping for something to nudge me into giving them up
+- I haven't done anything radical as a result of the rhetoric. I haven't bought hundreds of pounds worth of "[minimising the pull](https://lessfoolish.substack.com/p/the-tools-for-the-pull)" equipment. I'm just running some free experiments and seeing how it feels
+- So far, I've been slightly bored, dove into some aversive tasks in a flow state-y way (taxes), locked into writing this post (and linked posts, like [[Airpods are kind of insidious]])
