@@ -40,7 +40,13 @@
 3. My iphone is downstairs
 	- I put my iphone in its box, and put a post-it note on the box, and wrote what time it went in the box. It went in the box at 8pm, and I got it out of the box at 9am, after waking up early and going on a walk with no technology on me at all.
 # 4. What about assessing the rhetoric before making changes?
-- I've been aware for a while, especially since starting at my contractor job, that I'm juggling far too much, day-to-day. Juggling a bunch of things and never really making progress on anything. Wild amounts of procrastination on certain admin-y things. 
-- I've also been aware of the ridiculousness of my comedy podcast habits for months, and half-hoping for something to nudge me into giving them up
-- I haven't done anything radical as a result of the rhetoric. I haven't bought hundreds of pounds worth of "[minimising the pull](https://lessfoolish.substack.com/p/the-tools-for-the-pull)" equipment. I'm just running some free experiments and seeing how it feels
+- I've been aware for a while, especially since starting at my contractor job, that I'm ==juggling far too much, day-to-day==. Juggling a bunch of things and never really making progress on anything. Wild amounts of procrastination on certain admin-y things. 
+- I've also been aware of the ==ridiculousness of my comedy podcast habits== for months, and half-hoping for something to nudge me into giving them up
+- I haven't done anything radical as a result of the rhetoric. ==I haven't bought hundreds of pounds worth== of "[minimising the pull](https://lessfoolish.substack.com/p/the-tools-for-the-pull)" equipment. I'm just running some free experiments and seeing how it feels
 - So far, I've been slightly bored, dove into some aversive tasks in a flow state-y way (taxes), locked into writing this post (and linked posts, like [[Airpods are kind of insidious]])
+# 5. What I could do next
+- Make batching and solo-tasking easier
+	- Block messaging apps from my phone and laptop for certain hours of the day? 
+	- Set up more ruthless entertainment blocks? 
+		- Currently I can only access youtube and reddit for 30 mins a day, but this keeps them as things that I think about daily. Maybe I could e.g. make them things I can only access 3 times a week, or something
+	- Batch and timebox more, somehow, idk how... I don't like *too much* routine, like "you will always do this task at this time every day". But perhaps some version of this is worth it? 
