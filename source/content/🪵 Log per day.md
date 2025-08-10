@@ -8,6 +8,7 @@ permalink: log-per-day
 ### Week of 4th August
 - Sun 2025-08-10
 	- [[Should I follow some of the prescriptions of Bonesaw?]]
+	- [[Should I pay Michael Stroe to help me break aversion?]]
 - Sat 2025-08-09
 	- [[Is it unethical to take my mum to family therapy?]]
 	- [[Visual deconstruction via eye gazing and verbal debugging]]

@@ -1,0 +1,12 @@
+- [[Meditation log]]
+- **Date & Time:** 22:20
+- **Duration:** 20 mins
+- **Technique:** [[Visual deconstruction via eye gazing and verbal debugging]]
+- **Summary of the Sit:** 
+    - Very cool and absorbing, dude
+    - Watching my face decompose into an eigenface as I relax, and reconstruct when my eyes do the saccades thang (against my will, damnit)
+	- ![[eigenfaces1.webp]]
+    - ☝️ not at all creepy to experience, despite how horrifying this looks, lol
+	- ![[eigenfaces2.webp]]
+- **Key Takeaway / Question:** 
+    - 

@@ -35,3 +35,7 @@ created:
 - ☝️ reconstruction
 - ![[Visual deconstruction via eye gazing and verbal debugging-1754776882639.webp]]
 - (Really incredible lecture! you've gotta watch this shit https://www.youtube.com/watch?v=Eg3cQXf4zSE)
+## Eigenfaces
+- ![[eigenfaces1.webp]]
+- ![[eigenfaces2.webp]]
+- ![[eigenfaces3.webp]]
