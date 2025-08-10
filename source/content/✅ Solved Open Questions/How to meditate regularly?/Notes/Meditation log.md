@@ -4,9 +4,9 @@ permalink: meditation-log
 - [[✅ "How do I meditate regularly?" (Solved Question)]]
 - [[Should I meditate regularly?]]
 - [[Daily progress updates, streaks]]
-- How many days of meditation in a row?
-	- 🔥 12 🔥
 ## Week of 4th August
+- Sun 2025-08-10
+	- [[Sit 011 report]]
 - Sat 2025-08-09
 	- [[Sit 010 report]]
 - Friday 2025-08-08
