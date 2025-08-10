@@ -10,9 +10,9 @@
 - I found this section soothing and compassion-generating re: my frustration with my family
 ## Unity of experience
 - AKA the importance of, the profundity of, the flow state 
-- Vervaeke talks about this too, in one of the early "Awakening from the Meaning Crisis" posts → humans *love* the flow state, it feels great. It's a profound signal of things going well. It's actually the "success criteria" of participatory knowing. To be fully in flow, to be absorbed, to be skillfully interfacing with the affordances in your environment, to have profound agent-arena fitedness
+- Vervaeke talks about this too, in one of the early "Awakening from the Meaning Crisis" posts → humans *love* the flow state, it feels great. It's a profound signal of things going well. It's actually the "success criteria" of participatory knowing. To be fully in flow, to be absorbed, to be skillfully interfacing with the affordances in your environment, to have profound agent-arena fittedness
 ## And therefore, the terribleness of modernity
-- Constant entertainment, multi-tasking
+- Constant entertainment, multi-tasking, living in "the shallows"
 - [[How modern life keeps us unconscious and un-agentic]]
 - Narcotising yourself with music, podcasts. Airpods!!
 # 2. What I could do differently
@@ -31,3 +31,11 @@
 - Why listen to podcasts during any down time? Why is making a cup of tea unstimulated so scary? 
 - I've known for ages that the constant comedy podcast usage is probably dumb. I've read "Amusing Ourselves to Death", I've read Infinite Jest (twice!). But, idk, I don't have access to good in person connection, is my reasoning - why, am I supposed to be totally isolated? Surely laughs with my parasocial fake friends is better for my brain? It's good to laugh!
 	- I think there's truth in this. But there's also truth in this - I've probably listened to enough comedy podcasts. I know where they lead - they don't cumulative, there's not that much to be gained, long term. And perhaps their value in keeping loneliness and boredom away is actually counterproductive - perhaps loneliness and boredom would be very useful. There's an obvious way in which listening to podcasts is a rejection of the current moment - "this isn't stimulating enough, this isn't fun enough, I can't just brush my teeth without being entertained, that would be a waste of time, why not multi-task?" But there's a depth of experience in being present. And there's a unity of experience in always single-tasking, treating the day as an unbroken sequence of events that you are fully present for (or at least, endeavouring to be fully present).
+# 3. What I've done so far
+- My airpods are now hidden in the shed
+- My apple watch is turned off
+	- Notifications on your wrist - why?
+	- Sleep tracking - why? I can tell if I'm tired or not
+	- Fitness tracking - I do like being able to see my cardio health. But if I work out and swim for a few months, I'll get more fit
+- My iphone is downstairs
+	- I put my iphone in its box, and put a post-it note on the box, and wrote what time it went in the box. It went in the box at 8pm, and I got it out of the box at 9am, after waking up early and going on a walk with no technology on me at all.
