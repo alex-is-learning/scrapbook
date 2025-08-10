@@ -50,3 +50,16 @@ The concept applies to many other scenarios, both extreme and everyday:
 Circumstantial luck forces us to confront an uncomfortable reality. We judge people for who they are as demonstrated by their actions. Yet, these demonstrative actions are contingent on the opportunities and pressures that luck has placed in their path.
 
 Nagel's point isn't that we should stop judging Person A, the Nazi collaborator. Our moral intuitions that he is blameworthy are powerful and arguably necessary for a functioning moral society. Instead, the problem of circumstantial luck reveals a deep paradox in our concept of responsibility. It shows that the "self" which we hold morally responsible can be expanded or contracted by external, contingent factors, threatening the idea that morality is solely a matter of the individual's will. It makes our moral standing in the world a far more fragile and arbitrary thing than we might like to believe.
+
+
+# Appendix 
+- Timestamp 10:32 in this (terrible sound quality) [1999 interview with DFW](https://www.dfwaudioproject.org/wp-content/uploads/interviews-profiles/1999%20Interview%20with%20Lewis%20Frumkes.mp3), where he talks about how he became a writer, his own circumstantial luck.
+	- Shoutout https://www.dfwaudioproject.org/interviews-profiles/
+	- Didn't write much in college
+	- Mediocre high school, very good college 
+	- Friend (Mark Costello?) wrote a sustained piece of fiction
+	- DFW decided he'd try it too, really liked it, preferred it to his philosophy major
+	- Decided to go to grad school for writing
+	- Someone as a joke gave him a list of agents, sent part of his thesis to Bonnie Nadel, she sold the book 
+	- "43 kismitish things have to happen... so many talented people want to do this for a living... you have to have a lot of lucky breaks"
+	- One of the lucky breaks for me was that this was the mid eighties where it was very hip to be young. Jay Macinerny, Brett Ellis, one of Bonnie's hooks for selling Broom of the System was "this kid's only 22 years old"

@@ -58,6 +58,7 @@
 
 ### Simone Weil's concept of "affliction"
 - *from Gemini*
+- [[Simone Weil]]
 
 For Weil, affliction is a state far more profound and devastating than mere suffering. While suffering can be physical or emotional pain, affliction is an ==uprooting of the soul==, a degradation that attacks a person's very being. It encompasses physical pain, social degradation, and psychological distress, creating a sense of absolute abandonment and personal worthlessness. A key distinction lies in its capacity to silence its victims, leaving them unable to articulate their experience.
 
