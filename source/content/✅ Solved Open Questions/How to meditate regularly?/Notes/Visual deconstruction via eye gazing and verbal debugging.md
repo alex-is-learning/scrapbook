@@ -2,11 +2,12 @@
 permalink: 
 created:
 ---
+- 2025-08-09
 - A meditation technique introduced to me by a friend in Toronto
 - Theory for how this works:
 	- (From Shamil Chandaria's lecture "[The Bayesian Brain and Meditation](https://www.youtube.com/watch?v=Eg3cQXf4zSE)")
 ## 1. Saccade-minimisation
-- He says that the left is what our eye actually sees, vs the right is what we construct
+- Shamil says that the left is what our eye actually sees, vs the right is what we construct
 - Presumably via lots of eye movements (Saccades)
 ![[Visual deconstruction via eye gazing and verbal debugging-1754775995389.webp]]
 - Therefore, to eye gaze with someone in a dyad (or yourself in the mirror) = to gaze at a single thing, allowing the rest of your model (i.e. the visual information from the surrounding room) to degrade?

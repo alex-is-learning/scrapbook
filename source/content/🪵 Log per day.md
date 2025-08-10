@@ -6,8 +6,9 @@ permalink: log-per-day
 - [[Daily progress updates, streaks]]
 ## 03. August 2025
 ### Week of 4th August
+- Sun 2025-08-10
+	- [[Should I follow some of the prescriptions of Bonesaw?]]
 - Sat 2025-08-09
-	- [[How to think in a rigorous way]]
 	- [[Is it unethical to take my mum to family therapy?]]
 	- [[Visual deconstruction via eye gazing and verbal debugging]]
 - Thu 2025-08-07
