@@ -1,0 +1,2 @@
+- Tue 2025-08-12
+	- [[Alex & Simmo group house in London, kick-off page]]

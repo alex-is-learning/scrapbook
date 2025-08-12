@@ -5,6 +5,8 @@ permalink: meditation-log
 - [[Should I meditate regularly?]]
 - [[Daily progress updates, streaks]]
 ## Week of 4th August
+- Mon 2025-08-11
+	- 30 mins face deconstruction
 - Sun 2025-08-10
 	- [[Sit 011 report]]
 - Sat 2025-08-09

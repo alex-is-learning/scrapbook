@@ -5,6 +5,9 @@ permalink: log-per-day
 - See also [[Meditation log]]
 - [[Daily progress updates, streaks]]
 ## 03. August 2025
+### Week of 11th August
+- Tue 2025-08-12
+	- [[Alex and Simmo group house in London, parent page]]
 ### Week of 4th August
 - Sun 2025-08-10
 	- [[Should I follow some of the prescriptions of Bonesaw?]]
