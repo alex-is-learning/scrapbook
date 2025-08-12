@@ -10,21 +10,28 @@
 - If Outcapped stopped existing, then I could scramble to grab other contractor gigs, potentially pitching myself at a low rate
 - I do have a few other possible things lined up, possible interviews
 	- 80,000 Hours in-person job, Forecasting Research Institute part-time role, Probably Good ops role
-- Outcapped has positive cash flow and a solid, tested value proposition. Rob's aim is to switch us from contractors to full time employees (which I don't necessarily want to do, but good to have options)
+	- p(I get any of these) is low tbf, like 20%
+	- p(Outcapped dies suddenly) is low too, <10%
+		- Outcapped has positive cash flow, a solid, tested value proposition, a pragmatic and sensible founder, a cash buffer. 
+		- Rob's aim is to switch us from contractors to full time employees (which I don't necessarily want to do, but good to have options). This also signals his desire to grow the team and add stability
 - I'm a little worried that I won't have a solid enough like "show us your last 3 payslips" thing for a landlord, considering I've only just started my contractor gig. But maybe there's ways around this, like a guarantor, some kind of legal agreement
 ## Re: Simmo
-### 1. How sure  is Simmo that he wants to live in the UK for a year?
+### 1. How sure  is Simmo that he wants to live (and work!) in the UK for a year?
 - Last time we talked about this, he was like "yeah I think I don't even want to do the classic 'think about this a bunch, journal a bunch', it just feels right"
 - But he's been having a great time at the Garden, and will be visiting other places too
 - Perhaps being a city-bound laptop man is just not his calling?
-- That will mean that, if he wants to earn money, it needs to be remote or a London job. No like, "being a community manager at an Intentional Community", etc
-### 2. Does Simmo definitely want to lock in to London for a full year?
+- Should he consider the downsides? E.g., it'll be winter, it'll be pricey, etc
+- Ofc, living in London will mean that, if Simmo wants to earn money, it needs to be either remote or a London job. No like, "being a community manager at an Intentional Community", etc. Seems like it could narrow the pot quite a lot, and could preclude opportunities that he might really like?
+### 2. Does Simmo definitely want to lock in to *London* for a full year?
 - Initial model of London was "don't like it that much, too big"
-- But, Fractal London, great for street approaches, doesn't feel too big if you live in a good neighbourhood and build good community?
+- But, Fractal London, great for novelty, doesn't feel too big if you live in a good neighbourhood and build good community?
 	- My current story is that we should live as close to another group house as possible
 	- See e.g. [["Live Near Friends" movement]]
 ### 3. What about Oxford, or elsewhere?
-- I thought that Simmo much preferred Oxford to London, but something seems to have shifted for him where now he's only really considering London, and Oxford doesn't even cross his mind. Not sure what the shift was? Is it just due to Fractal London? But I thought the Fractal group was too EA-centric for Simmo to be fully excited? Or perhaps it's the fact that they'll be a hub for education and practicing facilitation? And a link to Tyler Alterman? 
+- I thought that Simmo much preferred Oxford to London, but something seems to have shifted for him where now he's only really considering London, and Oxford doesn't even cross his mind. 
+- Not sure what the shift was? 
+	- Is it just due to Fractal London? But I thought the Fractal group was too EA-centric for Simmo to be fully excited? 
+	- Or perhaps it's the fact that they'll be a hub for education and practicing facilitation? And a link to Tyler Alterman? 
 ### 4. Does Simmo know about London costs
 - [[Estimated London costs]]
 - £1500-£2000 is my ballpark. Probably could be pretty frugal and stick in the £1400-£1600 ballpark with intentionality and a small bedroom. But, is a small bedroom for a year depressing? Did you e.g. see the small bedroom in Carmen's place?
@@ -33,6 +40,8 @@
 - Similar to points 1 and 2
 - Curious for Simmo's model here
 - I have a story that he could be like "oh shit, actually, I don't like London, it's too big, I want to go elsewhere". It doesn't feel like a big concern, but, given that I don't fully understand his reasoning for being so pro-London after being relatively anti-London for a while, I guess I don't have a sense of "oh yeah, Simmo is keen on London for the 3 reasons, and these 3 reasons are very well validated, so my p(Simmo pivots) is very low"
+### 6. p(Landlord demands payslips from Simmo)?
+
 # Next steps
 1. Resolve uncertainties
 2. After that, I imagine next steps are "find people" + "find possible houses"
