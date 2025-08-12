@@ -1,5 +1,8 @@
+- 5 minutes after writing [[Alex & Simmo group house in London, kick-off page]], I saw this tweet:
+	- https://x.com/chrisbarber/status/1955283736565780582
+- The below content is just the tweet, tidied up 😎
 # My Updated Guide To The "Live Near Friends" Movement
-- https://x.com/chrisbarber/status/1955283736565780582
+
 Some people wanna live near their friends and family. They had it in college, and then in dense cities post college. Then maybe they move to the suburbs. And their friends move to other cities for jobs or relationships. But then they aren't near their existing friends, and it's less walkable. Just at the time when they most start to care about it being walkable because maybe they have kids! They want it to be car-minimal and nature-rich.
 
 So maybe they think about getting their friends to move near them, moving to a more walkable city together, buying land and building together, going back to the city near them, etc.
@@ -61,20 +64,20 @@ My biggest wish is for the people that want this to have more options. More: car
 1. Supernuclear by @gillianim and @levin_phil
 2. Co-housing books by Durrett (co-housing is basically - private houses, plus shared common-spaces, as opposed to co-living which is more often a roommates type situation without private spaces)
 ## 8. People to follow who tweet about walkable places
-@AustinTunnell
-@Cobylefko
-@berkie1
-@damonhemmerding
-@Tesho13
-@bobbyfijan
-@devonzuegel
-@levin_phil
-@aaron_lubeck
-@jansramek
-@davegordon14
-@JonathanHillis
-@Chris_Smeder
-@UrbanCourtyard
+1. [AustinTunnell](https://x.com/AustinTunnell)
+2. [Cobylefko](https://x.com/Cobylefko)
+3. [berkie1](https://x.com/berkie1)
+4. [damonhemmerding](https://x.com/damonhemmerding)
+5. [Tesho13](https://x.com/Tesho13)
+6. [bobbyfijan](https://x.com/bobbyfijan)
+7. [devonzuegel](https://x.com/devonzuegel)
+8. [levin_phil](https://x.com/levin_phil)
+9. [aaron_lubeck](https://x.com/aaron_lubeck)
+10. [jansramek](https://x.com/jansramek)
+11. [davegordon14](https://x.com/davegordon14)
+12. [JonathanHillis](https://x.com/JonathanHillis)
+13. [Chris_Smeder](https://x.com/Chris_Smeder)
+14. [UrbanCourtyard](https://x.com/UrbanCourtyard)
 ## 9. One pathway
 1. Host lots of events in your city
 2. Find a walkable area in your city
