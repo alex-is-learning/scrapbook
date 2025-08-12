@@ -1,3 +1,5 @@
+- [[Alex and Simmo group house in London, parent page]]
+- Tuesday 2025-08-12
 # Alex's current uncertainties
 ## Re: Alex
 ### 1. Do I want to live in London?
