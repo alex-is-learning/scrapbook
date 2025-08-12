@@ -1,4 +1,5 @@
 - I would guess £1500-£2000/month to live in London
+	- *(And when I say "guess", I have lived in London for ~3 years in the past)*
 - £700-£1100 for a room
 - £115-£200 for bills (council tax, gas & electricity, internet, water)
 - £200 - £400 for food
@@ -135,7 +136,7 @@ Your estimate of `$£1500-£2000$` is a reasonable range, but it really depends 
     
 - Socialising/Misc: `$£200`
     
-- **Total: `£1,530/month**
+- **Total: `£1,530/month` 🚨
     
 
 **Scenario 2: "Average London Experience" (e.g., Zone 2/3)**
@@ -150,7 +151,7 @@ Your estimate of `$£1500-£2000$` is a reasonable range, but it really depends 
     
 - Socialising/Misc: `$£350`
     
-- **Total: `£2,034/month**
+- **Total: `£2,034/month` 🚨
     
 
 Your initial guess was very good! The main things to be prepared for are the huge upfront setup cost and ensuring your bill estimates include Council Tax, which is a big one. Good luck with the planning!
