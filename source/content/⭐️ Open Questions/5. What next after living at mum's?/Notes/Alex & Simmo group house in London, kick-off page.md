@@ -50,3 +50,4 @@
 	- E.g., I could imagine us being like "we definitely want ≥5 people, and ideally we want it to be in these 3 neighbourhoods (so the new house is near at least 1 pre-existing house, Fractal/The Neighbourhood style")
 # Appendix
 - [["Live Near Friends" movement]]
+- Could you use the Fractal banner/name, to help find people? "We're starting a Fractal house", or a "Fractal-adjacent" house. Make it a hub?
