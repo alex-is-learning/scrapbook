@@ -36,3 +36,5 @@
 1. Resolve uncertainties
 2. After that, I imagine next steps are "find people" + "find possible houses"
 	- E.g., I could imagine us being like "we definitely want ≥5 people, and ideally we want it to be in these 3 neighbourhoods (so the new house is near at least 1 pre-existing house, Fractal/The Neighbourhood style")
+# Appendix
+- [["Live Near Friends" movement]]
