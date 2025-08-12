@@ -22,6 +22,7 @@
 - Initial model of London was "don't like it that much, too big"
 - But, Fractal London, great for street approaches, doesn't feel too big if you live in a good neighbourhood and build good community?
 	- My current story is that we should live as close to another group house as possible
+	- See e.g. [["Live Near Friends" movement]]
 ### 3. What about Oxford, or elsewhere?
 - I thought that Simmo much preferred Oxford to London, but something seems to have shifted for him where now he's only really considering London, and Oxford doesn't even cross his mind. Not sure what the shift was? Is it just due to Fractal London? But I thought the Fractal group was too EA-centric for Simmo to be fully excited? Or perhaps it's the fact that they'll be a hub for education and practicing facilitation? And a link to Tyler Alterman? 
 ### 4. Does Simmo know about London costs

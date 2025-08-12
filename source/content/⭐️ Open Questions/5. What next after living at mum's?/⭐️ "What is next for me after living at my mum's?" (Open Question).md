@@ -1,5 +1,6 @@
 - 2025-08-12
 	- [[Alex and Simmo group house in London, parent page]]
+	- [["Live Near Friends" movement]]
 - 2025-07-27
 	- [[Should I value in-person connection highly? (first pass)]]
 - 2025-07-26
