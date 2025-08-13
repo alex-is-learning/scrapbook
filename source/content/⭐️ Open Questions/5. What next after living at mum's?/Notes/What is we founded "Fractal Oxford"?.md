@@ -1,3 +1,4 @@
+- [[Alex and Simmo group house, parent page]]
 - 2025-08-13
 # Useful links
 - [Fractal NYC](https://fractalnyc.com/)
