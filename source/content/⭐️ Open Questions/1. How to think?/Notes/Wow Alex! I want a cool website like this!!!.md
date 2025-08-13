@@ -1,4 +1,6 @@
-- [[How to create an Obsidian + Quartz website]]
+- [[Why an Obsidian-based website?]]
+- [[Obsidian Publish vs Obsidian & Quartz]]
+- I followed this guide by Defender of Basic: "[Host your Obsidian notebook on GitHub Pages for free](https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1)"
 - [[Alex's Obsidian Guide]]
 - [[Digital Garden (Digital Orchard?)]]
 - [[Work with the garage door up]]

@@ -1,3 +1,4 @@
+- [[Wow Alex! I want a cool website like this!!!]]
 - 2025-08-05
 # What is this guide for?
 1. How to set up Obsidian to be a nice writing tool
