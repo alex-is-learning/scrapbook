@@ -37,7 +37,7 @@ permalink: log-per-day
 	- [[July 2025 review]]
 	- [[My July 2025 spending]]
 - Fri 2025-08-01
-	- [[How to create an Obsidian + Quartz website]]
+	- [[Why an Obsidian-based website?]]
 	- [[Superprof Philosophy, Ethics tutor]]
 - Tue 2025-07-29
 	- [[I am now making money!]]
