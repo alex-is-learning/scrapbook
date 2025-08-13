@@ -20,6 +20,7 @@ permalink: home-page
 ## 2. Thinking in public
 - [[Writing public-facing manifestos, slash showing your thought process, seems powerful]]
 - E.g. 
+	- [[Are visual notes underrated and poorly understood?]] 2025-06-24
 	- [[Should I meditate regularly?]] (2025-07-20)
 	- [[What I currently know about Bowen family systems theory|What I know about Bowen family systems theory]] (2025-07-18)
 	- [[06. Learning the Socratic method, part 1 → the rationale|Learning the Socratic Method]] (2025-07-05)
