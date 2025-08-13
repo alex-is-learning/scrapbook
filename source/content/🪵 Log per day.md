@@ -6,6 +6,9 @@ permalink: log-per-day
 - [[Daily progress updates, streaks]]
 ## 03. August 2025
 ### Week of 11th August
+- Wed 2025-08-13
+	- [[Aha, maybe I'm a "professional meta-cognitionist", lol]]
+	- [[Visual notes are a form of active learning]]
 - Tue 2025-08-12
 	- [[Alex and Simmo group house in London, parent page]]
 ### Week of 4th August
