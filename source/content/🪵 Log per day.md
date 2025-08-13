@@ -10,7 +10,7 @@ permalink: log-per-day
 	- [[Aha, maybe I'm a "professional meta-cognitionist", lol]]
 	- [[Visual notes are a form of active learning]]
 - Tue 2025-08-12
-	- [[Alex and Simmo group house in London, parent page]]
+	- [[Alex and Simmo group house, parent page]]
 ### Week of 4th August
 - Sun 2025-08-10
 	- [[Should I follow some of the prescriptions of Bonesaw?]]

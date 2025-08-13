@@ -1,4 +1,4 @@
-- [[Alex and Simmo group house in London, parent page]]
+- [[Alex and Simmo group house, parent page]]
 - Tuesday 2025-08-12
 # Alex's current uncertainties
 ## Re: Alex
