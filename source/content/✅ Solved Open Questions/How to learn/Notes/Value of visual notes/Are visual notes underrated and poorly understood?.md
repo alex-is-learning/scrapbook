@@ -1,7 +1,7 @@
 ---
 permalink: are-visual-notes-underrated-and-poorly-understood
 ---
-
+- [[🟣 Project - "Are visual notes underrated and poorly understood?"]]
 # *Note to self → I want to investigate this thread more and then talk to Andy Matuschak*
 ![[Pasted image 20250624180627.webp]]
 # 1. Am I cutting edge? Dumb? Bit of both?

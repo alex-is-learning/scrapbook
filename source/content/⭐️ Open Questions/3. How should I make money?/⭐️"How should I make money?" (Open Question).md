@@ -4,6 +4,9 @@ updated: 2025-07-08 11:50:06
 permalink: how-to-make-money
 ---
 - [[source/content/index|Home Page]]
+## Week of 11th August
+- Wed 2025-08-13
+	- [[Aha, maybe I'm a "professional meta-cognitionist", lol]]
 ## Week of 4th August
 - Wed 2025-08-06
 	- [[FRI (Parent Page)]]
