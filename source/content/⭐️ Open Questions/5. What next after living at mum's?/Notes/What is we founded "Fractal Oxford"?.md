@@ -6,6 +6,7 @@
 	- [Fractal NYC's "FractalU"](https://fractalnyc.com/fractalu)
 - [Fractal Campus](https://fractalcampus.com/)
 	- ☝️ Their accelerator/incubator for groups of 2-4 aspiring Fractal hub founders
+- [Mosaic](https://mosaic-london.super.site/) (London)
 # What makes something a Fractal thing?
 - Like, what would make it a Fractal group-house, rather than a group-house? 
 - Need to read up more about Fractal, watch that talk, etc
@@ -18,6 +19,7 @@
 	- In our program, crews of 2–4 founders do a 6-week bootcamp. The crews meet weekly online to receive step-by-step guidance to **launch a neighborhood campus—complete with a weekly event, a coliving house, and community-run university by the end of the program**. The program culminates in a public demo day where each crew presents these three components of their fractal and invites others to join.
 - Gather a team of 2-4 founders, pay $600 each, do this ☝️
 # Other Fractal-aligned hubs
+- [Mosaic](https://mosaic-london.super.site/) (London)
 - [Fractalgva](https://fractalgva.ch/about) (Geneva, Switzerland)
 - [Portal](https://portalporto.super.site/) (Porto, Portugal)
 - [Fractal Boston](https://fractal.boston/)
