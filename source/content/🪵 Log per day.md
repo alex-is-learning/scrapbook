@@ -6,9 +6,12 @@ permalink: log-per-day
 - [[Daily progress updates, streaks]]
 ## 03. August 2025
 ### Week of 11th August
+- Fri 2025-08-15 
+	- [[Why do I dislike my Dad's region of Spain so much?]]
 - Wed 2025-08-13
 	- [[Aha, maybe I'm a "professional meta-cognitionist", lol]]
 	- [[Visual notes are a form of active learning]]
+	- [[What is we founded "Fractal Oxford"?]]
 - Tue 2025-08-12
 	- [[Alex and Simmo group house, parent page]]
 ### Week of 4th August
