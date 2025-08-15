@@ -7,6 +7,9 @@
 - [Fractal Campus](https://fractalcampus.com/)
 	- ☝️ Their accelerator/incubator for groups of 2-4 aspiring Fractal hub founders
 - [Mosaic](https://mosaic-london.super.site/) (London)
+- Simmo recommends reading this Substack post:
+	- "[How to Start a School With Your Friends](https://prigoose.substack.com/p/how-to-start-a-university?utm_source=share&utm_medium=android&r=dk8r8&triedRedirect=true)"
+	- And others by the same author ([Priya Rose](https://prigoose.substack.com/))
 # What makes something a Fractal thing?
 - Like, what would make it a Fractal group-house, rather than a group-house? 
 - Need to read up more about Fractal, watch that talk, etc
