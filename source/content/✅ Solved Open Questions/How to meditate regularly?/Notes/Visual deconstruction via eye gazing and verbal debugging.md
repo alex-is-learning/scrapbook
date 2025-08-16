@@ -4,6 +4,8 @@ created:
 ---
 - 2025-08-09
 - A meditation technique introduced to me by a friend in Toronto
+- Doing it with my friend a few times seems to have "hacked my brain" such that I can now do this solo by staring at myself in the mirror whilst meditating, relaxing any tension, relaxing and opening awareness, letting the gaze go fuzzy. Sasha Chapin recommended kind of technique to me too, he's a big fan of open awareness practice (and thinks that [[Ānāpānasati (Anapanasati)]] is a terrible instruction for beginners)
+	- [[Sasha Chapin open awareness]]
 - Theory for how this works:
 	- (From Shamil Chandaria's lecture "[The Bayesian Brain and Meditation](https://www.youtube.com/watch?v=Eg3cQXf4zSE)")
 ## 1. Saccade-minimisation
