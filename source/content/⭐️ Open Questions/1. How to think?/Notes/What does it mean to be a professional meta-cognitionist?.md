@@ -31,6 +31,8 @@
 # Trying to get to the "why"
 - (Epistemic status: tentative): It feels like I'm no longer good at doing tasks that are just given to me. I need to understand them and why they're important, why they're worth me spending my time on, vs other things. I feel less able to do "just trust me bro"-type stuff
 - I'd much rather be involved in the meta-layer, figuring things out, than be handed deliverables. I feel like I'm not the guy for one-off deliverables
+- Or, perhaps I'm still good at deliverables, but only once I've done my initial orienting
+	- Like, "cool, I have a good model of the company, and we all agree that I should be doing x next, because x is clearly the thing that'll be the most highest-leverage re: y"
 # Professional hermeneuticist
 - Hermeneutics is all about "interpretation and understanding"
 - I join a startup, I don't really understand anything, I iterate and progressively learn

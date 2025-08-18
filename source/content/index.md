@@ -20,6 +20,7 @@ permalink: home-page
 ## 2. Thinking in public
 - [[Writing public-facing manifestos, slash showing your thought process, seems powerful]]
 - E.g. 
+	- [[What does it mean to be a professional meta-cognitionist?]] 2025-08-18
 	- [[Are visual notes underrated and poorly understood?]] 2025-06-24
 	- [[Should I meditate regularly?]] (2025-07-20)
 	- [[What I currently know about Bowen family systems theory|What I know about Bowen family systems theory]] (2025-07-18)
