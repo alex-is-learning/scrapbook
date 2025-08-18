@@ -4,6 +4,9 @@ updated: 2025-07-08 11:50:06
 permalink: how-to-make-money
 ---
 - [[source/content/index|Home Page]]
+## Week of 18th August
+- Mon 2025-08-18
+	- [[What does it mean to be a professional meta-cognitionist?]]
 ## Week of 11th August
 - Wed 2025-08-13
 	- [[Aha, maybe I'm a "professional meta-cognitionist", lol]]
