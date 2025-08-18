@@ -61,3 +61,6 @@
 - Just accept a high "suncream per day" budget. Like, what if I was like "it's ok for me to use an entire bottle a day", £5-£10/day on suncream, and that's just part of being me, just one quirk?
 - Sweatiness - ~stream entry has helped a lot here. Self-consciousness massively reduced, "who cares", etc. It's a little embarrassing and sweating and being wet and hot/cold feels kinda gross, but it's not a big deal
 	- I think sweatiness is a case where the layer 1/layer 2 gap has reduced a lot. Whereas fear of sunburn still has remained as this "the layer 2 fear is so big (uneccessarily so)" place
+# Appendix
+- Rough quick notes from phone
+- There is also, for me, something shameful about putting sun cream on. “Don’t you want to get tanned?”, and admission of weakness - similar to shame at sweating - “you’re clearly hot/tired. Not trusting that sun cream works, like 30 mins later, has it faded away? Have I rubbed it off by mistake? Also, rubbing it on your clothes - sleeves, neck, trousers when you lean fissures. How much transfers?
