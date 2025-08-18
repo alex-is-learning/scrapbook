@@ -1,5 +1,5 @@
 - 2025-08-18
-- [[Aha, maybe I'm a "professional meta-cognitionist", lol]]
+- (Idea started with "[[Aha, maybe I'm a "professional meta-cognitionist", lol]]")
 # 1. Experiences
 ## Why I'm thinking about this 
 ### Professionally confused at Outcapped
@@ -17,7 +17,7 @@
 	- [[Visual notes are a form of active learning]]
 - Similarly - you can't just be told about a company strategy and have it click into your brain. You can't just attend a meeting and have everything click into your brain
 	- [[Why doesn't transmissionism work?]]
-# I was once hired as "head of shared knowledge"
+## (Note: I was once hired as "head of shared knowledge")
 - I care a lot about learning and I guess (as jargon-y as it now sounds to me) "knowledge management"
 ## Salient examples of knowledge management
 1. A new person is onboarded: can they get oriented quickly?
@@ -25,6 +25,9 @@
 3. Are meeting notes turned into genuinely useful artefacts? Are new insights folded into key documents and plans?
 4. Is the short term strategy clear? Is it well thought out? How do you know?
 5. Is everyone working on the highest-leverage stuff? (Here, you need knowledge of what will actually move the needle)
+6. Do people know what the current high-level goals are, allowing them to autonomously orient themselves?
+	- There's the Boydian (from John Boyd) idea of "auftragstaktik", or "mission tactics", where the higher command gives a clear mission, and the subordinates/officers have essentially total autonomy to achieve the objective. Speeds things up because the officers don't have to keep pausing to communicate with mission control, there is implicit understanding and high agency
+	- "Do all the employees feel agentic and well situated and like they know how to 'move the needle'"?
 # Trying to get to the "why"
 - (Epistemic status: tentative): It feels like I'm no longer good at doing tasks that are just given to me. I need to understand them and why they're important, why they're worth me spending my time on, vs other things. I feel less able to do "just trust me bro"-type stuff
 - I'd much rather be involved in the meta-layer, figuring things out, than be handed deliverables. I feel like I'm not the guy for one-off deliverables
