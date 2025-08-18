@@ -35,7 +35,8 @@
               "title": "What does it mean to be a professional meta-cognitionist?"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,12 +192,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5ae73e89badae44e",
+  "active": "1386cb8f5cad92e2",
   "lastOpenFiles": [
     "source/content/index.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/What does it mean to be a professional meta-cognitionist?.md",
+    "What does it mean to be a professional meta-cognitionist_-1755533615977.webp",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Value of visual notes/Are visual notes underrated and poorly understood?.md",
     "source/content/🪵 Log per day.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/What does it mean to be a professional meta-cognitionist?.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Why doesn't transmissionism work?.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Transmissionism.md",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Value of visual notes/Visual notes are a form of active learning.md",
@@ -224,7 +226,6 @@
     "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/Alex & Simmo group house in London, kick-off page.md",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Value of visual notes/🟣 Project - \"Are visual notes underrated and poorly understood?\".md",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Value of visual notes/Progressive iteration of visual notes - Pandemic Action Network examples.md",
-    "source/content/✅ Solved Open Questions/How to learn/✅ \"How can I learn effectively?\" (Solved Question).md",
     "source/content/📎 Files/Images/misc/eigenfaces1.webp",
     "source/content/📎 Files/Images/misc/eigenfaces3.webp",
     "source/content/📎 Files/Images/misc/eigenfaces2.webp",
@@ -233,7 +234,6 @@
     "source/content/📎 Files/Images/misc/Airpods are kind of insideous-1754833976374.webp",
     "source/content/📎 Files/Images/misc/Airpods are kind of insideous-1754833955412.webp",
     "source/content/📎 Files/Images/misc/Airpods are kind of insideous-1754833801578.webp",
-    "source/content/📎 Files/Images/misc/Airpods are kind of insideous-1754832998594.webp",
     "signal-2025-08-09-223738.mp3",
     "source/content/📎 Files/Voice notes/signal-2025-08-08-223440.mp3",
     "source/content/📎 Files/mp3s/signal-2025-08-06-20-59-21-770.m4a",
