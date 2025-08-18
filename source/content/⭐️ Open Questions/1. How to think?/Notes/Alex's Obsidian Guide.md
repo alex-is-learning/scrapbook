@@ -16,6 +16,7 @@
 - [[Obsidian Guide - Phase 1 - A pretty writing space]]
 - [[Obsidian Guide - Phase 2 - A slightly more intentional infrastructure]]
 - [[Obsidian Guide - Phase 3 - Small quality of life things]]
+- [[Basic "how to make new pages and stuff" Obsidian guide for Simmo]]
 # Appendix
 - [[Making a second Obsidian Vault (and retaining your settings, hotkeys, etc)]]
 - [[Setting up Quartz if you already have an Obsidian setup]]
