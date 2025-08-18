@@ -2,7 +2,7 @@
 - This (tongue-in-cheek) title just came to me as I was wondering how I could explain what they hell it is I do to a family member, but also to myself
 - Also, potentially "hermeneuticist", seeing as that's about interpretation and understanding
 - Professional grokker, grokkability-booster
-## Gemini
+## Initial Gemini prompt
 - *Gemini is mostly pointing at stuff that I don't do, but there's still something useful here*
 
 ```

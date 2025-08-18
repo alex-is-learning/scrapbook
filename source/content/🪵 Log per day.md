@@ -5,6 +5,9 @@ permalink: log-per-day
 - See also [[Meditation log]]
 - [[Daily progress updates, streaks]]
 ## 03. August 2025
+### Week of 18th August
+- Mon 2025-08-18
+	- [[What does it mean to be a professional meta-cognitionist?]]
 ### Week of 11th August
 - Fri 2025-08-15 
 	- [[Why do I dislike my Dad's region of Spain so much?]]
