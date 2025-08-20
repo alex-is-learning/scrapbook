@@ -9,7 +9,7 @@ permalink: home-page
 -  ![[profile-pic-pixel.webp|120]]
 - [[🪵 Log per day]] ← <span class="text-red">this is where ~everything goes!</span> 🚨
 - *(I'm vaguely aligned with the Open Research Institute, see [[Old website intro]])*
-- It currently serves a few purposes:
+- This website currently serves a few purposes:
 ## 1. Focusing on my open questions
 - [[⭐️"How can I improve my ability to think? (Open Question)]]
 - [[⭐️"How can I change how to orient to my family?" (Open Question)]]
