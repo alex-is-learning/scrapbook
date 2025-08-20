@@ -6,6 +6,8 @@ permalink: log-per-day
 - [[Daily progress updates, streaks]]
 ## 03. August 2025
 ### Week of 18th August
+- Wed 2025-08-20
+	- [[I'm overwhelmed! 2025-08-20]]
 - Mon 2025-08-18
 	- [[What does it mean to be a professional meta-cognitionist?]]
 ### Week of 11th August
@@ -25,7 +27,7 @@ permalink: log-per-day
 	- [[Is it unethical to take my mum to family therapy?]]
 	- [[Visual deconstruction via eye gazing and verbal debugging]]
 - Thu 2025-08-07
-	- [[Excited to be employeed as a (self-described) Kegan 4]]
+	- [[Excited to be employed as a (self-described) Kegan 4]]
 	- [[On fiction (parent page)]]
 	- [[Writing to explore ideas]]
 - Wed 2025-08-06
