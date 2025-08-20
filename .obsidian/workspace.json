@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/What does it mean to be a professional meta-cognitionist?.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/I'm overwhelmed! 2025-08-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What does it mean to be a professional meta-cognitionist?"
-            }
-          },
-          {
-            "id": "b015114468fec6df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/Other, quick-add/To be a boomer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "To be a boomer"
+              "title": "I'm overwhelmed! 2025-08-20"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Other, quick-add/To be a boomer.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/I'm overwhelmed! 2025-08-20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To be a boomer"
+              "title": "Backlinks for I'm overwhelmed! 2025-08-20"
             }
           },
           {
@@ -165,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Other, quick-add/To be a boomer.md",
+                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/I'm overwhelmed! 2025-08-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of To be a boomer"
+              "title": "Outline of I'm overwhelmed! 2025-08-20"
             }
           }
         ]
@@ -192,16 +177,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b015114468fec6df",
+  "active": "5ae73e89badae44e",
   "lastOpenFiles": [
+    "source/content/🪵 Log per day.md",
+    "source/content/📎 Files/Images/misc/Ship It Week-1755697716915.webp",
+    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/Ship It Week.md",
+    "source/content/📎 Files/Images/misc/Ship It Week-1755697716912.webp",
+    "source/content/📎 Files/Images/misc/Ship It Week-1755697716911.webp",
+    "source/content/📎 Files/Images/misc/Ship It Week-1755697716913.webp",
+    "source/content/📎 Files/Images/misc/Ship It Week-1755697716909.webp",
+    "source/content/📎 Files/Images/misc/Ship It Week-1755697716908.webp",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/I'm overwhelmed! 2025-08-20.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/Dealing with overwhelm at work.md",
+    "source/content/Other, quick-add/Excited to be employed as a (self-described) Kegan 4.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/What does it mean to be a professional meta-cognitionist?.md",
     "source/content/index.md",
     "source/content/Other, quick-add/To be a boomer.md",
     "source/content/⭐️ Open Questions/3. How should I make money?/⭐️\"How should I make money?\" (Open Question).md",
     "source/content/⭐️ Open Questions/1. How to think?/⭐️\"How can I improve my ability to think? (Open Question).md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Visual metaphors for the \"how can I help my family\" project.md",
     "source/content/1. Open Questions/How should I make money? 💰/🟣 How should I make money?.md",
-    "source/content/🪵 Log per day.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/What does it mean to be a professional meta-cognitionist?.md",
     "What does it mean to be a professional meta-cognitionist_-1755533615977.webp",
     "source/content/✅ Solved Open Questions/How to learn/Notes/Value of visual notes/Are visual notes underrated and poorly understood?.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Why doesn't transmissionism work?.md",
@@ -222,19 +217,8 @@
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Wow Alex! I want a cool website like this!!!.md",
     "source/content/Other, quick-add/Writing public-facing manifestos, slash showing your thought process, seems powerful.md",
     "source/content/📎 Files/Images/misc/Writing public-facing manifestos, slash showing your thought process, seems powerful-1755509887929.webp",
-    "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Visual deconstruction via eye gazing and verbal debugging.md",
-    "source/content/✅ Solved Open Questions/How to meditate regularly?/Notes/Sasha Chapin open awareness.md",
-    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/What is we founded \"Fractal Oxford\"?.md",
-    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/Alex and Simmo group house, parent page.md",
-    "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/Alex & Simmo group house in London, kick-off page.md",
     "source/content/📎 Files/Images/misc/eigenfaces1.webp",
     "source/content/📎 Files/Images/misc/eigenfaces3.webp",
-    "source/content/📎 Files/Images/misc/eigenfaces2.webp",
-    "Sit 011 report-1754862301004.webp",
-    "source/content/📎 Files/Images/misc/Airpods are kind of insideous-1754832357715.webp",
-    "source/content/📎 Files/Images/misc/Airpods are kind of insideous-1754833976374.webp",
-    "source/content/📎 Files/Images/misc/Airpods are kind of insideous-1754833955412.webp",
-    "source/content/📎 Files/Images/misc/Airpods are kind of insideous-1754833801578.webp",
     "signal-2025-08-09-223738.mp3",
     "source/content/📎 Files/Voice notes/signal-2025-08-08-223440.mp3",
     "source/content/📎 Files/mp3s/signal-2025-08-06-20-59-21-770.m4a",
