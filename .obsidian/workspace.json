@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/I'm overwhelmed! 2025-08-20.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I'm overwhelmed! 2025-08-20"
+              "title": "index"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/I'm overwhelmed! 2025-08-20.md",
+                "file": "source/content/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for I'm overwhelmed! 2025-08-20"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -150,20 +150,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/⭐️ Open Questions/1. How to think?/Notes/I'm overwhelmed! 2025-08-20.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of I'm overwhelmed! 2025-08-20"
+              "title": "Outline of index"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +180,13 @@
   },
   "active": "5ae73e89badae44e",
   "lastOpenFiles": [
+    "source/content/⭐️ Open Questions/3. How should I make money?/Notes/What actually is the FRI role?.md",
+    "source/content/Other, quick-add/To be a boomer.md",
+    "source/content/⭐️ Open Questions/3. How should I make money?/Notes/FRI (Parent Page).md",
+    "source/content/⭐️ Open Questions/3. How should I make money?/Notes/Forecasting, Research/Why work for FRI.md",
+    "source/content/⭐️ Open Questions/3. How should I make money?/Notes/Forecasting, Research/Model of FRI.md",
     "source/content/🪵 Log per day.md",
+    "source/content/⭐️ Open Questions/1. How to think?/Notes/I'm overwhelmed! 2025-08-20.md",
     "source/content/📎 Files/Images/misc/Ship It Week-1755697716915.webp",
     "source/content/⭐️ Open Questions/5. What next after living at mum's?/Notes/Ship It Week.md",
     "source/content/📎 Files/Images/misc/Ship It Week-1755697716912.webp",
@@ -187,12 +194,10 @@
     "source/content/📎 Files/Images/misc/Ship It Week-1755697716913.webp",
     "source/content/📎 Files/Images/misc/Ship It Week-1755697716909.webp",
     "source/content/📎 Files/Images/misc/Ship It Week-1755697716908.webp",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/I'm overwhelmed! 2025-08-20.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Dealing with overwhelm at work.md",
     "source/content/Other, quick-add/Excited to be employed as a (self-described) Kegan 4.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/What does it mean to be a professional meta-cognitionist?.md",
     "source/content/index.md",
-    "source/content/Other, quick-add/To be a boomer.md",
     "source/content/⭐️ Open Questions/3. How should I make money?/⭐️\"How should I make money?\" (Open Question).md",
     "source/content/⭐️ Open Questions/1. How to think?/⭐️\"How can I improve my ability to think? (Open Question).md",
     "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc/Visual metaphors for the \"how can I help my family\" project.md",
@@ -213,9 +218,6 @@
     "source/content/1. Open Questions",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Why do I dislike my Dad's region of Spain so much?.md",
     "source/content/⭐️ Open Questions/1. How to think?/Notes/Basic \"how to make new pages and stuff\" Obsidian guide for Simmo.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Alex's Obsidian Guide.md",
-    "source/content/⭐️ Open Questions/1. How to think?/Notes/Wow Alex! I want a cool website like this!!!.md",
-    "source/content/Other, quick-add/Writing public-facing manifestos, slash showing your thought process, seems powerful.md",
     "source/content/📎 Files/Images/misc/Writing public-facing manifestos, slash showing your thought process, seems powerful-1755509887929.webp",
     "source/content/📎 Files/Images/misc/eigenfaces1.webp",
     "source/content/📎 Files/Images/misc/eigenfaces3.webp",

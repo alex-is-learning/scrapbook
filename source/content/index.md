@@ -35,9 +35,12 @@ permalink: home-page
 - [[Meditation log]]
 - [[Workout log]]
 - [[Life Reviews]]
-# Other website
-- My other website is [here](https://www.alexislearning.me/)
+# Other websites
+1. My main website is here → https://www.alexislearning.me/
 	- ☝️ Tbf this has been kinda deprecated, it's pretty much just a place to see my <span class="text-green">CV and references and other links</span> now!
+2. As of 2025-08-22 I've just started a separate little writing website, after I got some nice feedback
+	- https://alexislearning.me/learning-to-write
+	- I wanted to write stuff that's a bit more... emotive? And as this current website (that is, learning to *think*) is something that I sometimes share with job applications, I wanted a separate place for non-thinking things
 # ✅ Solved Open Questions
 - [[✅ "How can I learn effectively?" (Solved Question)]]
 - [[✅ "How do I 'heal'?" (Solved Question)]]
