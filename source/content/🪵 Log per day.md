@@ -9,6 +9,8 @@ permalink: log-per-day
 - Sat 2025-08-23
 	- [[Skillful vs Unskillful Mind]]
 	- [[Ridiculousness audits]]
+- Fri 2025-08-22
+	- [[Writing more! (Parent page)]]
 - Wed 2025-08-20
 	- [[I'm overwhelmed! 2025-08-20]]
 - Mon 2025-08-18
