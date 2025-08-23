@@ -6,6 +6,9 @@ permalink: log-per-day
 - [[Daily progress updates, streaks]]
 ## 03. August 2025
 ### Week of 18th August
+- Sat 2025-08-23
+	- [[Skillful vs Unskillful Mind]]
+	- [[Ridiculousness audits]]
 - Wed 2025-08-20
 	- [[I'm overwhelmed! 2025-08-20]]
 - Mon 2025-08-18
