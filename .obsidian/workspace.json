@@ -48,9 +48,51 @@
               "icon": "lucide-file",
               "title": "Thinking about ORI phase 3, 2025-08-05"
             }
+          },
+          {
+            "id": "b404abd57df37905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/3. Create things?/\"What do I do re loving things and creating things?\".md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "\"What do I do re loving things and creating things?\""
+            }
+          },
+          {
+            "id": "a3d615a5a0529fd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/🪵 Log per day.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🪵 Log per day"
+            }
+          },
+          {
+            "id": "d75973cd895f3008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/3. Create things?/Writings/Writing - vignettes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Writing - vignettes"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -124,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Improve Lived Experience?/Ridiculousness audits/Imagining that my \"open questions\" are actually solved by prediction markets of experts, 2025-08-23.md",
+                "file": "source/content/3. Create things?/Writings/Writing - vignettes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Imagining that my \"open questions\" are actually solved by prediction markets of experts, 2025-08-23"
+              "title": "Backlinks for Writing - vignettes"
             }
           },
           {
@@ -179,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Improve Lived Experience?/Ridiculousness audits/Imagining that my \"open questions\" are actually solved by prediction markets of experts, 2025-08-23.md",
+                "file": "source/content/3. Create things?/Writings/Writing - vignettes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Imagining that my \"open questions\" are actually solved by prediction markets of experts, 2025-08-23"
+              "title": "Outline of Writing - vignettes"
             }
           }
         ]
@@ -208,8 +250,14 @@
   },
   "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/1. Improve Lived Experience?/Ridiculousness audits/Ridiculousness audit 2025-08-23.md",
+    "source/content/3. Create things?/Writing more! (Parent page).md",
+    "source/content/3. Create things?/Writings/Writing - vignettes.md",
+    "source/content/3. Create things?/Notes/Meta - about \"writing more!\".md",
+    "source/content/🪵 Log per day.md",
+    "source/content/3. Create things?/\"What do I do re loving things and creating things?\".md",
+    "source/content/index.md",
     "source/content/1. Improve Lived Experience?/Ridiculousness audits/Imagining that my \"open questions\" are actually solved by prediction markets of experts, 2025-08-23.md",
+    "source/content/1. Improve Lived Experience?/Ridiculousness audits/Ridiculousness audit 2025-08-23.md",
     "source/content/5. How to think?/What does it mean to be in ORI?/Notes/Thinking about ORI phase 3, 2025-08-05.md",
     "source/content/5. How to think?/What does it mean to be in ORI?/\"What does it mean to be in ORI?\" (Open Question).md",
     "source/content/1. Improve Lived Experience?/Ridiculousness audits/My relationship with making Youtube videos, 2025-08-23.md",
@@ -217,7 +265,6 @@
     "source/content/1. Improve Lived Experience?/Ridiculousness audits/The state of my in-person community, 2025-08-23.md",
     "source/content/1. Improve Lived Experience?/Ridiculousness audits/My relationship with writing on Substack, 2025-08-23.md",
     "source/content/1. Improve Lived Experience?/Ridiculousness audits/My relationship with Twitter and tweeting, 2025-08-23.md",
-    "source/content/🪵 Log per day.md",
     "source/content/5. How to think?/How to learn/AI walk-and-talks are such a great way to learn (2025-06-01).md",
     "source/content/5. How to think?/How to learn/My learning funnel (2025-05-27).md",
     "source/content/5. How to think?/Notes/What does it mean to be a professional meta-cognitionist?.md",
@@ -229,11 +276,6 @@
     "source/content/5. How to think?/How to learn/I love you Gemini Deep Research.md",
     "source/content/5. How to think?/How to learn/\"How can I learn effectively?\".md",
     "source/content/5. How to think?/\"How can I improve my ability to think?\" (Parent Page).md",
-    "source/content/5. How to think?/Notes/Should I meditate regularly?.md",
-    "source/content/index.md",
-    "source/content/4. Connect with people?/On connecting with people more.md",
-    "source/content/3. Create things?/\"What do I do re loving things and creating things?\".md",
-    "source/content/2. Make money?/\"How should I make money?\" (Open Question).md",
     "source/content/📎 Files/Images/misc/Writing public-facing manifestos, slash showing your thought process, seems powerful-1755955192293.webp",
     "source/content/1. Improve Lived Experience?/Ridiculousness audits",
     "source/content/3. Create things?/Writings - Appendices",
