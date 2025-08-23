@@ -1,4 +1,0 @@
-- [[Wow Alex! I want a cool website like this!!!]]
-- Andy Matuschak post:
-	- https://notes.andymatuschak.org/Work_with_the_garage_door_up
-- ![[Work with the garage door up.webp]]
