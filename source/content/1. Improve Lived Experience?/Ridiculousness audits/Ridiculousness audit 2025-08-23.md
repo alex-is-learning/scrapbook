@@ -1,0 +1,1 @@
+What is currently stressing me out, that I can change?
