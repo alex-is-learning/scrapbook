@@ -10,8 +10,11 @@ permalink: log-per-day
 	- [[Skillful vs Unskillful Mind]]
 	- [[Ridiculousness audit 2025-08-23]]
 	- [[I'm locking in some deliverables!]]
+	- [[03. To be a tpot zoomer]]
 - Fri 2025-08-22
 	- [[Writing more! (Parent page)]]
+	- [[01. To be a boomer]]
+	- [[02. Don't be overwhelmed!]]
 - Wed 2025-08-20
 	- [[I'm overwhelmed! 2025-08-20]]
 - Mon 2025-08-18
