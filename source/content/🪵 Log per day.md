@@ -63,7 +63,7 @@ permalink: log-per-day
 	- [[What is next for me after living at my mum's? day 1]]
 - Tue 2025-07-22
 	- Added "Solved Open Questions"
-		- [[✅ "How can I learn effectively?" (Solved Question)]]
+		- [["How can I learn effectively?"]]
 		- [[Phase 1 of "healing" is complete]]
 		- These were both my top-of-mind "open questions" in previous years (without me necessarily being consciously aware), now they're ~solved enough!
 	- [[I saw a family therapist yesterday]]

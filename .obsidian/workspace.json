@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e90148f64891ea9",
+        "id": "7e937f396da5a5e4",
         "type": "tabs",
         "children": [
           {
-            "id": "5ae73e89badae44e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/5. How to think?/Notes/Writing public-facing manifestos, slash showing your thought process, seems powerful.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Writing public-facing manifestos, slash showing your thought process, seems powerful"
-            }
-          },
-          {
-            "id": "49cc1474358d6332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "d27ad89136bbadfa",
+            "id": "b5aff6369ea8020f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +21,7 @@
               "title": "🪵 Log per day"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 360.50390243530273,
-    "collapsed": true
+    "width": 209.50390243530273
   },
   "right": {
     "id": "adfdf894a6d1d9c7",
@@ -126,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/🪵 Log per day.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for 🪵 Log per day"
             }
           },
           {
@@ -181,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/🪵 Log per day.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of 🪵 Log per day"
             }
           }
         ]
@@ -208,36 +177,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "49cc1474358d6332",
+  "active": "b5aff6369ea8020f",
   "lastOpenFiles": [
+    "source/content/5. How to think?/How to learn/AI walk-and-talks are such a great way to learn (2025-06-01).md",
+    "source/content/5. How to think?/How to learn/My learning funnel (2025-05-27).md",
+    "source/content/5. How to think?/Notes/What does it mean to be a professional meta-cognitionist?.md",
+    "source/content/🪵 Log per day.md",
+    "source/content/5. How to think?/Notes/Writing public-facing manifestos, slash showing your thought process, seems powerful.md",
+    "source/content/5. How to think?/How to learn/The Anki FSRS algorithm made me weep (2025-05-30).md",
+    "source/content/5. How to think?/How to learn/My learning journey.md",
+    "source/content/5. How to think?/How to learn/New learning era (?) (2025-06-13).md",
+    "source/content/5. How to think?/How to learn/Learning to think the Defender of Basic way.md",
+    "source/content/5. How to think?/How to learn/I love you Gemini Deep Research.md",
+    "source/content/5. How to think?/How to learn/\"How can I learn effectively?\".md",
     "source/content/5. How to think?/\"How can I improve my ability to think?\" (Parent Page).md",
+    "source/content/5. How to think?/Notes/Should I meditate regularly?.md",
     "source/content/index.md",
     "source/content/4. Connect with people?/On connecting with people more.md",
     "source/content/3. Create things?/\"What do I do re loving things and creating things?\".md",
     "source/content/2. Make money?/\"How should I make money?\" (Open Question).md",
     "source/content/1. Improve Lived Experience?/\"How can I improve the quality of my lived experience?\".md",
-    "source/content/🪵 Log per day.md",
     "source/content/1. Improve Lived Experience?/Ridiculousness audits/Ridiculousness audit 2025-08-23.md",
     "source/content/1. Improve Lived Experience?/Phenomenology/Skillful vs Unskillful Mind.md",
-    "Ignoti nulla cupido.md",
+    "source/content/5. How to think?/Notes/Ignoti nulla cupido.md",
     "source/content/5. How to think?/Notes/06. Learning the Socratic method, part 1 → the rationale.md",
     "source/content/5. How to think?/Notes/04. Path to becoming Socratic (AKA, what I don't know yet).md",
     "source/content/1. Improve Lived Experience?/Ridiculousness audits/Ridiculousness audits.md",
-    "source/content/5. How to think?/Notes/Writing public-facing manifestos, slash showing your thought process, seems powerful.md",
     "source/content/📎 Files/Images/misc/Writing public-facing manifestos, slash showing your thought process, seems powerful-1755955192293.webp",
     "source/content/5. How to think?/Notes/How to make a website like this.md",
     "source/content/5. How to think?/Notes/Examples of thinking in public.md",
-    "source/content/5. How to think?/\"Thinking In Public\" log 🪵.md",
-    "source/content/3. Create things?/On stuff that I love (parent page).md",
-    "source/content/3. Create things?/Writing more! (Parent page).md",
     "source/content/1. Improve Lived Experience?/Ridiculousness audits",
-    "source/content/1. Improve Lived Experience?/Phenomenology/Increasing the skillfulness of my mind, log 🪵.md",
-    "source/content/1. Improve Lived Experience?/Phenomenology/Notes/Meditation log.md",
-    "source/content/5. How to think?/Notes/Should I meditate regularly?.md",
-    "source/content/5. How to think?/How to learn/Daily progress updates, streaks.md",
-    "source/content/1. Improve Lived Experience?/Phenomenology/Notes/Should I pay Michael Stroe to help me break aversion?.md",
-    "source/content/1. Improve Lived Experience?/Phenomenology/✅ \"How do I meditate regularly?\" (Solved Question).md",
-    "source/content/1. Improve Lived Experience?/Phenomenology/Phase 1 of \"healing\" is complete.md",
     "source/content/3. Create things?/Writings - Appendices",
     "source/content/3. Create things?/Writings",
     "source/content/1. Improve Lived Experience?",
