@@ -1,6 +1,10 @@
 - [[Should I meditate regularly?]]
 # 2. Fetters work
 - [[Should I pay Michael Stroe to help me break aversion?]]
+
+- Sat 2025-08-23
+	- [[Fetters work 2025-08-23]]
+
 # 1. Meditating for 1 hour a day
 - But then I fell off when I had to fly to Spain to help my Dad in hospital
 ## Week of 4th August
