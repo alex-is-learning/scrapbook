@@ -1,7 +1,6 @@
 ## Things that currently reduce my quality of life
-- [[⭐️"How can I change how to orient to my family?" (Open Question)|Frustration with family]]
+- [[Skillful vs Unskillful Mind]]
 - [[Ridiculousness audit 2025-08-23]]
 ## Fruitful things to help with this
-- [[Meditation parent page]]
-- [["How do I 'heal'?"]]
+- [[A more skillful mind, log 🪵]]
 - [["How do I look after my body?"]]

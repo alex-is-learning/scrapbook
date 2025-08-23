@@ -97,7 +97,7 @@ title: ORI update & open questions, 2025-08-05
 	- If there was someone smart in my life who could peer into my brain and say like "yes, you're already a good thinker, you can pause this", or like "oh dude, it's crazy that you don't know [topic], you gotta rectify that ASAP", that'd be great...
 	- I'm paying a philosophy/ethics tutor 
 		- ([[Superprof tutor lesson 1 (The Fundamental Decision)]])
-- [[⭐️"How can I change how to orient to my family?" (Open Question)]]
+- [["How can I change how to orient to my family?" (Open Question)]]
 	- See the above re: how this feels very difficult to "solve" like an exact science? (I may be wrong)
 - [["How should I make money?" (Open Question)]]
 	- As far as I can tell, this is something that is very personal (because it relates to my personal interests, personality type, need to find projects that are super alive for me and aligned with my "mission" or "gifts", whilst also paying), and thus isn't something that has already been solved by the culture?

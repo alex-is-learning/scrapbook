@@ -1,0 +1,6 @@
+- [[Meditation log]]
+- Meditation
+	- Fetters weakening is probably the 80/20 here! 
+	- Mark Lippman/Sasha Chapin-style open awareness practice
+- [[✅ "How do I meditate regularly?" (Solved Question)]]
+- [[Phase 1 of "healing" is complete]]

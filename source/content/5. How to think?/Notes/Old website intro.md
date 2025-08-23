@@ -19,5 +19,5 @@ permalink: old-website-intro
 - But then, part of the onboarding for the Open Research Institute (thanks for @DefenderofBasic for being a mentor) involved thinking about what you actually care about
 - This led to refocusing on my most salient "open questions", e.g.:
 	- [["How can I improve my ability to think?" (Parent Page)]]
-	- [[⭐️"How can I change how to orient to my family?" (Open Question)]]
+	- [["How can I change how to orient to my family?" (Open Question)]]
 - Improving my world model would be great, I'd love to be really well educated and informed. But it doesn't feel like the most pressing thing!
