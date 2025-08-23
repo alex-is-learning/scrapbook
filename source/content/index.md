@@ -9,10 +9,10 @@ permalink: home-page
 	- *(My "home page" website is here → https://www.alexislearning.me/)*
 - [[🪵 Log per day]] ← <span class="text-red">this is where ~everything goes!</span> 🚨
 ### Open Questions → how should I...
-1. [["How can I improve my lived experience?" (Open Question)|Improve my lived experience?]] 
+1. [["How can I improve the quality of my lived experience?"|Improve my lived experience?]] 
 2. [["How should I make money?" (Open Question)|Make money?]]
-3. [["What do I do with the things I love?" (Open Question)|Create things?]]
-4. [["Where should I live?" (Open Question)|Connect with people more?]]
+3. [["What do I do re loving things and creating things?"|Create things?]]
+4. [[On connecting with people more|Connect with people more?]]
 5. [["How can I improve my ability to think?" (Parent Page)|Think more, and better?]]
 ### Want a cool website like this?
 - [[How to make a website like this]]
