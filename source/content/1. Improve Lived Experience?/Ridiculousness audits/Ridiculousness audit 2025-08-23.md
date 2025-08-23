@@ -10,6 +10,7 @@
 # 2. Not a source of stress, but silly when I think about it
 - Stuff that, in the [[Ignoti nulla cupido]] way, isn't stressing me out because I'm used to it either never being a part of my experience, or I have given up on it being part of my experience, implicitly
 ## 2a. Not having a significant online platform
+- 🌈 *Alex returns to the internet better than ever before* 🌈
 ### Twitter
 - It's ridiculous that I used to have ~700 ==twitter== followers, and since my account got suspended (they thought I was a bot), I can't summon the energy to break free of my ~150 follower containment
 - I have proved that I can gain followers organically. It took ages, but it's possible, and with my new account, a bunch of cool large-follower accounts have re-followed me, so that's great signal
