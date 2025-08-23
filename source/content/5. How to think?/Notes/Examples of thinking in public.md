@@ -1,0 +1,12 @@
+- [[Writing public-facing manifestos, slash showing your thought process, seems powerful]]
+- E.g. 
+	- [[What does it mean to be a professional meta-cognitionist?]] 2025-08-18
+	- [[Are visual notes underrated and poorly understood?]] 2025-06-24
+	- [[Should I meditate regularly?]] (2025-07-20)
+	- [[What I currently know about Bowen family systems theory|What I know about Bowen family systems theory]] (2025-07-18)
+	- [[06. Learning the Socratic method, part 1 → the rationale|Learning the Socratic Method]] (2025-07-05)
+	- [[How can I operate from a place of uncertainty?]] (2025-07-08)
+	- [[08. Enneagram 3 thinking sins|Enneagram 3 thinking sins]] (2025-07-06)
+- This has the great benefit of getting me to ==think more clearly & robustly==
+- It also may lead to me ==making more stuff== - substack posts, youtube videos, etc
+	- [[Lemon tree → lemon curd → lemon pie 🍋]], where this place is me picking lemons, super low effort, may turn them into lemon curd later, maybe not
