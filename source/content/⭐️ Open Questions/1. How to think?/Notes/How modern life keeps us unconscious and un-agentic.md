@@ -1,3 +1,6 @@
+- This David Foster Wallace clip speaks to this well 
+	- https://www.youtube.com/watch?v=P1PC1sArw70
+- Consumerism etc
 # Quick excursus on parts of human nature
 ## The 3 defilements from Buddhism
 ### Ignorance
