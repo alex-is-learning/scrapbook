@@ -12,13 +12,12 @@
 - Stuff that, in the [[Ignoti nulla cupido]] way, isn't stressing me out because I'm used to it either never being a part of my experience, or I have given up on it being part of my experience, implicitly
 ## 2a. Not having a significant online platform
 - 🌈 *Alex returns to the internet better than ever before* 🌈
-### Twitter
 - [[My relationship with Twitter and tweeting, 2025-08-23]]
-### Youtube
 - [[My relationship with making Youtube videos, 2025-08-23]]
-### Substack
 - [[My relationship with writing on Substack, 2025-08-23]]
 ## 2b. Not having in-person friends/community
 - [[The state of my in-person community, 2025-08-23]]
 ## 2c. Not having some kind of online container for accountability and force-multiplication etc
 - [[The state of my "network of people working on the same stuff", 2025-08-23]]
+## 2d. Not having clear goals, a clear mission
+-  [[Thinking about ORI phase 3, 2025-08-05]]

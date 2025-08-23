@@ -40,7 +40,7 @@ permalink: log-per-day
 - Tue 2025-08-05 🎉🎂 birthday 🎂🎉 
 	- [[Dealing with overwhelm at work]]
 	- [[What turning 29 means in Chinese culture (according to Gemini)]]
-	- [[ORI update & open questions, 2025-08-05]]
+	- [[Thinking about ORI phase 3, 2025-08-05]]
 - Mon 2025-08-04
 	- [[What "This is Water" means to me]]
 	- [[David Foster Wallace (parent page)]]
