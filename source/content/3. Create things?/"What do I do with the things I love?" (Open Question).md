@@ -17,3 +17,5 @@
 	- [[Addicted to this new Hayley Williams music video]]
 - Mon 2025-08-04
 	- [[David Foster Wallace (parent page)]]
+
+[[Making music and youtube videos]]
