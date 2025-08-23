@@ -2,3 +2,5 @@
 - 2025-08-22
 	- [[01. To be a boomer]]
 	- [[02. Don't be overwhelmed!]]
+- 2025-08-23
+	- [[03. To be a tpot zoomer]]

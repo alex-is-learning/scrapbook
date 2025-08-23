@@ -26,7 +26,7 @@
 - 95% total score
 ---
 # Cba to do more of the above right now, so let's cut to the chase, imagining the highest-rated answers:
-- [[Locking in simple deliverables 2025-08-23]]
+- [[I'm locking in some deliverables!]]
 - **Family**? → just do Fetters work & daily face deconstruction meditation
 - **Money**? → just lock in to Outcapped and be as useful as possible
 - **Creating/Platform-Building**? → just do 1 youtube vid a week, 1 substack a week, a written vignette a day

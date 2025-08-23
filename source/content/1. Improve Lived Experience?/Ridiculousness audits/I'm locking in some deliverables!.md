@@ -1,3 +1,4 @@
+- 2025-08-23
 - **Family**? → just do Fetters work & daily face deconstruction meditation
 - **Money**? → just lock in to Outcapped and be as useful as possible
 - **Creating/Platform-Building**? → just do 1 youtube vid a week, 1 substack a week, a written vignette a day

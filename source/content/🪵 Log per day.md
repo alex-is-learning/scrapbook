@@ -9,7 +9,7 @@ permalink: log-per-day
 - Sat 2025-08-23
 	- [[Skillful vs Unskillful Mind]]
 	- [[Ridiculousness audit 2025-08-23]]
-	- [[Locking in simple deliverables 2025-08-23]]
+	- [[I'm locking in some deliverables!]]
 - Fri 2025-08-22
 	- [[Writing more! (Parent page)]]
 - Wed 2025-08-20
