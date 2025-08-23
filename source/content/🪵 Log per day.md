@@ -8,7 +8,7 @@ permalink: log-per-day
 ### Week of 18th August
 - Sat 2025-08-23
 	- [[Skillful vs Unskillful Mind]]
-	- [[Ridiculousness audits]]
+	- [[Ridiculousness audit 2025-08-23]]
 - Fri 2025-08-22
 	- [[Writing more! (Parent page)]]
 - Wed 2025-08-20
