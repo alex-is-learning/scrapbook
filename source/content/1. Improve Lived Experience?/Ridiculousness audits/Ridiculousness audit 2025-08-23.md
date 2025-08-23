@@ -20,4 +20,4 @@
 ## 2c. Not having some kind of online container for accountability and force-multiplication etc
 - [[The state of my "network of people working on the same stuff", 2025-08-23]]
 ## 2d. Not having clear goals, a clear mission
--  [[Thinking about ORI phase 3, 2025-08-05]]
+- [[Imagining that my "open questions" are actually solved by prediction markets of experts, 2025-08-23]]
