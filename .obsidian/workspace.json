@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5aff6369ea8020f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/3. Create things?/Writings/02. Don't be overwhelmed!.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02. Don't be overwhelmed!"
-            }
-          },
-          {
             "id": "0effee87011c48c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Improve Lived Experience?/Ridiculousness audits/Locking in simple deliverables 2025-08-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Locking in simple deliverables 2025-08-23"
             }
           }
         ]
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/3. Create things?/Writings/02. Don't be overwhelmed!.md",
+                "file": "source/content/1. Improve Lived Experience?/Ridiculousness audits/Locking in simple deliverables 2025-08-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 02. Don't be overwhelmed!"
+              "title": "Backlinks for Locking in simple deliverables 2025-08-23"
             }
           },
           {
@@ -164,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/3. Create things?/Writings/02. Don't be overwhelmed!.md",
+                "file": "source/content/1. Improve Lived Experience?/Ridiculousness audits/Locking in simple deliverables 2025-08-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 02. Don't be overwhelmed!"
+              "title": "Outline of Locking in simple deliverables 2025-08-23"
             }
           }
         ]
@@ -191,22 +177,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b5aff6369ea8020f",
+  "active": "0effee87011c48c1",
   "lastOpenFiles": [
+    "source/content/🪵 Log per day.md",
+    "source/content/1. Improve Lived Experience?/Ridiculousness audits/Locking in simple deliverables 2025-08-23.md",
+    "source/content/1. Improve Lived Experience?/Ridiculousness audits/Ridiculousness audit 2025-08-23.md",
+    "source/content/1. Improve Lived Experience?/Ridiculousness audits/Imagining that my \"open questions\" are actually solved by prediction markets of experts, 2025-08-23.md",
+    "source/content/5. How to think?/What does it mean to be in ORI?/\"What does it mean to be in ORI?\" (Open Question).md",
+    "source/content/index.md",
     "source/content/3. Create things?/Writings/Writing - vignettes.md",
-    "source/content/3. Create things?/Writings/02. Don't be overwhelmed!.md",
-    "source/content/3. Create things?/Writings/02. Don't be overwhelmed!.md",
     "source/content/3. Create things?/Writings/01. To be a boomer.md",
+    "source/content/3. Create things?/Writings/02. Don't be overwhelmed!.md",
     "03. To be a zoomer.md",
     "source/content/3. Create things?/Writing more! (Parent page).md",
     "source/content/3. Create things?/\"What do I do re loving things and creating things?\".md",
-    "source/content/index.md",
-    "source/content/1. Improve Lived Experience?/Ridiculousness audits/Imagining that my \"open questions\" are actually solved by prediction markets of experts, 2025-08-23.md",
     "source/content/4. Connect with people?/On connecting with people more.md",
-    "source/content/1. Improve Lived Experience?/Ridiculousness audits/Ridiculousness audit 2025-08-23.md",
     "source/content/5. How to think?/What does it mean to be in ORI?/Notes/Thinking about ORI phase 3, 2025-08-05.md",
-    "source/content/5. How to think?/What does it mean to be in ORI?/\"What does it mean to be in ORI?\" (Open Question).md",
-    "source/content/🪵 Log per day.md",
     "source/content/3. Create things?/Notes/Meta - about \"writing more!\".md",
     "source/content/1. Improve Lived Experience?/Ridiculousness audits/My relationship with making Youtube videos, 2025-08-23.md",
     "source/content/1. Improve Lived Experience?/Ridiculousness audits/The state of my \"network of people working on the same stuff\", 2025-08-23.md",
