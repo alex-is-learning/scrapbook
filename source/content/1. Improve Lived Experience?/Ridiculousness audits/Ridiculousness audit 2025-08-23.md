@@ -24,4 +24,4 @@
 ## 2e. What do I have to show for myself?
 - There's something here around "I do so much thinking and planning and writing etc, but what actual legible wins do I have under my belt, recently"
 - Rather than "oh well I set up this digital scrapbook website and it's given me a new place to think and plan way more", like "I identified these 5 key things to ship, and shipped them", you know what I mean 
-- So, [[Locking in simple deliverables 2025-08-23]]
+- So, [[I'm locking in some deliverables!]]
