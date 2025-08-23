@@ -1,0 +1,16 @@
+- It's ridiculous that I have the video editing skills/workflow & ability to be on camera etc and got to ~440 ==youtube== subscribers, and now I haven't posted in ~6 months and my subscriber count is gradually dwindling. I think there's definitely something here like "1 good quality video a week" = >5k subscribers within 12 months, which would be great for various reasons
+#### Why have I let my Youtube channel languish?
+- I was only one very specific version of myself on Youtube, the "I'm trying to be creative and make music, and I suck at it, but it's fun!" guy
+- I think the overlap of youtube subscribers vs twitter followers would be two entirely non-overlapping circles, in a venn diagram
+- So there's a sense of audience capture, where people on youtube know me as guy x, and to be like "actually x is just a tiny part of my experience" would be bad in some way. But on the other hand, fearing audience capture when you have ~400 subscribers is very silly, lol
+- ==Solution== → just make a video about this, lol. A unifying video giving an overview of the various facets of my experience, various eras, etc. *Name* my embarrassment at going from "I'm gonna make a song a day!" to disappearing. Authenticity-maxx, basically
+#### I don't want to encourage people to spend time on Youtube? 
+- Youtube → there's something here around, it's like inspired by "Amusing Ourselves to Death" and also what DFW had to say about TV, and not wanting to create more "TV", more passive media for people to consume
+- I think the aversion is that I don't want to be a ==consumer==, and the idea of making content for people to consume therefore feels bad
+- ==Solution== → I think an easy-ish reframe here is therefore "I'm making this stuff for me". It's an act of creation and enjoying creation, it's not about if people will "consume" it or not. Maybe I can even encourage people to make stuff, share stuff with me, I was a passive consumer for x years because *modernity* but trust me bro it's real fun. Maybe I could bring back challenges and stuff
+- ==Solution== → think about what I'd like my youtube channel to be about/to do. Because, I had a very energy-producing story/mission of "I'm making a song a day", and now I don't have that
+	- Really, it could just be videos about everything from this site. "I'm learning to live well. I'm improving my thinking. I'm writing more. Here's how to make a website like this. Here's how to make a vlog, here's how to meditate/a guide to the best ideas from tpot"
+		- Because yeah, my Youtube era 1.0 was *just* about "how I'm trying to be more creative". So what about era 2.0 being "here's *everything* I'm trying to be better at, nothing is kept away from youtube for being too niche/unusual/etc"
+#### Overwhelm at all the options for video topics
+- See e.g. [[02. Don't be overwhelmed!]] → there's a sense of like "there's so much that could be said, so little can be squeezed into a 10 minute youtube video"
+- The trick really is just to start and try to lock in something like 1 video a week
