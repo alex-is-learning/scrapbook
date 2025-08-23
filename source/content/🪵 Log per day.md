@@ -61,7 +61,7 @@ permalink: log-per-day
 - Tue 2025-07-22
 	- Added "Solved Open Questions"
 		- [[✅ "How can I learn effectively?" (Solved Question)]]
-		- [["How do I 'heal'?"]]
+		- [[Phase 1 of "healing" is complete]]
 		- These were both my top-of-mind "open questions" in previous years (without me necessarily being consciously aware), now they're ~solved enough!
 	- [[I saw a family therapist yesterday]]
 	- [[It's my Dad's birthday today]]
@@ -98,7 +98,7 @@ permalink: log-per-day
 - Wed 2025-07-09
 	- [[Resisting the urge to switch to logic or rhetoric]]
 	- [[Second round of learning from Ward Farnworth's book on the Socratic method]]
-	- [[⭐️"How can I change how to orient to my family?" (Open Question)]]
+	- [["How can I change how to orient to my family?" (Open Question)]]
 		- [[Starting "Growing Yourself Up - How to Bring Your Best to All of Life's Relationships]]
 - Tue 2025-07-08
 	- [[How can I operate from a place of uncertainty?]]
@@ -139,7 +139,7 @@ permalink: log-per-day
 	- [[Microsolidarity crew call 2025-06-25]]
 - Tue 24th June 
 	- [[🟣 Project - "Are visual notes underrated and poorly understood?"]]
-	- [[⭐️"How can I change how to orient to my family?" (Open Question)]]
+	- [["How can I change how to orient to my family?" (Open Question)]]
 - Mon 23rd June 
 	- [[My model of ORI, 2025-06-23]]
 ### Week of 16th June
