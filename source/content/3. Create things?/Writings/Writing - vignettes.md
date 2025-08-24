@@ -1,3 +1,4 @@
+- [[Writing more! (Parent page)]]
 - By vignettes, I mean... I'm not trying to write fiction or short stories here. It's still essentially my voice, maybe written from a particular "part", but yeah, there's no characters or anything, pretty much just a "instead of something like an essay, I'm writing something more emotive"
 - 2025-08-22
 	- [[01. To be a boomer]]
