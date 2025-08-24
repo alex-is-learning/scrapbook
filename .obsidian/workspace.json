@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/3. Create things?/Writing more! (Parent page).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing more! (Parent page)"
+              "title": "README"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/3. Create things?/Writing more! (Parent page).md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Writing more! (Parent page)"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -150,20 +150,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/3. Create things?/Writing more! (Parent page).md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Writing more! (Parent page)"
+              "title": "Outline of README"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,51 +180,49 @@
   },
   "active": "0effee87011c48c1",
   "lastOpenFiles": [
-    "source/content/3. Create things?/Writings/Writing - vignettes.md",
-    "source/content/3. Create things?/Writings/03. To be a tpot zoomer.md",
-    "source/content/3. Create things?/Writings/02. Don't be overwhelmed!.md",
-    "source/content/3. Create things?/Writings/01. To be a boomer.md",
-    "source/content/3. Create things?/Writings - Appendices/To be a boomer - appendix.md",
-    "03. To be a tpot zoomer.pdf",
-    "01. To be a boomer.pdf",
-    "source/content/3. Create things?/Writing more! (Parent page).md",
-    "source/content/3. Create things?/\"What do I do re loving things and creating things?\".md",
-    "source/content/3. Create things?/Notes/Meta - about \"writing more!\".md",
-    "02. Don't be overwhelmed!.pdf",
-    "source/content/5. How to think?/Notes/Writing public-facing manifestos, slash showing your thought process, seems powerful.md",
-    "On the importance of people in my life.md",
-    "source/content/3. Create things?/Writings - Appendices/Tpot zoomer appendix.md",
-    "source/content/1. Improve Lived Experience?/Phenomenology/Notes/Fetters work 2025-08-23.md",
-    "source/content/1. Improve Lived Experience?/Phenomenology/Increasing the skillfulness of my mind, log 🪵.md",
-    "source/content/1. Improve Lived Experience?/Phenomenology/Notes/Meditation log.md",
-    "source/content/🪵 Log per day.md",
-    "source/content/5. How to think?/Notes/Should I follow some of the prescriptions of Bonesaw?.md",
-    "source/content/5. How to think?/Notes/I'm overwhelmed! 2025-08-20.md",
-    "source/content/1. Improve Lived Experience?/Ridiculousness audits/Ridiculousness audit 2025-08-23.md",
-    "source/content/1. Improve Lived Experience?/Ridiculousness audits/I'm locking in some deliverables!.md",
-    "source/content/1. Improve Lived Experience?/Phenomenology/Notes/Should I pay Michael Stroe to help me break aversion?.md",
-    "source/content/1. Improve Lived Experience?/Phenomenology/Notes/The fetters model.md",
-    "source/content/1. Improve Lived Experience?/Ridiculousness audits/Imagining that my \"open questions\" are actually solved by prediction markets of experts, 2025-08-23.md",
-    "source/content/5. How to think?/What does it mean to be in ORI?/\"What does it mean to be in ORI?\" (Open Question).md",
-    "source/content/index.md",
-    "03. To be a zoomer.md",
-    "source/content/4. Connect with people?/On connecting with people more.md",
-    "source/content/📎 Files/Images/misc/Writing public-facing manifestos, slash showing your thought process, seems powerful-1755955192293.webp",
-    "source/content/1. Improve Lived Experience?/Ridiculousness audits",
-    "source/content/3. Create things?/Writings - Appendices",
-    "source/content/3. Create things?/Writings",
-    "source/content/1. Improve Lived Experience?",
-    "source/content/📎 Files/Images/misc/Ship It Week-1755697716915.webp",
-    "source/content/📎 Files/Images/misc/Ship It Week-1755697716912.webp",
-    "source/content/📎 Files/Images/misc/Ship It Week-1755697716911.webp",
-    "source/content/📎 Files/Images/misc/Ship It Week-1755697716913.webp",
-    "source/content/📎 Files/Images/misc/Ship It Week-1755697716909.webp",
-    "source/content/📎 Files/Images/misc/Ship It Week-1755697716908.webp",
-    "What does it mean to be a professional meta-cognitionist_-1755533615977.webp",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?/Misc",
-    "source/content/1. Open Questions/2. Kindness ❤️/How can you help your family?",
-    "source/content/1. Open Questions/2. Kindness ❤️",
-    "source/content/📎 Files/Images/misc/Writing public-facing manifestos, slash showing your thought process, seems powerful-1755509887929.webp",
-    "source/content/📎 Files/Images/misc/eigenfaces1.webp"
+    "source/content/📎 Files/Images/Feedback-1756036440316.webp",
+    "source/content/4. Connect with people?/Feedback",
+    "source/content/4. Connect with people?/Feedback/Feedback.md",
+    "source/content/📎 Files/Images/Feedback-1756036476484.webp",
+    "source/content/📎 Files/Images/Feedback-1756036450011.webp",
+    "README.md",
+    "README 1.md",
+    "source/raw_html/raw-html-test.html",
+    "source/raw_html",
+    "source/quartz/plugins/transformers/toc.ts",
+    "source/quartz/plugins/transformers/syntax.ts",
+    "source/quartz/plugins/transformers/roam.ts",
+    "source/quartz/plugins/transformers/oxhugofm.ts",
+    "source/quartz/plugins/transformers/ofm.ts",
+    "source/quartz/plugins/transformers/links.ts",
+    "source/quartz/plugins/transformers/linebreaks.ts",
+    "source/quartz/static/og-image.jpg",
+    "source/quartz/static/icon.png",
+    "source/docs/templates/2. meditation.md",
+    "source/docs/templates/1. permalink-and-created.md",
+    "source/docs/tags/plugin.md",
+    "source/docs/tags/component.md",
+    "source/docs/plugins/index.md",
+    "source/docs/plugins/TagPage.md",
+    "source/docs/plugins/TableOfContents.md",
+    "source/docs/plugins/SyntaxHighlighting.md",
+    "source/docs/plugins/Static.md",
+    "source/docs/plugins/RoamFlavoredMarkdown.md",
+    "source/docs/plugins/RemoveDrafts.md",
+    "source/docs/plugins/OxHugoFlavoredMarkdown.md",
+    "source/docs/plugins/ObsidianFlavoredMarkdown.md",
+    "source/docs/plugins/NotFoundPage.md",
+    "source/docs/plugins/Latex.md",
+    "source/docs/plugins/HardLineBreaks.md",
+    "source/docs/plugins/GitHubFlavoredMarkdown.md",
+    "source/docs/plugins/Frontmatter.md",
+    "source/docs/plugins/FolderPage.md",
+    "source/docs/plugins/ExplicitPublish.md",
+    "source/docs/plugins/Description.md",
+    "source/docs/images/quartz-layout-tablet.png",
+    "source/docs/images/quartz-layout-mobile.png",
+    "source/docs/images/quartz-layout-desktop.png",
+    "source/docs/images/quartz transform pipeline.png",
+    "source/docs/images/github-quick-setup.png"
   ]
 }
