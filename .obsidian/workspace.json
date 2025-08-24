@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7e937f396da5a5e4",
+        "id": "0f55668ade78b9c1",
         "type": "tabs",
         "children": [
           {
-            "id": "0effee87011c48c1",
+            "id": "63d34fc58fe6d5be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -150,13 +145,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           }
         ]
@@ -178,14 +172,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0effee87011c48c1",
+  "active": "63d34fc58fe6d5be",
   "lastOpenFiles": [
+    "source/content/3. Create things?/Writings/04. I hear you got some nice feedback today.md",
+    "source/content/3. Create things?/Writings/Writing - vignettes.md",
+    "source/content/3. Create things?/\"What do I do re loving things and creating things?\".md",
+    "source/content/index.md",
+    "source/README.md",
+    "README.md",
     "source/content/📎 Files/Images/Feedback-1756036440316.webp",
     "source/content/4. Connect with people?/Feedback",
     "source/content/4. Connect with people?/Feedback/Feedback.md",
     "source/content/📎 Files/Images/Feedback-1756036476484.webp",
     "source/content/📎 Files/Images/Feedback-1756036450011.webp",
-    "README.md",
     "README 1.md",
     "source/raw_html/raw-html-test.html",
     "source/raw_html",
@@ -216,9 +215,6 @@
     "source/docs/plugins/HardLineBreaks.md",
     "source/docs/plugins/GitHubFlavoredMarkdown.md",
     "source/docs/plugins/Frontmatter.md",
-    "source/docs/plugins/FolderPage.md",
-    "source/docs/plugins/ExplicitPublish.md",
-    "source/docs/plugins/Description.md",
     "source/docs/images/quartz-layout-tablet.png",
     "source/docs/images/quartz-layout-mobile.png",
     "source/docs/images/quartz-layout-desktop.png",

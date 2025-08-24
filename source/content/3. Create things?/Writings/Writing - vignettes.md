@@ -5,3 +5,5 @@
 	- [[02. Don't be overwhelmed!]]
 - 2025-08-23
 	- [[03. To be a tpot zoomer]]
+- 2025-08-24
+	- [[04. I hear you got some nice feedback today]]
