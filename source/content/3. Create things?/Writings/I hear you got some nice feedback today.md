@@ -1,4 +1,5 @@
 - [[Writing - vignettes]]
+- Warning - this one isn't good
 
 I hear you got some nice feedback today. That's good, right? You're not going to let it contribute to the "algal bloom" thing we talked about earlier, I know you're not. It'd be so wildly predictable and gauche for you to take the kind and positive energy that was sent your way today and let it get in the way of enjoying yourself. Don't be a dweeb; this is a gift. 
 
@@ -11,3 +12,5 @@ What has been excellent in your life, this year? Not much, I think we can both a
 ---
 
 *I'd like to be brave enough to write stuff that I think is rubbish and just leave it at that, but I do currently feel the need to write a little "this was rubbish, I'm depleted" note at the end of this. Happy to be hitting publish regardless!*
+
+- I wonder if I should have just written about my experience, rather than doing this "aha, you have a style, what else can you do?" thing - currently, idk if I can do anything else, but I like writing in my style. The permission to have one drum that I bang repeatedly for a while, rather than having to signal "I know that this is tired and I've developed an aesthetic". Being myself, rather than going meta 

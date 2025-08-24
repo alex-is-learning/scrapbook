@@ -11,10 +11,14 @@
             "id": "63d34fc58fe6d5be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "source/content/3. Create things?/Writings/04. It flows, if you let it.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "04. It flows, if you let it"
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/content/3. Create things?/Writings/04. It flows, if you let it.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 04. It flows, if you let it"
             }
           },
           {
@@ -145,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "source/content/3. Create things?/Writings/04. It flows, if you let it.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 04. It flows, if you let it"
             }
           }
         ]
@@ -174,8 +180,13 @@
   },
   "active": "63d34fc58fe6d5be",
   "lastOpenFiles": [
-    "source/content/3. Create things?/Writings/04. I hear you got some nice feedback today.md",
+    "source/content/3. Create things?/Writings/03. To be a tpot zoomer.md",
+    "source/content/3. Create things?/Writings/02. Don't be overwhelmed!.md",
     "source/content/3. Create things?/Writings/Writing - vignettes.md",
+    "source/content/3. Create things?/Writings/01. To be a boomer.md",
+    "source/content/3. Create things?/Writings/04. It flows, if you let it.md",
+    "source/content/3. Create things?/Writings/Writing - not good.md",
+    "source/content/3. Create things?/Writings/I hear you got some nice feedback today.md",
     "source/content/3. Create things?/\"What do I do re loving things and creating things?\".md",
     "source/content/index.md",
     "source/README.md",
@@ -210,11 +221,6 @@
     "source/docs/plugins/RemoveDrafts.md",
     "source/docs/plugins/OxHugoFlavoredMarkdown.md",
     "source/docs/plugins/ObsidianFlavoredMarkdown.md",
-    "source/docs/plugins/NotFoundPage.md",
-    "source/docs/plugins/Latex.md",
-    "source/docs/plugins/HardLineBreaks.md",
-    "source/docs/plugins/GitHubFlavoredMarkdown.md",
-    "source/docs/plugins/Frontmatter.md",
     "source/docs/images/quartz-layout-tablet.png",
     "source/docs/images/quartz-layout-mobile.png",
     "source/docs/images/quartz-layout-desktop.png",
