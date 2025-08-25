@@ -32,3 +32,11 @@
 # Why not Oxford?
 - Possibly fewer cooler people than London, because it's smaller?
 	- Somewhat skeptical of this → imagine there'd still be enough cool people
+
+--- 
+
+# Tentative conclusion
+- I don't really know how to decide or get close to deciding
+- One viable path is "visit each for ~2 weeks", make some friends in each
+	- Visit Mosaic, see how it is
+	- Visit [cool people in Oxford (I don't know any yet)], see how it is
