@@ -7,7 +7,7 @@ Now tweeting feels so obviously fun and worthwhile
 
 And I've had similar arcs, it's multiple "0-to-1" events. And after a while you forget that you once lived in the 0, in having never done x thing:
 - "I haven't tweeted into the void before" → got up to 700 followers (before getting frickin [suspended](https://substack.com/home/post/p-145712748))
-- "I have never written a ==blog post==" → "I have now written and published a blog post (and a few people liked it!)"
+- "I have never written a ==blog post==" → "I have now written and published 10+ blog posts" 
 	- "[Paper journaling is better, actually*](https://alexislearning.substack.com/p/paper-journaling-is-better-actually)" → 7th September, 2023
 - "I have never made a ==youtube video==" → "I have now made youtube videos"
 	- "[Vlog from France](https://www.youtube.com/watch?v=jVj4atzGWzA)" (17th Feb 2024)
