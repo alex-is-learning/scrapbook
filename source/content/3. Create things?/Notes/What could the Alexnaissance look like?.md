@@ -28,6 +28,22 @@ And I've had similar arcs, it's multiple "0-to-1" events. And after a while you 
 - And phase 2 is like "find some combination that you actually genuinely want to do for the foreseeable future"[^2] [^3]
 - So, I'm currently thinking about returning to Youtube, and having it be a hub for *everything*
 	- My big youtube era was all about "I am learning to create things, and by things I mean songs and vlogs". There was no mention of the rest of my life, of tpot and my friends and David Foster Wallace and my other myriad obsessions. I think making a return and having it be an outlet for creativity and whatever I'm excited about feels very exciting
+## Phase 2 of youtube
+### Music → that has been sweated over a bit
+- Phase 1 was "make a song a day, quantity over quality, break through the aversion of the initial learning curve"
+- I'd love a phase 2 of like "one actually quite good song a week/fortnight"
+- I have some theories re: what to do, e.g.:
+	- Accept that I don't have the time or really the energy/desire to get good at Ableton. Forget about music production, synths, plugins, effects, and just focus on making demos with my guitar. Find the skeleton of a great song first, stay away from the laptop for as long as possible
+### Writing → volume
+- Just write daily, vignettes and stuff
+- Weekly substack post?
+### Videos → weekly higher quality video
+- Folding in all my stuff
+- With this website as a nice appendix
+	- Rather than "the videos are self-contained and miss lots"
+### Point of view → phase 2
+- It's ok to write more lyrical/flower-y stuff, it doesn't have to be this self-referential self-aware self-deprecating stuff all the time
+- It's ok to write from the POV of parts. It's ok to say things that I don't fully endorse
 
 
 [^1]: - E.g. even recently I realised that it's "ok" to write from the point of view of parts of yourself. I felt a tension during my "making songs and youtube videos" era where I'd feel self conscious re: missing out nuance, and I'd constantly want to water down my stuff and add like, meta-commentary, etc
