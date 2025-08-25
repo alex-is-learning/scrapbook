@@ -7,6 +7,6 @@
 	- [[03. To be a tpot zoomer]]
 - 2025-08-24
 	- [[04. It flows, if you let it]]
-
+- 2025-08-25
 
 [[Writing - not good]]

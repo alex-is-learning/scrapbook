@@ -5,6 +5,9 @@ permalink: log-per-day
 - See also [[Meditation log]]
 - [[Daily progress updates, streaks]]
 ## 03. August 2025
+### Week of 25th August
+- Mon 2025-08-25
+	- [[London vs Oxford for a group house]]
 ### Week of 18th August
 - Sun 2025-08-25
 	- [[04. It flows, if you let it]]
