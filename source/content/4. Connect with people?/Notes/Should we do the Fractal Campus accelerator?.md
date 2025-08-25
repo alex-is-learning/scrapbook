@@ -1,5 +1,6 @@
+- [[Alex and Simmo group house, parent page]]
 - 2025-08-25
-- Read through this and realised it starts on the 1st of Sep, which is when we'll both be at Casa Tilo for "Ship It Week", which seems like pretty much absurdly perfect timing (in-person synchronous working, focus, etc)
+- Read through [this](https://fractalcampus.com/) and realised it starts on the 1st of Sep, which is when we'll both be at Casa Tilo for "Ship It Week", which seems like pretty much absurdly perfect timing (in-person synchronous working, focus, etc)
 	- https://fractalcampus.com/
 - We've missed the application deadline by 10 days (as of the time of writing), but I imagine there's still time
 - The current plan is "Simmo goes to Dahab whilst we plan a Fractal or a similar thing", but it does seem to me like this accelerator could (clue's in the name) massively *accelerate* things, and also increase the p(the thing goes really well)
