@@ -1,3 +1,5 @@
+- Mon 2025-08-25 
+	- [[London vs Oxford for a group house]]
 - Wed 2025-08-13
 	- [[What is we founded "Fractal Oxford"?]]
 - Tue 2025-08-12
