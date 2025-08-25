@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/3. Create things?/Notes/What could the Alexnaissance look like?.md",
+                "file": "source/content/4. Connect with people?/Notes/Should we do the Fractal Campus accelerator?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What could the Alexnaissance look like?"
+              "title": "Should we do the Fractal Campus accelerator?"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/3. Create things?/Notes/What could the Alexnaissance look like?.md",
+                "file": "source/content/4. Connect with people?/Notes/Should we do the Fractal Campus accelerator?.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What could the Alexnaissance look like?"
+              "title": "Backlinks for Should we do the Fractal Campus accelerator?"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/3. Create things?/Notes/What could the Alexnaissance look like?.md",
+                "file": "source/content/4. Connect with people?/Notes/Should we do the Fractal Campus accelerator?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of What could the Alexnaissance look like?"
+              "title": "Outline of Should we do the Fractal Campus accelerator?"
             }
           }
         ]
@@ -177,16 +177,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "63d34fc58fe6d5be",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/📎 Files/Images/Should we do the Fractal Campus accelerator_-1756138475044.webp",
+    "source/content/4. Connect with people?/Notes/Alex and Simmo group house, parent page.md",
+    "source/content/4. Connect with people?/Notes/Should we do the Fractal Campus accelerator?.md",
+    "source/content/4. Connect with people?/Notes/Alex & Simmo group house in London, kick-off page.md",
+    "source/content/3. Create things?/Notes/What could the Alexnaissance look like?.md",
+    "source/content/🪵 Log per day.md",
     "source/content/3. Create things?/\"What do I do re loving things and creating things?\".md",
     "source/content/index.md",
     "source/content/3. Create things?/On stuff that I love (parent page).md",
-    "source/content/3. Create things?/Notes/What could the Alexnaissance look like?.md",
-    "source/content/🪵 Log per day.md",
-    "source/content/4. Connect with people?/Notes/Alex and Simmo group house, parent page.md",
     "source/content/4. Connect with people?/Notes/London vs Oxford for a group house.md",
-    "source/content/4. Connect with people?/Notes/Alex & Simmo group house in London, kick-off page.md",
     "source/content/3. Create things?/Writings/Writing - vignettes.md",
     "05..md",
     "source/content/4. Connect with people?/On connecting with people more.md",
@@ -218,8 +220,6 @@
     "source/docs/templates/2. meditation.md",
     "source/docs/templates/1. permalink-and-created.md",
     "source/docs/tags/plugin.md",
-    "source/docs/tags/component.md",
-    "source/docs/plugins/index.md",
     "source/docs/images/quartz-layout-tablet.png",
     "source/docs/images/quartz-layout-mobile.png",
     "source/docs/images/quartz-layout-desktop.png",
