@@ -21,6 +21,13 @@ And I've had similar arcs, it's multiple "0-to-1" events. And after a while you 
 # So let's call that phase 1
 - So this is really cool, I feel like I've gotten to a place of unblocking various fears around putting stuff out there
 - And I think I've also had some updates re: how to make "art", what it looks like[^1]
+# Oh, maybe phase 1.5 is like "people say your stuff is good"
+- E.g. Rival Voices or whatever the hell he's called now (Guy) called my post tpot art
+- ![[What could the Alexnaissance look like_-1756138865964.webp]]
+- Various nice youtube comments
+	- E.g. check it out, this video got 7.7k views and 84 comments!
+	- ![[What could the Alexnaissance look like_-1756138922303.webp]] 
+	![[What could the Alexnaissance look like_-1756139071114.webp]]
 # So, what's phase 2? 
 - The obvious thing is that phase 2 is about *consistency*
 - Phase 0 is like "get over the fears"

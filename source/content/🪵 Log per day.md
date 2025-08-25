@@ -7,6 +7,7 @@ permalink: log-per-day
 - Mon 2025-08-25
 	- [[London vs Oxford for a group house]]
 	- [[What could the Alexnaissance look like?]]
+	- [[Should we do the Fractal Campus accelerator?]]
 ### Week of 18th August
 - Sun 2025-08-25
 	- [[04. It flows, if you let it]]
