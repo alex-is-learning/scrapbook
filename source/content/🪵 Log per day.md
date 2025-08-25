@@ -6,6 +6,8 @@ permalink: log-per-day
 - [[Daily progress updates, streaks]]
 ## 03. August 2025
 ### Week of 18th August
+- Sun 2025-08-25
+	- [[04. It flows, if you let it]]
 - Sat 2025-08-23
 	- [[Skillful vs Unskillful Mind]]
 	- [[Ridiculousness audit 2025-08-23]]
