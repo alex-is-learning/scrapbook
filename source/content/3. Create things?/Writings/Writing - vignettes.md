@@ -8,5 +8,6 @@
 - 2025-08-24
 	- [[04. It flows, if you let it]]
 - 2025-08-25
+	- [[05. Hospital cafe]]
 
 [[Writing - not good]]
