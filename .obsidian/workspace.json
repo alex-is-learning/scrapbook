@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63d34fc58fe6d5be",
+            "id": "557bc7ad55d73f3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,10 +177,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "63d34fc58fe6d5be",
+  "active": "557bc7ad55d73f3a",
   "lastOpenFiles": [
+    "source/content/3. Create things?/Writings/04. It flows, if you let it.md",
     "source/content/3. Create things?/Writings/Writing - vignettes.md",
     "source/content/3. Create things?/Writings/05. Hospital cafe.md",
+    "source/content/🪵 Log per day.md",
     "source/content/4. Connect with people?/Notes/Should we do the Fractal Campus accelerator?.md",
     "source/content/4. Connect with people?/Notes/Alex and Simmo group house, parent page.md",
     "source/content/4. Connect with people?/Notes/London vs Oxford for a group house.md",
@@ -196,14 +198,12 @@
     "source/content/📎 Files/Images/What could the Alexnaissance look like_-1756139071114.webp",
     "source/content/📎 Files/Images/What could the Alexnaissance look like_-1756138922303.webp",
     "source/content/📎 Files/Images/What could the Alexnaissance look like_-1756138865964.webp",
-    "source/content/🪵 Log per day.md",
     "source/content/4. Connect with people?/Notes/Alex & Simmo group house in London, kick-off page.md",
     "source/content/3. Create things?/\"What do I do re loving things and creating things?\".md",
     "source/content/index.md",
     "source/content/3. Create things?/On stuff that I love (parent page).md",
     "05..md",
     "source/content/4. Connect with people?/On connecting with people more.md",
-    "source/content/3. Create things?/Writings/04. It flows, if you let it.md",
     "source/content/3. Create things?/Writings/03. To be a tpot zoomer.md",
     "source/content/3. Create things?/Writings/02. Don't be overwhelmed!.md",
     "source/content/3. Create things?/Writings/01. To be a boomer.md",
