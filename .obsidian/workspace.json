@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Improve Lived Experience?/Phenomenology/Notes/Should I pay Michael Stroe to help me break aversion?.md",
+                "file": "source/content/3. Create things?/Writings/05. Hospital cafe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Should I pay Michael Stroe to help me break aversion?"
+              "title": "05. Hospital cafe"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Improve Lived Experience?/Phenomenology/Notes/Should I pay Michael Stroe to help me break aversion?.md",
+                "file": "source/content/3. Create things?/Writings/05. Hospital cafe.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Should I pay Michael Stroe to help me break aversion?"
+              "title": "Backlinks for 05. Hospital cafe"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Improve Lived Experience?/Phenomenology/Notes/Should I pay Michael Stroe to help me break aversion?.md",
+                "file": "source/content/3. Create things?/Writings/05. Hospital cafe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Should I pay Michael Stroe to help me break aversion?"
+              "title": "Outline of 05. Hospital cafe"
             }
           }
         ]
@@ -179,11 +179,12 @@
   },
   "active": "557bc7ad55d73f3a",
   "lastOpenFiles": [
-    "source/content/3. Create things?/Writings/01. To be a boomer.md",
+    "source/content/3. Create things?/Writings/06. Cornflakes.md",
+    "source/content/3. Create things?/Writings/Writing - vignettes.md",
     "source/content/1. Improve Lived Experience?/Phenomenology/Notes/Should I pay Michael Stroe to help me break aversion?.md",
+    "source/content/3. Create things?/Writings/01. To be a boomer.md",
     "source/content/1. Improve Lived Experience?/Phenomenology/Notes/The fetters model.md",
     "source/content/3. Create things?/Writings/05. Hospital cafe.md",
-    "source/content/3. Create things?/Writings/Writing - vignettes.md",
     "source/content/3. Create things?/Writings/I hear you got some nice feedback today.md",
     "source/content/3. Create things?/Writings/Writing - not good.md",
     "source/content/3. Create things?/Writings/04. It flows, if you let it.md",
@@ -223,7 +224,6 @@
     "source/quartz/plugins/transformers/oxhugofm.ts",
     "source/quartz/plugins/transformers/ofm.ts",
     "source/quartz/plugins/transformers/links.ts",
-    "source/quartz/plugins/transformers/linebreaks.ts",
-    "source/docs/templates/2. meditation.md"
+    "source/quartz/plugins/transformers/linebreaks.ts"
   ]
 }
