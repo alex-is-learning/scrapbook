@@ -9,5 +9,7 @@
 	- [[04. It flows, if you let it]]
 - 2025-08-25
 	- [[05. Hospital cafe]]
+- 2025-08-26
+	- [[06. Cornflakes]]
 
 [[Writing - not good]]
