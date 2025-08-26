@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0f55668ade78b9c1",
+        "id": "75268338f63eb22d",
         "type": "tabs",
         "children": [
           {
-            "id": "557bc7ad55d73f3a",
+            "id": "77a086f0c5fd6578",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/3. Create things?/Writings/01. To be a boomer.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01. To be a boomer"
+              "title": "New tab"
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/3. Create things?/Writings/01. To be a boomer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01. To be a boomer"
+              "title": "Backlinks"
             }
           },
           {
@@ -150,13 +145,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/3. Create things?/Writings/01. To be a boomer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01. To be a boomer"
+              "title": "Outline"
             }
           }
         ]
@@ -173,21 +167,22 @@
       "daily-notes:Open today's note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "557bc7ad55d73f3a",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/3. Create things?/Writings/06. Cornflakes.md",
+    "source/content/3. Create things?/Writings - Appendices/06. Cornflakes - appendix.md",
+    "source/content/📎 Files/Voice notes/signal-2025-08-26-230430.mp3",
+    "source/content/3. Create things?/Writings/01. To be a boomer.md",
     "source/content/3. Create things?/Writings/02. Don't be overwhelmed!.md",
     "source/content/3. Create things?/Writings/03. To be a tpot zoomer.md",
     "source/content/3. Create things?/Writings/04. It flows, if you let it.md",
     "source/content/3. Create things?/Writings/05. Hospital cafe.md",
-    "source/content/3. Create things?/Writings/06. Cornflakes.md",
     "source/content/3. Create things?/Writings/Writing - vignettes.md",
     "source/content/🪵 Log per day.md",
     "source/content/1. Improve Lived Experience?/Phenomenology/Notes/Should I pay Michael Stroe to help me break aversion?.md",
-    "source/content/3. Create things?/Writings/01. To be a boomer.md",
     "source/content/1. Improve Lived Experience?/Phenomenology/Notes/The fetters model.md",
     "source/content/3. Create things?/Writings/I hear you got some nice feedback today.md",
     "source/content/3. Create things?/Writings/Writing - not good.md",
@@ -213,9 +208,7 @@
     "05..md",
     "source/content/4. Connect with people?/On connecting with people more.md",
     "source/README.md",
-    "README.md",
     "source/content/4. Connect with people?/Feedback",
-    "README 1.md",
     "source/raw_html/raw-html-test.html",
     "source/raw_html",
     "source/quartz/plugins/transformers/toc.ts",
@@ -223,7 +216,6 @@
     "source/quartz/plugins/transformers/roam.ts",
     "source/quartz/plugins/transformers/oxhugofm.ts",
     "source/quartz/plugins/transformers/ofm.ts",
-    "source/quartz/plugins/transformers/links.ts",
-    "source/quartz/plugins/transformers/linebreaks.ts"
+    "source/quartz/plugins/transformers/links.ts"
   ]
 }
