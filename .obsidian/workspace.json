@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/3. Create things?/Writings/05. Hospital cafe.md",
+                "file": "source/content/3. Create things?/Writings/06. Cornflakes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05. Hospital cafe"
+              "title": "06. Cornflakes"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/3. Create things?/Writings/05. Hospital cafe.md",
+                "file": "source/content/3. Create things?/Writings/06. Cornflakes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 05. Hospital cafe"
+              "title": "Backlinks for 06. Cornflakes"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/3. Create things?/Writings/05. Hospital cafe.md",
+                "file": "source/content/3. Create things?/Writings/06. Cornflakes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 05. Hospital cafe"
+              "title": "Outline of 06. Cornflakes"
             }
           }
         ]
@@ -179,12 +179,12 @@
   },
   "active": "557bc7ad55d73f3a",
   "lastOpenFiles": [
-    "source/content/3. Create things?/Writings/06. Cornflakes.md",
+    "source/content/3. Create things?/Writings/05. Hospital cafe.md",
     "source/content/3. Create things?/Writings/Writing - vignettes.md",
+    "source/content/3. Create things?/Writings/06. Cornflakes.md",
     "source/content/1. Improve Lived Experience?/Phenomenology/Notes/Should I pay Michael Stroe to help me break aversion?.md",
     "source/content/3. Create things?/Writings/01. To be a boomer.md",
     "source/content/1. Improve Lived Experience?/Phenomenology/Notes/The fetters model.md",
-    "source/content/3. Create things?/Writings/05. Hospital cafe.md",
     "source/content/3. Create things?/Writings/I hear you got some nice feedback today.md",
     "source/content/3. Create things?/Writings/Writing - not good.md",
     "source/content/3. Create things?/Writings/04. It flows, if you let it.md",
