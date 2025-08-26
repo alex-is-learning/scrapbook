@@ -4,6 +4,8 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 ## 03. August 2025
 ### Week of 25th August
+- Tue 2025-08-26
+	- [[06. Cornflakes]]
 - Mon 2025-08-25
 	- [[London vs Oxford for a group house]]
 	- [[What could the Alexnaissance look like?]]
