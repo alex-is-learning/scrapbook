@@ -1,5 +1,6 @@
 - 2025-08-10
 - https://michaelstroe.com/
+- https://www.simplytheseen.com/
 ## Do I believe him?
 - Yep, I believe in the fetters model, and imagine you can totally break them via a direct method, vs meditation
 	- A friend talked about old-school buddhism being like being in a pitch-black cave and meditating for 1000s of hours until you eventually stumble across the light switch, vs more modern/cutting edge methods being like, having someone say "hey, it's over here! The light switch is over here!"
@@ -7,7 +8,8 @@
 ## Why not do it? 
 - Cost → I currently have low income and am trying to spend as little as possible
 - Not grokking the profundity 
-	- I think if I could "peek into" the experience post-breaking the fetters, it'd be like "oh duh, this is such a good investment"
+	- I think if I could "peek into" the experience post-breaking the fetters, it'd be like "oh duh, this is such a good investment, an absurdly good investment, essentially infinite ROI, every day massively improved"
+		- Sasha Chapin tweeted something recently about how you hear people saying meditation has huge unlocks and you don't believe it until it happens and then you're like "holy fucking shit it's better than I could have ever imagined" (and this is how I feel about my ~stream entry/Kensho experience ([substack](https://alexislearning.substack.com/p/consensus-ism-part-2)))
 	- I think because the fetters are so pervasive, it's not this clear thing. It's not like "get taught how to do jhanas", it's like "unlock a totally new mode of being"
 # So, let's grok the profundity more
 - Does he have writeups? What are the fetters anyway? What do you break in what order? 
