@@ -1,4 +1,5 @@
 - [[Should I pay Michael Stroe to help me break aversion?]]
+- https://www.simplytheseen.com/
 # Why do I believe in the fetters model?
 - I had a ~stream entry experience
 - *From gemini*:
