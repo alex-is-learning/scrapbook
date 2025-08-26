@@ -25,3 +25,17 @@
 - If 1st path erased my social anxiety because of "oh shit, there's no real self here, nothing to worry about"
 - Then 2nd/3rd path could lead to "oh shit, there's no need for ill will, because xyz" → would be *deeply* profound
 - Ill Will *is* my problem right now. "How do I orient to my family" is AKA "how do I stop being so angry at my family" which is AKA "how do I stop having so much ILL WILL towards my family"
+
+--- 
+
+# 2025-08-26
+
+Just messaged Michael:
+
+I think I’m getting closer to being ready! 
+
+I’ve been following the “Simply the Seen” guide for fetters 4 & 5 and think I’ve weakened them somewhat
+
+I’m realising I should really be more ambitious here - I had my stream-entry/kensho experience and it was sooooo good, and then I integrated and it weakened but changed some things forever (e.g. no more social anxiety). 
+
+And I think I was like “well, that ~4 hour stretch when the stream entry experience was most potent was incredible, non-dual and flow-y and incredibly rich, but I’ll probably never return to it, and that’s ok”, vs I imagine actually via fetters work I could exist from that place, which would be… insane
