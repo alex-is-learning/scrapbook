@@ -11,10 +11,14 @@
             "id": "77a086f0c5fd6578",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "source/content/3. Create things?/Writings/Writing - vignettes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Writing - vignettes"
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/content/3. Create things?/Writings/Writing - vignettes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Writing - vignettes"
             }
           },
           {
@@ -145,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "source/content/3. Create things?/Writings/Writing - vignettes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Writing - vignettes"
             }
           }
         ]
@@ -170,18 +176,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "77a086f0c5fd6578",
   "lastOpenFiles": [
+    "07..md",
+    "source/content/3. Create things?/Writings/Writing - vignettes.md",
     "source/content/3. Create things?/Writings/06. Cornflakes.md",
     "source/content/3. Create things?/Writings - Appendices/06. Cornflakes - appendix.md",
+    "source/content/🪵 Log per day.md",
+    "source/content/index.md",
     "source/content/📎 Files/Voice notes/signal-2025-08-26-230430.mp3",
     "source/content/3. Create things?/Writings/01. To be a boomer.md",
     "source/content/3. Create things?/Writings/02. Don't be overwhelmed!.md",
     "source/content/3. Create things?/Writings/03. To be a tpot zoomer.md",
     "source/content/3. Create things?/Writings/04. It flows, if you let it.md",
     "source/content/3. Create things?/Writings/05. Hospital cafe.md",
-    "source/content/3. Create things?/Writings/Writing - vignettes.md",
-    "source/content/🪵 Log per day.md",
     "source/content/1. Improve Lived Experience?/Phenomenology/Notes/Should I pay Michael Stroe to help me break aversion?.md",
     "source/content/1. Improve Lived Experience?/Phenomenology/Notes/The fetters model.md",
     "source/content/3. Create things?/Writings/I hear you got some nice feedback today.md",
@@ -203,7 +211,6 @@
     "source/content/📎 Files/Images/What could the Alexnaissance look like_-1756138865964.webp",
     "source/content/4. Connect with people?/Notes/Alex & Simmo group house in London, kick-off page.md",
     "source/content/3. Create things?/\"What do I do re loving things and creating things?\".md",
-    "source/content/index.md",
     "source/content/3. Create things?/On stuff that I love (parent page).md",
     "05..md",
     "source/content/4. Connect with people?/On connecting with people more.md",
