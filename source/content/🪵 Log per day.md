@@ -7,6 +7,7 @@ permalink: log-per-day
 - Thur 2025-08-28
 	- [[I'm overwhelmed! 2025-08-28]]
 	- [[It's possible that community could obviously be the thing for me (2025-08-28)]]
+	- [[07. Travel day]]
 - Tue 2025-08-26
 	- [[06. Cornflakes]]
 - Mon 2025-08-25
