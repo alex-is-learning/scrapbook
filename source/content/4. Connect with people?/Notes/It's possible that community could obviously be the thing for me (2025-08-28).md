@@ -31,7 +31,7 @@
 ### Moloch
 - And this is all downstream of society failing them, really. They didn't have therapy, there are no clear paths forwards for them that are straightforward. My parents parents were all very difficult, working class, traumatised. They didn't have religion to fall back on, or a healthy community, no role models, etc
 - By Moloch I mean this [blog post](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) by Scott Alexander re: imagining the kind of fucked up state of the world as being about perverse incentives and this inhuman demon/god that we summon by mistake (or something like that)
-## What do I do with all of this?
+## "What do I do with all of this?"
 - I haven't known what to do with all this energy, my horror at the way various family members live, all the energy it has given me to e.g. learn to learn, learn to think, refuse to get stuck in a rut, etc
 - I don't want to abandon them, I also don't want to try to save them 
 	- (Which I tried to do briefly re: going to family therapy with my mum, e.g. [["How can I change how to orient to my family?" (Open Question)]])

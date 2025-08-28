@@ -6,7 +6,7 @@ permalink: log-per-day
 ### Week of 25th August
 - Thur 2025-08-28
 	- [[I'm overwhelmed! 2025-08-28]]
-	- [[What do I want from community? 2025-08-28]]
+	- [[It's possible that community could obviously be the thing for me (2025-08-28)]]
 - Tue 2025-08-26
 	- [[06. Cornflakes]]
 - Mon 2025-08-25
