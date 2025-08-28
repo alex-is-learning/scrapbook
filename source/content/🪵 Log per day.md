@@ -4,6 +4,9 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 ## 03. August 2025
 ### Week of 25th August
+- Thur 2025-08-28
+	- [[I'm overwhelmed! 2025-08-28]]
+	- [[What do I want from community? 2025-08-28]]
 - Tue 2025-08-26
 	- [[06. Cornflakes]]
 - Mon 2025-08-25

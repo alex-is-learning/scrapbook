@@ -1,3 +1,5 @@
+- Thur 2025-08-28
+	- [[What do I want from community? 2025-08-28]]
 - Mon 2025-08-25 
 	- [[London vs Oxford for a group house]]
 	- [[Should we do the Fractal Campus accelerator?]]
