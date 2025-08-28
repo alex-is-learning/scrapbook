@@ -1,0 +1,28 @@
+- Thursday 2025-08-28
+
+# What's up? 
+## Travel logistics fuck-up
+- I've mildly fucked up my travel logistics today
+- My plan was to drop off my hire care at Valencia airport, and then get a bus or train to Barcelona
+- Instead of driving for 4 hours, which would be kinda boring, figured I'd get a bus/coach or train, read, go on my laptop, chill, whatever
+- However, I didn't book a train/bus ahead of time 😅 I just figured I'd figure it out once I arrived
+- Cue me queuing for 30 minutes at the Valencia train station only to be told that the trains are full
+- Then me going "oh shit oh shit oh shit" for 3 mins, trying to find buses and it seeming like they're all sold out. "Oh shit am I going to have to fly? How embarrassing, and I just came from the airport"
+- Luckily I found a coach that had *one seat left*, 6 hours from now. (That is, it was 2pm, and the coach leaves at 8pm. It's currently 4:30pm and I'm in a shopping mall)
+- It's just so silly because I could have planned ahead, booked a train for 3pm, got on the train, got to Barcelona for around 6pm, time to wander round the Gothic quarter, etc. Vs now I'll be arriving at my Airbnb at around 00:30, straight to bed, RIP
+### What went wrong? 
+- This is the flip side of me being like "fuckin' boomers who stress out and think everything's so hard, don't they get that you can just plug whereever you're going into Google Maps and figure it out as you go, feeling cool as you do it?". Which is true if you're relying on e.g. buses that arrive every 30 mins. But for a 4 hour journey between big cities, you should assume that the things are much more likely to sell out
+### What went well
+- It was kinda stressful for a few mins, but I had my friends who I was sending messages about it the whole time (Simmo offered to help which was sweet), and I found a bus within a few mins
+### What is frustrating about it? 
+1. Could've ==wandered around Barcelona== a bit → not much of a loss as I'm honestly not that fussed about solo travel, and I was in Barcelona ~1 year ago. It would have been kind of nice to wander the Gothic Quarter a bit, but also kinda lonely and non-profound
+2. ==Embarrassing== (which has a good side) → to have been all "I'm so great, I'm a zoomer, everything is easy" (the good flip side is that it's usefully humbling, "oh yeah I'm still dumb")
+3. ==Inconvenience== → could've got a ~2.5 hour train, instead walked for half an hour in 32 degree heat and my suitcase to get to bus station, now have to wait til 8pm, then a 4 hour coach, etc
+	- Good flip side → I have some time to work now (I want to write a memo re: what I want from community, I want to do ~2 hours of my contractor gig). On the coach, I've got my paperback of David Foster Wallace's "Oblivion", which I read ~100 pages of during the transit from England to my Dad's hospital. I haven't read it for a few years and it's really really lovely to return now I've learned a bunch more. 
+## Argument in the queue for the train ticket
+- This was actually quite fun and a win, but it did leave me with some adrenaline/cortisol, shaky knees (lol), just before the ticket person telling me the trains were sold out 
+- Guy cut in front of me in the queue, I only realised a few minutes later, tapped him on the shoulder and said "I think you've got infront of me", he got defensive and said "I only did it because that guy did it, why aren't you complaining at him", I said "I didn't notice the other guy and also he seems like a nicer guy than you" (honestly, this guy was immediately defensive and just had a bad attitude). There was a second round that I cba to explain but included me saying that "saying you cut in front because someone else cut in front is like 'I did something unethical because someone else did' which is a pretty tricky life philosophy" or something, lol, because the gap in between our two "altercations" gave me time to do the thing where you think of "oh man I should have said that in the moment"
+	- Immediately after our second altercation, I had a really nice chat with another guy next to me from Cambodia who was telling me where he's moving to and about his electric unicycle that he's had for 10 years, lol. Felt like a nice thing to go from "I swear this other guy is a dick and has a terrible attitude" to having a warm connection with the other guy, did reassure me re: like "I'm not the dick in this situation" or something, lol. 
+- Basically, practice being disagreeable. But also not like, being reactive for the sake of it. Like, I noticed that he cut in front of me in the queue and thought about it for a few mins before saying anything. Like "well I mean, who cares, maybe he's in more of a rush" vs "idk it seems kinda shitty to cut in front of someone" vs then seeing him doing it again and being like "ok time to tell him off"
+## All this did give me an appreciation for shopping malls
+- After the travel fuck-up and slogging through the Valencian sun with my suitcase and walking to the bus station, 5 mins from the bus station I spotted a shopping mall and was like "that might be a good place to cool down", and was immediately soothed by the shitty generic-ness, the AC, the liminal "could be anywhere in the world"-ness of it. Felt very David Foster Wallace "A Supposedly Fun Thing That I'll Never Do Again" re: boomers being soothed by cruise ships and shopping malls. It's stressful out there! This is a very controlled environment, you're just here to spend money on shit, ahhhhh. Consumerism as a safety blanket for stressed out people, in a society where there aren't really any viable alternatives
