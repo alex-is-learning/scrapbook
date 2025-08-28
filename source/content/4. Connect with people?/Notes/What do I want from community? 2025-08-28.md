@@ -12,20 +12,21 @@
 - Also, at 29, I have ==never lived in a good group house==, to have been too socially anxious during uni/masters. 
 - So there's the "[[Ignoti nulla cupido]]" thing here too → maybe I'd love it, but I've never experienced it, so it's not an active desire for me right now, other than in an abstract sense. All I know is what I've lived[^2]
 ### Wanna form a group house? 
-- So, when Simmo says "wanna form a group house?", I'm like "==hell yeah, of course==, I've been job hunting and living at my mum's for 6 months to cut costs, of course I'd like to live in a group house, that'd be a huge improvement". "And also I've never lived in a good group house and I really like you and we've been friends for 2+ years with lots of growth and conflict resolution and there's a depth of trust here" and etc. So yeah, a group house with Simmo is a no-brainer IMO
+- So, when Simmo says "wanna form a group house?", I'm like "==hell yeah, of course==, I've been job hunting and living at my mum's for 6 months to cut costs, of course I'd like to live in a group house, that'd be a huge improvement". 
+- "And also I've never lived in a good group house and I really like you and we've been friends for 2+ years with lots of growth and conflict resolution and there's a depth of trust here" and etc. So yeah, a group house with Simmo is a no-brainer IMO
 ### Wanna form an *intentional community*?
 - And when he's like "what about an ==intentional community==", I'm like, "idk about that, sounds more like your dream than mine, I just want the bare minimum of a nice group house, that's a huge like 1000x improvement already, I don't really see the point of thinking about like 10,000x or 100,000x improvements atm, seems too ambitious and had to parse"
 	- (*Which is silly on my part, like, that's scope neglect right there. But still, you know, I'm talking about gut/intuition/felt sense, rather than like logic, reasoning*)
 - So my gut sense was like "idk about *Fractal*, idk about *community*, idk about like *forming a community hub and campus where people teach each-other*, that all seems like much more than I need right now. And I know that you've lived in great communities so you have much more of a real want for all that stuff, but I have the *ignoti nulla cupido* thing, I just don't know, no non-propositional knowledge here
 # But!
-- But actually, guess what, I think actually I could be someone who is really really energised by an amazing community, because it literally solves things that I have been pretty much obsessed with, and a serial ruminator about, for years
+- But actually, guess what, I think actually I could be someone who is really really energised by an amazing community, because ==it literally solves things that I have been pretty much obsessed with==, and a serial ruminator about, for years
 - This is something that is very alive for me atm because I've just lived with my mum for ~6 months and just spend 2.5 weeks being the only person helping my Dad in a Spanish hospital, so I feel very attuned to some stuff
 ## Boomers/family/parenting
-- A key thing for me, really possibly *the* thing in my life, the key theme, is the whole like "holy shit, my family is so ~damaged, no one is doing well, it's gradually drifting apart and no one has the emotional skills to do conflict resolution, my parents are very damaged (by being working class and growing up in a time pre-therapy etc)"
-- Having parents who are the opposite of lifelong learners, who are stuck in "fixed mindset", who have no agency at all, who are the Romeo Stevens thing of like "most people are tactically smart and strategically incredibly stupid" (because they can e.g. book a holiday, but they can't look at the trajectory of their life and realise how fucked they are if they don't make some profound changes)
+- A key thing for me, really possibly *the* thing in my life, the key theme, is the whole like "holy shit, my family is so ~damaged, ==no one is doing well==, it's gradually drifting apart and no one has the emotional skills to do conflict resolution, my parents are not doing well (from being working class and growing up in a time pre-therapy etc)"
+- Having parents who are the opposite of lifelong learners, who are stuck in "fixed mindset", who have ==no agency== at all, who are the Romeo Stevens thing of like "most people are tactically smart and strategically incredibly stupid" (because they can e.g. book a holiday, but they can't look at the ==trajectory of their life== and realise how fucked they are if they don't make some profound changes)
 	- See e.g. [[01. To be a boomer]]
 	- & [[Tactically clever, strategically stupid]]
-- This is the key theme of my life really. There has been huge bitterness re: "I can't believe this is my family, I can't believe these people are my 'role models', this is so fucked, there are no adults in the room"
+- This is the key theme of my life really. There has been ==huge bitterness== re: "I can't believe this is my family, I can't believe these people are my 'role models', this is so fucked, there are no adults in the room", and despair that they won't help themselves
 	- It's partly why I'm like "I can't deeply care about Effective Altruism, my family are suffering!" (or, "my house is on fire!")
 ### Moloch
 - And this is all downstream of society failing them, really. They didn't have therapy, there are no clear paths forwards for them that are straightforward. My parents parents were all very difficult, working class, traumatised. They didn't have religion to fall back on, or a healthy community, no role models, etc
@@ -34,20 +35,23 @@
 - I haven't known what to do with all this energy, my horror at the way various family members live, all the energy it has given me to e.g. learn to learn, learn to think, refuse to get stuck in a rut, etc
 - I don't want to abandon them, I also don't want to try to save them 
 	- (Which I tried to do briefly re: going to family therapy with my mum, e.g. [["How can I change how to orient to my family?" (Open Question)]])
-# "I don't care about [x]" → actually, I care about [x] an enormous amount
-- There's a sense in which, all this stuff being so important to me, so salient, has actually blocked it from my awareness in a weird way. It's like an ugh field or a blind spot
-- Like, it's so aversive, so I don't know what to do about it, so I look elsewhere, and I think that there's nothing that can be done, and I kind of *forget about it*, or at least I never do the mental move of "this is an important thing for me to work on"
-- And as such, I can tell myself "oh man, I don't know what my thing is, I don't know what my niche is, I don't know what matters to me, I just haven't found it yet, maybe one day, maybe one day I'll stumble across something like idk geology and I'll have this eureka moment and realise that that is the thing for me to build my life around, but not yet, I haven't found it yet"
+# Because it feels intractable, I ~forget about it 
+- There's a sense in which, all this stuff being so important to me, so salient, has actually blocked it from my awareness in a weird way. It's like an [ugh field](https://www.lesswrong.com/posts/EFQ3F6kmt4WHXRqik/ugh-fields) or a blind spot
+- Like, it's so aversive, so I don't know what to do about it, so I look elsewhere, and I think that there's nothing that can be done, and I kind of *forget about it*, or at least I ==never do the mental move of "this is an important thing for me to work on"==
+# "I don't know what my thing is"
+- And as such, I can tell myself "oh man, I don't know what my thing is, I don't know what my niche is, I don't know what matters to me, I just haven't found it yet, maybe one day, maybe one day I'll stumble across something like idk geology and I'll have this ==eureka moment== and realise that that is the thing for me to build my life around, but not yet, I haven't found it yet"
 - Vs "I have been alive for 29 years. Imagine an omniscient being could look into my brain and all my thoughts over the last 10+ years and pull out the things that I think about the most - what might they be?"
 ## The negative formulation is agency-robbing, a positive reframe is obvious and energy-giving
 ### Being a parent
 - E.g., if I think about "do I want to be a parent one day?", it's like "oh god, holy shit, it seems like it'd be so hard, and so easy to fuck up". How could I possibly do that, and it's so far away, etc
-- But, if the question is "could all this mean I have a huge amount of energy and juice re: being the best Dad I can possibly be, and that would be profoundly, indescribably meaningful as it would e.g. let me 'heal' via giving my child what I wish my Dad could have given to me?", it's like, so incredibly obvious that this is one of the core themes of my life
-	- It's like, the negative version of this, the "oh man my parents really messed up in big ways" thing is agency-robbing and overwhelming. And the positive formulation of "therefore I want to be an incredible Dad" is incredibly energising and obvious
+- But, if the question is "could all this mean I have a huge amount of energy and juice re: being the best Dad I can possibly be, and that would be profoundly, indescribably meaningful as it would e.g. let me 'heal' via giving my child what I wish my Dad could have given to me?", it's like, ==so incredibly obvious== that this is one of the core themes of my life
+	- It's like, the **negative version** of this, the "oh man my parents really messed up in big ways" thing is agency-robbing and overwhelming. 
+	- And the **positive formulation** of "therefore I want to be an incredible Dad" is incredibly energising and obvious
 ### Living in a non-Molochian world
 - And then similarly "do I want to live in intentional community?" is like "oh man, idk, that seems far too like, grand, I don't need all that, not yet anyway"
-- And similarly - "man, society has failed so many of us, it's so fucked up, what the hell are my family supposed to do, what even would my prescription be to them if they did want to follow my path which I know has helped me in profound ways" is massively agency-robbing and overwhelming. I'm left with no options, it feels like there's nothing that can be done, so I just like, background it 
-- Vs the positive formulation of "let's build a long-term community and use all the pain and failure of the default society as a deep teacher in what to not build" is very energising and obvious
+- **Negative formulation**
+	- And similarly - "man, society has failed so many of us, it's so fucked up, what the hell are my family supposed to do, what even would my prescription be to them if they did want to follow my path which I know has helped me in profound ways" is massively agency-robbing and overwhelming. I'm left with no options, it feels like there's nothing that can be done, so I just like, background it 
+- Vs the **positive formulation** of "let's build a long-term community and use all the pain and failure of the default society as a deep teacher in what to not build" is very energising and obvious
 # uhh the end
 - "I want to be an amazing parent (and husband) one day" is possibly a very obvious goal, but lemme let it percolate somewhat
 - And "I want to help build a non-Molochian community/society" is possibly a very obvious way to channel all the pain from living in this world, but again, brand new framing, let's see 👀
