@@ -2,9 +2,9 @@
 permalink: 
 created:
 ---
-# Photos (from the website)
-![[Ship It Week-1755697716915.webp]]![[Ship It Week-1755697716912.webp]]![[Ship It Week-1755697716911.webp]]![[Ship It Week-1755697716913.webp]]![[Ship It Week-1755697716909.webp]]![[Ship It Week-1755697716908.webp]]
-
+- [[Ship It Week log]]
+- Next - [[Ship It Week 2025-08-30 (log 1)]]
+- Starts on the 29th of August
 # Website
 From here: https://thegarden.love/ship-it-week/
 
@@ -25,41 +25,25 @@ Let’s grow and ship together!
 https://x.com/RichDecibels/status/1953744319132717117
 
 Ship It Week
-
 coliving 
-
 coworking 
-
 forest time
-
 vibe coding
-
 twitter frens
-
 peer support
-
 co-regulating
-
 writing retreat
-
 tiny dance breaks
-
 get a project over the line
-
 endless summer
-
 dudes & babes
-
 peer coaching
-
 Aug 29-Sep 7
-
 get shit done
-
 self esteem
-
 pomodoros
-
 Casa Tilo
-
 ship it!
+# Photos (from the website)
+![[Ship It Week-1755697716915.webp]]![[Ship It Week-1755697716912.webp]]![[Ship It Week-1755697716911.webp]]![[Ship It Week-1755697716913.webp]]![[Ship It Week-1755697716909.webp]]![[Ship It Week-1755697716908.webp]]
+

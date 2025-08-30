@@ -62,7 +62,7 @@
 - I was meant to have a meeting with them tomorrow - I just emailed asking if I could have some more info async, as I'm quite overwhelmed atm b/c my dad's in hospital, etc
 - My gut is that AI safety isn't for me, but good to get some extra info in case the org is really cool or something
 ## Ship It Week
-- I'm going to a 10 day container → [[Ship It Week]]
+- I'm going to a 10 day container → [[What is Ship It Week? (2025-08-20)]]
 - I think this could mean another 10 days of kinda neglecting Outcapped, which I'm worried about. Or, squeezing in 1-3 hours of Outcapped work and missing out on opportunities at Ship It Week
 ## Ethics tutor 
 - I've had to pause my ethics tutor, who I was really enjoying working with [[Superprof Philosophy, Ethics tutor]]
