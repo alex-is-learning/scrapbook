@@ -3,7 +3,7 @@ permalink:
 created:
 ---
 - [[Ship It Week log]]
-- Next - [[Ship It Week 2025-08-30 (log 1)]]
+- Next - [[Ship It Week, day 1 retro]]
 - Starts on the 29th of August
 # Website
 From here: https://thegarden.love/ship-it-week/
