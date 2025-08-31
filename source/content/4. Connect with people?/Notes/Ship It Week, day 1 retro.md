@@ -2,7 +2,7 @@
 - Previous - [[What is Ship It Week? (2025-08-20)]]
 
 - Where to begin, where to begin... 
-- I arrived yesterday, Friday. I got picked up from the train station at 17:30
+- Today is Saturday, I arrived yesterday, Friday. I got picked up from the train station at 17:30
 - We had the opening circle at 7pm 
 ## 1. Opening Circle
 - One of the most salient things for me in my lived experience right now is like "oh yeah, ==I cried during the opening circle=="
@@ -24,12 +24,20 @@
 - And to see Rich and Nati who are let's guess 40 and actually do have an extra depth of wisdom. Like, they're not just older in years, they have the wisdom, they've been doing this whole-heartedly for years. It can feel like tpot is mostly made up of low-conscientiousness vibe-y 28 year olds so it's really great to have the role models, these "elders"
 - Makes me think a lot about e.g. Fractal and intentionally being inter-generational. And the "living in a Non-Molochian world" stuff from here → [[It's possible that community could obviously be the thing for me (2025-08-28)]]. Like, the importance of cultivating a Non-Molochian corner of the world, carrying the torch, being a beacon of light
 ## 3. "Oh yeah, I *have* grown a bunch"
+- *This is the most profound part so far really, and very difficult to capture in words. I'm having myriad experiences per day of like "holy shit yeah I can't believe I just did x, social anxiety would have made that soooo much harder". And not that I'm doing these insane huge things, just to be able to even e.g. do some stretching and stuff whilst talking to people, no worries about if it's weird, just "I want to do x → I am now doing x", very flow state-y*
 - It's easy to forget and to maybe even doubt that I'm doing much better these days, because I've lived with my mum for 6 months with gradually depleting energy, not much room for thriving etc
 - Vs plugging in here and it's *so* apparent how much I've changed post-[[Kensho]]. Like "holy shit, I can cry in front of a big group and feel 0 embarrassment at all". I can feel totally non-shy, I can notice feelings as they arise like "ooh, I'm feeling a little awkward right now, I don't know what to do with my hands" and have that just be a fact, that my emotional schema of the world is still "ooh, some of these people seem cooler than me and intimidating", and see that as a story, etc. First dart/second dart.
 	- This is why I think the Kensho was akin to stream entry → I think I saw through the illusion of self, and although it didn't drop away forever, I now just no longer take it seriously, so there's no like "eeeee I'm so worried about embarrassing myself because you know, my Self is real and that will be so bad!", it's like "oh yeah no big deal"
 	- Kinda like this Sasha tweet 👇
 	- ![[sasha-tweet-self-identity-cropped.webp]]
+### Interestingly, I'm still ~quiet (?)
+- It's not that I'm socially anxious, but it's true that I actually am happy to sit and be the kinda non-verbal one, maybe asking a bunch of questions and stuff, but I don't typically want to enter a room and immediately be having a conversation or engaging people
+- There's a slowness which is maybe the same thing as introversion
+- But also, I've already made some people laugh a few times and that has felt really rewarding and lovely
+- I think in the past I found Simmo difficult to be around because he's so energetic and can take up a lot of the conversational space (he's gotten much more skilled at the balance IMO), and I'd get into rumination about how he's doing too much & how I should probably do more etc, vs now I'm happy to be this chill presence and engage when it feels alive
+- We had a great ~hour long conversation in the music room last night re: vajryana Buddhism and Brent thanked me afterwards for the great questions I was asking and how I helped the conversation go deeper, which felt great <3 I have some old model of like "you're supposed to be interesting/big/charismatic", and it's great to get "food pellets from the universe" via being engaged, thoughtful, noticing your own confusion and curiosity, etc
 ## 4. What am I here to do? 
 - This is the next thing to figure out, after lunch. Got some great ideas/insights from the kickoff workshop we just did, got some memos to write 😎
+	- Writing now → [[What am I doing at Ship It Week? 2025-08-30]]
 ## Misc things
 - Mentioned Sasha Chapin so much already lol, he's really the only poster who a bunch of things have really clicked into my brain. E.g. "that reminds of this tweet" or "that reminds me of this substack", lol, lame
