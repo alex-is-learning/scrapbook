@@ -6,6 +6,7 @@ permalink: log-per-day
 ### Week of 25th August
 - Sat 2025-08-30
 	- [[Ship It Week log]]
+	- [[Ship It Week, day 1 retro]]
 - Thur 2025-08-28
 	- [[I'm overwhelmed! 2025-08-28]]
 	- [[It's possible that community could obviously be the thing for me (2025-08-28)]]
