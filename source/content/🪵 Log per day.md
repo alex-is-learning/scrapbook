@@ -4,6 +4,8 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 ## 03. August 2025
 ### Week of 25th August
+- Sun 2025-08-31 
+	- [[08. Morning by the pool]]
 - Sat 2025-08-30
 	- [[Ship It Week log]]
 	- [[Ship It Week, day 1 retro]]
