@@ -1,0 +1,14 @@
+- 2025-08-31
+- There's something I want to explore around the two of us as a pair, what makes sense and doesn't make sense (this isn't worded well, I'm just writing quickly atm)
+## Polarity and stuff
+- There's something interesting here around like, I think we can show up in such different ways
+- Like, I do think that my default mode (at least, so far at Ship It Week, but also historically too), is introverted, maybe kind of slow, 1:1 connection, understated etc. Even reflected in my e.g. singing style
+- Vs you are very energetic, extroverted, high tempo, etc, enneagram 7, relishing of novelty and fun, depth of emotions, etc. And this is reflected in your singing style, loud and expressive and too much for me in the past
+- And I think we can both occupy the opposite poles, and it is a spectrum. I can love making people laugh and being silly (maybe, it has been so long). I know that you have said that you think I'm more extroverted than I tell myself. And you can be slow and grounded and prioritising alone time and work, etc
+### What's the worry here?
+- I worry that I can operate from a place of "I'm *supposed* to do more, be higher energy, be bigger, and Simmo will help me with that", vs honouring my way of being. So I worry that maybe in a group house, you will want to gather other big expressive extroverted enneagram 7s, and it'll be this house of racuous connection that I actually don't like, that feels somewhat alien to me, something like that
+- I think there may be skill issues here, e.g., I haven't done enough ecstatic dance to discover the good in it reliably. If there was a dance workshop at Ship It Week, I'd be nervous to attend. There's a sense of being "supposed" to break through this stuff fast, and a worry that maybe I just don't like "that stuff"
+### An answer?
+- Gather more data, take more time. It feels like you have spend many many hours in community, and I'm still brand new, and as such I don't know what I want, and I haven't grown into it yet. So I'd be worried about cultivating a house with x flavour because Simmo really likes that flavour and I don't have preferences because [[Ignoti nulla cupido]]
+- So like, refining my "taste" around community feels important somehow. Maybe this involves me visiting some intentional communities like The Garden and Tamera and [etc], maybe even the Berlin tpot scene. Speed-running this stuff, getting a good amount of experience. I worry about rushing into creating something before my taste and voice has developed
+- And also, epistemic status for all of the above is very shakey (which is kind of the whole point). So please don't take any of this as definitely how I feel! I'm going to swim in the pool now

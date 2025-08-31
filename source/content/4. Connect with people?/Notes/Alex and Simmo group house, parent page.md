@@ -1,3 +1,5 @@
+- Sun 2025-08-31
+	- [[Do we make an odd pair? 2025-08-31]]
 - Thur 2025-08-28
 	- [[It's possible that community could obviously be the thing for me (2025-08-28)]]
 - Mon 2025-08-25 
