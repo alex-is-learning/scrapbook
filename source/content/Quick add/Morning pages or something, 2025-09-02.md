@@ -7,9 +7,7 @@
 	- So yes, 3 friends, 2 who I barely know but have lovely vibes, one who I also don't know well but who I feel a huge amount of warmth and tenderness for
 	- One of these new friends came with me to meet the Spanish man who was selling a thinkpad in the closest town, a 15 minute drive from Casa Tilo. It turns out he speaks much better Spanish than he implied, and was totally conversant with this odd Spanish man, and was a huge help to me in testing the laptop. It felt really sweet, kind of miraculous, to have this new friend be totally happy to come along with me and help me out in this way
 	- So that was very sweet, as was being in the car together. I drove on the way there, which felt cool and adult, even if I ran a red light at one point 
-(testing)
-# The bad
-- So my macbook died, randomly, and quite terminally, it seems
+# The bad - So my macbook died, randomly, and quite terminally, it seems
 ## Why is it bad that my macbook died?
 ###  Lost software?
 - Luckily, everything lives in the cloud, so I'm not too worried about what I lost (apart from a worry that my Ableton license only applies to that laptop. Maybe a time to switch to open-source software for music, I only need basic features anyway, although re-learning does feel aversive)
@@ -87,6 +85,7 @@
 - I think it's obviously a return to youtube, whilst unifying various platforms (e.g. bringing in substack too). Maybe even posting to tiktok and instagram too, although that feels aversive at bad
 - Music, but really just sharing how I'm doing, stuff about my journey etc
 - It feels quite solipsistic? But I think it can be inspiring and warm-hearted and possibility-space-expanding for people
+
 
 
 

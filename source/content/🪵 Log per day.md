@@ -5,6 +5,7 @@ permalink: log-per-day
 ## 03. August 2025
 ### Week of 25th August
 - Tue 2025-09-01
+	- [[What could a return to youtube look like?]]
 	- [[Morning pages or something, 2025-09-02]]
 - Mon 2025-09-01
 	- [[Ship It Week, day 3 retro]]
