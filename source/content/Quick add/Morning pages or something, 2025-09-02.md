@@ -7,6 +7,7 @@
 	- So yes, 3 friends, 2 who I barely know but have lovely vibes, one who I also don't know well but who I feel a huge amount of warmth and tenderness for
 	- One of these new friends came with me to meet the Spanish man who was selling a thinkpad in the closest town, a 15 minute drive from Casa Tilo. It turns out he speaks much better Spanish than he implied, and was totally conversant with this odd Spanish man, and was a huge help to me in testing the laptop. It felt really sweet, kind of miraculous, to have this new friend be totally happy to come along with me and help me out in this way
 	- So that was very sweet, as was being in the car together. I drove on the way there, which felt cool and adult, even if I ran a red light at one point 
+(testing)
 # The bad
 - So my macbook died, randomly, and quite terminally, it seems
 ## Why is it bad that my macbook died?
