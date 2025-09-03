@@ -4,7 +4,10 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 ## 03. August 2025
 ### Week of 25th August
-- Tue 2025-09-01
+- Wed 2025-09-03
+	- Youtube video - [return to youtube](https://www.youtube.com/watch?v=vgwkHzxPOLY)
+	- [[Gathering people's "Hit Publish" writings from Ship It Week]]
+- Tue 2025-09-02
 	- [[What could a return to youtube look like?]]
 	- [[Morning pages or something, 2025-09-02]]
 - Mon 2025-09-01

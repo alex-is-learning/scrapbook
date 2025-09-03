@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Quick add/Gathering people's \"Hit Publish\" writings from Ship It Week.md",
+                "file": "source/content/🪵 Log per day.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gathering people's \"Hit Publish\" writings from Ship It Week"
+              "title": "Backlinks for 🪵 Log per day"
             }
           },
           {
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Quick add/Gathering people's \"Hit Publish\" writings from Ship It Week.md",
+                "file": "source/content/🪵 Log per day.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gathering people's \"Hit Publish\" writings from Ship It Week"
+              "title": "Outline of 🪵 Log per day"
             }
           }
         ]
@@ -220,12 +220,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "e2afe58dab899f09",
   "lastOpenFiles": [
-    "source/content/4. Connect with people?/Notes/Ship It Week log.md",
-    "source/content/Quick add/Gathering people's \"Hit Publish\" writings from Ship It Week.md",
-    "source/content/Quick add/What could a return to youtube look like?.md",
+    "Do I want to write anything or should I just go film a youtube video?.md",
     "source/content/🪵 Log per day.md",
+    "source/content/Quick add/Gathering people's \"Hit Publish\" writings from Ship It Week.md",
+    "source/content/4. Connect with people?/Notes/Ship It Week log.md",
+    "source/content/Quick add/What could a return to youtube look like?.md",
     "source/content/Quick add/Morning pages or something, 2025-09-02.md",
     "source/content/Quick add",
     "source/content/Quick add/Death Ground.md",
@@ -253,7 +254,6 @@
     "Tactically clever, strategically stupid-1756395895373.webp",
     "source/content/5. How to think?/Tactically clever, strategically stupid.md",
     "source/content/📎 Files/Images/misc/Tactically clever, strategically stupid-1756395306154.webp",
-    "source/content/1. Improve Lived Experience?/Family/\"How can I change how to orient to my family?\" (Open Question).md",
     "source/content/📎 Files/Voice notes/signal-2025-08-26-230430.mp3",
     "source/content/📎 Files/Images/misc/What could the Alexnaissance look like_-1756139071114.webp",
     "source/content/📎 Files/Images/misc/What could the Alexnaissance look like_-1756138922303.webp",
