@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gathering people's \"Hit Publish\" writings from Ship It Week.md",
+                "file": "source/content/Quick add/Gathering people's \"Hit Publish\" writings from Ship It Week.md",
                 "mode": "source",
                 "source": false
               },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gathering people's \"Hit Publish\" writings from Ship It Week.md",
+                "file": "source/content/Quick add/Gathering people's \"Hit Publish\" writings from Ship It Week.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gathering people's \"Hit Publish\" writings from Ship It Week.md",
+                "file": "source/content/Quick add/Gathering people's \"Hit Publish\" writings from Ship It Week.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -220,10 +220,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01f227eb069e519d",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
     "source/content/4. Connect with people?/Notes/Ship It Week log.md",
-    "Gathering people's \"Hit Publish\" writings from Ship It Week.md",
+    "source/content/Quick add/Gathering people's \"Hit Publish\" writings from Ship It Week.md",
     "source/content/Quick add/What could a return to youtube look like?.md",
     "source/content/🪵 Log per day.md",
     "source/content/Quick add/Morning pages or something, 2025-09-02.md",
