@@ -7,6 +7,7 @@ permalink: log-per-day
 - Wed 2025-09-03
 	- Youtube video - [return to youtube](https://www.youtube.com/watch?v=vgwkHzxPOLY)
 	- [[Gathering people's "Hit Publish" writings from Ship It Week]]
+	- Hit Publish - [Wednesday at Ship It Week](https://alexislearning.substack.com/p/wednesday-at-ship-it-week) (substack post)
 - Tue 2025-09-02
 	- [[What could a return to youtube look like?]]
 	- [[Morning pages or something, 2025-09-02]]
