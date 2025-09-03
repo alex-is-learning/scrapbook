@@ -1,4 +1,6 @@
 ## During "Ship It Week"
+- Wednesday 2025-09-03
+	- Hit Publish - [Wednesday at Ship It Week](https://alexislearning.substack.com/p/wednesday-at-ship-it-week) (substack post)
 - Tuesday 2025-09-02
 	- [[Gathering people's "Hit Publish" writings from Ship It Week]]
 	- [[Morning pages or something, 2025-09-02]]
