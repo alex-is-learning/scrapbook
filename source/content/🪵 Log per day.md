@@ -10,6 +10,7 @@ permalink: log-per-day
 - Tue 2025-09-02
 	- [[What could a return to youtube look like?]]
 	- [[Morning pages or something, 2025-09-02]]
+	- [[Mansplaining David Foster Wallace 2025-09-02]]
 - Mon 2025-09-01
 	- [[Ship It Week, day 3 retro]]
 - Sun 2025-08-31 
