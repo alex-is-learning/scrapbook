@@ -19,7 +19,8 @@
 	- [Resisting Receiving and Allowing Allowing](https://michaeltongtong.substack.com/p/resisting-receiving-and-allowing?utm_source=app-post-stats-page&r=tkgk0&utm_medium=ios&triedRedirect=true)
 		- [Instragram post that goes with it](https://www.instagram.com/reel/DOJaMfLjNTW/?igsh=Y2dlNjZ3YXI4OTk1)
 # Simon
-- [cool pool](https://nowsimon.substack.com/p/cool-pool?r=e06m1&utm_campaign=post&utm_medium=web&triedRedirect=true)
+- Tuesday September 2nd
+	- [cool pool](https://nowsimon.substack.com/p/cool-pool?r=e06m1&utm_campaign=post&utm_medium=web&triedRedirect=true)
 # Hannah
 - Tuesday September 2nd
 	- [#6: Getting back on the horse](https://soupyphase.substack.com/p/6-getting-back-on-the-horse?r=ri0w3&utm_campaign=post&utm_medium=web&triedRedirect=true)
@@ -31,10 +32,10 @@
 - Wednesday 3rd September
 	- [29 weeks living in communities](https://simmosimpson.substack.com/p/29-weeks-living-in-communities)
 # Jonathan
-- 30th August
+- Saturday 30th August
 	- [Church Going](https://jnsyaaa.substack.com/p/church-going)
 # Agi
-- 29th August
+- Friday 29th August
 	- [Channeling as a Creative Practice](https://awarenessplay.substack.com/p/channeling-as-a-creative-practice?triedRedirect=true)
 - Wednesday 3rd September
 	- [friend in the air](https://awarenessplay.substack.com/p/friend-in-the-air?r=z803&utm_campaign=post&utm_medium=web&triedRedirect=true)

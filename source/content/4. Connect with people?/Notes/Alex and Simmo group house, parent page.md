@@ -1,3 +1,7 @@
+- Note that the below are Alex's memos
+
+- Thur 2025-09-04
+	- "[Alex and Simmo are forming a group house!](https://al-immo.github.io/group-house/)" -- website!
 - Sun 2025-08-31
 	- [[Do we make an odd pair? 2025-08-31]]
 - Thur 2025-08-28
