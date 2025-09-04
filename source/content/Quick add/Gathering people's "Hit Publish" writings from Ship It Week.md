@@ -1,4 +1,4 @@
-# Alex (me!) 
+# Alex
 - Saturday August 30th
 	- [Ship It Week](https://alexislearning.substack.com/p/ship-it-week) - Substack
 - Sunday August 31st
@@ -21,12 +21,18 @@
 # Simon
 - [cool pool](https://nowsimon.substack.com/p/cool-pool?r=e06m1&utm_campaign=post&utm_medium=web&triedRedirect=true)
 # Hannah
-- [#6: Getting back on the horse](https://soupyphase.substack.com/p/6-getting-back-on-the-horse?r=ri0w3&utm_campaign=post&utm_medium=web&triedRedirect=true)
+- Tuesday September 2nd
+	- [#6: Getting back on the horse](https://soupyphase.substack.com/p/6-getting-back-on-the-horse?r=ri0w3&utm_campaign=post&utm_medium=web&triedRedirect=true)
 # Simmo
-- [You are the foundation](https://simmosimpson.substack.com/p/you-are-the-foundation?triedRedirect=true)
-- [Rewriting Who I Am: Part 1](https://simmosimpson.substack.com/p/rewriting-who-i-am-part-1)
+- Saturday 30th August
+	- [You are the foundation](https://simmosimpson.substack.com/p/you-are-the-foundation?triedRedirect=true)
+- Tuesday 2nd September
+	- [Rewriting Who I Am: Part 1](https://simmosimpson.substack.com/p/rewriting-who-i-am-part-1)
+- Wednesday 3rd September
+	- [29 weeks living in communities](https://simmosimpson.substack.com/p/29-weeks-living-in-communities)
 # Jonathan
-- [Church Going](https://jnsyaaa.substack.com/p/church-going)
+- 30th August
+	- [Church Going](https://jnsyaaa.substack.com/p/church-going)
 # Agi
 - 29th August
 	- [Channeling as a Creative Practice](https://awarenessplay.substack.com/p/channeling-as-a-creative-practice?triedRedirect=true)
