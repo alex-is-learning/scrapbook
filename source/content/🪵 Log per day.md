@@ -4,6 +4,8 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 ## 03. August 2025
 ### Week of 25th August
+- Thur 2025-09-04
+	- "[Alex and Simmo are forming a group house!](https://al-immo.github.io/group-house/)" -- website!
 - Wed 2025-09-03
 	- Youtube video - [return to youtube](https://www.youtube.com/watch?v=vgwkHzxPOLY)
 	- [[Gathering people's "Hit Publish" writings from Ship It Week]]
