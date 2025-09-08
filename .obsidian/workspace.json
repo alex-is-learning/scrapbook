@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "I want to make good stuff now - 2025-09-04"
             }
+          },
+          {
+            "id": "c16cc5c8368aca85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/Quick add/test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/3. Create things?/Notes/I want to make good stuff now - 2025-09-04.md",
+                "file": "source/content/Quick add/test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for I want to make good stuff now - 2025-09-04"
+              "title": "Backlinks for test"
             }
           },
           {
@@ -165,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/3. Create things?/Notes/I want to make good stuff now - 2025-09-04.md",
+                "file": "source/content/Quick add/test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of I want to make good stuff now - 2025-09-04"
+              "title": "Outline of test"
             }
           }
         ]
@@ -194,8 +208,9 @@
   },
   "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/📎 Files/Images/misc/I want to make good stuff now - 2025-09-04-1756980391997.webp",
     "source/content/3. Create things?/Notes/I want to make good stuff now - 2025-09-04.md",
+    "source/content/Quick add/test.md",
+    "source/content/📎 Files/Images/misc/I want to make good stuff now - 2025-09-04-1756980391997.webp",
     "I want to make good stuff now - 2025-09-04-1756980352828.webp",
     "source/content/🪵 Log per day.md",
     "source/content/Quick add/Mansplaining David Foster Wallace 2025-09-02.md",
