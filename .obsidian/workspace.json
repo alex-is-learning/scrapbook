@@ -179,6 +179,7 @@
   },
   "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/📎 Files/Songs/voicenote2025-09-08.m4a",
     "source/content/📎 Files/Songs/2025-09-08 trip hop drums.mp3",
     "source/content/📎 Files/Images/misc/Music making log-1757344782485.webp",
     "source/content/3. Create things?/Notes/2025-09-08 song (\"I Mind\").md",
@@ -223,7 +224,6 @@
     "source/content/4. Connect with people?/Feedback",
     "source/raw_html/raw-html-test.html",
     "source/raw_html",
-    "source/quartz/plugins/transformers/toc.ts",
-    "source/quartz/plugins/transformers/syntax.ts"
+    "source/quartz/plugins/transformers/toc.ts"
   ]
 }
