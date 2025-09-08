@@ -1,1 +1,2 @@
-https://www.alexislearning.me/learning-to-think/
+- Digital notebook/scrapbook/garden! 
+- https://www.alexislearning.me/to-live-well/
