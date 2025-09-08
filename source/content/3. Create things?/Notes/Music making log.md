@@ -16,7 +16,9 @@ Oh I mind
 ```
 
 - I like this! Simple way of talking about the like "oh I don't mind living at my mum's for 6 months, I'm not missing out on anything because I'm trying to build a good life" → "oh shit, community rules ([[Ship It Week log]]), I really should care less about how much money I have left and spend more time with people"
-
+- Alternative version
+	- ![[voicenote2025-09-08.m4a]]
+	- Total ripoff from track 2 of the new Wet Leg album, first line + general chord progression, feels great to have the permission to "steal like an artist"
 - ![[1757341428145.webp]]
 - Felt good to return to Ableton after 8 months away and still be able to slap something together! 
 ## Guitar effects stack
@@ -26,7 +28,7 @@ Oh I mind
 ## Vocal effects stack
 - ![[1757341535200.webp]]
 - I just asked Google Gemini what the 80/20 effects stack would be
-# 2025-09-08 quick triphop drums thing
+# 2025-09-08 quick trip-hop drums thing
 -  Found a cool drum loop in Ableton, pitched it down at one point, kinda just a cool lil fragment, I'm not skilled enough to do anything with it but was fun!
 - ![[2025-09-08 trip hop drums.mp3]]
 - ![[Music making log-1757344782485.webp]]
