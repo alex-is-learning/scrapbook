@@ -13,3 +13,5 @@
 - [Fog Song](https://www.youtube.com/watch?v=KBFH-MEDuyQ&list=PLZC972LVp2mR7PdjErLIe7AroxlBpotZI&index=20)
 - [Ungodly amount of screen time](https://www.youtube.com/watch?v=bM6X7Is68_4&list=PLZC972LVp2mR7PdjErLIe7AroxlBpotZI&index=22)
 - [Mid song don't watch](https://www.youtube.com/watch?v=q9ahAfMKqU0)
+# New (September 2025 onwards)
+- [[Music making log]]
