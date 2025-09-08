@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/3. Create things?/Notes/2025-09-08 song (\"I Mind\").md",
+                "file": "source/content/3. Create things?/Notes/Music making log (era 2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-08 song (\"I Mind\")"
+              "title": "Music making log (era 2)"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/3. Create things?/Notes/Music making log.md",
+                "file": "source/content/3. Create things?/Notes/Music making log (era 2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Music making log"
+              "title": "Music making log (era 2)"
             }
           }
         ]
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/3. Create things?/Notes/2025-09-08 song (\"I Mind\").md",
+                "file": "source/content/3. Create things?/Notes/Music making log (era 2).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-09-08 song (\"I Mind\")"
+              "title": "Backlinks for Music making log (era 2)"
             }
           },
           {
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/3. Create things?/Notes/2025-09-08 song (\"I Mind\").md",
+                "file": "source/content/3. Create things?/Notes/Music making log (era 2).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-08 song (\"I Mind\")"
+              "title": "Outline of Music making log (era 2)"
             }
           }
         ]
@@ -193,23 +193,27 @@
   },
   "active": "e2afe58dab899f09",
   "lastOpenFiles": [
-    "source/content/3. Create things?/Notes/Music making log.md",
-    "source/content/3. Create things?/Notes/2025-09-08 song (\"I Mind\").md",
-    "source/content/3. Create things?/\"What do I do re loving things and creating things?\".md",
-    "source/content/🪵 Log per day.md",
+    "source/content/3. Create things?/Creating things (parent page).md",
     "source/content/index.md",
+    "source/content/4. Connect with people?/Notes/Ship It Week log.md",
+    "source/content/4. Connect with people?/On connecting with people more.md",
+    "source/content/2. Make money?/\"How should I make money?\" (Open Question).md",
+    "source/content/1. Improve Lived Experience?/\"How can I improve the quality of my lived experience?\".md",
+    "source/content/3. Create things?/Writing more! (Parent page).md",
+    "source/content/3. Create things?/Notes/Music making log (era 2).md",
+    "source/content/3. Create things?/Notes/Era 1 of making music and youtube videos.md",
+    "source/content/3. Create things?/Notes/2025-09-08 song (\"I Mind\").md",
+    "source/content/🪵 Log per day.md",
     "README.md",
     "source/content/📎 Files/Songs/voicenote2025-09-08.m4a",
     "source/content/📎 Files/Songs/2025-09-08 trip hop drums.mp3",
     "source/content/📎 Files/Images/misc/Music making log-1757344782485.webp",
     "source/content/📎 Files/Images/misc/1757341428145.webp",
-    "source/content/3. Create things?/Notes/Making music and youtube videos.md",
     "source/content/📎 Files/Images/misc/1757341535200.webp",
     "source/content/📎 Files/Songs",
     "source/content/📎 Files/Images/misc/1757341459046.webp",
     "source/content/📎 Files/Images/misc/2025-09-08 song (_I Mind_)-1757341428145.webp",
     "source/content/📎 Files/Songs/2025-09-08 I mind.mp3",
-    "source/content/4. Connect with people?/Notes/Ship It Week log.md",
     "source/content/3. Create things?/Notes/I want to make good stuff now - 2025-09-04.md",
     "source/content/Quick add/test.md",
     "source/content/📎 Files/Images/misc/I want to make good stuff now - 2025-09-04-1756980391997.webp",
@@ -229,10 +233,6 @@
     "source/content/Quick add/Friendship.md",
     "source/content/Quick add/hashtag symbol.md",
     "source/content/Quick add/Ship It Week, day 3 retro.md",
-    "source/content/4. Connect with people?/Notes/Ship It Week, day 1 retro.md",
-    "source/content/4. Connect with people?/Notes/What am I doing at Ship It Week? 2025-08-30.md",
-    "source/content/4. Connect with people?/Notes/Do we make an odd pair? 2025-08-31.md",
-    "source/content/3. Create things?/Writings/08. Morning by the pool.md",
     "source/content/📎 Files/Images/misc/08.-1756623164626.webp",
     "source/content/📎 Files/Images/misc/sasha-tweet-self-identity-cropped.webp",
     "source/content/📎 Files/Voice notes/signal-2025-08-26-230430.mp3",

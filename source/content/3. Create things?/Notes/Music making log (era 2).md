@@ -1,6 +1,7 @@
-- [["What do I do re loving things and creating things?"]]
+- [[Creating things (parent page)]]
 
-# 2025-09-08 song ("I Mind")
+# Monday 2025-09-08
+## 30 second song ("I mind")
 - Really struggling to sing well lol RIP 
 - ![[2025-09-08 I mind.mp3]]
 - Fun because I just quickly made the world's most basic drum beat, looped it, played 3 chords
@@ -21,18 +22,18 @@ Oh I mind
 	- Total ripoff from track 2 of the new Wet Leg album, first line + general chord progression, feels great to have the permission to "steal like an artist"
 - ![[1757341428145.webp]]
 - Felt good to return to Ableton after 8 months away and still be able to slap something together! 
-## Guitar effects stack
+### Guitar effects stack
 - ![[1757341459046.webp]]
 - Now I have Ableton Suite (overkill, I should probably have just been a GarageBand boy until my production skills improved enough), I've got the built-in Ableton amps & cabinets
 - As my macbook broke, I don't have any of my plugins and saved effect chains, which is kind of a bummer, but also kind of nice to start fresh and minimalist
-## Vocal effects stack
+### Vocal effects stack
 - ![[1757341535200.webp]]
 - I just asked Google Gemini what the 80/20 effects stack would be
-# 2025-09-08 quick trip-hop drums thing
+## Quick trip-hop drums thing
 -  Found a cool drum loop in Ableton, pitched it down at one point, kinda just a cool lil fragment, I'm not skilled enough to do anything with it but was fun!
 - ![[2025-09-08 trip hop drums.mp3]]
 - ![[Music making log-1757344782485.webp]]
 
 # Older
 - Before September 2025
-	- [[Making music and youtube videos]]
+	- [[Era 1 of making music and youtube videos]]

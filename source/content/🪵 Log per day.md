@@ -4,7 +4,7 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 ## 04. September 2025
 - Mon 2025-09-08
-	- [[Music making log]]
+	- [[Music making log (era 2)]]
 	- [[2025-09-08 song ("I Mind")]]
 ## 03. August 2025
 ### Week of 25th August
