@@ -2,3 +2,5 @@
 
 - 2025-09-08
 	- [[2025-09-08 song ("I Mind")]]
+- Before September 2025
+	- [[Making music and youtube videos]]
