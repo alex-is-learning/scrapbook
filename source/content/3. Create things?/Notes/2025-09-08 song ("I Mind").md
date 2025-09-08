@@ -14,6 +14,9 @@ Oh I mind
 ```
 
 - I like this! Simple way of talking about the like "oh I don't mind living at my mum's for 6 months, I'm not missing out on anything because I'm trying to build a good life" → "oh shit, community rules ([[Ship It Week log]]), I really should care less about how much money I have left and spend more time with people"
+- Alternative version
+	- ![[voicenote2025-09-08.m4a]]
+	- Total ripoff from track 2 of the new Wet Leg album, first line + general chord progression, feels great to have the permission to "steal like an artist"
 
 - ![[1757341428145.webp]]
 - Felt good to return to Ableton after 8 months away and still be able to slap something together! 
