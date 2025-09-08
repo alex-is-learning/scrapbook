@@ -1,6 +1,8 @@
 - [[source/content/index|Home Page]]
 - **1-paragraph manifesto 2025-08-23** → I've mostly lived alone of with family since my big breakup in Sep 2022. My lack of in-person community is clearly kinda ridiculous, and needs addressing! It's tempting to be like "oh I know, I need to learn about nonviolent communication, I need to learn Authentic Relating", but I think really, step 0 is "live with (or at least near!!!) great people"
 - [[Ship It Week log]]
+- 2025-09-08
+	- [[Tweets about the importance of community]]
 - 2025-08-12
 	- [[Alex and Simmo group house, parent page]]
 	- [["Live Near Friends" movement]]
