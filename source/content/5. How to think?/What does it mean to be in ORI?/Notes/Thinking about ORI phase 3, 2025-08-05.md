@@ -102,7 +102,7 @@ title: ORI update & open questions, 2025-08-05
 - [["How should I make money?" (Open Question)]]
 	- As far as I can tell, this is something that is very personal (because it relates to my personal interests, personality type, need to find projects that are super alive for me and aligned with my "mission" or "gifts", whilst also paying), and thus isn't something that has already been solved by the culture?
 	- Unless e.g. I'm believing false propaganda here
-- [["What do I do re loving things and creating things?"]]
+- [[Creating things (parent page)]]
 	- This is a new one, not many writeups on it yet, but I've been deeply, autistically passionate about various things in my life, and like, idk what to do with the knowledge/passion
 - [[On connecting with people more]]
 	- Gut sense is "group house in London with my good friend Simmo and some other people we can rustle up"
