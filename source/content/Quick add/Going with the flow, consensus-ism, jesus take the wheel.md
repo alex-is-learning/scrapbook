@@ -1,0 +1,11 @@
+
+- ![[Going with the flow, consensus-ism, jesus take the wheel-1757351975660.webp]]
+	- https://x.com/SpiritDirtbag/status/1964244905917849666
+- [Consensus-ism part 2 - Something like Deep Okayness has happened to me and I like it](https://alexislearning.substack.com/p/consensus-ism-part-2)
+- ![[Going with the flow-1757351512409.webp]]
+	- https://x.com/simon_ohler/status/1963981152554803574
+- ![[Going with the flow (consensus-ism)-1757351725017.webp]]
+	- https://x.com/maebichka/status/1965013713058177221
+	- "Counterfactuals are for atheists" goes extremely hard
+- ![[Going with the flow (consensus-ism)-1757351925469.webp]]
+	- https://x.com/simon_ohler/status/1634172831784222721 
