@@ -15,12 +15,12 @@ Oh I mind
 
 - I like this! Simple way of talking about the like "oh I don't mind living at my mum's for 6 months, I'm not missing out on anything because I'm trying to build a good life" → "oh shit, community rules ([[Ship It Week log]]), I really should care less about how much money I have left and spend more time with people"
 
-- ![[2025-09-08 song (_I Mind_)-1757341428145.webp]]
+- ![[1757341428145.webp]]
 - Felt good to return to Ableton after 8 months away and still be able to slap something together! 
 ## Guitar effects stack
-- ![[2025-09-08 song (_I Mind_)-1757341459046.webp]]
+- ![[1757341459046.webp]]
 - Now I have Ableton Suite (overkill, I should probably have just been a GarageBand boy until my production skills improved enough), I've got the built-in Ableton amps & cabinets
 - As my macbook broke, I don't have any of my plugins and saved effect chains, which is kind of a bummer, but also kind of nice to start fresh and minimalist
 ## Vocal effects stack
-- ![[2025-09-08 song (_I Mind_)-1757341535200.webp]]
+- ![[1757341535200.webp]]
 - I just asked Google Gemini what the 80/20 effects stack would be
