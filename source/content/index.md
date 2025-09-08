@@ -10,6 +10,9 @@ permalink: home-page
 - [[🪵 Log per day]] ← <span class="text-red">this is where ~everything goes!</span> 🚨
 ## What I'm doing
 - [[Creating things (parent page)]]
+	- [[Writing - vignettes]]
+	- [Substack](https://alexislearning.substack.com/)
+	- [[Music making log (era 2)]]
 - [[On connecting with people more|Connecting with people]]
 ### Open Questions that I have archived post-Ship It Week
 1. [["How can I improve the quality of my lived experience?"]] 

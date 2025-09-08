@@ -1,3 +1,4 @@
 - [[Meta - about "writing more!"]]
 - [[Writing - vignettes]] 👈 really enjoying doing these!
+- [[Writing - Substack]]
  - Substack → https://alexislearning.substack.com/
