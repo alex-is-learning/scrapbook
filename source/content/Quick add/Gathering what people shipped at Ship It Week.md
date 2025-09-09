@@ -68,8 +68,9 @@
 - [Lyrics](https://docs.google.com/document/d/1mDgZlne_RYzXC8pIkuqz_9QFYUcsPcD4noHNqytwOoc/edit?tab=t.0)!
 - [next last cigarette first draft v4 karaoke version](https://youtu.be/MFgDrA1Sm34)
 ## Golden Line
-- Also, Guitar & production on Evelyn's song! Check out the guitar solo dude
+- Also, guitar & production on Evelyn's song! Check out the guitar solo dude
 	- [[Golden Line - Lyrics]]
+	- ![[golden line.mp3]]
 # [Michael](https://x.com/michaeltong_)
 - Sunday August 31st
 	- [Taking a Leap with Imaginary Help](https://michaeltongtong.substack.com/p/taking-a-leap-with-imaginary-help?triedRedirect=true)
