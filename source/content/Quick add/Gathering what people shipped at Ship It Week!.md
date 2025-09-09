@@ -27,6 +27,7 @@
 # Lysander
 - Next Last Cigarette v1!!! (Shared with his permission)
 - ![[next last cigarette first draft.mp3]]
+- [Lyrics](https://docs.google.com/document/d/1mDgZlne_RYzXC8pIkuqz_9QFYUcsPcD4noHNqytwOoc/edit?tab=t.0)!
 # Hannah
 - Tuesday September 2nd
 	- [#6: Getting back on the horse](https://soupyphase.substack.com/p/6-getting-back-on-the-horse?r=ri0w3&utm_campaign=post&utm_medium=web&triedRedirect=true)
