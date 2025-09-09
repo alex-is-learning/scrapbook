@@ -20,7 +20,7 @@
 - Has a real job so you know, shipped non-public-facing stuff 
 # [Brent](https://x.com/_brentbaum)
 - Has a real job so you know, shipped non-public-facing stuff 
-- Also did in-person Aletheia-style facilitation with 12 people! 
+- Also did in-person psychedelic facilitation with 12 people! 
 - DCK Party Friday: 
 	- [Shillipittttt](https://open.spotify.com/playlist/3RifssxkiYCB409NWsOl01?si=f9effca1be904959)
 - B2B with Simon from Thursday (order is backwards after the 10th, couldn't be bothered. if someone knows how plz lmk): 
