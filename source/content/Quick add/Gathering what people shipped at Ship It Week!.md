@@ -1,4 +1,4 @@
-
+- [[Ship It Week log]]
 # [Agi](https://x.com/AgotaDubi)
 - Friday 29th August
 	- [Channeling as a Creative Practice](https://awarenessplay.substack.com/p/channeling-as-a-creative-practice?triedRedirect=true)
@@ -8,13 +8,13 @@
 - Has a real job so you know, shipped non-public-facing stuff 
 # [Alex](https://x.com/alexislearning)
 - Saturday August 30th
-	- [Ship It Week](https://alexislearning.substack.com/p/ship-it-week) - Substack
+	- [I know what "my thing" is](https://alexislearning.substack.com/p/ship-it-week) - Substack
 - Sunday August 31st
 	- [08. Morning by the pool](https://www.alexislearning.me/to-live-well/3.-Create-things/Writings/08.-Morning-by-the-pool) - vignette
 - Tuesday September 2nd
 	- [Morning pages or something like that](https://www.alexislearning.me/to-live-well/Quick-add/Morning-pages-or-something,-2025-09-02) - thinking/brain-dumping
 - Wednesday September 3rd
-	- [Wednesday at Ship It Week](https://alexislearning.substack.com/p/wednesday-at-ship-it-week)
+	- [Becoming angry](https://alexislearning.substack.com/p/wednesday-at-ship-it-week)
 	- Youtube video - [return to youtube]([https://www.youtube.com/watch?v=vgwkHzxPOLY](https://www.youtube.com/watch?v=vgwkHzxPOLY))
 # [Andrew](https://x.com/connerdelights)
 - Has a real job so you know, shipped non-public-facing stuff 
