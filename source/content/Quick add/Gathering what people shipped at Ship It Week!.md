@@ -24,6 +24,9 @@
 # Simon
 - Tuesday September 2nd
 	- [cool pool](https://nowsimon.substack.com/p/cool-pool?r=e06m1&utm_campaign=post&utm_medium=web&triedRedirect=true)
+# Lysander
+- Next Last Cigarette v1!!! (Shared with his permission)
+- ![[next last cigarette first draft.mp3]]
 # Hannah
 - Tuesday September 2nd
 	- [#6: Getting back on the horse](https://soupyphase.substack.com/p/6-getting-back-on-the-horse?r=ri0w3&utm_campaign=post&utm_medium=web&triedRedirect=true)
@@ -47,6 +50,7 @@
 - [Mansplaining Live! Episode 2: @alexislearning Explains David Foster Wallace](https://x.com/dreamyweather/status/1962879987247112550)
 - [Mansplaining Live! Episode 3: @ames_for_joy Explains Conflict](https://x.com/dreamyweather/status/1963518594345509195)
 - [Mansplaining Live! Episode 4: @connerdelights Explains Asset Allocation and Market Efficiency](https://x.com/dreamyweather/status/1963969149735956980)
+- Song "The Golden Line" coming soon (when I get the mp3 and permission from Evelyn)
 # Charlie
 - First ship of the day has set sail ⛴.  
 - New instagram format im trying out, recorded this in the beautiful Casa Tilo forsest yesterday.
