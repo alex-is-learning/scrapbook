@@ -7,6 +7,7 @@
 # [Alice](https://x.com/aliceisplaying)
 - Has a real job so you know, shipped non-public-facing stuff 
 # [Alex](https://x.com/alexislearning)
+## Writings
 - Saturday August 30th
 	- [I know what "my thing" is](https://alexislearning.substack.com/p/ship-it-week) - Substack
 - Sunday August 31st
@@ -15,7 +16,8 @@
 	- [Morning pages or something like that](https://www.alexislearning.me/to-live-well/Quick-add/Morning-pages-or-something,-2025-09-02) - thinking/brain-dumping
 - Wednesday September 3rd
 	- [Becoming angry](https://alexislearning.substack.com/p/wednesday-at-ship-it-week)
-	- Youtube video - [return to youtube]([https://www.youtube.com/watch?v=vgwkHzxPOLY](https://www.youtube.com/watch?v=vgwkHzxPOLY))
+## Youtube
+- Youtube video - [return to youtube]([https://www.youtube.com/watch?v=vgwkHzxPOLY](https://www.youtube.com/watch?v=vgwkHzxPOLY))
 # [Andrew](https://x.com/connerdelights)
 - Has a real job so you know, shipped non-public-facing stuff 
 # [Brent](https://x.com/_brentbaum)
@@ -34,29 +36,40 @@
 	- https://www.instagram.com/reel/DONuFy9jkD0/?igsh=MWFpdW1xZ2NlOXg4eA==
 # Christian
 # [Evelyn](https://x.com/dreamyweather)
+## Mansplaining series
 - [Mansplaining Live! Episode 1: @9chabard Explains Guitars](https://x.com/dreamyweather/status/1962517977363820872)
 - [Mansplaining Live! Episode 2: @alexislearning Explains David Foster Wallace](https://x.com/dreamyweather/status/1962879987247112550)
 - [Mansplaining Live! Episode 3: @ames_for_joy Explains Conflict](https://x.com/dreamyweather/status/1963518594345509195)
 - [Mansplaining Live! Episode 4: @connerdelights Explains Asset Allocation and Market Efficiency](https://x.com/dreamyweather/status/1963969149735956980)
-- Song "The Golden Line" coming soon (when I get the mp3 and permission from Evelyn)
+## Music
+- Golden Line
+	- [[Golden Line - Lyrics]]
+- ![[golden line.mp3]]
+- Coaching clients
 # [Hannah](https://x.com/heyhannah)
 - Tuesday September 2nd
 	- [#6: Getting back on the horse](https://soupyphase.substack.com/p/6-getting-back-on-the-horse?r=ri0w3&utm_campaign=post&utm_medium=web&triedRedirect=true)
+- Working at her legit job
 # [James](https://x.com/jmes)
 - Shipped group workouts and 10/10 vibes
 # [Jesse](https://www.instagram.com/jesse.evers/?hl=en)
 - 👆 has an insanely good instagram wtf (twitter here https://x.com/_jlevers?lang=en)
 - His website rules too wtf https://www.jesseevers.com/now/
 # [Joceyln](https://x.com/ames_for_joy)
+- Co-hosting Ship It Week with Nicki
 - 1st Sep - [🗞️ Microsolidarity Network August Update: Summer Camp Reflections & more](https://microsolidarity.substack.com/p/microsolidarity-network-august-update)
 # [Jonathan](https://x.com/jnsyaaa)
 - Saturday 30th August
 	- [Church Going](https://jnsyaaa.substack.com/p/church-going)
 # [Lysander](https://x.com/9chabard)
-- Next Last Cigarette v1!!! (Shared with his permission)
+## Next Last Cigarette
+- This was really sweet because we could hear him recording it from the studio all week and then he debuted it for us during the end-of-week party
 - ![[next last cigarette first draft.mp3]]
 - [Lyrics](https://docs.google.com/document/d/1mDgZlne_RYzXC8pIkuqz_9QFYUcsPcD4noHNqytwOoc/edit?tab=t.0)!
 - [next last cigarette first draft v4 karaoke version](https://youtu.be/MFgDrA1Sm34)
+## Golden Line
+- Also, Guitar & production on Evelyn's song! Check out the guitar solo dude
+	- [[Golden Line - Lyrics]]
 # [Michael](https://x.com/michaeltong_)
 - Sunday August 31st
 	- [Taking a Leap with Imaginary Help](https://michaeltongtong.substack.com/p/taking-a-leap-with-imaginary-help?triedRedirect=true)
@@ -68,6 +81,7 @@
 	- [Resisting Receiving and Allowing Allowing](https://michaeltongtong.substack.com/p/resisting-receiving-and-allowing?utm_source=app-post-stats-page&r=tkgk0&utm_medium=ios&triedRedirect=true)
 		- [Instragram post that goes with it](https://www.instagram.com/reel/DOJaMfLjNTW/?igsh=Y2dlNjZ3YXI4OTk1)
 # [Milan](https://x.com/MilanGriffes)
+- Has, you know, a real job https://www.lionheart.vc/team/
 - Task management, or: how i learned to stop worrying and embrace the borg
 	- tweet: https://x.com/MilanGriffes/status/1963255344395616357
 	- slides: https://docs.google.com/presentation/d/1NFqkF99CrgkfPeUoN-YQjBStSLAyfx4Tueu4set-sKI 
@@ -76,8 +90,8 @@
 # [Nati](https://x.com/LombardoNati)
 - Shipped a very good vibe & well-running Casa Tilo
 # [Nicki](https://nicolasendres.com/about-2/)
-- I just filmed, edited and shipped my first short video titled "Cornstarch meditations" 🥳
-- I put it here before putting it on social media and need some encouraging comments 🙂
+- "I just filmed, edited and shipped my first short video titled "Cornstarch meditations" 🥳"
+- "I put it here before putting it on social media and need some encouraging comments 🙂"
 	- NOTE - I don't have a link to the instagram!
 # [Rich](https://x.com/RichDecibels)
 - Shipped a very good vibe & well-running Casa Tilo
