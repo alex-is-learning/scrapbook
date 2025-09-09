@@ -1,10 +1,10 @@
-- [[Gathering what people shipped at Ship It Week!]]
+- [[Gathering what people shipped at Ship It Week]]
 - [[On connecting with people more]]
 ## During "Ship It Week"
 - Wednesday 2025-09-03
 	- ==Substack== post - [Becoming angry](https://alexislearning.substack.com/p/wednesday-at-ship-it-week) (substack post)
 - Tuesday 2025-09-02
-	- [[Gathering what people shipped at Ship It Week!]]
+	- [[Gathering what people shipped at Ship It Week]]
 	- [[Morning pages or something, 2025-09-02]]
 - Monday 2025-09-01
 	- [[Ship It Week, day 3 retro]]
