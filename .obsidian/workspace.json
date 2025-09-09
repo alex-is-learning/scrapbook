@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f2f5921de77e5a98",
+        "id": "bf00bd102ae68687",
         "type": "tabs",
         "children": [
           {
-            "id": "8bb755c80e0f316b",
+            "id": "b7af3046e1dddc74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Improve Lived Experience?/Phenomenology/Notes/Tpot, post-rationalism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "5626f6e6a9337fd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/3. Create things?/Writings/10. Post-Ship It Week.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10. Post-Ship It Week"
-            }
-          },
-          {
-            "id": "eadbc268544d1d81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "Tpot, post-rationalism"
             }
           }
         ]
@@ -123,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Improve Lived Experience?/Phenomenology/Notes/Tpot, post-rationalism.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Tpot, post-rationalism"
             }
           },
           {
@@ -178,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/1. Improve Lived Experience?/Phenomenology/Notes/Tpot, post-rationalism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Tpot, post-rationalism"
             }
           }
         ]
@@ -202,17 +174,22 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "b7af3046e1dddc74",
   "lastOpenFiles": [
-    "source/content/3. Create things?/Writings/Writing - Substack.md",
+    "source/content/3. Create things?/Writings - Appendices/Tpot zoomer appendix.md",
+    "source/content/🪵 Log per day.md",
+    "source/content/4. Connect with people?/Feedback/Feedback.md",
+    "Feedback-1757369848833.webp",
+    "source/content/3. Create things?/Writings/10. Post-Ship It Week.md",
     "source/content/index.md",
+    "source/content/3. Create things?/Writings/Writing - Substack.md",
     "source/content/3. Create things?/Writing more! (Parent page).md",
     "source/content/3. Create things?/Writings/Writing - vignettes.md",
     "source/content/3. Create things?/Writings/09. Hill.md",
-    "source/content/3. Create things?/Writings/10. Post-Ship It Week.md",
     "source/content/3. Create things?/Writings/08. Morning by the pool.md",
     "source/content/3. Create things?/Writings/07. Travel day.md",
     "source/content/3. Create things?/Writings/06. Cornflakes.md",
@@ -237,14 +214,10 @@
     "source/content/📎 Files/Images/misc/Going with the flow-1757351512409.webp",
     "source/content/4. Connect with people?/Notes/Ship It Week log.md",
     "source/content/2. Make money?/\"How should I make money?\" (Open Question).md",
-    "source/content/1. Improve Lived Experience?/\"How can I improve the quality of my lived experience?\".md",
-    "source/content/3. Create things?/Notes/Era 1 of making music and youtube videos.md",
-    "source/content/3. Create things?/Notes/2025-09-08 song (\"I Mind\").md",
     "source/content/📎 Files/Songs/voicenote2025-09-08.m4a",
     "source/content/📎 Files/Songs/2025-09-08 trip hop drums.mp3",
     "source/content/📎 Files/Images/misc/Music making log-1757344782485.webp",
     "source/content/📎 Files/Images/misc/1757341428145.webp",
-    "source/content/📎 Files/Images/misc/1757341535200.webp",
     "source/content/📎 Files/Songs",
     "source/content/📎 Files/Songs/2025-09-08 I mind.mp3",
     "source/content/Quick add/ML Episode 2.mp3",
