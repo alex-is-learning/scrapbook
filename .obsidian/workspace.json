@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/3. Create things?/Notes/Music making log (era 2).md",
+                "file": "source/content/3. Create things?/Creating music/Cornflakes song 2025-09-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Music making log (era 2)"
+              "title": "Cornflakes song 2025-09-09"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/3. Create things?/Notes/Music making log (era 2).md",
+                "file": "source/content/3. Create things?/Creating music/Cornflakes song 2025-09-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Music making log (era 2)"
+              "title": "Backlinks for Cornflakes song 2025-09-09"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/3. Create things?/Notes/Music making log (era 2).md",
+                "file": "source/content/3. Create things?/Creating music/Cornflakes song 2025-09-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Music making log (era 2)"
+              "title": "Outline of Cornflakes song 2025-09-09"
             }
           }
         ]
@@ -195,6 +195,9 @@
   },
   "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/3. Create things?/Creating music",
+    "source/content/3. Create things?/Notes/Music making log (era 2).md",
+    "source/content/3. Create things?/Creating music/Cornflakes song 2025-09-09.md",
     "source/content/📎 Files/Songs/cornflakes-song.m4a",
     "source/content/3. Create things?/Writings/06. Cornflakes.md",
     "source/content/3. Create things?/Writings/Writing - vignettes.md",
@@ -222,8 +225,6 @@
     "source/content/3. Create things?/Writings/02. Don't be overwhelmed!.md",
     "source/content/3. Create things?/Writings/01. To be a boomer.md",
     "source/content/3. Create things?/Creating things (parent page).md",
-    "Untitled.md",
-    "source/content/4. Connect with people?/Notes/Tweets about the importance of community.md",
     "source/content/📎 Files/Images/misc/Paper notebook-1757357774588.webp",
     "source/content/📎 Files/Images/misc/Going with the flow, consensus-ism, jesus take the wheel-1757351975660.webp",
     "source/content/📎 Files/Images/misc/The importance of community-1757351596988.webp",
@@ -239,7 +240,6 @@
     "source/content/Quick add/ML Episode 2.mp3",
     "source/content/Quick add",
     "source/content/📎 Files/Voice notes/signal-2025-08-26-230430.mp3",
-    "source/content/4. Connect with people?/Feedback",
-    "source/raw_html/raw-html-test.html"
+    "source/content/4. Connect with people?/Feedback"
   ]
 }

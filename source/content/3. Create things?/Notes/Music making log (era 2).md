@@ -3,6 +3,7 @@
 # Tuesday 2025-09-09
 - Experimenting with turning a vignette into a song
 - [[06. Cornflakes]]
+- [[Cornflakes song 2025-09-09]]
 - ![[cornflakes-song.m4a]]
  - Damn I really like how this turned out!!!!!!
  - In era 1 I found lyric writing *really really painful*
