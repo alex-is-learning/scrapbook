@@ -3,6 +3,8 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 ## 04. September 2025
+- Tue 2025-09-09
+	- [[Cornflakes song 2025-09-09]]
 - Mon 2025-09-08
 	- [[Music making log (era 2)]]
 	- [[2025-09-08 song ("I Mind")]]
