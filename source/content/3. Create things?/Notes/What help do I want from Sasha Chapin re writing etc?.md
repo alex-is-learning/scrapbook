@@ -1,4 +1,5 @@
 - [[Creating things (parent page)]]
+- Wed 2025-09-10
 - See also [[What could the Alexnaissance look like?]]  from 25th Aug 2025
 
 ---
@@ -71,6 +72,10 @@
 
 ---
 # 2. What are my specific questions?
+
+- Note → maybe I should do The Course
+	- ![[What help do I want from Sasha Chapin re writing etc_-1757523013724.webp]]
+- It is almost certainly a good idea to do The Course
 ## Q1. The meta question is just "what am I doing 'wrong'", or, "what does it look like to do it *right*"
 - How do I know I'm doing something wrong? 
 	- My substack has steadily grown despite me being very inconsistent with it. It could be that it's good enough already and I just need to be consistent. But I don't think this is the case, for reasons I'll discuss below
@@ -144,5 +149,8 @@
 	- There's an impulse in me to share everything that is going on, or at least to set the scene, and I suspect that it might be the "finding yourself way more interesting than most other people will" thing that DFW talks about ([[Expressive Mode vs Communicative Mode]])
 	- In a way I am very impressed by myself, a real "pinch yourself" quality to how much better things are now, how much I've grown, etc. Combine this with the enneagram 3 desire for approval, the enneagram 3 tendency towards vanity, and the "I didn't make anything for years and years, this is new to me, I want to share it all", and you have someone who shares every first draft because they're so thrilled with themselves for breaking the working class generational trauma mould and making something
 		- [[08. Enneagram 3 thinking sins]]
+# What does ChatGPT say
+- Trying out GPT5 for the first time - gave it this post + some writing samples
+	- [[2025-09-10 what should I do differently, ChatGPT?]]
 
 [^1]: I don't think this has been an actual problem, more part of my creative journey. Good for me!
