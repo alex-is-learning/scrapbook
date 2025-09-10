@@ -33,6 +33,8 @@
 - I have ==414== youtube subscribers
 	- Was steadily growing in the 3 months I made videos, then had an 8 month hiatus
 		- I made youtube videos for 3 months, Nov 2024 -Jan 2025
+		- [[Youtube comments]] → proof of concept, I had a video that got 5k views in a few days and a bunch of lovely comments ([the video](https://www.youtube.com/watch?v=bukMESdhZ_U))
+			- ![[What help do I want from Sasha Chapin re writing etc_-1757503665632.webp]]
 		- [[Era 1 of making music and youtube videos]]
 - I've been writing loads on this website - more words than The Great Gatsby (not a long book, but still!) since I set it up in ~July
 - I'm 29. It's Sep 2025. I had a [[Kensho]] experience in Feb 2024 and shit has been wildly different ever since (no social anxiety, total ease being on camera, lessened sense of self, etc).
@@ -52,10 +54,11 @@
 ### I'm good on camera!
 - ![[What help do I want from Sasha Chapin re writing etc_-1757500626892.webp]]
 	- 👆 twitter thread [here](https://x.com/alexislearning/status/1965119915687584008)
-### There's a huge amount of energy here! 
+### 🚨There's clearly a huge amount of energy here! 
 - I've made 50+ youtube videos in a very flow-state-y alive way
 - I've really really enjoyed writing my vignettes, loved reading them back
 - I really quite like my youtube videos
+- I'm not like, a tortured artist who is really struggling to down and make stuff
 - So, I think there's lot of good stuff here, and now it's just a case of harnessing this energy in a "smarter" way
 ## I want to get serious about this, full time, [[Death Ground]]
 - It is time for me to accept that ==I can't make money via my old ways== → I just tried doing internal operations contracting for a startup and mannnnn was it grindy
