@@ -13,5 +13,12 @@
 - [Fog Song](https://www.youtube.com/watch?v=KBFH-MEDuyQ&list=PLZC972LVp2mR7PdjErLIe7AroxlBpotZI&index=20)
 - [Ungodly amount of screen time](https://www.youtube.com/watch?v=bM6X7Is68_4&list=PLZC972LVp2mR7PdjErLIe7AroxlBpotZI&index=22)
 - [Mid song don't watch](https://www.youtube.com/watch?v=q9ahAfMKqU0)
+
+Various nice youtube comments
+	- E.g. check it out, this video got 7.7k views and 84 comments!
+	- [I did "Steal Like an Artist" for a week & I get it now](https://www.youtube.com/watch?v=bukMESdhZ_U)
+	- ![[What could the Alexnaissance look like_-1756138922303.webp]] 
+	![[What could the Alexnaissance look like_-1756139071114.webp]]
 # New (September 2025 onwards)
 - [[Music making log (era 2)]]
+- [[What could the Alexnaissance look like?]]
