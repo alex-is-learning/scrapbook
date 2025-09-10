@@ -150,7 +150,12 @@
 	- There's an impulse in me to share everything that is going on, or at least to set the scene, and I suspect that it might be the "finding yourself way more interesting than most other people will" thing that DFW talks about ([[Expressive Mode vs Communicative Mode]])
 	- In a way I am very impressed by myself, a real "pinch yourself" quality to how much better things are now, how much I've grown, etc. Combine this with the enneagram 3 desire for approval, the enneagram 3 tendency towards vanity, and the "I didn't make anything for years and years, this is new to me, I want to share it all", and you have someone who shares every first draft because they're so thrilled with themselves for breaking the working class generational trauma mould and making something
 		- [[08. Enneagram 3 thinking sins]]
-# What does ChatGPT say
+# Sasha's reply
+- He read this page and my most recent substack and said that there's a simple issue he spots in my work → the amount of throat-clearing I do 
+- This resonates hard!
+- 👇 Sent this voice note to a friend re: throat-clearing
+- ![[signal-2025-09-10-200428.mp3]]
+# What does ChatGPT say?
 - Trying out GPT5 for the first time - gave it this post + some writing samples
 	- [[2025-09-10 what should I do differently, ChatGPT?]]
 

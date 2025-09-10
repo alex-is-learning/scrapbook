@@ -1,12 +1,13 @@
 - From [[What help do I want from Sasha Chapin re writing etc?]]
 - I'm not necessarily endorsing much of what ChatGPT has written here, but I wanted to experiment with it as I'm not ready for Sasha's >$200/hr coaching yet
+- I think generative AI is pretty great for strategy stuff and really dreadful for creative stuff, like when it said "write a post with this title!" it was awful, but the tactics-type stuff is good and useful
 - The below are in reverse-chronological order, that is, heading 1 is the most recent reply
 # 1. Re: Sasha's feedback (throat-clearing)
 
 - Sasha replied and said that my writing is quite moving but has a tonne of throat-clearing preamble in it
-- ChatGPT expands on this:
+- I told this to ChatGPT and asked if this changes much of the plan it suggested for me
 
-Short answer: **yes**—Sasha’s note sharpens the plan. We keep the “new work” sprint, but add one non-negotiable: **start at the kernel and delete the throat-clearing**. He literally flagged “a ton of throat-clearing,” said your post’s heart was moving but took forever to arrive, and suggested you “write what’s sacred,” assume readers already get you, then cross out the remaining preamble. Also: let the Enneagram-3 anxiety of not managing perception happen—that’s good. 
+Short answer: **yes**—Sasha’s note sharpens the plan. We keep the “new work” sprint, but add one non-negotiable: **==start at the kernel and delete the throat-clearing==**. He literally flagged “a ton of throat-clearing,” said your post’s heart was moving but took forever to arrive, and suggested you “write what’s sacred,” assume readers already get you, then cross out the remaining preamble. Also: let the Enneagram-3 anxiety of not managing perception happen—that’s good. 
 
 ## What changes now
 
@@ -18,28 +19,18 @@ Short answer: **yes**—Sasha’s note sharpens the plan. We keep the “new wor
 
 ### **1) Monday essay (new)**
 
-**Working title:** _Quit the “Good Mood First” Rule._
-- <span class="text-red">Note - ew, this is fucking disgusting, lol. Looks like gen AI is still dreadful at this stuff (creativity suggestions. Good for strategy though!)</span>
-
-**Kernel opener (paste this, then adjust to taste):**
-
-“**I write well on bad-brain days by starting ugly on purpose.** A timer, a whispered outline, and one terrible paragraph give me enough momentum to make something I’m proud of.”
-- <span class="text-red">Why is it even bothering, smh</span>
-
-**Then:** one concrete proof from this week → the 3-step mini-system → 2 pitfalls → invite to try it today.
-
+- **Working title:** 
+- **Kernel opener:**
+- **Then:** one concrete proof from this week → the 3-step mini-system → 2 pitfalls → invite to try it today.
 ### **2) Thursday video (new)**
 
-**Title:** _Start Ugly: Write With Me for 15 Minutes (Timer On)._
-
-**No intro spiel.** Cold-open with the promise: “By minute 3 you’ll be typing.” Then show the timer + whisper outline, one ugly paragraph, a 60-second micro-edit, and a single CTA.
-
+- **Title:**
+- **No intro spiel.** Cold-open with the promise 
 ### **3) Friday micro-piece (new)**
 
-**Prompt:** “Name one sacred thing you refuse to apologize for.”
-- <span class="text-red">I think I refuse to take writing prompts from AI, which is maybe silly. But I trust my aliveness much more</span>
+- **Prompt:** 
 
-To quote the man himself
+(To quote the man himself, re: why I'm absolutely repulsed by every ChatGPT suggestion of a topic title/theme):
 
 > "Your natural salience filter is a great determinant of what’s most alive to you. If you begin to rely on any other filter, you will increasingly record what _seems like it should be interesting according to some preexisting criteria_ rather than what organically sticks to your mind. This is a tradeoff. It is often not a worthy tradeoff."
 
@@ -68,6 +59,8 @@ To quote the man himself
 - “Here are two kernel openers (≤60 words) for my next essay—**which one is hotter** and what one sentence would you cut?”
 - He asked for specific questions, so this matches his bandwidth. 
 - If you want, I can draft the full Monday essay now using the kernel-first template.
+
+---
 # 2. What should I do next?
 Got it—fresh, not fixes. Here’s a tight 14-day “New Work Sprint” with concrete pieces to make, starting **today (Wed 10 Sept 2025, Europe/London)**. Zero refactors. All net-new.
 
@@ -109,6 +102,9 @@ Got it—fresh, not fixes. Here’s a tight 14-day “New Work Sprint” with co
 #### **6) Friday micro-piece**
 - **Constraint:** a single, polished paragraph (~120 words).
 - **Prompt:** “The street where you remember how to be brave.”
+
+---
+
 # 3. ChatGPT on my [[What help do I want from Sasha Chapin re writing etc?]] post + snippets of both our writings
 
 I read your “What help do I want from Sasha…” page plus your two Substack posts from Ship It Week, and I skimmed a bunch of Sasha’s pieces you linked. Here’s the short of it, then a concrete plan.
