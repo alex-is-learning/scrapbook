@@ -3,6 +3,8 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 ## 04. September 2025
+- Wed 2025-09-10
+	- [[What help do I want from Sasha Chapin re writing etc?]]
 - Tue 2025-09-09
 	- [[Cornflakes song 2025-09-09]]
 - Mon 2025-09-08
