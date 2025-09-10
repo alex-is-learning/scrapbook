@@ -74,6 +74,7 @@
 # 2. What are my specific questions?
 
 - Note → maybe I should do The Course
+	- The thing is → I don't hate writing, I really enjoy it!!! It's very alive for me right now!!!
 	- ![[What help do I want from Sasha Chapin re writing etc_-1757523013724.webp]]
 - It is almost certainly a good idea to do The Course
 ## Q1. The meta question is just "what am I doing 'wrong'", or, "what does it look like to do it *right*"
