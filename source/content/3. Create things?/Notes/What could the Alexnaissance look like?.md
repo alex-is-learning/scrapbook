@@ -25,6 +25,7 @@ And I've had similar arcs, it's multiple "0-to-1" events. And after a while you 
 - E.g. Rival Voices or whatever the hell he's called now (Guy) called my post tpot art
 - ![[What could the Alexnaissance look like_-1756138865964.webp]]
 - Various nice youtube comments
+	- [[Youtube comments]]
 	- E.g. check it out, this video got 7.7k views and 84 comments!
 	- [I did "Steal Like an Artist" for a week & I get it now](https://www.youtube.com/watch?v=bukMESdhZ_U)
 	- ![[What could the Alexnaissance look like_-1756138922303.webp]] 
