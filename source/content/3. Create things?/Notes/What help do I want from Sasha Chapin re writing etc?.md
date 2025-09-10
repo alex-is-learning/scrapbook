@@ -10,7 +10,7 @@
 # 1. What do I want from Sasha?
 ## What I'm really looking for is like... high-level holistic creative advice
 - *(And I might be able to solve this myself, I think even just writing this up has helped a lot!)*
-- I want to make youtube videos + substack posts + songs. 
+- I want to make youtube videos + substack posts + songs 
 - I want to make a living from this - even if only scraping by
 - I had a good slowly growing youtube presence during the 3 months I made videos (0-440 subscribers)
 - I'm kind of stuck in lowbie hell on twitter (and substack) and I'm not sure what to do differently 
@@ -25,42 +25,48 @@
 	- https://substack.com/@alexislearning
 - "Yeah this substack post was solid but ==if you did x y and z then it'd be way better=="
 - "Yeah the main problems with your twitter presence are x y and z"
+- "Yeah the main problems with your youtube presence..."? Have a sense that this is less important, I already have a good idea of this, and the hardest part ("be comfortable and likeable on camera") is already solved
 ## Setting the stage - where I'm at
 - Sasha has ==25,000== substack followers, I have ==64==
 - Sasha has ==38,000== twitter followers, I have ==236==
 	- (I used to have ~750 until my old account got suspended because they thought I was a bot)
 - I have ==414== youtube subscribers
 	- Was steadily growing in the 3 months I made videos, then had an 8 month hiatus
+		- I made youtube videos for 3 months, Nov 2024 -Jan 2025
+		- [[Era 1 of making music and youtube videos]]
 - I've been writing loads on this website - more words than The Great Gatsby (not a long book, but still!) since I set it up in ~July
 - I'm 29. It's Sep 2025. I had a [[Kensho]] experience in Feb 2024 and shit has been wildly different ever since (no social anxiety, total ease being on camera, lessened sense of self, etc).
 - I have key themes, mainly around the journey from traumatised family to grokking some tpot wisdom, kensho, then gradually expanding my agency and leaning into what I really want to do
 	- ![[What help do I want from Sasha Chapin re writing etc_-1757500740136.webp]]
 - I can no longer make money in my old ways (e.g., startup internal operations). I have £15k in the bank. I've just spent 4 months applying for Effective Altruist jobs only to realise that actually I really don't want to do that. I'm really dumb in lots of ways
 ## I'm good at this stuff!
-- I'm good at writing!
-	- ![[What help do I want from Sasha Chapin re writing etc_-1757500610074.webp]]
-		- 👆 after he read my [[Writing - vignettes|vignettes]] and the substack posts I wrote whilst at [[Ship It Week log|Ship It Week]]
-	- ![[What help do I want from Sasha Chapin re writing etc_-1757500583166.webp]]
-- I'm good on camera!
-	- ![[What help do I want from Sasha Chapin re writing etc_-1757500626892.webp]]
-		- 👆 twitter thread [here](https://x.com/alexislearning/status/1965119915687584008)
-- There's a huge amount of energy here! 
-	- I've made 50+ youtube videos in a very flow-state-y alive way
-	- I've really really enjoyed writing my vignettes, loved reading them back
-	- I really quite like my youtube videos
-	- So, I think there's lot of good stuff here, and now it's just a case of harnessing this energy in a "smarter" way
-## I want to get serious about this, full time, [[Death Ground]]
-- It is time for me to accept that ==I can't make money via my old ways== → I just tried doing internal operations contracting for a startup and mannnnn was it grindy
-- I've pretended that I don't know what my "thing" is, but really, I want to create things, I want to be an artist, I want to share my experience
-- ![[What help do I want from Sasha Chapin re writing etc_-1757501114178.webp]]
-	- https://alexislearning.substack.com/p/ship-it-week
+### I'm good at writing!
+- ![[What help do I want from Sasha Chapin re writing etc_-1757500610074.webp]]
+	- 👆 after he read my [[Writing - vignettes|vignettes]] and the substack posts I wrote whilst at [[Ship It Week log|Ship It Week]]
+- ![[What help do I want from Sasha Chapin re writing etc_-1757500583166.webp]]
 - I've gotten really good feedback on my [[Writing - vignettes|vignettes]] and substack posts and youtube videos and even some of my shitty songs. 
 	- Best vignettes are [[01. To be a boomer]] and [[06. Cornflakes]] and [[07. Travel day]]
 	- ![[What help do I want from Sasha Chapin re writing etc_-1757500550096.webp]]
 		- Re [[Cornflakes song 2025-09-09]]
 	- There's an artistic spark in me that I've been too scared to cultivate; no support system, traumatised parents, english culture, low agency until last few years, etc
+### I'm good on camera!
+- ![[What help do I want from Sasha Chapin re writing etc_-1757500626892.webp]]
+	- 👆 twitter thread [here](https://x.com/alexislearning/status/1965119915687584008)
+### There's a huge amount of energy here! 
+- I've made 50+ youtube videos in a very flow-state-y alive way
+- I've really really enjoyed writing my vignettes, loved reading them back
+- I really quite like my youtube videos
+- So, I think there's lot of good stuff here, and now it's just a case of harnessing this energy in a "smarter" way
+## I want to get serious about this, full time, [[Death Ground]]
+- It is time for me to accept that ==I can't make money via my old ways== → I just tried doing internal operations contracting for a startup and mannnnn was it grindy
+- I've pretended that I don't know what my "thing" is, but really, I want to create things, I want to be an artist, I want to share my experience
+- ![[What help do I want from Sasha Chapin re writing etc_-1757501114178.webp]]
+	- https://alexislearning.substack.com/p/ship-it-week
+
 - I'd now rather be a starving artist than have savings but not be in flow (?). I've been afraid to run out of money
 - I have ~6 months of runway and want to work on this stuff full time
+
+---
 # 2. What are my specific questions?
 ## Q1. The meta question is just "what am I doing 'wrong'", or, "what does it look like to do it *right*"
 - How do I know I'm doing something wrong? 
@@ -117,7 +123,7 @@
 		- This one is scrappy (as they all are, but this one feels more so) - can imagine I could have sweated over this quite a bit more and made it more coherent
 	- "[I got suspended from Twitter and it hurts which is good](https://alexislearning.substack.com/p/i-got-suspended-from-twitter-and)"
 		- Good in a first-draft, "interesting to friends" way
-### Solution 4 - how to discover a good title & topic?
+### ==Solution 4== - how to discover a good title & topic?
 - This can happen my typical way, free-writing a first draft, and seeing what emerges
 - From Sasha's "Notes Against Note-Taking Systems"
 
