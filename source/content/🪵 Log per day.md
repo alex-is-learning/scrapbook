@@ -5,7 +5,9 @@ permalink: log-per-day
 ## 04. September 2025
 - Wed 2025-09-10
 	- [[What help do I want from Sasha Chapin re writing etc?]]
+	- [[2025-09-10 what should I do differently, ChatGPT?]]
 - Tue 2025-09-09
+	- [[10. After "Ship It Week"]]
 	- [[Cornflakes song 2025-09-09]]
 - Mon 2025-09-08
 	- [[Music making log (era 2)]]
