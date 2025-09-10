@@ -8,8 +8,10 @@
 - He replied today saying that he doesn't really do writing coaching any more but that if I have any specific questions
 
 # 1. What do I want from Sasha?
-## What I'm really looking for is like... holistic creative advice
-- I want to make youtube videos + substack posts + songs. I want to make a living from this - even if only scraping by
+## What I'm really looking for is like... high-level holistic creative advice
+- *(And I might be able to solve this myself, I think even just writing this up has helped a lot!)*
+- I want to make youtube videos + substack posts + songs. 
+- I want to make a living from this - even if only scraping by
 - I had a good slowly growing youtube presence during the 3 months I made videos (0-440 subscribers)
 - I'm kind of stuck in lowbie hell on twitter (and substack) and I'm not sure what to do differently 
 ## I might be able to solve it myself
@@ -41,6 +43,7 @@
 	- ![[What help do I want from Sasha Chapin re writing etc_-1757500583166.webp]]
 - I'm good on camera!
 	- ![[What help do I want from Sasha Chapin re writing etc_-1757500626892.webp]]
+		- 👆 twitter thread [here](https://x.com/alexislearning/status/1965119915687584008)
 - There's a huge amount of energy here! 
 	- I've made 50+ youtube videos in a very flow-state-y alive way
 	- I've really really enjoyed writing my vignettes, loved reading them back
