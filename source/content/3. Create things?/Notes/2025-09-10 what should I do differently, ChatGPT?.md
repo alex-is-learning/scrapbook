@@ -1,8 +1,38 @@
 - From [[What help do I want from Sasha Chapin re writing etc?]]
-- I'm not necessarily endorsing much of what ChatGPT has written here, but I wanted to experiment with it as I'm not ready for Sasha's >$200/hr coaching yet
+- I'm not necessarily endorsing much of what ChatGPT has written here, but I wanted to experiment with it as I'm not ready for Sasha's >$300/hr coaching yet
 - I think generative AI is pretty great for strategy stuff and really dreadful for creative stuff, like when it said "write a post with this title!" it was awful, but the tactics-type stuff is good and useful
 - The below are in reverse-chronological order, that is, heading 1 is the most recent reply
-# 1. Re: Sasha's feedback (throat-clearing)
+
+# 1 - Ultra-Concise Summary
+- Except it's not concise at all because it turns out GPT5 is WORDY AS FUCK DUDE
+
+> so it seems like an  ultra-concise, "what to do next" thing is like "start writing a new substack, channeling what's alive, see where it takes me, and then do a 2nd pass, a 3rd pass, refining it, cutting out the throat-clearing, then share with some friends, then make a video to go along with it"?
+
+> note the attached post by Sasha which is why I say that I want to channel what is currently alive (v.s. e.g. starting with a cynical topic in mind like "how to use anger as part of your creative funnel!", which sounds rancid and linkedin-brained to me) (this is the pdf of [Notes Against Note-Taking Systems](https://sashachapin.substack.com/p/notes-against-note-taking-systems))
+
+yep—that skeleton is right. let’s lock it into a tiny, repeatable recipe that’s “alive-first” and anti-LinkedIn-brained.
+## Do-this-next (ultra-concise)
+
+1. **Channel what’s alive (25–40 min).**
+    - Sit, notice the hottest thing in your system, and write it straight—no research, no “positioning.” This aligns with Sasha’s “most heart-stopping writing comes from synthesizing the unarticulated _in the moment_.” 
+	- <span class="text-red">"Hottest" is weird phrasing, Chat</span>
+    
+2. **Pass 2 — find the kernel (10 min).**
+    - Highlight the single sacred claim/outcome you actually believe. Paste it to the top in ≤60 words. (This is Sasha’s “write what’s sacred, assume affinity.”) 
+3. **Pass 3 — throat-clearing purge (10 min).**
+    - Nuke hedges, preambles, and explaining-yourself until the piece **starts hot**. If P1 still reads like setup, delete it. (His exact note: tons of throat-clearing; start at the kernel.) 
+4. **Tiny friend read (10 min).**
+    - Send to 2 friends with **two questions only**:
+	    - “What was the _first line_ that made you lean in?”
+	    - “What sentence felt like setup I could cut?”
+     - (You already proposed multi-day refinement + friend feedback—keep it lightweight.) 
+5. **Ship the Substack.**
+    - Title = the promise. One proof, one practice, one vivid moment. (You wanted to publish only the essential—do that.) 
+6. **Make the companion video (6–8 min).**
+    - Cold-open with the promise, show one concrete bit (demo > tell), single CTA. Keep it fresh, not “advicey.” (Matches your plan to pair posts with videos.) 
+
+---
+# 2. Re: Sasha's feedback (throat-clearing)
 
 - Sasha replied and said that my writing is quite moving but has a tonne of throat-clearing preamble in it
 - I told this to ChatGPT and asked if this changes much of the plan it suggested for me
@@ -61,7 +91,7 @@ Short answer: **yes**—Sasha’s note sharpens the plan. We keep the “new wor
 - If you want, I can draft the full Monday essay now using the kernel-first template.
 
 ---
-# 2. What should I do next?
+# 3. What should I do next?
 Got it—fresh, not fixes. Here’s a tight 14-day “New Work Sprint” with concrete pieces to make, starting **today (Wed 10 Sept 2025, Europe/London)**. Zero refactors. All net-new.
 
 ## **14-Day New Work Sprint (2 essays, 2 videos, 2 micro-pieces)**
@@ -105,7 +135,7 @@ Got it—fresh, not fixes. Here’s a tight 14-day “New Work Sprint” with co
 
 ---
 
-# 3. ChatGPT on my [[What help do I want from Sasha Chapin re writing etc?]] post + snippets of both our writings
+# 4. ChatGPT on my [[What help do I want from Sasha Chapin re writing etc?]] post + snippets of both our writings
 
 I read your “What help do I want from Sasha…” page plus your two Substack posts from Ship It Week, and I skimmed a bunch of Sasha’s pieces you linked. Here’s the short of it, then a concrete plan.
 

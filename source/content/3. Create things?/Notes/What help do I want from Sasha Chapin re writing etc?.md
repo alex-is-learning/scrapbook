@@ -160,3 +160,9 @@
 	- [[2025-09-10 what should I do differently, ChatGPT?]]
 
 [^1]: I don't think this has been an actual problem, more part of my creative journey. Good for me!
+
+# Appendix
+## I should also get better at tweeting
+- Just saw this
+	- ![[What help do I want from Sasha Chapin re writing etc_-1757532534664.webp|400]]
+	- 👆 https://x.com/nosilverv/status/1965837016161251446
