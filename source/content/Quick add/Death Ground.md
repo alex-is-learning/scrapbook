@@ -1,6 +1,10 @@
+- 2025-09-10 → I'm using this to refer to the fact that I don't want to make money via non-alive avenues anymore. I'd rather have rapidly depleting savings and be wholeheartedly focused on making things, with the incentive of "gotta make this shit good", vs spending 3+ hours of energy a day on a non-alive, non-aligned job
+
+---
+
 Google Gemini summary:
 
-In Sun Tzu's "The Art of War," "death ground" refers to a strategic situation where soldiers are positioned in such a way that they have no avenue of escape. With their backs to an impassable obstacle like a river, mountain, or the sea, they are faced with a stark choice: fight with ferocious determination or perish.
+In Sun Tzu's "The Art of War," "death ground" refers to a strategic situation where soldiers are positioned in such a way that they have ==no avenue of escape. With their backs to an impassable obstacle like a river, mountain, or the sea, they are faced with a stark choice: fight with ferocious determination or perish.==
 
 The core principle behind intentionally placing an army on death ground is psychological. When soldiers realise there is no possibility of retreat, a powerful survival instinct takes over. This desperation, according to Sun Tzu, fosters unparalleled courage, unity, and a willingness to fight to the last breath. The fear of certain death if they fail to win overcomes the fear of the enemy, transforming the soldiers into a formidable and highly motivated fighting force.
 

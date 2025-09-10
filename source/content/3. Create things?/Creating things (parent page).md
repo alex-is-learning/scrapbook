@@ -4,7 +4,11 @@
 # Active
 - [[Writing more! (Parent page)]]
 - [[Music making log (era 2)]]
-# Older
-- 2025-08-25 - [[What could the Alexnaissance look like?]]
+# Thinking
+- Wed 2025-09-10
+	- [[What help do I want from Sasha Chapin re writing etc?]]
+- 2025-08-25
+	- [[What could the Alexnaissance look like?]]
+# Other parent pages
 - [[On stuff that I love (parent page)]]
 - [[Era 1 of making music and youtube videos]]
