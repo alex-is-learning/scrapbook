@@ -6,35 +6,66 @@
 - I emailed Sasha on Saturday (it's Wednesday now)
 - Basically saying "I think I'm a good writer, but I think I could get much smarter about it, what do"
 - He replied today saying that he doesn't really do writing coaching any more but that if I have any specific questions
-# What I'm really looking for is like... holistic creative advice
-- I want to make youtube videos + substack posts + songs
+
+# 1. What do I want from Sasha?
+## What I'm really looking for is like... holistic creative advice
+- I want to make youtube videos + substack posts + songs. I want to make a living from this - even if only scraping by
 - I had a good slowly growing youtube presence during the 3 months I made videos (0-440 subscribers)
 - I'm kind of stuck in lowbie hell on twitter (and substack) and I'm not sure what to do differently 
 ## I might be able to solve it myself
-- I think I'll be able to look at what Sasha does, then look at what I do, and connect the dots, lol
-- Like, there will be low-hanging fruit here. Could be that he reads this, is like "yep, try doing that stuff for a month", and then I check in again in a month...
+- I think I'll be able to ==look at what Sasha does, then look at what I do==, and connect the dots, lol
+- Like, there will be low-hanging fruit here. 
+- Could be that he reads this, is like "yep, try doing that stuff for 3 months", and then I check in again in a month...
+## Dream → he checks out some of my stuff and gives bespoke advice
+- "Sasha checks out Alex's web presence and gives opinionated advice"
+- But even just to skim some stuff would be super useful too
+- "Yeah the ==main problems with your substack presence== are x y and z"
+	- https://substack.com/@alexislearning
+- "Yeah this substack post was solid but ==if you did x y and z then it'd be way better=="
+- "Yeah the main problems with your twitter presence are x y and z"
 ## Setting the stage - where I'm at
 - Sasha has ==25,000== substack followers, I have ==64==
 - Sasha has ==38,000== twitter followers, I have ==236==
 	- (I used to have ~750 until my old account got suspended because they thought I was a bot)
 - I have ==414== youtube subscribers
 	- Was steadily growing in the 3 months I made videos, then had an 8 month hiatus
+- I've been writing loads on this website - more words than The Great Gatsby (not a long book, but still!) since I set it up in ~July
 - I'm 29. It's Sep 2025. I had a [[Kensho]] experience in Feb 2024 and shit has been wildly different ever since (no social anxiety, total ease being on camera, lessened sense of self, etc).
+- I have key themes, mainly around the journey from traumatised family to grokking some tpot wisdom, kensho, then gradually expanding my agency and leaning into what I really want to do
+	- ![[What help do I want from Sasha Chapin re writing etc_-1757500740136.webp]]
 - I can no longer make money in my old ways (e.g., startup internal operations). I have £15k in the bank. I've just spent 4 months applying for Effective Altruist jobs only to realise that actually I really don't want to do that. I'm really dumb in lots of ways
+## I'm good at this stuff!
+- I'm good at writing!
+	- ![[What help do I want from Sasha Chapin re writing etc_-1757500610074.webp]]
+		- 👆 after he read my [[Writing - vignettes|vignettes]] and the substack posts I wrote whilst at [[Ship It Week log|Ship It Week]]
+	- ![[What help do I want from Sasha Chapin re writing etc_-1757500583166.webp]]
+- I'm good on camera!
+	- ![[What help do I want from Sasha Chapin re writing etc_-1757500626892.webp]]
+- There's a huge amount of energy here! 
+	- I've made 50+ youtube videos in a very flow-state-y alive way
+	- I've really really enjoyed writing my vignettes, loved reading them back
+	- I really quite like my youtube videos
+	- So, I think there's lot of good stuff here, and now it's just a case of harnessing this energy in a "smarter" way
 ## I want to get serious about this, full time, [[Death Ground]]
-- It is time for me to accept that I can't make money via my old ways → I just tried doing internal operations contracting for a startup and mannnnn was it grindy
+- It is time for me to accept that ==I can't make money via my old ways== → I just tried doing internal operations contracting for a startup and mannnnn was it grindy
 - I've pretended that I don't know what my "thing" is, but really, I want to create things, I want to be an artist, I want to share my experience
-	- I've gotten really good feedback on my [[Writing - vignettes]] and substack posts and youtube videos and even some of my shitty songs. There's an artistic spark in me that I've been too scared to cultivate; no support system, traumatised parents, english culture, low agency until last few years, etc
+- ![[What help do I want from Sasha Chapin re writing etc_-1757501114178.webp]]
+	- https://alexislearning.substack.com/p/ship-it-week
+- I've gotten really good feedback on my [[Writing - vignettes|vignettes]] and substack posts and youtube videos and even some of my shitty songs. 
+	- Best vignettes are [[01. To be a boomer]] and [[06. Cornflakes]] and [[07. Travel day]]
+	- ![[What help do I want from Sasha Chapin re writing etc_-1757500550096.webp]]
+		- Re [[Cornflakes song 2025-09-09]]
+	- There's an artistic spark in me that I've been too scared to cultivate; no support system, traumatised parents, english culture, low agency until last few years, etc
 - I'd now rather be a starving artist than have savings but not be in flow (?). I've been afraid to run out of money
 - I have ~6 months of runway and want to work on this stuff full time
-# What are my specific questions?
-## 1. The meta question is just "what am I doing 'wrong'", or, "what does it look like to do it *right*"
+# 2. What are my specific questions?
+## Q1. The meta question is just "what am I doing 'wrong'", or, "what does it look like to do it *right*"
 - How do I know I'm doing something wrong? 
 	- My substack has steadily grown despite me being very inconsistent with it. It could be that it's good enough already and I just need to be consistent. But I don't think this is the case, for reasons I'll discuss below
 - I have some hunches here, like writing too much for me and not enough for others
 	- DFW's [[Expressive Mode vs Communicative Mode]]
 - I'll go into this in more detail below
-## 2. How to go from "friends like it" to "more people like it"
+## Q2. How to go from "friends like it" to "more people like it"
 - (This might be essentially the same as the meta question, just reworded)
 - Currently on Substack, ==I'll write something in one go==, and it's good in a scrappy way, and it describes my current lived experience 
 - But like, this isn't what Sasha does
@@ -48,6 +79,7 @@
 	- [What maximum productivity looks like for me](https://sashachapin.substack.com/p/what-maximum-productivity-looks-like)
 		- Similar to "notes against note-taking systems" in that it describes a different way of being that is "healthier" than the zeitgeist
 ### ==Solution 1== - only publish things that are ~essential
+- ![[What help do I want from Sasha Chapin re writing etc_-1757500600998.webp]]
 - I publish ~everything I write, because I'm genuinely thrilled to have made something
 	- I was a STEM guy for years despite secretly never giving a shit about science, I was socially anxious as fuck for years etc, and now I'm just like, really thrilled to be here, and thrilled to share things
 - Scrolling through Sasha's posts, it's like "holy shit, that one rules, and that one, and that one, and I really want to getting round to reading that one", etc, etc
