@@ -3,9 +3,12 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 ## 04. September 2025
+- Thur 2025-09-11
+	- [[Fade to memory (song) 2025-09-11]]
 - Wed 2025-09-10
 	- [[What help do I want from Sasha Chapin re writing etc?]]
 	- [[2025-09-10 what should I do differently, ChatGPT?]]
+	- [[11. Balcony]]
 - Tue 2025-09-09
 	- [[10. After "Ship It Week"]]
 	- [[Cornflakes song 2025-09-09]]
@@ -65,7 +68,7 @@ permalink: log-per-day
 - Wed 2025-08-13
 	- [[Aha, maybe I'm a "professional meta-cognitionist", lol]]
 	- [[Visual notes are a form of active learning]]
-	- [[What is we founded "Fractal Oxford"?]]
+	- [[What if we founded "Fractal Oxford"?]]
 - Tue 2025-08-12
 	- [[Alex and Simmo group house, parent page]]
 ### Week of 4th August

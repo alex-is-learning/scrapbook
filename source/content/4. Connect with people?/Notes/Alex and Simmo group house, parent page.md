@@ -10,7 +10,7 @@
 	- [[London vs Oxford for a group house]]
 	- [[Should we do the Fractal Campus accelerator?]]
 - Wed 2025-08-13
-	- [[What is we founded "Fractal Oxford"?]]
+	- [[What if we founded "Fractal Oxford"?]]
 - Tue 2025-08-12
 	- [[Alex & Simmo group house in London, kick-off page]]
 	- [["Live Near Friends" movement]]
