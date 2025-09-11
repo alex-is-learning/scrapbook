@@ -3,10 +3,10 @@
 # Fade into memory - Thursday 2025-09-11
 - ![[fade-to-memory.m4a]]
 ```
-I don't miss the way you smiled at me 
+And I don't miss the way that you smiled at me 
 Cuz I know it's gone 
-And I know I'm not what you see
-And it won't be too long
+And I know that I'm not what you see
+And it won't be long
 Before it fades into memory
 ```
 - [[Fade to memory (song) 2025-09-11]]
@@ -58,7 +58,7 @@ Oh I mind
 ```
 
 - I like this! Simple way of talking about the like "oh I don't mind living at my mum's for 6 months, I'm not missing out on anything because I'm trying to build a good life" → "oh shit, community rules ([[Ship It Week log]]), I really should care less about how much money I have left and spend more time with people"
-- Alternative version
+- Alternative version (iphone voice note, acoustic guitar)
 	- ![[voicenote2025-09-08.m4a]]
 	- Total ripoff from track 2 of the new Wet Leg album, first line + general chord progression, feels great to have the permission to "steal like an artist"
 - ![[1757341428145.webp]]
