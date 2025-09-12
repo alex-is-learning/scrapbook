@@ -3,6 +3,8 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 ## 04. September 2025
+- Fri 2025-09-12
+	- [The End of Cringing Self-Justification](https://alexislearning.substack.com/p/the-end-of-cringing-self-justification) (substack post)
 - Thur 2025-09-11
 	- [[Fade to memory (song) 2025-09-11]]
 - Wed 2025-09-10
