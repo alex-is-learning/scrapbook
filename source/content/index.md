@@ -11,7 +11,7 @@ permalink: home-page
 
 ![[index-1757765532989.webp|200]]
 # Artistic beginnings
-- *August 2025 marks the time when I now want to take this seriously → Substacks, videos and songs before this time were more joyful and joyfully shitty exploration, feel free to disregard in a major way*
+- *August 2025 marks the time when I now want to take this seriously (or at least, as seriously as the above photos) → Substacks, videos and songs before this time were more joyful and joyfully shitty exploration, feel free to disregard in a major way*
 ## Substack
 - "[The end of cringing self-justification](https://alexislearning.substack.com/p/the-end-of-cringing-self-justification)" (12th September 2025)
 - "[I know what 'my thing' is](https://alexislearning.substack.com/p/ship-it-week)" (30th August 2025)
@@ -28,6 +28,7 @@ permalink: home-page
 - [Substack](https://alexislearning.substack.com/)
 - [Youtube](https://www.youtube.com/@alexislearning)
 - [Soundcloud](https://soundcloud.com/alexislearning)
+- [Friends](https://www.alexislearning.me/pages/references.html)
 
 ---
 # Appendix
