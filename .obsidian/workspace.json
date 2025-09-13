@@ -74,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 209.50390243530273,
-    "collapsed": true
+    "width": 209.50390243530273
   },
   "right": {
     "id": "adfdf894a6d1d9c7",
@@ -180,22 +178,27 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/📎 Files/Images/misc/index-1757765429638.webp",
+    "source/content/📎 Files/Images/misc/index-1757765488282.webp",
+    "source/content/📎 Files/Images/misc/index-1757765532989.webp",
+    "source/content/index.md",
+    "source/content/3. Create things?/Writings/05. Hospital cafe.md",
+    "source/content/3. Create things?/Writings/Writing - vignettes.md",
+    "source/content/3. Create things?/Creating things (parent page).md",
+    "source/content/3. Create things?/Notes/Music making log (era 2).md",
     "source/content/🪵 Log per day.md",
     "source/content/3. Create things?/Writings/03. To be a tpot zoomer.md",
     "source/content/3. Create things?/Writings/02. Don't be overwhelmed!.md",
     "source/content/3. Create things?/Writings/01. To be a boomer.md",
-    "source/content/3. Create things?/Writings/Writing - vignettes.md",
     "source/content/3. Create things?/Writings/07. Travel day.md",
-    "source/content/3. Create things?/Writings/05. Hospital cafe.md",
     "source/content/3. Create things?/Writings/10. After \"Ship It Week\".md",
     "source/content/3. Create things?/Writings/11. Balcony.md",
     "source/content/3. Create things?/Writings/09. Hill.md",
     "source/content/3. Create things?/Writings/08. Morning by the pool.md",
     "source/content/3. Create things?/Writings/06. Cornflakes.md",
     "12. idk.md",
-    "source/content/3. Create things?/Notes/Music making log (era 2).md",
     "source/content/3. Create things?/Creating music/Fade to memory (song) 2025-09-11.md",
     "source/content/1. Improve Lived Experience?/Phenomenology/Notes/Tpot, post-rationalism.md",
     "source/content/3. Create things?/Writings - Appendices/Tpot zoomer appendix.md",
@@ -209,18 +212,12 @@
     "source/content/📎 Files/Voice notes/signal-2025-09-10-200428.mp3",
     "source/content/5. How to think?/Notes/Notes to self (e.g., CSS).md",
     "source/content/📎 Files/Images/misc/What help do I want from Sasha Chapin re writing etc_-1757523013724.webp",
-    "source/content/3. Create things?/Creating things (parent page).md",
     "source/content/5. How to think?/Notes/08. Enneagram 3 thinking sins.md",
-    "source/content/3. Create things?/Notes/What could the Alexnaissance look like?.md",
-    "source/content/3. Create things?/Notes/Era 1 of making music and youtube videos.md",
     "source/content/📎 Files/Images/misc/What help do I want from Sasha Chapin re writing etc_-1757503665632.webp",
     "source/content/📎 Files/Images/misc/Youtube comments-1757503110709.webp",
     "source/content/📎 Files/Images/misc/Youtube comments-1757503249964.webp",
     "source/content/📎 Files/Images/misc/Youtube comments-1757503237412.webp",
     "source/content/📎 Files/Images/misc/Youtube comments-1757503220586.webp",
-    "source/content/📎 Files/Images/misc/Youtube comments-1757503208273.webp",
-    "source/content/📎 Files/Images/misc/Youtube comments-1757503194972.webp",
-    "source/content/📎 Files/Images/misc/Youtube comments-1757503176623.webp",
     "source/content/3. Create things?/Creating music/golden line.mp3",
     "source/content/3. Create things?/Creating music",
     "source/content/📎 Files/Songs/cornflakes-song.m4a",
