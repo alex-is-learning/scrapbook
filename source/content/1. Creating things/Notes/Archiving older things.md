@@ -1,0 +1,26 @@
+- 2025-09-14 
+- I'm wondering if I could clean up my digital footprint
+- Era 1 of making things involved publishing a lot of first drafts and being really happy to be making things
+- I'm happy I did this, but it does leave me with a lot of kinda shitty things
+- I'd quite like to only have like... "essential" things uploaded, rather than everything
+- There's been something in me of like "I want to keep everything published so that people can see the journey/progression!", but I think it might be better to just tell the story of the journey/progression in a compelling way one day, rather than leaving all these messy breadcrumbs everywhere
+# The archive
+- 2023-07-07
+	- My first ever substack post!
+	- [[Paper journalling is better, actually (2023-07-07)]]
+- 2023-07-14
+	- [[Why I needed consensus-ism so desperately (2023-07-14)]]
+- 2023-11-02
+	- [[No consensus to write anymore! (2023-11-02)]]
+- 2024-06-06
+	- [[Launching consensus-ism coaching! (2024-06-06)]]
+- 2024-11-08
+	- [[I have a youtube channel now! (2024-11-08)]]
+- 2025-05-11
+	- [[I am Nuclear Fusion Alex now (2025-05-11)]]
+- 2025-05-13 
+	- [[The stories we tell about ourselves (2025-05-13)]]
+- 2025-05-30
+	- [[The shame post - 2025-05-30]]
+- 2025-06-03
+	- [[On being "in-group" - tpot vs EA - 2025-06-03]]
