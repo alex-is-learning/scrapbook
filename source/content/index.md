@@ -6,7 +6,7 @@ permalink: home-page
 ---
 - Hi! I'm Alex, this is my digital scrapbook.
 - My landing page website is https://alexislearning.me/ → this scrapbook is where I do my thinking
-- I am a beginner artist, at 29 casting off the STEM life I fell into by mistake and starting fresh
+- A chronological view of my digital scrapbook posts → [[🪵 Log per day]] 
 ![[index-1757765532989.webp|200]]
 # Artistic beginnings
 - *<span class="text-red"> August 2025 marks the time when I now want to take this seriously</span> (or at least, as seriously as the above photos) → Substacks, videos and songs before this time were more joyful and joyfully shitty exploration, feel free to disregard in a major way*
