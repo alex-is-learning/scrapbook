@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test-note.md",
+                "file": "source/content/1. Creating things/Notes/Archiving older things.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test-note"
+              "title": "Archiving older things"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test-note.md",
+                "file": "source/content/1. Creating things/Notes/Archiving older things.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test-note"
+              "title": "Backlinks for Archiving older things"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test-note.md",
+                "file": "source/content/1. Creating things/Notes/Archiving older things.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test-note"
+              "title": "Outline of Archiving older things"
             }
           }
         ]
@@ -180,8 +180,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "source/content/1. Creating things/Notes/Archiving older things.md",
     "test-note.md",
+    "source/content/1. Creating things/Notes/Archiving older things.md",
     "source/content/1. Creating things/z Archived creations/Why I needed consensus-ism so desperately (2023-07-14).md",
     "source/content/🪵 Log per day.md",
     "source/content/📎 Files/Images/misc/Paper journalling is better, actually (2023-07-07)-1757873808442.webp",
