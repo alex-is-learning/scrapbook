@@ -5,13 +5,11 @@ aliases:
 permalink: home-page
 ---
 - Hi! I'm Alex, this is my digital scrapbook.
+- My landing page website is https://alexislearning.me/ → this scrapbook is where I do my thinking
 - I am a beginner artist, at 29 casting off the STEM life I fell into by mistake and starting fresh
-![[index-1757765488282.webp|300]]
-- (Free food)
-
 ![[index-1757765532989.webp|200]]
 # Artistic beginnings
-- *August 2025 marks the time when I now want to take this seriously (or at least, as seriously as the above photos) → Substacks, videos and songs before this time were more joyful and joyfully shitty exploration, feel free to disregard in a major way*
+- *<span class="text-red"> August 2025 marks the time when I now want to take this seriously</span> (or at least, as seriously as the above photos) → Substacks, videos and songs before this time were more joyful and joyfully shitty exploration, feel free to disregard in a major way*
 ## Substack
 - "[The end of cringing self-justification](https://alexislearning.substack.com/p/the-end-of-cringing-self-justification)" (12th September 2025)
 - "[I know what 'my thing' is](https://alexislearning.substack.com/p/ship-it-week)" (30th August 2025)
