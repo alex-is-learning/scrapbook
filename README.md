@@ -1,2 +1,2 @@
 - Digital notebook/scrapbook/garden! 
-- https://www.alexislearning.me/to-live-well/
+- https://www.alexislearning.me/scrapbook
