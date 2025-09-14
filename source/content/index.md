@@ -27,6 +27,7 @@ permalink: home-page
 - [Youtube](https://www.youtube.com/@alexislearning)
 - [Soundcloud](https://soundcloud.com/alexislearning)
 - [Friends](https://www.alexislearning.me/pages/references.html)
+- [[Archiving older things]]
 
 ---
 # Appendix
