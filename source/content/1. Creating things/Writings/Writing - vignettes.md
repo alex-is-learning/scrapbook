@@ -1,7 +1,7 @@
 - [[Writing more! (Parent page)]]
 - By vignettes, I mean... I'm not trying to write fiction or short stories here. It's still essentially my voice, maybe written from a particular "part", but yeah, there's no characters or anything, pretty much just a "instead of something like an essay, I'm writing something more emotive"
 - 2025-09-13
-	- [[12. Idk yet]]
+	- [[12. Misery]]
 - 2025-09-10
 	- [[11. Balcony]]
 - 2025-09-09
