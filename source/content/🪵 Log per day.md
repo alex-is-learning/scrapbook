@@ -3,6 +3,8 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 ## 04. September 2025
+- Wed 2025-09-17 
+	- [[Good tweets]]
 - Sun 2025-09-14
 	- [[Archiving older things]]
 	- [[Writing - zero pressure at all]]

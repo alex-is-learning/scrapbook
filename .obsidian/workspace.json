@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/🪵 Log per day.md",
+                "file": "source/content/Other/1. Improve Lived Experience?/Phenomenology/Notes/Tpot, post-rationalism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🪵 Log per day"
+              "title": "Tpot, post-rationalism"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/🪵 Log per day.md",
+                "file": "source/content/Other/1. Improve Lived Experience?/Phenomenology/Notes/Tpot, post-rationalism.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🪵 Log per day"
+              "title": "Backlinks for Tpot, post-rationalism"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/🪵 Log per day.md",
+                "file": "source/content/Other/1. Improve Lived Experience?/Phenomenology/Notes/Tpot, post-rationalism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🪵 Log per day"
+              "title": "Outline of Tpot, post-rationalism"
             }
           }
         ]
@@ -180,8 +180,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Oxford is a Hell No at the moment.md",
+    "source/content/1. Creating things/Writings - Appendices/Tpot zoomer appendix.md",
     "source/content/🪵 Log per day.md",
+    "source/content/Other/1. Improve Lived Experience?/Phenomenology/Notes/Tpot, post-rationalism.md",
+    "Good tweets.md",
+    "source/content/Other/5. How to think?/What does it mean to be in ORI?/Notes/ORI idea - the universe (you're a cell inside an organism).md",
+    "Oxford is a Hell No at the moment.md",
     "source/content/1. Creating things/Notes/Archiving older things.md",
     "test-note.md",
     "source/content/1. Creating things/z Archived creations/Why I needed consensus-ism so desperately (2023-07-14).md",
@@ -214,10 +218,6 @@
     "source/content/Other",
     "source/content/1. Creating things/Writings/08. Morning by the pool.md",
     "source/content/1. Creating things/Writings/07. Travel day.md",
-    "source/content/1. Creating things/Writings/10. After \"Ship It Week\".md",
-    "source/content/1. Creating things/Writings/06. Cornflakes.md",
-    "source/content/1. Creating things/Writings/05. Hospital cafe.md",
-    "source/content/1. Creating things/Creating things (parent page).md",
     "source/content/1. Creating things/Creating music/fade-to-memory.m4a",
     "source/content/📎 Files/mp3s/next last cigarette first draft.mp3",
     "source/content/📎 Files/Voice notes/signal-2025-09-10-200428.mp3",
