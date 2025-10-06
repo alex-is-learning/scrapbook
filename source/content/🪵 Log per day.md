@@ -3,7 +3,7 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 ## 05. October 2025
-- Mon 2025-10-04
+- Sat 2025-10-04
 	- [[Back to writing daily - quick Berlin retrospective and where I'm at now]]
 ## 04. September 2025
 - Sun 2025-09-14

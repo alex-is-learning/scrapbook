@@ -1,3 +1,4 @@
+- [[🪵 Log per day]]
 - Mon 2025-10-04
 
 Damn, it's been a while! 
@@ -16,7 +17,7 @@ So yeah, I just spent 1.5 weeks in Berlin, and now I'm near Hamburg at my friend
 
 ## Berlin 
 - I went to Berlin to hang with people who had just attended the [[Tpot, post-rationalism|tpot]] event "TreeWeek"
-- Berlin was actually really exhausting in a few different ways. Overall, it was a great experience, and I'm very glad I attended. Some good things:
+- Berlin was actually really exhausting in a few different ways. Overall, it was a great experience, and I'm very glad I went. Some good things:
 ### Berlin good things
 - Night club!!
 	- Two awesome night club nights at [Beate Uwe](https://beate-uwe.de/) → by far the best night club experiences I've ever had. Shoes off, dance in your socks, really great music, lovely times with friends. The first night, my friend Brent hosted us, I met some nice new people, I reconnected with the Refract crew (the 4 of us who worked at Brent's startup), really enjoyed the dancing (perhaps helped by substances), etc. The second night (a week later, the one-week anniversary of my time in Berlin), I stepped into the host role, made it happen, perhaps 8 of us, had some really sweet moments of a felt sense of friendship on the dancefloor, etc. 

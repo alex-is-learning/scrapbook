@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Other/Quick add/Back to writing daily - quick Berlin retrospective and where I'm at now.md",
+                "file": "source/content/🪵 Log per day.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Back to writing daily - quick Berlin retrospective and where I'm at now"
+              "title": "🪵 Log per day"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Other/Quick add/Back to writing daily - quick Berlin retrospective and where I'm at now.md",
+                "file": "source/content/🪵 Log per day.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Back to writing daily - quick Berlin retrospective and where I'm at now"
+              "title": "Backlinks for 🪵 Log per day"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Other/Quick add/Back to writing daily - quick Berlin retrospective and where I'm at now.md",
+                "file": "source/content/🪵 Log per day.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Back to writing daily - quick Berlin retrospective and where I'm at now"
+              "title": "Outline of 🪵 Log per day"
             }
           }
         ]
@@ -180,9 +180,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "idk dude.md",
     "source/content/🪵 Log per day.md",
-    "Good tweets.md",
+    "source/content/Other/Quick add/Sun 2025-10-05.md",
     "source/content/Other/Quick add/Back to writing daily - quick Berlin retrospective and where I'm at now.md",
+    "Good tweets.md",
     "source/content/📎 Files/Images/misc/Back to writing daily-1759591273885.webp",
     "source/content/index.md",
     "source/content/1. Creating things/Writings/Writing - vignettes.md",
@@ -215,7 +217,6 @@
     "source/content/1. Creating things/Writings/Writing - Substack.md",
     "source/content/1. Creating things/Writing more! (Parent page).md",
     "source/content/1. Creating things/Notes/Writing - zero pressure at all.md",
-    "source/content/1. Creating things/Writings/12. Misery.md",
     "source/content/Other",
     "source/content/1. Creating things/Creating music/fade-to-memory.m4a",
     "source/content/📎 Files/mp3s/next last cigarette first draft.mp3",
