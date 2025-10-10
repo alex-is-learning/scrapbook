@@ -4,3 +4,4 @@
 - [[ORI idea - Destigmatise being dumb]]
 - [[ORI idea - the universe (you're a cell inside an organism)]]
 - [[ORI idea - Problems are actually already solved]]
+- [[Following aliveness]]
