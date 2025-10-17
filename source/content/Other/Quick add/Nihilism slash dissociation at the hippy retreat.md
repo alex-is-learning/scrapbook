@@ -1,5 +1,6 @@
 - [[🪵 Log per day]]
 - Told a friend that I've been feeling kinda nihilistic and dissociated (re: why Evolving Ground's "Open Awareness" practice is currently feeling appealing to me) and he recommended a David Chapman post about it
+	- https://meaningness.com/nihilism
 - ![[Nihilism, dissociation-1760099063095.webp]]
 ## I've been feeling kinda nihilistic/dissociated 
 - Last ~1 month has looked like: 

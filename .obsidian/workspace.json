@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Other/Quick add/Nihilism slash dissociation at the hippy retreat.md",
+                "file": "source/content/1. Creating things/Writings/Poetry with Jonathan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nihilism slash dissociation at the hippy retreat"
+              "title": "Poetry with Jonathan"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Other/Quick add/Nihilism slash dissociation at the hippy retreat.md",
+                "file": "source/content/1. Creating things/Writings/Poetry with Jonathan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Nihilism slash dissociation at the hippy retreat"
+              "title": "Backlinks for Poetry with Jonathan"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Other/Quick add/Nihilism slash dissociation at the hippy retreat.md",
+                "file": "source/content/1. Creating things/Writings/Poetry with Jonathan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nihilism slash dissociation at the hippy retreat"
+              "title": "Outline of Poetry with Jonathan"
             }
           }
         ]
@@ -178,11 +178,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "source/content/📎 Files/Images/misc/Nihilism, dissociation-1760099063095.webp",
+    "source/content/1. Creating things/Writing more! (Parent page).md",
+    "source/content/1. Creating things/Writings/Poetry with Jonathan.md",
     "source/content/🪵 Log per day.md",
+    "source/content/index.md",
+    "source/content/1. Creating things/Creating things (parent page).md",
+    "source/content/1. Creating things/Notes/Archiving older things.md",
     "source/content/Other/Quick add/Nihilism slash dissociation at the hippy retreat.md",
+    "source/content/📎 Files/Images/misc/Nihilism, dissociation-1760099063095.webp",
     "source/content/Other/5. How to think?/Notes/08. Enneagram 3 thinking sins.md",
     "source/content/Other/Quick add/Following aliveness.md",
     "source/content/📎 Files/Images/misc/Following aliveness-1759766245599.webp",
@@ -193,14 +198,12 @@
     "source/content/Other/Quick add/Back to writing daily - quick Berlin retrospective and where I'm at now.md",
     "Good tweets.md",
     "source/content/📎 Files/Images/misc/Back to writing daily-1759591273885.webp",
-    "source/content/index.md",
     "source/content/1. Creating things/Writings/Writing - vignettes.md",
     "idk yet.md",
     "source/content/Other/1. Improve Lived Experience?/Phenomenology/Notes/Tpot, post-rationalism.md",
     "source/content/1. Creating things/Writings - Appendices/Tpot zoomer appendix.md",
     "source/content/Other/5. How to think?/What does it mean to be in ORI?/Notes/ORI idea - the universe (you're a cell inside an organism).md",
     "Oxford is a Hell No at the moment.md",
-    "source/content/1. Creating things/Notes/Archiving older things.md",
     "test-note.md",
     "source/content/1. Creating things/z Archived creations/Why I needed consensus-ism so desperately (2023-07-14).md",
     "source/content/📎 Files/Images/misc/Paper journalling is better, actually (2023-07-07)-1757873808442.webp",
@@ -213,10 +216,7 @@
     "source/content/📎 Files/Images/misc/On being _in-group_ - tpot vs EA - 2025-06-03-1757875406568.webp",
     "source/content/📎 Files/Images/misc/On being _in-group_ - tpot vs EA - 2025-06-03-1757875377677.webp",
     "source/content/1. Creating things/z Archived creations/The shame post - 2025-05-30.md",
-    "source/content/📎 Files/Images/misc/The shame post - 2025-05-30-1757875154644.webp",
     "source/content/1. Creating things/z Archived creations/The stories we tell about ourselves (2025-05-13).md",
-    "source/content/1. Creating things/z Archived creations/I am Nuclear Fusion Alex now (2025-05-11).md",
-    "source/content/1. Creating things/z Archived creations/I have a youtube channel now! (2024-11-08).md",
     "source/content/Other",
     "source/content/1. Creating things/Creating music/fade-to-memory.m4a",
     "source/content/📎 Files/mp3s/next last cigarette first draft.mp3",

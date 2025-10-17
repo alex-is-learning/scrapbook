@@ -3,6 +3,8 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 ## 05. October 2025
+- 2025-10-17
+	- [[Poetry with Jonathan]]
 - Fri 2025-10-10
 	- [[Nihilism slash dissociation at the hippy retreat]]
 - Sat 2025-10-04
