@@ -3,6 +3,8 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 ## 05. October 2025
+- Mon 2025-10-20
+	- [[Monday, third time living at the Effective Altruism hotel]]
 - 2025-10-17
 	- [[Poetry with Jonathan]]
 - Fri 2025-10-10

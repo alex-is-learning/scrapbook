@@ -7,7 +7,7 @@ permalink: home-page
 - Hi! I'm Alex, this is my digital scrapbook.
 - My landing page website is https://alexislearning.me/ → this scrapbook is where I do (uh, did?) my thinking. It's a place for scrappy writing that doesn't belong on Substack. 
 	- (There's something in me where non-public-facing writing doesn't feel real, hence setting up this site to give me a place to [[Work with the garage door up|think with the garage door up]])
-- A chronological view of my digital scrapbook posts → [[🪵 Log per day]] 
+- 👋 A chronological view of my digital scrapbook posts → [[🪵 Log per day]] 
 - Also, sometimes I write [[Writing - vignettes|vignettes]] here!
 	- My favourites so far are [[01. To be a boomer|to be a boomer]], [[02. Don't be overwhelmed!|don't be overwhelmed]], [[06. Cornflakes|cornflakes]] and [[07. Travel day|travel day]]
 

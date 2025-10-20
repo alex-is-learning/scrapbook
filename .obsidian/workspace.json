@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Other/Quick add/Monday, third time living at the Effective Altruism hotel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Monday, third time living at the Effective Altruism hotel"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Other/Quick add/Monday, third time living at the Effective Altruism hotel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Monday, third time living at the Effective Altruism hotel"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Other/Quick add/Monday, third time living at the Effective Altruism hotel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Monday, third time living at the Effective Altruism hotel"
             }
           }
         ]
@@ -180,13 +180,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "source/content/Other/5. How to think?/Notes/Kegan 4.md",
+    "source/content/Other/5. How to think?/Notes/The Kegan 3 to Kegan 4 transition.md",
+    "source/content/Other/Quick add/Monday, third time living at the Effective Altruism hotel.md",
+    "source/content/Other/Quick add/Monday, third time living at the Effective Altruism hotel-1760969960742.webp",
+    "source/content/📎 Files/Images/misc/Monday, third time living at the Effective Altruism hotel-1760969324500.webp",
+    "source/content/Other/5. How to think?/Notes/Questioning Effective Altruism.md",
+    "source/content/🪵 Log per day.md",
+    "source/content/1. Creating things/Writings/Poetry with Jonathan.md",
+    "source/content/index.md",
     "source/content/1. Creating things/Writings/13. I don't know yet.md",
     "source/content/1. Creating things/Writings/Writing - vignettes.md",
     "source/content/1. Creating things/Writings/12. Misery.md",
-    "source/content/1. Creating things/Writings/Poetry with Jonathan.md",
     "source/content/1. Creating things/Writing more! (Parent page).md",
-    "source/content/🪵 Log per day.md",
-    "source/content/index.md",
     "source/content/1. Creating things/Creating things (parent page).md",
     "source/content/1. Creating things/Notes/Archiving older things.md",
     "source/content/Other/Quick add/Nihilism slash dissociation at the hippy retreat.md",
@@ -205,18 +211,12 @@
     "source/content/Other/1. Improve Lived Experience?/Phenomenology/Notes/Tpot, post-rationalism.md",
     "source/content/1. Creating things/Writings - Appendices/Tpot zoomer appendix.md",
     "source/content/Other/5. How to think?/What does it mean to be in ORI?/Notes/ORI idea - the universe (you're a cell inside an organism).md",
-    "Oxford is a Hell No at the moment.md",
-    "test-note.md",
-    "source/content/1. Creating things/z Archived creations/Why I needed consensus-ism so desperately (2023-07-14).md",
     "source/content/📎 Files/Images/misc/Paper journalling is better, actually (2023-07-07)-1757873808442.webp",
     "source/content/1. Creating things/z Archived creations",
     "source/content/📎 Files/Images/misc/No consensus to write anymore! (2023-11-02)-1757874565026.webp",
     "source/content/📎 Files/Images/misc/Launching consensus-ism coaching! (2024-06-06)-1757874588620.webp",
     "source/content/📎 Files/Images/misc/Launching consensus-ism coaching! (2024-06-06)-1757874603977.webp",
     "source/content/📎 Files/Images/misc/On being _in-group_ - tpot vs EA - 2025-06-03-1757875375884.webp",
-    "source/content/1. Creating things/z Archived creations/On being \"in-group\" - tpot vs EA - 2025-06-03.md",
-    "source/content/📎 Files/Images/misc/On being _in-group_ - tpot vs EA - 2025-06-03-1757875406568.webp",
-    "source/content/📎 Files/Images/misc/On being _in-group_ - tpot vs EA - 2025-06-03-1757875377677.webp",
     "source/content/Other",
     "source/content/1. Creating things/Creating music/fade-to-memory.m4a",
     "source/content/📎 Files/mp3s/next last cigarette first draft.mp3",

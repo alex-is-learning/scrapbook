@@ -32,3 +32,6 @@ I don't know how to write a verse
 With more than just the plainest words
 
 - Note to self - I miss writing [[Writing - vignettes|vignettes]]!
+
+
+Yeah, this doesn't feel super alive to me tbf - I've messaged Jono to see if he'd be up for writing substack posts together, this felt idk, non-exciting, non-essential

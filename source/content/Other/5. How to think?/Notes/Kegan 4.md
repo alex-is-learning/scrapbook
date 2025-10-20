@@ -1,3 +1,4 @@
+- [[The Kegan 3 to Kegan 4 transition]]
 # Gemini summary
 In Robert Kegan's theory of adult development, Stage 4 is known as the "Self-Authoring Mind." This stage represents a significant evolution from the "Socialised Mind" of Stage 3. While a majority of adults operate from Stage 3, a smaller portion, estimated at around 35% (with only 1% having mastered it), reach Stage 4. It marks the development of a distinct, internal sense of identity.
 
@@ -13,5 +14,3 @@ Here is a summary of the key characteristics of Kegan's Stage 4:
     
 
 Moving from Stage 3 to Stage 4 is a demanding process of differentiating oneself from the social environment and constructing a reliable internal compass to guide one's life.
-
-# 
