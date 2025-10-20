@@ -44,3 +44,5 @@
 - If I lived here for 6+ months, getting to know people more and more over time, working out regularly, working on myself via e.g. Codependents Anonymous and IFS etc, getting mentorship from Attila etc, I think really great things could happen
 ## Stability 
 - I can grow and work and etc much easier when I have a bedroom and a place to work that isn't a bedroom and etc. I'm excited to be able to get a stable routine going and be useful - as an enneagram 3, a feeling of competence and usefulness is very important to me 
+# Worries
+- Feeling like an outsider, feeling like not one of the cool kids, feeling like I can't just hang and be chill, are all key things for me, and so far arriving at a place where people already know each other + have some shared context (EA) that I don't really care about, is definitely making this a bit of an issue. I'm hoping it's a skill issue that I can address (e.g. by doing 1:1s, by just *trying* (e.g. by attending board game nights just to *see*, by making things happen that *I* want to happen) etc)
