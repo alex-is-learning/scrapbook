@@ -26,8 +26,9 @@
 - In the past, when I've been here, there's always been a grindy sense of internal conflict, of "ughhh, this isn't it", which I find impossible to ignore, and makes me a grumpy and intense presence
 - Vs this time (and it's only day 4!), I have total consensus to be here → it's cheap, I have friends and possible mentors here, there's a gym, it's an improvement over living at my mums, it's an improvement over travelling around like I just did (Spain → Oxford → Berlin → Hamburg → Berlin) (e.g., I have a bedroom here, lol). I'm not trying to find a long-term base right now, so this place feels great for possibly 3-12 months
 ## 5. Shy about being EA-adjacent
-- I remember being shy about being on my computer in a coworking space and people seeing me faffing about with my non-EA shit, like writing in Obsidian or ready tweets or whatever
-- Vs this time, thanks in large part to the "let's all introduce ourselves" presentation session, I got to say "look I'm not really an EA and I feel kinda shy about that but here's the stuff that I'm working on". That plus feeling more like a grounded adult with my own world-view this time feels pretty great
+- I remember being shy about being on my computer in a coworking space and people seeing me faffing about with my non-EA shit, like writing in Obsidian or reading tweets or whatever
+- Vs this time, thanks in large part to the "let's all introduce ourselves" presentation session, I got to say "look I'm not really an EA and I feel kinda shy about that but here's the stuff that I'm working on and care about". 
+- That plus feeling more like a grounded adult with my own world-view this time feels pretty great
 - ![[Monday, third time living at the Effective Altruism hotel-1760969960742.webp]]
 - 👆 *My intro slide*
 # What am I excited about?
@@ -41,3 +42,5 @@
 - Since my first year of uni I've always struggled living with people → I spent a lot of my childhood in a very high conflict household in my bedroom alone, so I never really got the "hanging out with people in a house" thing down. In fact, I realised at uni that I found even just being in the kitchen with someone else to feel unsafe and unpleasant. This has lessened somewhat but is still definitely part of my experience. E.g. at Ship It Week, I'd skirt around the edge of connection, having a quick chat and then moving on, always kind of uncomfortable to join a group, etc.
 ## Long-term base
 - If I lived here for 6+ months, getting to know people more and more over time, working out regularly, working on myself via e.g. Codependents Anonymous and IFS etc, getting mentorship from Attila etc, I think really great things could happen
+## Stability 
+- I can grow and work and etc much easier when I have a bedroom and a place to work that isn't a bedroom and etc. I'm excited to be able to get a stable routine going and be useful - as an enneagram 3, a feeling of competence and usefulness is very important to me 

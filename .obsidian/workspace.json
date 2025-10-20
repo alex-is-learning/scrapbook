@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "must create my own luck",
+                "query": "ready",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,15 +179,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a8ef64162bd0cf5c",
   "lastOpenFiles": [
+    "source/content/🪵 Log per day.md",
+    "source/content/Other/Quick add/Monday, third time living at the Effective Altruism hotel.md",
     "source/content/Other/5. How to think?/Notes/Kegan 4.md",
     "source/content/Other/5. How to think?/Notes/The Kegan 3 to Kegan 4 transition.md",
-    "source/content/Other/Quick add/Monday, third time living at the Effective Altruism hotel.md",
     "source/content/Other/Quick add/Monday, third time living at the Effective Altruism hotel-1760969960742.webp",
     "source/content/📎 Files/Images/misc/Monday, third time living at the Effective Altruism hotel-1760969324500.webp",
     "source/content/Other/5. How to think?/Notes/Questioning Effective Altruism.md",
-    "source/content/🪵 Log per day.md",
     "source/content/1. Creating things/Writings/Poetry with Jonathan.md",
     "source/content/index.md",
     "source/content/1. Creating things/Writings/13. I don't know yet.md",
