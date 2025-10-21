@@ -5,6 +5,7 @@ aliases:
 permalink: home-page
 ---
 - Hi! I'm Alex, this is my digital scrapbook.
+
 - 👋 A chronological view of my digital scrapbook posts → [[🪵 Log per day]] 
 - A chronological view of my life → [[My Eras (index)]]
 

@@ -1,4 +1,5 @@
-[[Alex anthropology (life eras)]]
+- [[Alex anthropology (parent page)]]
+- [[Why all the Alex anthropology bro?]]
 
 - Era 1 – Before school
 - Era 2 – Primary School
