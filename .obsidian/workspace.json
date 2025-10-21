@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2d3f3e0bc85d9374",
+        "id": "0c61093ec300f924",
         "type": "tabs",
         "children": [
           {
-            "id": "ae90f64b552fdb7c",
+            "id": "7854eb92969a3f33",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "source/content/📎 Files/1 - Images/Eras photos/Screenshot 2025-02-08 at 13.44.49.webp"
+                "file": "source/content/5. Alex anthropology/My Eras (index).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-02-08 at 13.44.49"
+              "icon": "lucide-file",
+              "title": "My Eras (index)"
             }
           }
         ]
@@ -93,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/content/5. Alex anthropology/My Eras (index).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for My Eras (index)"
             }
           },
           {
@@ -147,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photos - Scott Pilgrim x Toronto.md",
+                "file": "source/content/5. Alex anthropology/My Eras (index).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Photos - Scott Pilgrim x Toronto"
+              "title": "Outline of My Eras (index)"
             }
           }
         ]
@@ -175,17 +178,36 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "7854eb92969a3f33",
   "lastOpenFiles": [
-    "source/content/📎 Files/1 - Images/Eras photos/Screenshot 2025-02-08 at 13.44.49.webp",
-    "source/content/📎 Files/1 - Images/Eras photos/9DD8F2A9-0913-4828-8A55-194F210B10EA.webp",
-    "source/content/5. Alex anthropology/My Eras (index).md",
-    "source/content/5. Alex anthropology/Eras/Era 22 - \"Deconfusing\" & Rationality Sprint.md",
-    "source/content/5. Alex anthropology/Eras/Era 21 - Making music & youtube videos at my mum's.md",
     "source/content/5. Alex anthropology/Eras/Era 20 - Toronto post-Jhourney retreat (the 5 Ms).md",
+    "source/content/5. Alex anthropology/Eras/Photos by era.md",
+    "Photos from era 20 - Toronto post-Jhourney.md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 20 - Toronto post-Jhourney.md",
     "source/content/5. Alex anthropology/Eras/Era 19 - Arriving in Toronto.md",
     "source/content/5. Alex anthropology/Eras/Photos from era 19 - Toronto pt1.md",
-    "source/content/5. Alex anthropology/Eras/Photos from era 20 - Toronto post-Jhourney.md",
+    "source/content/5. Alex anthropology/Eras/Era 18 - Divine Period (post-Kensho).md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 18 - divine period.md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 17 - Life Itself intentional community.md",
+    "source/content/5. Alex anthropology/Eras/Era 17 - \"Life Itself\" intentional community -> Kensho.md",
+    "source/content/5. Alex anthropology/Eras/Era 16 - Back to Europe, Christmas at home.md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 16 - Europe - 3 Home for xmas.md",
+    "source/content/5. Alex anthropology/Eras/Era 15 - Asia.md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 16 - Europe - 2 Barcelona.md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 16 - Europe - 1 Albania.md",
+    "source/content/5. Alex anthropology/My Eras (index).md",
+    "source/content/🪵 Log per day.md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 15 - Asia - 4 Taipei again.md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 15 - Asia - 3 Bangkok.md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 15 - Asia - 2 Taipei.md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 15 - Asia - 1 Manila.md",
+    "source/content/5. Alex anthropology/Eras/Era 23 - job hunting at my mum's, family therapy.md",
+    "source/content/5. Alex anthropology/Eras/Era 25 - EA Hotel round 3.md",
+    "source/content/5. Alex anthropology/Eras/Era 24 - Spain → Oxford → Germany.md",
+    "source/content/5. Alex anthropology/Eras/Era 22 - EA Hotel round 2 - Rationality Sprint.md",
+    "source/content/5. Alex anthropology/Alex anthropology (life eras).md",
+    "source/content/📎 Files/1 - Images/Eras photos/Screenshot 2025-02-08 at 13.44.49.webp",
+    "source/content/📎 Files/1 - Images/Eras photos/9DD8F2A9-0913-4828-8A55-194F210B10EA.webp",
     "source/content/📎 Files/1 - Images/Eras photos/IMG_0808.webp",
     "source/content/📎 Files/1 - Images/Eras photos/IMG_0911.webp",
     "source/content/📎 Files/1 - Images/Eras photos/IMG_0831.webp",
@@ -194,26 +216,7 @@
     "source/content/📎 Files/1 - Images/Eras photos/IMG_0864.webp",
     "source/content/📎 Files/1 - Images/Eras photos/Screenshot 2025-02-08 at 14.10.19 copy 3.webp",
     "source/content/📎 Files/1 - Images/Eras photos/IMG_0892.webp",
-    "source/content/📎 Files/1 - Images/Eras photos/IMG_0872.webp",
-    "Photos - Scott Pilgrim x Toronto.md",
-    "source/content/5. Alex anthropology/Eras/Era 18 - Divine Period (post-Kensho).md",
-    "source/content/5. Alex anthropology/Eras/Photos from era 18 - divine period.md",
-    "source/content/5. Alex anthropology/Eras/Era 17 - \"Life Itself\" intentional community -> Kensho.md",
-    "source/content/5. Alex anthropology/Eras/Photos from era 17 - Life Itself intentional community.md",
-    "source/content/5. Alex anthropology/Eras/Era 16 - Back to Europe, Christmas at home.md",
-    "source/content/5. Alex anthropology/Eras/photos from era 16 - Europe - 3 Home for xmas.md",
-    "source/content/5. Alex anthropology/Eras/Photos from era 16 - Europe - 2 Barcelona.md",
-    "source/content/5. Alex anthropology/Eras/Photos from era 16 - Europe - 1 Albania.md",
-    "source/content/5. Alex anthropology/Eras/Era 15 - Asia.md",
-    "source/content/5. Alex anthropology/Alex anthropology (life eras).md",
-    "source/content/🪵 Log per day.md",
-    "source/content/5. Alex anthropology/Eras/Photos from era 15 - Asia - 2 Taipei.md",
-    "source/content/5. Alex anthropology/Eras/Photos from era 15 - Asia - 4 Taipei again.md",
-    "source/content/5. Alex anthropology/Eras/Photos from era 15 - Asia - 3 Bangkok.md",
-    "source/content/5. Alex anthropology/Eras/Photos from era 15 - Asia - 1 Manila.md",
-    "source/content/Other/Quick add/hashtag symbol.md",
     "source/content/📎 Files/1 - Images/Eras photos",
-    "Photos from era 15 - Asia - 1 Manila.md",
     "source/content/5. Alex anthropology/Eras",
     "source/content/5. Alex anthropology/untitled folder",
     "source/content/5. Alex anthropology/Notes",
