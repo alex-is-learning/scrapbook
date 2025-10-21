@@ -1,6 +1,6 @@
 - 2025-10-20
 - It's funny being back at the EA Hotel, because in the past I've been a pretty grumpy bastard whilst living here
-# Why so grumpy in the past?
+# (A) Why so grumpy in the past?
 ## 1. ~Dislike of Effective Altruism
 - I discovered the EA movement long before I was an adult (I mean, I feel like I have become a true adult, [[Kegan 4]], in the last like, 4 months, lol)
 - I was ~21, had no idea what to do with my undergrad which I didn't care much about (biomedical sciences), and a friend recommended 80,000 Hours, and as I didn't have a worldview or role models or anything, I pretty much just slotted the EA world-view into my head
@@ -31,7 +31,7 @@
 - That plus feeling more like a grounded adult with my own world-view this time feels pretty great
 - ![[Monday, third time living at the Effective Altruism hotel-1760969960742.webp]]
 - 👆 *My intro slide*
-# What am I excited about?
+# (B) What am I excited about?
 ## Fitness
 - This is a shallow one, but fuck me am I excited to have a gym *in the building* - I want to get the strongest I've ever been, I want to do some weight lifting every day, I want to get into running and get my cardio to a really good place
 	- There's also a really great gym a 10 min walk away with a swimming pool and sauna and even classes etc
@@ -44,5 +44,8 @@
 - If I lived here for 6+ months, getting to know people more and more over time, working out regularly, working on myself via e.g. Codependents Anonymous and IFS etc, getting mentorship from Attila etc, I think really great things could happen
 ## Stability 
 - I can grow and work and etc much easier when I have a bedroom and a place to work that isn't a bedroom and etc. I'm excited to be able to get a stable routine going and be useful - as an enneagram 3, a feeling of competence and usefulness is very important to me 
-# Worries
+# (C) Worries
 - Feeling like an outsider, feeling like not one of the cool kids, feeling like I can't just hang and be chill, are all key things for me, and so far arriving at a place where people already know each other + have some shared context (EA) that I don't really care about, is definitely making this a bit of an issue. I'm hoping it's a skill issue that I can address (e.g. by doing 1:1s, by just *trying* (e.g. by attending board game nights just to *see*, by making things happen that *I* want to happen) etc)
+# (D) Opportunities
+- Perfect playground for noticing aliveness. The nerds (lovingly) are talking about math shit at dinner? Leave or talk to someone else
+- Perfect playground for noticing/cultivating desires, e.g., I can run events/workshops that I want, propose 1:1s, propose film nights, music listening nights, etc etc 
