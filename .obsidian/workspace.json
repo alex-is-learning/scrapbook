@@ -11,12 +11,14 @@
             "id": "5dfe5ab70ab3d9d1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "source/content/📎 Files/1 - Images/visual notes/Screenshot 2025-06-24 at 10.05.11.png"
+                "file": "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Tpot, post-rationalism.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-06-24 at 10.05.11"
+              "icon": "lucide-file",
+              "title": "Tpot, post-rationalism"
             }
           }
         ]
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/📎 Files/1 - Images/visual notes/Screenshot 2025-06-24 at 10.05.11.png",
+                "file": "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Tpot, post-rationalism.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Screenshot 2025-06-24 at 10.05.11"
+              "title": "Backlinks for Tpot, post-rationalism"
             }
           },
           {
@@ -148,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/📎 Files/1 - Images/visual notes/Screenshot 2025-06-24 at 10.05.11.png",
+                "file": "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Tpot, post-rationalism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Screenshot 2025-06-24 at 10.05.11"
+              "title": "Outline of Tpot, post-rationalism"
             }
           }
         ]
@@ -176,8 +178,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "5dfe5ab70ab3d9d1",
   "lastOpenFiles": [
+    "source/content/📎 Files/1 - Images/visual notes/Screenshot 2025-06-24 at 10.05.11.png",
     "source/content/📎 Files/1 - Images/visual notes/1.jpg",
     "source/content/📎 Files/1 - Images/misc/friends-tv-show.webp",
     "source/content/📎 Files/1 - Images/misc/Basic Obsidian guide-1.webp",
@@ -199,7 +202,6 @@
     "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980435.webp",
     "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980433.webp",
     "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980432.webp",
-    "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980431.webp",
     "source/content/2. Connecting with people/Feedback/Feedback, references.md",
     "source/content/3. Improving lived experience/1. Healing/Ideal Parent Figure Protocol is clearly the thing actually.md",
     "source/content/🪵 Log per day.md",
