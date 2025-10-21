@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bd5aa21714a3f6e5",
+        "id": "2d3f3e0bc85d9374",
         "type": "tabs",
         "children": [
           {
-            "id": "5dfe5ab70ab3d9d1",
+            "id": "ae90f64b552fdb7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Tpot, post-rationalism.md",
-                "mode": "source",
-                "source": false
+                "file": "source/content/📎 Files/1 - Images/Eras photos/Screenshot 2025-02-08 at 13.44.49.webp"
               },
-              "icon": "lucide-file",
-              "title": "Tpot, post-rationalism"
+              "icon": "lucide-image",
+              "title": "Screenshot 2025-02-08 at 13.44.49"
             }
           }
         ]
@@ -95,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Tpot, post-rationalism.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tpot, post-rationalism"
+              "title": "Backlinks"
             }
           },
           {
@@ -150,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Tpot, post-rationalism.md",
+                "file": "Photos - Scott Pilgrim x Toronto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tpot, post-rationalism"
+              "title": "Outline of Photos - Scott Pilgrim x Toronto"
             }
           }
         ]
@@ -178,53 +175,53 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5dfe5ab70ab3d9d1",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/📎 Files/1 - Images/visual notes/Screenshot 2025-06-24 at 10.05.11.png",
-    "source/content/📎 Files/1 - Images/visual notes/1.jpg",
-    "source/content/📎 Files/1 - Images/misc/friends-tv-show.webp",
-    "source/content/📎 Files/1 - Images/misc/Basic Obsidian guide-1.webp",
-    "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Paper notebook.md",
-    "source/content/Other/Quick add/What could a return to youtube look like?.md",
-    "source/content/Other/Quick add/Sun 2025-10-05.md",
-    "source/content/1. Creating things/3. Misc notes/Morning pages or something, 2025-09-02.md",
-    "source/content/Other/Quick add/hashtag symbol.md",
-    "source/content/📎 Files/2 - Audio/ML Episode 2.mp3",
-    "source/content/index.md",
-    "source/content/3. Improving lived experience/1. Healing",
-    "source/content/2. Connecting with people/On connecting with people more.md",
-    "source/content/1. Creating things/Writing more! (Parent page).md",
-    "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980430.webp",
-    "source/content/2. Connecting with people/Feedback/Post-it notes from the hippy retreat.md",
-    "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980452.webp",
-    "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980453.webp",
-    "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980434.webp",
-    "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980435.webp",
-    "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980433.webp",
-    "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980432.webp",
-    "source/content/2. Connecting with people/Feedback/Feedback, references.md",
-    "source/content/3. Improving lived experience/1. Healing/Ideal Parent Figure Protocol is clearly the thing actually.md",
+    "source/content/📎 Files/1 - Images/Eras photos/Screenshot 2025-02-08 at 13.44.49.webp",
+    "source/content/📎 Files/1 - Images/Eras photos/9DD8F2A9-0913-4828-8A55-194F210B10EA.webp",
+    "source/content/5. Alex anthropology/My Eras (index).md",
+    "source/content/5. Alex anthropology/Eras/Era 22 - \"Deconfusing\" & Rationality Sprint.md",
+    "source/content/5. Alex anthropology/Eras/Era 21 - Making music & youtube videos at my mum's.md",
+    "source/content/5. Alex anthropology/Eras/Era 20 - Toronto post-Jhourney retreat (the 5 Ms).md",
+    "source/content/5. Alex anthropology/Eras/Era 19 - Arriving in Toronto.md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 19 - Toronto pt1.md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 20 - Toronto post-Jhourney.md",
+    "source/content/📎 Files/1 - Images/Eras photos/IMG_0808.webp",
+    "source/content/📎 Files/1 - Images/Eras photos/IMG_0911.webp",
+    "source/content/📎 Files/1 - Images/Eras photos/IMG_0831.webp",
+    "source/content/📎 Files/1 - Images/Eras photos/IMG_0840.webp",
+    "source/content/📎 Files/1 - Images/Eras photos/IMG_0857.webp",
+    "source/content/📎 Files/1 - Images/Eras photos/IMG_0864.webp",
+    "source/content/📎 Files/1 - Images/Eras photos/Screenshot 2025-02-08 at 14.10.19 copy 3.webp",
+    "source/content/📎 Files/1 - Images/Eras photos/IMG_0892.webp",
+    "source/content/📎 Files/1 - Images/Eras photos/IMG_0872.webp",
+    "Photos - Scott Pilgrim x Toronto.md",
+    "source/content/5. Alex anthropology/Eras/Era 18 - Divine Period (post-Kensho).md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 18 - divine period.md",
+    "source/content/5. Alex anthropology/Eras/Era 17 - \"Life Itself\" intentional community -> Kensho.md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 17 - Life Itself intentional community.md",
+    "source/content/5. Alex anthropology/Eras/Era 16 - Back to Europe, Christmas at home.md",
+    "source/content/5. Alex anthropology/Eras/photos from era 16 - Europe - 3 Home for xmas.md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 16 - Europe - 2 Barcelona.md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 16 - Europe - 1 Albania.md",
+    "source/content/5. Alex anthropology/Eras/Era 15 - Asia.md",
+    "source/content/5. Alex anthropology/Alex anthropology (life eras).md",
     "source/content/🪵 Log per day.md",
-    "Ideal parent figure protocol.md",
-    "source/content/2. Connecting with people/Misc notes/Monday, third time living at the Effective Altruism hotel.md",
-    "source/content/4. Thinking/Misc notes/Kegan 4.md",
-    "source/content/4. Thinking/Misc notes/The Kegan 3 to Kegan 4 transition.md",
-    "source/content/4. Thinking/Misc notes/Questioning Effective Altruism.md",
-    "source/content/1. Creating things/1. Writings/Poetry with Jonathan.md",
-    "source/content/1. Creating things/1. Writings/13. I don't know yet.md",
-    "source/content/1. Creating things/1. Writings/Writing - vignettes.md",
-    "source/content/1. Creating things/1. Writings/12. Misery.md",
-    "source/content/1. Creating things/Creating things (parent page).md",
-    "source/content/1. Creating things/3. Misc notes/Archiving older things.md",
-    "source/content/2. Connecting with people/Misc notes/Nihilism slash dissociation at the hippy retreat.md",
-    "source/content/4. Thinking/Misc notes/08. Enneagram 3 thinking sins.md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 15 - Asia - 2 Taipei.md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 15 - Asia - 4 Taipei again.md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 15 - Asia - 3 Bangkok.md",
+    "source/content/5. Alex anthropology/Eras/Photos from era 15 - Asia - 1 Manila.md",
+    "source/content/Other/Quick add/hashtag symbol.md",
+    "source/content/📎 Files/1 - Images/Eras photos",
+    "Photos from era 15 - Asia - 1 Manila.md",
+    "source/content/5. Alex anthropology/Eras",
+    "source/content/5. Alex anthropology/untitled folder",
+    "source/content/5. Alex anthropology/Notes",
+    "source/content/5. Alex anthropology",
+    "source/content/📎 Files/2 - Audio/ML Episode 2.mp3",
+    "source/content/3. Improving lived experience/1. Healing",
     "source/content/1. Creating things/z Archived creations",
     "source/content/Other",
-    "source/content/1. Creating things/2. Creating music/fade-to-memory.m4a",
-    "source/content/📎 Files/2 - Audio/next last cigarette first draft.mp3",
-    "source/content/📎 Files/2 - Audio/Voice notes/signal-2025-09-10-200428.mp3",
-    "source/content/1. Creating things/2. Creating music/golden line.mp3",
-    "source/content/1. Creating things/2. Creating music",
-    "source/content/📎 Files/2 - Audio/Songs/cornflakes-song.m4a"
+    "source/content/1. Creating things/2. Creating music/fade-to-memory.m4a"
   ]
 }
