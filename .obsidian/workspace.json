@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "bd5aa21714a3f6e5",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "5dfe5ab70ab3d9d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "source/content/index.md",
-                "mode": "source",
-                "source": false
+                "file": "source/content/📎 Files/1 - Images/visual notes/Screenshot 2025-06-24 at 10.05.11.png"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "Screenshot 2025-06-24 at 10.05.11"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.50390243530273
+    "width": 488.5
   },
   "right": {
     "id": "adfdf894a6d1d9c7",
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/📎 Files/1 - Images/visual notes/Screenshot 2025-06-24 at 10.05.11.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Screenshot 2025-06-24 at 10.05.11"
             }
           },
           {
@@ -150,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/📎 Files/1 - Images/visual notes/Screenshot 2025-06-24 at 10.05.11.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Screenshot 2025-06-24 at 10.05.11"
             }
           }
         ]
@@ -178,52 +176,53 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/Other/Quick add/Ideal Parent Figure Protocol is clearly the thing actually.md",
-    "source/content/🪵 Log per day.md",
-    "source/content/📎 Files/Images/misc/Ideal Parent Figure Protocol is clearly the thing actually-1761038717833.webp",
-    "source/content/📎 Files/Images/misc/Ideal Parent Figure Protocol is clearly the thing actually-1761038448669.webp",
-    "Ideal parent figure protocol.md",
-    "source/content/Other/Quick add/Monday, third time living at the Effective Altruism hotel.md",
-    "source/content/Other/5. How to think?/Notes/Kegan 4.md",
-    "source/content/Other/5. How to think?/Notes/The Kegan 3 to Kegan 4 transition.md",
-    "source/content/Other/Quick add/Monday, third time living at the Effective Altruism hotel-1760969960742.webp",
-    "source/content/📎 Files/Images/misc/Monday, third time living at the Effective Altruism hotel-1760969324500.webp",
-    "source/content/Other/5. How to think?/Notes/Questioning Effective Altruism.md",
-    "source/content/1. Creating things/Writings/Poetry with Jonathan.md",
-    "source/content/index.md",
-    "source/content/1. Creating things/Writings/13. I don't know yet.md",
-    "source/content/1. Creating things/Writings/Writing - vignettes.md",
-    "source/content/1. Creating things/Writings/12. Misery.md",
-    "source/content/1. Creating things/Writing more! (Parent page).md",
-    "source/content/1. Creating things/Creating things (parent page).md",
-    "source/content/1. Creating things/Notes/Archiving older things.md",
-    "source/content/Other/Quick add/Nihilism slash dissociation at the hippy retreat.md",
-    "source/content/📎 Files/Images/misc/Nihilism, dissociation-1760099063095.webp",
-    "source/content/Other/5. How to think?/Notes/08. Enneagram 3 thinking sins.md",
-    "source/content/Other/Quick add/Following aliveness.md",
-    "source/content/📎 Files/Images/misc/Following aliveness-1759766245599.webp",
-    "source/content/Other/5. How to think?/Notes/Useful concepts and mental models (parent page).md",
-    "source/content/Other/5. How to think?/What does it mean to be in ORI?/ORI idea - Destigmatise being dumb.md",
-    "idk dude.md",
+    "source/content/📎 Files/1 - Images/visual notes/1.jpg",
+    "source/content/📎 Files/1 - Images/misc/friends-tv-show.webp",
+    "source/content/📎 Files/1 - Images/misc/Basic Obsidian guide-1.webp",
+    "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Paper notebook.md",
+    "source/content/Other/Quick add/What could a return to youtube look like?.md",
     "source/content/Other/Quick add/Sun 2025-10-05.md",
-    "source/content/Other/Quick add/Back to writing daily - quick Berlin retrospective and where I'm at now.md",
-    "Good tweets.md",
-    "source/content/📎 Files/Images/misc/Back to writing daily-1759591273885.webp",
-    "idk yet.md",
-    "source/content/📎 Files/Images/misc/Paper journalling is better, actually (2023-07-07)-1757873808442.webp",
+    "source/content/1. Creating things/3. Misc notes/Morning pages or something, 2025-09-02.md",
+    "source/content/Other/Quick add/hashtag symbol.md",
+    "source/content/📎 Files/2 - Audio/ML Episode 2.mp3",
+    "source/content/index.md",
+    "source/content/3. Improving lived experience/1. Healing",
+    "source/content/2. Connecting with people/On connecting with people more.md",
+    "source/content/1. Creating things/Writing more! (Parent page).md",
+    "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980430.webp",
+    "source/content/2. Connecting with people/Feedback/Post-it notes from the hippy retreat.md",
+    "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980452.webp",
+    "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980453.webp",
+    "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980434.webp",
+    "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980435.webp",
+    "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980433.webp",
+    "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980432.webp",
+    "source/content/📎 Files/1 - Images/misc/Post-it notes from the hippy retreat-1761039980431.webp",
+    "source/content/2. Connecting with people/Feedback/Feedback, references.md",
+    "source/content/3. Improving lived experience/1. Healing/Ideal Parent Figure Protocol is clearly the thing actually.md",
+    "source/content/🪵 Log per day.md",
+    "Ideal parent figure protocol.md",
+    "source/content/2. Connecting with people/Misc notes/Monday, third time living at the Effective Altruism hotel.md",
+    "source/content/4. Thinking/Misc notes/Kegan 4.md",
+    "source/content/4. Thinking/Misc notes/The Kegan 3 to Kegan 4 transition.md",
+    "source/content/4. Thinking/Misc notes/Questioning Effective Altruism.md",
+    "source/content/1. Creating things/1. Writings/Poetry with Jonathan.md",
+    "source/content/1. Creating things/1. Writings/13. I don't know yet.md",
+    "source/content/1. Creating things/1. Writings/Writing - vignettes.md",
+    "source/content/1. Creating things/1. Writings/12. Misery.md",
+    "source/content/1. Creating things/Creating things (parent page).md",
+    "source/content/1. Creating things/3. Misc notes/Archiving older things.md",
+    "source/content/2. Connecting with people/Misc notes/Nihilism slash dissociation at the hippy retreat.md",
+    "source/content/4. Thinking/Misc notes/08. Enneagram 3 thinking sins.md",
     "source/content/1. Creating things/z Archived creations",
-    "source/content/📎 Files/Images/misc/No consensus to write anymore! (2023-11-02)-1757874565026.webp",
-    "source/content/📎 Files/Images/misc/Launching consensus-ism coaching! (2024-06-06)-1757874588620.webp",
     "source/content/Other",
-    "source/content/1. Creating things/Creating music/fade-to-memory.m4a",
-    "source/content/📎 Files/mp3s/next last cigarette first draft.mp3",
-    "source/content/📎 Files/Voice notes/signal-2025-09-10-200428.mp3",
-    "source/content/1. Creating things/Creating music/golden line.mp3",
-    "source/content/1. Creating things/Creating music",
-    "source/content/📎 Files/Songs/cornflakes-song.m4a",
-    "source/content/📎 Files/Songs/voicenote2025-09-08.m4a",
-    "source/content/📎 Files/Songs/2025-09-08 trip hop drums.mp3"
+    "source/content/1. Creating things/2. Creating music/fade-to-memory.m4a",
+    "source/content/📎 Files/2 - Audio/next last cigarette first draft.mp3",
+    "source/content/📎 Files/2 - Audio/Voice notes/signal-2025-09-10-200428.mp3",
+    "source/content/1. Creating things/2. Creating music/golden line.mp3",
+    "source/content/1. Creating things/2. Creating music",
+    "source/content/📎 Files/2 - Audio/Songs/cornflakes-song.m4a"
   ]
 }

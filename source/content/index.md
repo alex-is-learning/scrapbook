@@ -15,4 +15,5 @@ permalink: home-page
 - Also, sometimes I write [[Writing - vignettes|vignettes]] here!
 	- My favourites so far are [[01. To be a boomer|to be a boomer]], [[02. Don't be overwhelmed!|don't be overwhelmed]], [[06. Cornflakes|cornflakes]] and [[07. Travel day|travel day]]
 
+- [[Creating things (parent page)]]
 - [[How to make a website like this]]
