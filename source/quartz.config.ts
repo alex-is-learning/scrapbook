@@ -68,12 +68,11 @@ const config: QuartzConfig = {
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
+      Plugin.HardLineBreaks(), // Enables single line breaks
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
-      Plugin.HardLineBreaks(), // Adding this line 2025-08-07
-
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
