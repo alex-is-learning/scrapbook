@@ -3,6 +3,8 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 ## 05. October 2025
+- Wed 2025-10-22
+	- [[End-of-day Slack messages]]
 - Tue 2025-10-21
 	- [[Ideal Parent Figure Protocol is clearly the thing actually]]
 	- [[Alex anthropology (parent page)]]

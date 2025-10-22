@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/5. Alex anthropology/Notes/End-of-day Slack messages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "End-of-day Slack messages"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/5. Alex anthropology/Notes/End-of-day Slack messages.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for End-of-day Slack messages"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/5. Alex anthropology/Notes/End-of-day Slack messages.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of End-of-day Slack messages"
             }
           }
         ]
@@ -180,6 +180,9 @@
   },
   "active": "69657260c444e2e1",
   "lastOpenFiles": [
+    "source/content/🪵 Log per day.md",
+    "source/content/5. Alex anthropology/Notes/End-of-day Slack messages.md",
+    "source/content/index.md",
     "source/index.d.ts",
     "source/quartz.config.ts.sb-92c95949-4iiYyy",
     "source/content/5. Alex anthropology/Eras/Return to Taipei.md",
@@ -193,7 +196,6 @@
     "source/content/5. Alex anthropology/Eras/Tirana, Albania.md",
     "source/content/5. Alex anthropology/My Eras (index).md",
     "source/content/5. Alex anthropology/Alex anthropology (parent page).md",
-    "source/content/🪵 Log per day.md",
     "source/content/5. Alex anthropology/Eras/Era 15 - Asia.md",
     "source/content/5. Alex anthropology/Eras/Bangkok, Thailand.md",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Why all the Alex anthropology bro?.md",
@@ -201,7 +203,6 @@
     "source/content/5. Alex anthropology/Eras/Taipei, Taiwan.md",
     "source/content/5. Alex anthropology/Eras/Manila, The Philippines.md",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)",
-    "source/content/index.md",
     "Photos by era.md",
     "source/content/5. Alex anthropology/Eras/Era 20 - Toronto post-Jhourney retreat (the 5 Ms).md",
     "source/content/5. Alex anthropology/Eras/Photos by era.md",
@@ -224,7 +225,6 @@
     "source/content/5. Alex anthropology/Notes",
     "source/content/5. Alex anthropology",
     "source/content/📎 Files/2 - Audio/ML Episode 2.mp3",
-    "source/content/3. Improving lived experience/1. Healing",
-    "source/content/1. Creating things/z Archived creations"
+    "source/content/3. Improving lived experience/1. Healing"
   ]
 }
