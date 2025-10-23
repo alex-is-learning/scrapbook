@@ -3,8 +3,10 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 ## 05. October 2025
+- Thur 2025-10-23
+	- [[Do I want to do a call with Happier?]]
 - Wed 2025-10-22
-	- [[End-of-day Slack messages]]
+	- [[Daily standups & end-of-day reviews]]
 - Tue 2025-10-21
 	- [[Ideal Parent Figure Protocol is clearly the thing actually]]
 	- [[Alex anthropology (parent page)]]

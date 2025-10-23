@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/5. Alex anthropology/Notes/End-of-day Slack messages.md",
+                "file": "source/content/3. Improving lived experience/Making money/Notes/Money is a solved issue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "End-of-day Slack messages"
+              "title": "Money is a solved issue"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/5. Alex anthropology/Notes/End-of-day Slack messages.md",
+                "file": "source/content/3. Improving lived experience/Making money/Notes/Money is a solved issue.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for End-of-day Slack messages"
+              "title": "Backlinks for Money is a solved issue"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/5. Alex anthropology/Notes/End-of-day Slack messages.md",
+                "file": "source/content/3. Improving lived experience/Making money/Notes/Money is a solved issue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of End-of-day Slack messages"
+              "title": "Outline of Money is a solved issue"
             }
           }
         ]
@@ -178,10 +178,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "69657260c444e2e1",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "README.md",
+    "source/content/📎 Files/1 - Images/misc/image-1.webp",
+    "source/content/3. Improving lived experience/Making money/Notes/Do I want to do a call with Happier?.md",
+    "source/content/4. Thinking/Misc notes/Care is the number 1 thing.md",
+    "source/content/📎 Files/1 - Images/misc/Care is the number 1 thing-1761233263534.webp",
+    "source/content/3. Improving lived experience/Making money/Notes/Money is a solved issue.md",
+    "source/content/📎 Files/1 - Images/misc/image.webp",
+    "source/content/4. Thinking/Misc notes/Wyrd.md",
     "source/content/🪵 Log per day.md",
-    "source/content/5. Alex anthropology/Notes/End-of-day Slack messages.md",
+    "source/content/5. Alex anthropology/Notes/Daily standups & end-of-day reviews.md",
     "source/content/index.md",
     "source/index.d.ts",
     "source/quartz.config.ts.sb-92c95949-4iiYyy",
@@ -204,11 +212,6 @@
     "source/content/5. Alex anthropology/Eras/Manila, The Philippines.md",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)",
     "Photos by era.md",
-    "source/content/5. Alex anthropology/Eras/Era 20 - Toronto post-Jhourney retreat (the 5 Ms).md",
-    "source/content/5. Alex anthropology/Eras/Photos by era.md",
-    "Photos from era 20 - Toronto post-Jhourney.md",
-    "source/content/5. Alex anthropology/Eras/Photos from era 20 - Toronto post-Jhourney.md",
-    "source/content/5. Alex anthropology/Eras/Photos from era 19 - Toronto pt1.md",
     "source/content/📎 Files/1 - Images/Eras photos/Screenshot 2025-02-08 at 13.44.49.webp",
     "source/content/📎 Files/1 - Images/Eras photos/9DD8F2A9-0913-4828-8A55-194F210B10EA.webp",
     "source/content/📎 Files/1 - Images/Eras photos/IMG_0808.webp",
@@ -216,9 +219,6 @@
     "source/content/📎 Files/1 - Images/Eras photos/IMG_0831.webp",
     "source/content/📎 Files/1 - Images/Eras photos/IMG_0840.webp",
     "source/content/📎 Files/1 - Images/Eras photos/IMG_0857.webp",
-    "source/content/📎 Files/1 - Images/Eras photos/IMG_0864.webp",
-    "source/content/📎 Files/1 - Images/Eras photos/Screenshot 2025-02-08 at 14.10.19 copy 3.webp",
-    "source/content/📎 Files/1 - Images/Eras photos/IMG_0892.webp",
     "source/content/📎 Files/1 - Images/Eras photos",
     "source/content/5. Alex anthropology/Eras",
     "source/content/5. Alex anthropology/untitled folder",
