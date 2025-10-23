@@ -1,7 +1,7 @@
 - A friend has set me up with a possible role, and I have a call with the co-founder in 2.5 hours (unless I cancel, which I do kinda want to do, hence writing this)
 	- Their product manager is going on maternity leave so they're looking for support to fill in the gaps whilst she's out
 	- I did all the user-facing stuff at Refract (finding users, talking with and supporting them, bringing all the insight back) and a bunch of other work
-- I have some vague context on what they're working from, but more vibes and what my friend is excited about, rather than the exact shape of what they're building
+- I have some vague context on what they're working on, but more vibes and what my friend is excited about, rather than the exact shape of what they're building
 # 1. What are they working on?
 ## Who are they?
 - https://www.meditatehappier.com/
@@ -22,7 +22,7 @@
 ## I'm not excited by meditation apps
 - I'm not a user of meditation apps. I've used Headspace and Waking Up in the past and I just don't like/care about them
 - Even if they build an AI guide that helps get people to deeper states... idk, I'm just not that excited about apps atm. It feels to me like it's not my path (unlike my friend, who is a very good software engineer, so it makes absolute sense for him). Something that I've been deepening into recently is this feeling that everything good in my life has been relational, through talking to/meeting amazing people. I want to further that path, rather than joining the "apps are the way" path, you know?
-## Non-wyrd
+## Non-wyrd ([[Wyrd]])
   - Maybe I should have a call just to learn more about what they're building, but my current feeling is a fairly big "no", which I'd be surprised if it changed
   - When I worked for Refract, I really *wanted* to work at a startup, I was really excited about IFS, so I had consensus to do it. This time, I have no extant interest in (what it seems like) what they're working on, I'm much more... if anything, I'm much more 1:1 help-pilled - the idea of working on an app doesn't feel like The Way to me at all 
 ## Other opportunities
@@ -48,8 +48,7 @@
 - Probably a great team, well-running org
 ## I love saying no
 - It feels baller as hell to turn down possibly *good* opportunities, because there's a strong intuition that they aren't perfect/totally aligned/totally wyrd
-- This feels like an unnecessary detour. It probably pays well, but I won't be derailed by bullshit like money, I don't need it right now! Everything is going well 😎 
-- It also feels pretty baller turning down a call with a co-founder because it's not alive. In the past I had much more of a sense of like "I am an empty vessel with no plans I am I just thrilled to be considered", etc, and in the last few months I've really felt much more Kegan 4 and selective, which I'm loving (although it's definitely disorienting!)
+- This feels like an unnecessary detour. It probably pays well, but I won't be derailed by bullshit like money, I don't need it right now! Everything is going well 😎 - It also feels pretty baller turning down a call with a co-founder because it's not alive. In the past I had much more of a sense of like "I am an empty vessel with no plans I am I just thrilled to be considered", etc, and in the last few months I've really felt much more Kegan 4 and selective, which I'm loving (although it's definitely disorienting!)
 	- [[The Kegan 3 to Kegan 4 transition]]
 
 ---

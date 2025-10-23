@@ -4,6 +4,7 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 ## 05. October 2025
 - Thur 2025-10-23
+	- [[What is Circling and why do I like it?]]
 	- [[Do I want to do a call with Happier?]]
 - Wed 2025-10-22
 	- [[Daily standups & end-of-day reviews]]

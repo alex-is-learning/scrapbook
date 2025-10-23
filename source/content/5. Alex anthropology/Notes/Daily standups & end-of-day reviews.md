@@ -8,6 +8,10 @@
 2. Prepare to run authentic relating workshop
 3. Figure out if I want to talk with team member of "Happier" (meditation app) about part-time work for them (call clashes with AR workshop and doesn't feel super alive, but could be worth a call)
 4. Message 3 more people re: doing 1:1s at EA hotel to get to know them more
+
+Turned down a call with a CoDA person which felt good, didn't believe his logic, didn't endorse it.
+
+
 ### Wed 2025-10-22
 #### End-of-day
 - Got up at 10am, no alarm, felt good

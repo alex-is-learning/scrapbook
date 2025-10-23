@@ -1,0 +1,16 @@
+- 2025-10-23
+- I just led my first ever [Circling](https://www.artemzen.com/what-is-circling/) session! 
+	- *"Led" is a strong word because you know, surrendered leadership, there's not actually much to do, etc. But, I created the container, introduced it, explained it well (got good feedback on this) etc, so let's not be too minimising right dude*
+- At first I was kinda struggling to describe what it *is* in a way that a) is legible to Effective Altruists b) that actually gets across any kind of profundity, because I do think it's somewhat profound and great, but I was struggling to... remember why
+# 1. How I described it initially
+- It's a relational practice where you talk about how your experience is in this present moment
+- You can use sentence stems like "I am noticing `_`", or "there's a feeling of `_`" etc
+- The aim is to avoid narrative → a common failure mode is people getting cerebral and in storytelling mode in such a way that they're no longer with their present experience
+- One reason it's good is because it can be easily (especially in rationalist/EA spaces) to live "from the head", from the narrative layer, theory and cognition etc. So, it's a relational practice to get in touch with what is happening in your present moment experience
+# 2. What I discovered during the session re: why it's good
+- So I (re)discovered some things that actually probably wouldn't have made sense to share up top
+- E.g., one really cool thing that happens in Circling (I'm realising now) is that we share more ==vulnerable== things about our experience, our lives, how we experience the world, in such a way that we ==humanise== ourselves to others, by showing sides of ourselves that they wouldn't expect: insecurities, triggers, weird quirks and silly beliefs, stories about others that are actually based on things like bad first impressions and misunderstandings, etc
+- As such, we get to see that the other people around us are ==charmingly, relatably flawed== and silly just like we are, and they get to see that about us. "Oh, that helps me understand you more", "I'm really surprised hearing that you often feel that way, because to me you seem so the opposite of that", "oh wow, this person also feels insecure around people, judgemental, inferior, superior", etc
+- So yeah, it's humanising, it's ==connection-creating== ("oh shit, now I understand a bit more about how you experience the world", "oh wow, we both feel this same fear around x", "huh, now I know that you have this trigger that I've never experienced before, and that makes me feel empathetic towards you")
+- There's also a nice feeling of, and I experienced this recently in Berlin too, of ==triggering each other== somewhat ("when you say x about how I said y, it makes me feel judged, and I notice some fear in my system") followed by ==soothing/looking after each other== ("I just want to explicitly say that I don't feel that you're bad for xyz"). 
+- So, it can be a really great ==mirror/place for insights==, like "oh shit yeah this feeling is normally in the background and kind of a transparent part of my experience in a kind of 'fish not noticing water' type way, and now I'm noticing it and talking about it with people, and getting insights" etc
