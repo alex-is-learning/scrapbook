@@ -49,3 +49,20 @@
 ## I love saying no
 - It feels baller as hell to turn down possibly *good* opportunities, because there's a strong intuition that they aren't perfect/totally aligned/totally wyrd
 - This feels like an unnecessary detour. It probably pays well, but I won't be derailed by bullshit like money, I don't need it right now! Everything is going well 😎 
+- It also feels pretty baller turning down a call with a co-founder because it's not alive. In the past I had much more of a sense of like "I am an empty vessel with no plans I am I just thrilled to be considered", etc, and in the last few months I've really felt much more Kegan 4 and selective, which I'm loving (although it's definitely disorienting!)
+	- [[The Kegan 3 to Kegan 4 transition]]
+
+---
+
+# I said no
+
+Hey `_`,  
+  
+I've been with a sense of this not feeling like a totally aligned/alive opportunity for a few days, and I've only just got around to properly sitting with it, and I think I'm going to save us both the time and cancel our call, apologies for doing this last minute!  
+  
+(Of course, I don't actually know much about what `_` is working on apart from what we chatted about in a Berlin cafe, but I have a strong sense that remote work and meditation apps are not my path)  
+  
+Wishing you guys luck with everything!  
+  
+Best,  
+Alex
