@@ -106,3 +106,58 @@
 ### 8 - Childhood bedroom unlock via IFS
 - ![[Should I intentionally tweet better_ 2025-10-24-1761330706921.webp]]
 	- https://x.com/alexislearning/status/1978478286922801369
+## Has anyone written guides on how to tweet better?
+- After checking out the below links, I can't find anything that isn't just aimed at beginners who are just starting out!
+
+- [Christine's guide to twitter](https://docs.google.com/document/d/1Bd3PfKDL9pOM7YoxGbRBwO_qOWh6B7u5170Xw8VyK6s/edit?tab=t.0)
+- [Tasshin’s Guide to Twitter](https://tasshin.com/blog/a-guide-to-twitter/)
+### Visa's 3 types of tweeting
+- From [here](https://x.com/visakanv/status/1266263384195862529)
+- Friendly → "where are my people!", shitposting
+- Ambitious → "what can I accomplish?", sermonposting
+- Nerd → "I want to know!", nerdposting
+
+- [Visa: Make Friends](http://www.visakanv.com/blog/make-friends/)
+- [Visa: Practice Good Reply Game](https://twitter.com/visakanv/status/1039420186586038273?s=20&t=Tmxe63ML0mpUFm59z2J4qg)
+- [Otis’s guide to tpot](https://itsallme.substack.com/p/17d914f9-8f2c-4303-8543-78a3dfe5f15e?s=w)
+## Looking at other people's good tweets
+- Can spot patterns & get inspo by looking at some people I like
+- [Guide to tpot slideshow I made in idk Jan 2024 to showcase some tweets I really like](https://docs.google.com/presentation/d/1GORGyGXHnXKg16J26YqxxMr8TqTzxxVzUcpJZWUAxuI/edit?slide=id.p#slide=id.p)
+### Brooke
+- ![[Should I intentionally tweet better_ 2025-10-24-1761333863983.webp]]
+- ![[Should I intentionally tweet better_ 2025-10-24-1761333873283.webp]]
+- ![[Should I intentionally tweet better_ 2025-10-24-1761333888987.webp]]
+- ![[Should I intentionally tweet better_ 2025-10-24-1761333906395.webp]]
+- ![[Should I intentionally tweet better_ 2025-10-24-1761333926305.webp]]
+- ![[Should I intentionally tweet better_ 2025-10-24-1761333949931.webp]]
+### Jess
+- ![[Should I intentionally tweet better_ 2025-10-24-1761334046614.webp]]
+- ![[Should I intentionally tweet better_ 2025-10-24-1761334104520.webp]]
+- ![[Should I intentionally tweet better_ 2025-10-24-1761334239539.webp]]
+- ![[Should I intentionally tweet better_ 2025-10-24-1761334273094.webp]]
+### Sasha
+- Fucker deleted his twitter again I guess? To the [slide deck](https://docs.google.com/presentation/d/1GORGyGXHnXKg16J26YqxxMr8TqTzxxVzUcpJZWUAxuI/edit?slide=id.g2b62214df14_2_0#slide=id.g2b62214df14_2_0)!
+- ![[Should I intentionally tweet better_ 2025-10-24-1761334905804.webp]]
+- ![[Should I intentionally tweet better_ 2025-10-24-1761334913742.webp]]
+- ![[Should I intentionally tweet better_ 2025-10-24-1761334924071.webp]]
+-  ![[Should I intentionally tweet better_ 2025-10-24-1761334950178.webp]]
+### Maebe
+- ![[Should I intentionally tweet better_ 2025-10-24-1761334367809.webp]]
+- ![[Should I intentionally tweet better_ 2025-10-24-1761334426267.webp]]
+- ![[Should I intentionally tweet better_ 2025-10-24-1761334456282.webp]]
+### Brent
+- ![[Should I intentionally tweet better_ 2025-10-24-1761334792630.webp]]
+- ![[Should I intentionally tweet better_ 2025-10-24-1761334833337.webp]]
+### Simon
+- ![[Should I intentionally tweet better_ 2025-10-24-1761334749982.webp]]
+
+### Jono
+- ![[Should I intentionally tweet better_ 2025-10-24-1761334521951.webp]]
+- ![[Should I intentionally tweet better_ 2025-10-24-1761334532048.webp]]
+- ![[Should I intentionally tweet better_ 2025-10-24-1761334611786.webp]]
+- ![[Should I intentionally tweet better_ 2025-10-24-1761334638846.webp]]
+### Rich
+- ![[Should I intentionally tweet better_ 2025-10-24-1761335074807.webp]]
+# Ok what I have learned from looking at all these good tweets
+- Have interesting ideas and communicate them well
+- Lol
