@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Should I intentionally tweet better? 2025-10-24"
             }
+          },
+          {
+            "id": "df466fba71364c1f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761330596327.webp"
+              },
+              "icon": "lucide-image",
+              "title": "Should I intentionally tweet better_ 2025-10-24-1761330596327"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Should I intentionally tweet better? 2025-10-24.md",
+                "file": "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761330596327.webp",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Should I intentionally tweet better? 2025-10-24"
+              "title": "Backlinks for Should I intentionally tweet better_ 2025-10-24-1761330596327"
             }
           },
           {
@@ -150,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Should I intentionally tweet better? 2025-10-24.md",
+                "file": "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761330596327.webp",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Should I intentionally tweet better? 2025-10-24"
+              "title": "Outline of Should I intentionally tweet better_ 2025-10-24-1761330596327"
             }
           }
         ]
@@ -178,20 +191,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "69657260c444e2e1",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Tpot, post-rationalism.md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Should I intentionally tweet better? 2025-10-24.md",
+    "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761330764446.webp",
+    "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761330738030.webp",
+    "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761330719565.webp",
+    "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761330706921.webp",
+    "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761330670106.webp",
+    "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761330645119.webp",
+    "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761330611579.webp",
+    "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761330596327.webp",
     "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761330239181.webp",
     "source/content/📎 Files/1 - Images/misc/Should I intentionally be better at tweeting etc_ 2025-10-24-1761329300088.webp",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Should I intentionally tweet better? 2025-10-24.md",
-    "source/content/📎 Files/1 - Images/misc/Should I intentionally be better at tweeting etc_ 2025-10-24-1761330025997.webp",
-    "source/content/📎 Files/1 - Images/misc/Should I intentionally be better at tweeting etc_ 2025-10-24-1761329995428.webp",
-    "source/content/📎 Files/1 - Images/misc/Should I intentionally be better at tweeting etc_ 2025-10-24-1761329977944.webp",
-    "source/content/📎 Files/1 - Images/misc/Should I intentionally be better at tweeting etc_ 2025-10-24-1761329963397.webp",
-    "source/content/📎 Files/1 - Images/misc/Should I intentionally be better at tweeting etc_ 2025-10-24-1761329937582.webp",
-    "source/content/📎 Files/1 - Images/misc/Should I intentionally be better at tweeting etc_ 2025-10-24-1761329922972.webp",
-    "source/content/📎 Files/1 - Images/misc/Should I intentionally be better at tweeting etc_ 2025-10-24-1761329873784.webp",
-    "source/content/📎 Files/1 - Images/misc/Should I intentionally be better at tweeting etc_ 2025-10-24-1761329849846.webp",
-    "source/content/📎 Files/1 - Images/misc/Should I intentionally be better at tweeting etc_ 2025-10-24-1761329838762.webp",
     "source/content/🪵 Log per day.md",
     "source/content/2. Connecting with people/Misc notes/Misc thoughts on living at the EA Hotel 2025-10-24.md",
     "source/content/2. Connecting with people/Misc notes/Nihilism slash dissociation at the hippy retreat.md",

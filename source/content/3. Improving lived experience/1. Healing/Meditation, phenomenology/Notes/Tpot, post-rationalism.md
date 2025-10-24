@@ -10,3 +10,4 @@ permalink: tpot-post-rationalism
 - https://tpot.website/library/
 - [[03. To be a tpot zoomer]]
 - Recent Rich thread on [tpot memes](http://x.com/richdecibels/status/1966173013973586028)
+- [[Should I intentionally tweet better? 2025-10-24]]

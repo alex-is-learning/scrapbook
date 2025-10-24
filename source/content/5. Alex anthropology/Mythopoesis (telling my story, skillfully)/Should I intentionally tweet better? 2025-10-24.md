@@ -33,6 +33,7 @@
 - *Meaning, stuff to do less of*
 ### Don't tweet non-interesting things
 - ![[Should I intentionally be better at tweeting etc_ 2025-10-24-1761329511336.webp]]
+- *There's something in me of like, I wanna honour my experience and tweet lil mundane things like this. But idk, maybe an alt account? Maybe a message to a friend? Maybe just like, write the thought down in an apple note?*
 ### Avoid vagueness
 - ![[Should I intentionally be better at tweeting etc_ 2025-10-24-1761329540045.webp]]
 - 👆 this is a very profound thread for me, but the tweet is vague and shrug-worthy
@@ -40,6 +41,7 @@
 - 👆 This too. Could have been improved by telling a story, reflecting on what life used to be like re: this
 ### Avoid poor wording
 - ![[Should I intentionally tweet better_ 2025-10-24-1761330239181.webp]]
+- 👆 kinda hard to parse, could've been worded in a much more compelling way
 ### Flesh things out
 - ![[Should I intentionally be better at tweeting etc_ 2025-10-24-1761329685122.webp]]
 - 👆 this is a throwaway thought that doesn't tell you anything
@@ -59,3 +61,32 @@
 ## Place to share resources
 - ![[Should I intentionally be better at tweeting etc_ 2025-10-24-1761330025997.webp]]
 - ![[Should I intentionally be better at tweeting etc_ 2025-10-24-1761329873784.webp]]
+
+# Appendix
+## My top tweets as of 2025-10-24
+### 1 - Alternative life history
+- ![[Should I intentionally tweet better_ 2025-10-24-1761330670106.webp]]
+	- https://x.com/alexislearning/status/1980351614209913159
+### 2 - My Substack post that name-drops Sasha Chapin
+
+- ![[Should I intentionally tweet better_ 2025-10-24-1761330645119.webp]]
+	- https://x.com/alexislearning/status/1966526715288564028
+### 3 - Art about tpot
+- ![[Should I intentionally tweet better_ 2025-10-24-1761330764446.webp]]
+	- https://x.com/alexislearning/status/1959341095680164299
+### 4 - Life changing blog post re: learning
+- ![[Should I intentionally tweet better_ 2025-10-24-1761330738030.webp]]
+	- https://x.com/alexislearning/status/1918705808335929609
+### 5 - Dropping people-pleasing
+- ![[Should I intentionally tweet better_ 2025-10-24-1761330719565.webp]]
+	- https://x.com/alexislearning/status/1981418048939557059
+
+### 6 - Touch starvation
+- ![[Should I intentionally tweet better_ 2025-10-24-1761330611579.webp]]
+	- https://x.com/alexislearning/status/1968088372938936467
+### 7 - Wanna be in a relationship
+- ![[Should I intentionally tweet better_ 2025-10-24-1761330596327.webp]]
+	- https://x.com/alexislearning/status/1974568868917199217
+### 8 - Childhood bedroom unlock via IFS
+- ![[Should I intentionally tweet better_ 2025-10-24-1761330706921.webp]]
+	- https://x.com/alexislearning/status/1978478286922801369
