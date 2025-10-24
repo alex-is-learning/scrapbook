@@ -6,7 +6,7 @@
 - 2025-10-23
 	- [[What is Circling and why do I like it?]]
 - 2025-10-20
-	- [[Monday, third time living at the Effective Altruism hotel]]
+	- [[Monday, third time living at the Effective Altruism hotel (2025-10-20)]]
 - Fri 2025-10-10
 	- [[Nihilism slash dissociation at the hippy retreat]]
 - 2025-09-08

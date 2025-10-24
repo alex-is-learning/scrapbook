@@ -13,7 +13,7 @@ permalink: home-page
 
 ---
 
-- My landing page website is https://alexislearning.me/ → this scrapbook is where I do my thinking -  it's a place for scrappy writing that doesn't belong on Substack. 
+- My landing page website is https://alexislearning.me/ → this scrapbook is where I do my thinking -  it's a place for scrappy writing that doesn't belong on my [Substack](https://alexislearning.substack.com/). 
 	- (There's something in me where non-public-facing writing doesn't feel real, hence setting up this site to give me a place to [[Work with the garage door up|think with the garage door up]])
 
 ---

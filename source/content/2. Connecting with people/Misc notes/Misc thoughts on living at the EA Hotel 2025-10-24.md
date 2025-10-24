@@ -1,4 +1,4 @@
-- See also [[Monday, third time living at the Effective Altruism hotel]]
+- See also [[Monday, third time living at the Effective Altruism hotel (2025-10-20)]]
 # On my social needs/desires
 ## Often (always?) I don't want to talk in liminal spaces
 - (This was the case last time too but it mostly made me feel bad about myself, whereas this time I'm trying to just accept it as true)

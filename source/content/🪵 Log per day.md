@@ -15,7 +15,7 @@ permalink: log-per-day
 	- [[Ideal Parent Figure Protocol is clearly the thing actually]]
 	- [[Alex anthropology (parent page)]]
 - Mon 2025-10-20
-	- [[Monday, third time living at the Effective Altruism hotel]]
+	- [[Monday, third time living at the Effective Altruism hotel (2025-10-20)]]
 - 2025-10-17
 	- [[Poetry with Jonathan]]
 - Fri 2025-10-10

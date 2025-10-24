@@ -11,7 +11,7 @@
 	- (The problem here is that Robert Kegan said that ~60% of people never reach adulthood (that is, move beyond Kegan 3), so in the world as it currently is, many EAs may get nerd-sniped by it too early)
 - Being around EAs, I can have the story of "oh god, you've been totalised by this doomsday ideology, this didn't come from you, you're gonna burn out", but actually, a lot of people here are (respectfully) genuine nerds who love maths and love rationality and etc, so actually, EA is a perfect fit for them, and they probably found it very exciting and didn't need to self-coerce to get interested in it, to get interested in AI Safety and etc. Vs I felt like it was something that I *should* care about, and did care about a little bit, but not all the way
 ## 2. The hotel was gross
-- The hotel was cluttered, messy, dusty, bad feng shei (e.g., books piled up haphazardly rather than on bookshelves)
+- The hotel was cluttered, bad feng shui (e.g., books piled up haphazardly rather than on bookshelves)
 - I think that hardcore "rationalists" and Effective Altruists often don't care about aesthetics, because they're "too busy reducing p(doom)" to e.g. clean, declutter, etc. Which you can kind of see the logic in if you squint, but also, it just makes for a unpleasant environment innit
 ### Good news - it's improving rapidly!
 - My friend Attila (who I met last time I was here) is now the executive director, and things have improved a bunch, and I'm very excited about his plan for the place

@@ -36,7 +36,7 @@
 🚨 Goal !!!
 > Aiming for median of 50 likes per tweet, AKA for my tweets to get 5x better
 
-# 3. How do I make my tweets ==5x better==?
+# 3. How do I make my tweets 5x better?
 ## 1. Don't tweet non-interesting things
 - Easy one → don't tweet non-good stuff
 - AKA improve my signal-to-noise ratio
@@ -159,3 +159,6 @@
 # Ok what I have learned from looking at all these good tweets
 - Have interesting ideas and communicate them well
 - Lol
+# Cynical 
+- There's also more kind of cynical intentional stuff that could be done (Brooke Bowman did encourage me to do this kinda stuff lol, although she didn't point at specific things)
+- I can imagine e.g. quote-tweeting more stuff to build on other people's ideas/starting points, resurfacing banger tweets from other people, etc
