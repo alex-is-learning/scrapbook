@@ -1,5 +1,5 @@
 - 2025-10-24
-- I currently have 363 twitter followers, which isn't a lot
+- I currently have 363 twitter followers 
 - I used to have ~750 until I got suspended
 - I've been on a like, "becoming a main character" arc (e.g. [Simon Ohler](https://x.com/simon_ohler) did a speech at his birthday party about this that he said was largely directed at me, lol)
 - (I also have 75 [Substack](https://alexislearning.substack.com/) subscribers, but I don't wanna think about Substack right now)
@@ -15,9 +15,11 @@
 	- 👆 Like I really like this outfit, having a necklace, having an 80/20 beard, lol
 
 - So, taking my twitter seriously feels like a similar thing. It's all fractal versions of the same thing → ==taking myself seriously==, valuing myself highly
-- What's that thing people say of like "the way you do something is the way you do everything". So like, choosing to do twitter well, to be useful and of service and a good presence, to be a useful player who is proudly stepping into their role
+- What's that thing people say of like "the way you do something is the way you do everything".
+	- *ChatGPT tells me that it's "How You Do Anything Is How You Do Everything" - "- It’s frequently labeled a _“Zen proverb,”_ but that’s modern marketing—no clear ancient source."*
+	- "**Annie Dillard**: _“How we spend our days is, of course, how we spend our lives.”
+- So like, choosing to do twitter well, to be useful and of service and a good presence, to be a useful player who is proudly stepping into their role
 - In an aletheia session recently I had this steely determination feeling and this felt sense of being a ==knight, this silver sense of having a mission and a shiny set of armour and a sword etc==
-- 
 # 2. Ok so what should I do? 
 - I have a sense that some pretty small changes could help a lot. E.g., intentionally thinking "how can I flesh out this idea a bit"/"how can I make this more useful/interesting" → that shit is useful for *me* too, which is really what matters more
 ## Auditing my last 50 tweets
