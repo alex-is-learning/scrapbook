@@ -1,6 +1,6 @@
 - 2025-10-24
-- I currently have 363 twitter followers 
-- I used to have ~750 until I got suspended
+- I currently have 363 twitter followers (https://x.com/alexislearning)
+- I used to have ~750 until I got suspended (because they thought I was a bot)
 - I've been on a like, "becoming a main character" arc (e.g. [Simon Ohler](https://x.com/simon_ohler) did a speech at his birthday party about this that he said was largely directed at me, lol)
 - (I also have 75 [Substack](https://alexislearning.substack.com/) subscribers, but I don't wanna think about Substack right now)
 # 1. What's the point in having more twitter followers?
@@ -10,16 +10,14 @@
 	- Ultimately there is a bit of a sense of it actually not mattering all that much...
 - Actually, I think what matters to me is the ==main character== thing of like, *choosing* to step into a bigger role, *choosing* to be more useful and valuable, etc. Like, I don't have to, I can vibe in obscurity, that's totally fine, I'm having a nice time with the following that I currently have. But it'd also be cool to be like "you know what, let's take this a little more seriously". This is actually a thread I'm on more broadly, ==stepping into a bigger role, a bigger story==
 ## Stepping into a bigger story
-- Recently I've started ==dressing better== and it feels like a similar thing somehow. Like, I am stepping into my handsomeness via adding a necklace every day, a gold ring, nice shirts, etc, and it's made me feel better, and it is changing how I show up and am received in the world (legit, cool things have happened as a result of this). 
+- Recently I've started ==dressing better== and it feels like a similar thing somehow. Like, I am stepping into my handsomeness via adding a necklace every day, a gold ring, nice shirts, a nice watch, an ear-ring etc (lol), and it's made me feel pretty swaggy, and it is changing how I show up and am received in the world (legit, cool things have happened as a result of this). 
 - ![[Monday, third time living at the Effective Altruism hotel-1760969324500.webp]]
-	- 👆 Like I really like this outfit, having a necklace, having an 80/20 beard, lol
+	- 👆 Like, I really like this outfit, having a necklace, having an 80/20 beard, lol
 
 - So, taking my twitter seriously feels like a similar thing. It's all fractal versions of the same thing → ==taking myself seriously==, valuing myself highly
 - What's that thing people say of like "the way you do something is the way you do everything".
-	- *ChatGPT tells me that it's "How You Do Anything Is How You Do Everything" - "- It’s frequently labeled a _“Zen proverb,”_ but that’s modern marketing—no clear ancient source."*
-	- "**Annie Dillard**: _“How we spend our days is, of course, how we spend our lives.”
-- So like, choosing to do twitter well, to be useful and of service and a good presence, to be a useful player who is proudly stepping into their role
-- In an aletheia session recently I had this steely determination feeling and this felt sense of being a ==knight, this silver sense of having a mission and a shiny set of armour and a sword etc==
+- So like, choosing to do twitter well, to be useful and of service and a good presence, to be a useful player who is proudly stepping into their role, and also, taking myself seriously as someone who has grown and is on an interesting path etc
+	- *(In an [aletheia](https://integralunfoldment.com/) session recently I had this steely determination feeling and this felt sense of being a ==knight, this silver sense of having a mission and a shiny set of armour and a sword etc==)*
 # 2. Ok so what should I do? 
 - I have a sense that some pretty small changes could help a lot. E.g., intentionally thinking "how can I flesh out this idea a bit"/"how can I make this more useful/interesting" → that shit is useful for *me* too, which is really what matters more
 ## Auditing my last 50 tweets
@@ -29,7 +27,7 @@
 	- Average = ==19== likes per tweet (pulled up by outliers)
 	- Median = ==9== likes per tweet
 ![[Should I intentionally be better at tweeting etc_ 2025-10-24-1761329300088.webp]]
-- I want to aim for my tweets to be 5x as good (median of 50 likes per tweet)
+- I want to aim for my tweets to be ==5x as good== (median of 50 likes per tweet)
 	- That's kinda it IMO, that's the thing that can be focused on immediately
 	- Easy to remember too, and feels doable
 
