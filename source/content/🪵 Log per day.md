@@ -3,6 +3,8 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 ## 05. October 2025
+- Fri 2025-10-24
+	- [[Misc thoughts on living at the EA Hotel 2025-10-24]]
 - Thur 2025-10-23
 	- [[What is Circling and why do I like it?]]
 	- [[Do I want to do a call with Happier?]]
