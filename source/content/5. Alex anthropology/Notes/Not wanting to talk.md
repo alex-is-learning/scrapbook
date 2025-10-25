@@ -21,3 +21,5 @@
 # Jess tweet
 - ![[Not wanting to talk-1761406972219.webp]]
 	- https://x.com/frideswyth/status/1969747270909223417
+- My reply
+	- ![[Not wanting to talk-1761407262505.webp]]
