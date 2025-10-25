@@ -1,0 +1,18 @@
+- 2025-10-25
+- I maybe want to start writing more. I maybe want to write more substacks. 
+- Ok, what is the "maybe" here? That smells like bullshit to me. 
+- What do I *want*?
+## I want to take myself more seriously
+- I want to take myself more seriously. What does that mean? How does that relate to substack?
+- There have been times where I've felt like "well, I have nothing to say, nothing to write about". And then, I've sat down to do something like "hit publish", which we did at [[Ship It Week log|Ship It Week]], only to discover that *of course* I have things to say, of course I have things in my system. I'm always a guy who has a bunch of recently lived experience, aliveness in my system, resonances, nascent insights, memories, etc.
+- So, I want to take my nascent insights more seriously. I have a sense that there is a lot of, let's call it unprocessed gold ore inside of me. It's subtle, it's granular, it's those little grains that a gold prospector would have to patiently sift to discover. So it's easy when I look at the stream of my experience to me like "idk dude, nothing there but a bunch of mud". But be patient, slow down, sift through the dregs for a while, and you'll find a grain of gold, and then some more, and perhaps your eyes adjust and you can spot them more quickly, and perhaps after a while you have enough to smelt some small thing, a little ring or pendant, not profound, not a weighty ingot, but still, something meaningful to you, perhaps to a loved one or two as well.
+- And so then you can make your life be about this process of finding the gold. By default, I live in a muddy stream, a feeling that there's nothing of value here, that I need to look out there, see if witnessing someone else's bounty will cause some change in me. But perhaps the path is always to look within, to honour the... blah blah, something something, this is starting to feel too effortful. First draft vibes
+## I don't want to write more substacks
+- "Writing substacks" is not a terminal goal. I don't want to write substacks for the sake of writing substacks. 
+- I want to have more important things to share. I want to have more profound insights where I'm like "holy shit, I need to write about this", and I write it in a frenzy - this is how all my best stuff has been written 
+- And how do you have more profound insights? Perhaps it's as simple as showing up at the stream every day and patiently sifting through the mud.
+- And how do you enjoy that process enough to do it daily? Well, one way could be by cherishing what you discover along the way. I feel really pleased with this gold prospector analogy, for example. Perhaps I could turn it into a tweet, a way to share it, make it relational, make it real. 
+
+1. Sift through mud
+2. Cherish and share the little grains you find
+3. Over time, smelt the grains into things of beauty and value

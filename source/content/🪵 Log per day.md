@@ -5,6 +5,7 @@ permalink: log-per-day
 ## 05. October 2025
 - Sat 2025-10-25
 	- [[Twitter profile analysis via an app 2025-10-25]]
+	- [[Morning pages 1 - on writing more]]
 - Fri 2025-10-24
 	- [[Misc thoughts on living at the EA Hotel 2025-10-24]]
 	- [[Should I intentionally tweet better? 2025-10-24]]

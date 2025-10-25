@@ -13,72 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/5. Alex anthropology/Eras/Era 25 - EA Hotel round 3.md",
+                "file": "source/content/🪵 Log per day.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Era 25 - EA Hotel round 3"
-            }
-          },
-          {
-            "id": "efa5020a9e42a6dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/2. Connecting with people/Misc notes/Misc thoughts on living at the EA Hotel 2025-10-24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Misc thoughts on living at the EA Hotel 2025-10-24"
-            }
-          },
-          {
-            "id": "af5a1d3b35dd51a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Should I intentionally tweet better? 2025-10-24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Should I intentionally tweet better? 2025-10-24"
-            }
-          },
-          {
-            "id": "a7df2c3d75593106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/5. Alex anthropology/Notes/Twitter profile analysis via an app 2025-10-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Twitter profile analysis via an app 2025-10-25"
-            }
-          },
-          {
-            "id": "c300031a751e55e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/5. Alex anthropology/Notes/Twitter profile analysis via an app 2025-10-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Twitter profile analysis via an app 2025-10-25"
+              "title": "🪵 Log per day"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/5. Alex anthropology/Notes/Twitter profile analysis via an app 2025-10-25.md",
+                "file": "source/content/🪵 Log per day.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Twitter profile analysis via an app 2025-10-25"
+              "title": "Backlinks for 🪵 Log per day"
             }
           },
           {
@@ -207,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/5. Alex anthropology/Notes/Twitter profile analysis via an app 2025-10-25.md",
+                "file": "source/content/🪵 Log per day.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Twitter profile analysis via an app 2025-10-25"
+              "title": "Outline of 🪵 Log per day"
             }
           }
         ]
@@ -235,19 +178,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c300031a751e55e1",
+  "active": "69657260c444e2e1",
   "lastOpenFiles": [
+    "source/content/5. Alex anthropology/Notes/Morning pages 1 - on writing more.md",
     "source/content/🪵 Log per day.md",
-    "source/content/index.md",
+    "source/content/2. Connecting with people/Misc notes/Misc thoughts on living at the EA Hotel 2025-10-24.md",
+    "source/content/5. Alex anthropology/Eras/Era 25 - EA Hotel round 3.md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Should I intentionally tweet better? 2025-10-24.md",
     "source/content/5. Alex anthropology/Notes/Twitter profile analysis via an app 2025-10-25.md",
+    "source/content/index.md",
     "source/content/📎 Files/1 - Images/misc/Twitter profile analysis via an app 2025-10-25-1761387560431.webp",
     "source/content/📎 Files/1 - Images/misc/Twitter profile analysis via an app 2025-10-25-1761387314420.webp",
     "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Tpot, post-rationalism.md",
     "source/content/📎 Files/1 - Images/misc/Twitter profile analysis via an app 2025-10-25-1761387365745.webp",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Should I intentionally tweet better? 2025-10-24.md",
-    "source/content/2. Connecting with people/Misc notes/Misc thoughts on living at the EA Hotel 2025-10-24.md",
     "source/content/2. Connecting with people/Misc notes/Monday, third time living at the Effective Altruism hotel (2025-10-20).md",
-    "source/content/5. Alex anthropology/Eras/Era 25 - EA Hotel round 3.md",
     "source/content/2. Connecting with people/On connecting with people more.md",
     "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761333863983.webp",
     "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761335074807.webp",
