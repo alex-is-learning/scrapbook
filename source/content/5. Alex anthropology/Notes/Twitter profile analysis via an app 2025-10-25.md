@@ -1,8 +1,10 @@
 - [[Should I intentionally tweet better? 2025-10-24]]
 - Saw this tweet and thought I'd try out the app:
-	- ![[Twitter profile analysis via an app 2025-10-25-1761387314420.webp]]
-	- bit.ly/xpersonality is the app
+	- ![[Twitter profile analysis via an app 2025-10-25-1761394654913.webp]]
+	- bit.ly/xpersonality is the app, [this](https://x.com/AaronBergman18/status/1981922512972693901) is the tweet
 # My analysis from this app 2025-10-25
+- Note that it only pulls your 30 most recent tweets, so actually it kinda sucks, lol. Would be so good if it read them all (but understandable why it doesn't)
+	- ![[Twitter profile analysis via an app 2025-10-25-1761394716177.webp]]
 - My profile right now:
 	- ![[Twitter profile analysis via an app 2025-10-25-1761387560431.webp]]
 ### 1. Detailed Analysis of Posting Style, Interests, and Personality

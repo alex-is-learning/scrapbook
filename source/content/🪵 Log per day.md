@@ -6,6 +6,7 @@ permalink: log-per-day
 - Sat 2025-10-25
 	- [[Twitter profile analysis via an app 2025-10-25]]
 	- [[Morning pages 1 - on writing more]]
+	- [[Morning Pages]]
 - Fri 2025-10-24
 	- [[Misc thoughts on living at the EA Hotel 2025-10-24]]
 	- [[Should I intentionally tweet better? 2025-10-24]]

@@ -33,8 +33,15 @@ How many likes do I think this'll get?
 - My median tweet gets ==9== likes (as per [[Should I intentionally tweet better? 2025-10-24]])
 - I'd be sad if this didn't get ==20== likes, because this is easily 2x better than my median tweet
 - It's long though, and I don't think it's that grabby. It's like, who is this guy, what's he on about
+	- ![[Morning pages 1 - on writing more-1761394495075.webp]]
+	- Like, the "show more" fight kinda fuck me, I don't think this opening is all that grabby
 - Also, it's not clear straight away that this is about writing morning pages
 - It's a little like, over-egged, over-the-top, idk
 - I think the little ring or pendant bit. I like that the "stop doubting the stream, stop looking externally" rhymes with a lot of stuff in my head (maybe I should have pointed at these more clearly)
 - It feels maybe vague and non-actionable, but then again, it also feels like the "wearing golden armour and casting a light" is a nice like, aspirational image
+### Stuff like this can do ~not that well
+- I'm really quite proud of [[01. To be a boomer]] but stuff like this can be non-attention-grabbing enough for twitter IMO
+	- ![[Morning pages 1 - on writing more-1761394954322.webp]]
+- Like, you're scrolling and see this and are invited to slow down and read a whole-ass thing, much easier to scroll away
+- I don't necessarily care - I'm proud of today's golden trinket, it feels like an important part of the process, and I don't think I could have forced it to be any other kind of thing
 # 2 
