@@ -1,4 +1,5 @@
 - 2025-10-25
+# 1
 - I maybe want to start writing more. I maybe want to write more substacks. 
 - Ok, what is the "maybe" here? That smells like bullshit to me. 
 - What do I *want*?
@@ -17,3 +18,12 @@
 1. Sift through mud
 2. Cherish and share the little grains you find
 3. Over time, smelt the grains into things of beauty and value
+
+# 2 - Ok, let's polish and tweet something
+I have a sense that there is a lot of, let's call it unprocessed gold, inside of me. It's subtle, it's granular, it's those little grains that a gold prospector would have to patiently sift to discover. So it's easy, when I look at the stream of my life, to think like "idk dude, nothing there but a bunch of mud". But if I'm patient, if I slow down, if I sift through the dregs for a while, I'll spot a grain, and then a few more, and perhaps with time my eyes will adjust and I'll find them more quickly, and perhaps after a while I'll have enough to smelt some small thing, a little ring or pendant, not profound, not a weighty ingot, but still, something meaningful to me, perhaps to a loved one or two as well. 
+
+And with time, as my store of golden trinkets grows, I will stop doubting the stream, will stop feeling that I must look elsewhere; the beauty of this stream will be self-evident, and I will always have access to it, this profound source of wealth, ever-present, ever-changing. I will wear my suit of golden armour and cast a warm light wherever I go.
+
+---
+
+Boom, tweeted. That was a very satisfying writing process! Tweaked a whole bunch. E.g., the final sentence was "I will wear a suit of golden armour and cast a warm glow wherever I go.", and I didn't like how "glow" and "go" rhymed right at the end, it felt kinda trite. And I changed it from "a suit" to "my suit" which felt better somehow. I really enjoy this shit! 
