@@ -1,5 +1,6 @@
 - 2025-10-25
-# 1
+- Note, this started as morning pages and now has become something I'm adding to throughout the day
+# 1 - Writing more, why?
 - I maybe want to start writing more. I maybe want to write more substacks. 
 	- *(E.g., I wrote [[Should I intentionally tweet better? 2025-10-24]] yesterday)*
 - Ok, what is the "maybe" here? That smells like bullshit to me. 
@@ -25,6 +26,7 @@ I have a sense that there is a lot of, let's call it unprocessed gold, inside of
 
 And with time, as my store of golden trinkets grows, I will stop doubting the stream, will stop feeling that I must look elsewhere; the beauty of this stream will be self-evident, and I will always have access to it, this profound source of wealth, ever-present, ever-changing. I will wear my suit of golden armour and cast a warm light wherever I go.
 ## Tweeted 
+- https://x.com/alexislearning/status/1982054716193341715
 
 Boom, tweeted. That was a very satisfying writing process! Tweaked a whole bunch. E.g., the final sentence was "I will wear a suit of golden armour and cast a warm glow wherever I go.", and I didn't like how "glow" and "go" rhymed right at the end, it felt kinda trite. And I changed it from "a suit" to "my suit" which felt better somehow. I really enjoy this shit! 
 
@@ -44,4 +46,25 @@ How many likes do I think this'll get?
 	- ![[Morning pages 1 - on writing more-1761394954322.webp]]
 - Like, you're scrolling and see this and are invited to slow down and read a whole-ass thing, much easier to scroll away
 - I don't necessarily care - I'm proud of today's golden trinket, it feels like an important part of the process, and I don't think I could have forced it to be any other kind of thing
-# 2 
+## Pride
+- I've read the above thing (which I've now ported to a vignette - [[14. Gold prospecting]]) twice since publishing it and I feel proud of it! I like how it ends, I like the feeling it gives me. Good shit
+## Length
+- That's not a tweet, it's a vignette. Maybe if I write a vignette, also finding some tweet-sized things within it
+
+---
+
+# 2 - Leave me alone (mum)
+- I have a lot of "leave me alone" energy at the EA Hotel - like, it's not just a neutral feeling of not wanting to talk, it's a prickly spikey feeling of "leave me alone", and of "you can't force me to do things"
+- When I was a kid/teenager, I'd *have* to go on walks with my mum 1:1, because she was lonely and sad etc, and I didn't have any say in the matter, and I'd have to pretend to want to, etc. So I now carry a lot of like, allergy at the idea of being stuck somewhere, of not having a way out, etc
+- I'll work on this with IFS and Focusing etc, it's cool, I don't need to "solve" it, you're allowed to have flaws and quirks, even if they make you kinda unpleasant
+## Tweeting something
+- [Tweet]([https://x.com/alexislearning/status/1982093578454098057]()): 
+	- In childhood I had to emotionally support lonely family members despite not *wanting* to (because hey, it's not fun to be relied upon to support sad adults when you're a kid), and I still carry a lot of "leave me alone" energy in my system which often makes me a prickly presence
+- Nice, this is actually tweet-shaped, rather than a vignette
+- Maybe I'll turn it into a thread
+# 3 - I don't need to talk to people
+- I have a sense that I don't need to have more conversations atm, conversations with people aren't where I'm bottlenecked. I feel like I have enough friends, enough mentors, enough stuff in my head, and now I want to go heads down and figure some stuff out, get serious about my wyrd etc
+- I have friends who I like talking to/messaging every day, I have weekly calls, mentors etc. Socially I feel full! And that can feel weird when living in a community - arriving already feeling socially full, to me, there's a sense of "I should make these people a key part of my life, right?" - but currently, I don't want to
+# 4 - I don't care about some things
+- I don't care about it being a sunny day. "Omg, it's a sunny day today, we need to get outside!" has never resonated for me
+- I don't care about views and sights → seeing nice sights on holiday, seeing a "great" view from the top of a hill, seeing the sea etc, this stuff has never felt significant to me. I think that writing, music, romance feel compelling to me in ways that this kind of stuff just doesn't at all

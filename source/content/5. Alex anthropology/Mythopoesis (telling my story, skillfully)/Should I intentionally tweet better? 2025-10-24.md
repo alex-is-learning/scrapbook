@@ -171,3 +171,5 @@
 - Rich:
 	- Just tweet more bro
 	- (This is the Rivalvoices approach too)
+## People are more likely to read a thread than a long tweet?
+- From [[Morning pages 1 - on writing more]] → tweeted a vignette (as a long tweet) and a thread
