@@ -1,6 +1,7 @@
 - 2025-10-25
 # 1
 - I maybe want to start writing more. I maybe want to write more substacks. 
+	- *(E.g., I wrote [[Should I intentionally tweet better? 2025-10-24]] yesterday)*
 - Ok, what is the "maybe" here? That smells like bullshit to me. 
 - What do I *want*?
 ## I want to take myself more seriously
