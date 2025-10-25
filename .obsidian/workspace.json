@@ -34,9 +34,51 @@
               "icon": "lucide-file",
               "title": "Misc thoughts on living at the EA Hotel 2025-10-24"
             }
+          },
+          {
+            "id": "af5a1d3b35dd51a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Should I intentionally tweet better? 2025-10-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Should I intentionally tweet better? 2025-10-24"
+            }
+          },
+          {
+            "id": "a7df2c3d75593106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/5. Alex anthropology/Notes/Twitter profile analysis via an app 2025-10-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Twitter profile analysis via an app 2025-10-25"
+            }
+          },
+          {
+            "id": "c300031a751e55e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/5. Alex anthropology/Notes/Twitter profile analysis via an app 2025-10-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Twitter profile analysis via an app 2025-10-25"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/2. Connecting with people/Misc notes/Misc thoughts on living at the EA Hotel 2025-10-24.md",
+                "file": "source/content/5. Alex anthropology/Notes/Twitter profile analysis via an app 2025-10-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Misc thoughts on living at the EA Hotel 2025-10-24"
+              "title": "Backlinks for Twitter profile analysis via an app 2025-10-25"
             }
           },
           {
@@ -165,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/2. Connecting with people/Misc notes/Misc thoughts on living at the EA Hotel 2025-10-24.md",
+                "file": "source/content/5. Alex anthropology/Notes/Twitter profile analysis via an app 2025-10-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Misc thoughts on living at the EA Hotel 2025-10-24"
+              "title": "Outline of Twitter profile analysis via an app 2025-10-25"
             }
           }
         ]
@@ -193,14 +235,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "efa5020a9e42a6dc",
+  "active": "c300031a751e55e1",
   "lastOpenFiles": [
-    "source/content/2. Connecting with people/Misc notes/Monday, third time living at the Effective Altruism hotel (2025-10-20).md",
+    "source/content/🪵 Log per day.md",
+    "source/content/index.md",
+    "source/content/5. Alex anthropology/Notes/Twitter profile analysis via an app 2025-10-25.md",
+    "source/content/📎 Files/1 - Images/misc/Twitter profile analysis via an app 2025-10-25-1761387560431.webp",
+    "source/content/📎 Files/1 - Images/misc/Twitter profile analysis via an app 2025-10-25-1761387314420.webp",
+    "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Tpot, post-rationalism.md",
+    "source/content/📎 Files/1 - Images/misc/Twitter profile analysis via an app 2025-10-25-1761387365745.webp",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Should I intentionally tweet better? 2025-10-24.md",
     "source/content/2. Connecting with people/Misc notes/Misc thoughts on living at the EA Hotel 2025-10-24.md",
+    "source/content/2. Connecting with people/Misc notes/Monday, third time living at the Effective Altruism hotel (2025-10-20).md",
     "source/content/5. Alex anthropology/Eras/Era 25 - EA Hotel round 3.md",
     "source/content/2. Connecting with people/On connecting with people more.md",
-    "source/content/index.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Should I intentionally tweet better? 2025-10-24.md",
     "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761333863983.webp",
     "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761335074807.webp",
     "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761334950178.webp",
@@ -208,11 +256,6 @@
     "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761334913742.webp",
     "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761334905804.webp",
     "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761334833337.webp",
-    "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761334792630.webp",
-    "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761334749982.webp",
-    "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761334638846.webp",
-    "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Tpot, post-rationalism.md",
-    "source/content/🪵 Log per day.md",
     "source/content/2. Connecting with people/Misc notes/Nihilism slash dissociation at the hippy retreat.md",
     "source/content/5. Alex anthropology/Eras/Era 17 - \"Life Itself\" intentional community -> Kensho.md",
     "Photos from era 17 - Life Itself intentional community.md",
@@ -231,7 +274,6 @@
     "source/content/5. Alex anthropology/Eras/Back to England for Christmas.md",
     "source/content/5. Alex anthropology/Eras/Era 19 - Arriving in Toronto.md",
     "source/content/5. Alex anthropology/Eras/Era 18 - Divine Period (post-Kensho).md",
-    "source/content/5. Alex anthropology/Eras/Era 16 - Back to Europe, Christmas at home.md",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)",
     "source/content/📎 Files/1 - Images/Eras photos",
     "source/content/5. Alex anthropology/Eras",

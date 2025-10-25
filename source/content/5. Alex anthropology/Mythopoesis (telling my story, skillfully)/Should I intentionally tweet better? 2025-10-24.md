@@ -1,6 +1,8 @@
 - 2025-10-24
-- I currently have 363 twitter followers (https://x.com/alexislearning)
-- I used to have ~750 until I got suspended (because they thought I was a bot)
+- My profile:
+	- I currently have 363 twitter followers (https://x.com/alexislearning)
+	- I used to have ~750 until I got suspended (because they thought I was a bot)
+	- [[Twitter profile analysis via an app 2025-10-25]]
 - I've been on a like, "becoming a main character" arc (e.g. [Simon Ohler](https://x.com/simon_ohler) did a speech at his birthday party about this that he said was largely directed at me, lol)
 - (I also have 75 [Substack](https://alexislearning.substack.com/) subscribers, but I don't wanna think about Substack right now)
 # 1. What's the point in having more twitter followers?
@@ -156,9 +158,16 @@
 - ![[Should I intentionally tweet better_ 2025-10-24-1761334638846.webp]]
 ### Rich
 - ![[Should I intentionally tweet better_ 2025-10-24-1761335074807.webp]]
-# Ok what I have learned from looking at all these good tweets
+# 5. Conclusion
+## Ok what I have learned from looking at all these good tweets
 - Have interesting ideas and communicate them well
 - Lol
-# Cynical 
+## Cynical 
 - There's also more kind of cynical intentional stuff that could be done (Brooke Bowman did encourage me to do this kinda stuff lol, although she didn't point at specific things)
 - I can imagine e.g. quote-tweeting more stuff to build on other people's ideas/starting points, resurfacing banger tweets from other people, etc
+## Feedback from others 
+- Simon:
+	- Write tweets in such a way that they read well, that they have a good kind of poetic flow to them, that they sound good when read out loud
+- Rich:
+	- Just tweet more bro
+	- (This is the Rivalvoices approach too)

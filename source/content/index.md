@@ -10,7 +10,7 @@ permalink: home-page
 
 - 👋 A chronological view of my digital scrapbook posts → [[🪵 Log per day]] 
 - A chronological view of my life → [[My Eras (index)]]
-
+- Insight into what I care about via my tweets → [[Twitter profile analysis via an app 2025-10-25]]
 ---
 
 - My landing page website is https://alexislearning.me/ → this scrapbook is where I do my thinking -  it's a place for scrappy writing that doesn't belong on my [Substack](https://alexislearning.substack.com/). 
