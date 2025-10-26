@@ -23,3 +23,7 @@
 	- https://x.com/frideswyth/status/1969747270909223417
 - My reply
 	- ![[Not wanting to talk-1761407262505.webp]]
+# 100% introverted
+- I actually made a video about this lol, apologies about the mouth noises and giant spot on my forehead
+	- https://www.youtube.com/watch?v=RahrbShfqxU
+- Also, am I this kid from [Retail Therapy](https://www.youtube.com/shorts/xr_43Ot93Ec) that makes Charli XCX cry?

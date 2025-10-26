@@ -173,3 +173,7 @@
 	- (This is the Rivalvoices approach too)
 ## People are more likely to read a thread than a long tweet?
 - From [[Morning pages 1 - on writing more]] → tweeted a vignette (as a long tweet) and a thread
+## Some big accounts say "just tweet more", I like Vivid's advice more
+- ![[Should I intentionally tweet better_ 2025-10-24-1761424544305.webp]]
+- ![[Should I intentionally tweet better_ 2025-10-24-1761424560098.webp]]
+- I have a sense that quantity isn't everything, that of course thinking about writing well, memetic fitness etc makes sense. So I like Vivid's thing
