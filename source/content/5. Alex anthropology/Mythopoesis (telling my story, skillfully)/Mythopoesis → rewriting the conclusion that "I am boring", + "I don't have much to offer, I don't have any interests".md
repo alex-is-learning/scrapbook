@@ -138,3 +138,13 @@ From the feedback you shared, here are the **core themes people consistently val
 1. I am boring
 2. I don't have much to offer
 3. I don't have any interests
+
+
+- Aha, as per Jess' tweet, I'm supposed to do "same life facts but totally opposite conclusions"
+- So actually I should probably do:
+
+1. I am very interesting
+2. I have a huge amount to offer
+3. I have lots of interests
+
+- Ok, tomorrow!!! 

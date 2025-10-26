@@ -19,4 +19,4 @@
 - ![[Mythopoesis and re-writing my life story (parent page)-1761487644632.webp]]
 # Why do it? 
 - For me → my default story is fairly sad, self-deprecating, etc. I think it should be pretty easy actually to reframe it to like "actually everything I did make some kinda of sense, I was doing the best I could" etc, and this would unlock a lot of self-care, rather than self-criticism, which would be *amazing*
-- Recently I had a very brief romantic spark with a very lovely woman and she diagnosed that my primary and *only* problem is a lack of confidence in myself, that is, low self-worth/not seeing my worth. So yeah, if I want to not fumble another absolute baddie, it's time to get this shit sorted
+	- Recently I had a very brief romantic spark with a very lovely woman and she diagnosed that my primary and *only* problem is a lack of confidence in myself, that is, low self-worth/not seeing my worth. So yeah, if I want to not fumble another absolute baddie, it's time to get this shit sorted
