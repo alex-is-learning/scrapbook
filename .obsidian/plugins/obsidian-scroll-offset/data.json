@@ -1,4 +1,4 @@
 {
-  "percentageMode": false,
-  "offset": "0"
+  "percentageMode": true,
+  "offset": "40"
 }

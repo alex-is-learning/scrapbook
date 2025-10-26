@@ -8,6 +8,5 @@
 	- "I don't have much of value to offer"
 	- "I was a loser in x location/era because of social anxiety"
 # Ok, let's write out my life facts and reach totally opposite conclusions
-- [[Mythopoesis → rewriting the conclusion that "I am boring"]]
-- [[Mythopoesis → rewriting the conclusion that "I don't have much of value to offer"]]
+- [[Mythopoesis → rewriting the conclusion that "I am boring", + "I don't have much to offer, I don't have any interests"]]
 - [[Mythopoesis → rewriting the conclusion that "I was a loser in x era because of social anxiety]]
