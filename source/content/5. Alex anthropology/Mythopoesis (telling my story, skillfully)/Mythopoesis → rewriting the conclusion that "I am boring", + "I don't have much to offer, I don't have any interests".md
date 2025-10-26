@@ -15,7 +15,7 @@
 - *This has become "write a more compassionate story about my Dad"*
 ---
 
-# 1. Zoomer values are very unlikely to be met my a boomer
+# 1. Zoomer values are very unlikely to be met by a boomer 
 - You were a working-class man from the 1950s, with difficult parents, kicked out of the house at 16, had many siblings, one who killed himself, another who was an alcoholic, another who cheated on his long-time wife and mother of his children and disappeared, etc. 
 - You worked hard and went from a man who made boxes in a factory to starting your own shipping/freighting company. You focused on the business, employed people, remained debt-free, continued following the football teams from your childhood, the music from your teenage years, saw your friends at the pub. Met my mum, had me at 40, life kept going 
 - The parenting you received, the culture you grew up in, did not give you any particular insight into, for example, your emotions, trauma, self-regulation. You had to just keep going. So you drank too much, and you and mum fought, and you really shouldn't have adopted a child. You split up a year later!
@@ -72,18 +72,46 @@
 - We'd go to car shows at the local race track, watch them race, walk around and look at the cars, wow, look, this one is red, this one is silver, this one is fast, this one is... kind of cool, I suppose.
 # 3. It's a tragedy that none of our interested lined up!
 - It's a genuine shame, bless us both
+- Oh man, I can't wait to go to football games with my son! → he doesn't give a shit about football
+- Oh man, I can't wait to listen to classic rock with my son! → he doesn't like most of it
+- Oh man, I can't wait to talk to my son about cars → he doesn't give a shit
 - Just an odd quirk of the universe, and we tried anyway!
-- The constant trying & not clicking shows constant care → we never threw up our hands and said "well, this clearly isn't working, forget it!", which is actually what my grandad said to me, in public. "He doesn't care about sport, he doesn't care about anything! [And by implication → I don't value him!"]". My dad didn't do that, he kept trying, even though it must have made him feel very awkward and self-conscious, and sad to not be connecting with his son. 
+- The constant trying & not clicking shows constant care → we never threw up our hands and said "well, this clearly isn't working, forget it!", which is actually what my grandad said to me, in public. "He doesn't care about sport, he doesn't care about anything! [And by implication → I don't value him!"]". You didn't do that, you kept trying, even though it must have made you feel awkward and self-conscious, and sad to not be connecting with your son. 
 # 4. Our lack of aligned interests didn't diminish your love
 - Unlike my grandad who literally said that
-- My dad loved me regardless of our lack of shared interests, regardless of how awkward our connection was
+- You loved me regardless of our lack of shared interests, regardless of how awkward our connection was
 # 5. It was already a shame that we didn't have much in common and then the family got blown up
-- Perhaps we could have gone to football games, listened to music, gone to the pub, but you and mum naively adopted a child and split up a year later, so all of these things because *extra* hard to care about, because you accidentally detonated a bomb and then split up and I'd only see you on the weekends, further straining our relationship. And now my home life is high conflict, my mum hates my sister, I'm hiding in my room, you're no longer in the house, and then oh hey it's the weekend, let's spend two days together with my adopted sister too. We already didn't have much to connect on, you already weren't very good at meeting me where *I* was at, and now things have just gotten 100x more complicated
-# 6. My interests aren't legible to either parent, but they're still valid
+- Perhaps we could have gone to football games, listened to music, gone to the pub, and perhaps with enough time together I'd grow to be able to say "I don't like this stuff, why don't we do this stuff instead", and we'd meet in the middle more 
+- But you and mum naively adopted a child and split up a year later, so all of these things because *extra* hard to care about, because you accidentally detonated a bomb and then split up and I'd only see you on the weekends, further straining our relationship. 
+- And now my home life is high conflict, my mum hates my sister, I'm hiding in my room, you're no longer in the house, and then oh hey it's the weekend, let's spend two days together with my adopted sister too. We already didn't have much to connect on, you already weren't very good at meeting me where *I* was at, and now things have just gotten 100x more complicated
+- So, it was already going to be an uphill battle, and it got much harder, lack of time, lack of connection
+# 6. My parents couldn't meet me in my interests
+- My interests weren't legible to either parent
+- But they were still valid!
+- Not only did I sadly not like football/classic rock/cars, but also I liked introverted stuff that is kind of illegible (but then again, I could argue that football/classic rock/cars are totally illegible to me)
+- Ultimately, by some luck of the draw which probably happens a lot, I was very different from both parent. An intense introvert cherisher, almost autistic in how obsessed I would get with things, things that were illegible to them, and they didn't seem to have the willingness to try to engage
+## What I liked
+- Harry Potter. I was insanely obsessed with Harry Potter, I read it on repeat, non-stop, for years. Neither parent ever read it! This seems mad to me - how could you not want to see what the fuss was about, and to see if you could bond over it! 
+	- Huge disconnect → football dad, bookish son (reading a kids book series). Mum who doesn't read
+- Scott Pilgrim. I got really into this as a teenager, and it's very teenager-y
+- Video games → this is what gave me sanctuary in my high conflict home, and I'm very grateful to them. 
+- Writing → I discovered a real aptitude for writing
+## It's a shame that my parents didn't engage with my interests
+- Neither parent read Harry Potter; we could have read it together, watched the films!
+- Me and my dad could have played video games together, but alas, he wasn't interested, or at least, the thought didn't seem to cross his mind. I remember him having a go on my PS1 when he still lived with us and just not getting it. I think he hated being bad at things
+- Neither parent read or encouraged my writing from what I can remember
+
 - "I don't have much to offer/I don't have any interests"
 - This is downstream of my mum too, I think...? Because I spent more time with her, and she never made me feel boring, she made me feel illegible
-# 7. People don't need to find me *interesting* to value me
-E.g. Attila, Dan, Michael, etc etc. I think I'm loved for being earnest, genuine, sincere, warm, etc, rather than because I'm *interesting*. Interesting is just one value, right? And, do I value people primarily for being *interesting*? I suspect not 👀
+# 7. My interests are valid despite my parents not understanding them
+## What I have become 
+- I'm now 29, and the obsession with Harry Potter has of course subsided, but it morphed into other things over time, like e.g. an obsession with David Foster Wallace. Obsession with art (you may say HP isn't art, but you know) is a theme in my life. Harry Potter, the Metal Gear Solid series of video games (lol), Scott Pilgrim, then David Foster Wallace, Kendrick Lamar, Conan O'Brien, lesser obsessions (more like strong admirations) for e.g. Fiona Apple and D'Angelo. Albums that mean so much to me, albums that I cherish. Something that I haven't found a clean label for yet, but something around being deeply passionate about... I don't know what, individual artists who share themselves earnestly, or something, I don't know. I don't know what "type of guy" this makes me, this doesn't seem to be covered by the enneagram. "Deeply passionate about art, writing, music, rather than external things like... nature, holidays, sports, etc". 
+- Enneagram 3w4 → 	==3 core = build/achieve; 4 wing = depth, artistry, originality; result = “the producer/creator who wants the work to be both excellent and true.”==
+	- [[Enneagram 3w4]]
+- I think I'm very introverted, very like, focused on the *internal* world, like, the external world of football and cars makes no sense to me. So, there's a fundamental clash, and it's difficult for me to share this stuff
+# 8. People don't need to find me *interesting* to value me
+- E.g. Attila, Dan, Michael, historic people like my long-term girlfriend, etc etc. 
+- I think I'm loved for being earnest, genuine, sincere, warm, etc, rather than because I'm *interesting*. Interesting is just one value, right? And, do I value people primarily for being *interesting*? I suspect not 👀
 
 When I was a teenager, I noticed how difficult it was to talk to my dad. I also noticed how I found it very easy to talk to other people, that I felt comfortable and sociable around other people, like my girlfriend, my cousin, my school friends like Woody and Dan. Not an enormous list, but still, there were clearly people who I could happily spend time with. I noticed how conversation was so stilted with my Dad, and realised it by definition couldn't be a me-thing. It must be something between the two of us, some lack of connection, sad, but not universal, not damning. 
 

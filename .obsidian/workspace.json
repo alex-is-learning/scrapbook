@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Mythopoesis → rewriting the conclusion that \"I am boring\", + \"I don't have much to offer, I don't have any interests\""
             }
+          },
+          {
+            "id": "be28fb441d784033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/2. Connecting with people/Feedback/Post-it notes from the hippy retreat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Post-it notes from the hippy retreat"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → rewriting the conclusion that \"I am boring\", + \"I don't have much to offer, I don't have any interests\".md",
+                "file": "source/content/2. Connecting with people/Feedback/Post-it notes from the hippy retreat.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mythopoesis → rewriting the conclusion that \"I am boring\", + \"I don't have much to offer, I don't have any interests\""
+              "title": "Backlinks for Post-it notes from the hippy retreat"
             }
           },
           {
@@ -150,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → rewriting the conclusion that \"I am boring\", + \"I don't have much to offer, I don't have any interests\".md",
+                "file": "source/content/2. Connecting with people/Feedback/Post-it notes from the hippy retreat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mythopoesis → rewriting the conclusion that \"I am boring\", + \"I don't have much to offer, I don't have any interests\""
+              "title": "Outline of Post-it notes from the hippy retreat"
             }
           }
         ]
@@ -178,14 +193,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "be28fb441d784033",
   "lastOpenFiles": [
+    "source/content/2. Connecting with people/Feedback/Feedback, references.md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → rewriting the conclusion that \"I am boring\", + \"I don't have much to offer, I don't have any interests\".md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Enneagram 3w4.md",
+    "source/content/index.md",
+    "source/content/🪵 Log per day.md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Enneagram 3.md",
     "source/content/📎 Files/1 - Images/misc/Mythopoesis → rewriting the conclusion that _I am boring_, + _I don't have much to offer_, + _I don't have any interests_-1761493855588.webp",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis - same life story, different conclusions.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → rewriting the conclusion that \"I am boring\", + \"I don't have much to offer, I don't have any interests\".md",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis and re-writing my life story (parent page).md",
-    "source/content/🪵 Log per day.md",
-    "source/content/index.md",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis - what and why.md",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → rewriting the conclusion that \"I was a loser in x era because of social anxiety.md",
     "source/content/5. Alex anthropology/Notes/Not wanting to talk.md",
@@ -209,13 +227,10 @@
     "source/content/📎 Files/1 - Images/misc/Not wanting to talk-1761407262505.webp",
     "source/content/📎 Files/1 - Images/misc/14. Gold prospecting-1761407037996.webp",
     "source/content/1. Creating things/1. Writings/Writing - vignettes.md",
-    "source/content/📎 Files/1 - Images/misc/Not wanting to talk-1761406972219.webp",
     "source/content/2. Connecting with people/Misc notes/Misc thoughts on living at the EA Hotel 2025-10-24.md",
     "source/content/1. Creating things/1. Writings/13. I don't know yet.md",
     "source/content/1. Creating things/1. Writings/12. Misery.md",
     "source/content/1. Creating things/1. Writings/11. Balcony.md",
-    "source/content/5. Alex anthropology/Notes/Twitter profile analysis via an app 2025-10-25.md",
-    "source/content/5. Alex anthropology/Eras/Era 25 - EA Hotel round 3.md",
     "source/index.d.ts",
     "source/quartz.config.ts.sb-92c95949-4iiYyy",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)",
