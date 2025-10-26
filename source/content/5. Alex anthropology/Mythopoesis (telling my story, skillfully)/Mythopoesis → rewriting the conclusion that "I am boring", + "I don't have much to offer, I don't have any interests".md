@@ -70,7 +70,7 @@
 - Cars were just way cooler in the 1960s/1970s. And then when you were in your 40s/50s, you could buy some of these cars that you loved as a teenager, which must have felt great
 - But yeah idk, something about caring about cars absolutely never clicked for me
 - We'd go to car shows at the local race track, watch them race, walk around and look at the cars, wow, look, this one is red, this one is silver, this one is fast, this one is... kind of cool, I suppose.
-# 3. It's a tragedy that none of our interested lined up!
+# 3. It's a tragedy that none of our interests lined up!
 - It's a genuine shame, bless us both
 - Oh man, I can't wait to go to football games with my son! → he doesn't give a shit about football
 - Oh man, I can't wait to listen to classic rock with my son! → he doesn't like most of it
@@ -131,3 +131,10 @@ From the feedback you shared, here are the **core themes people consistently val
 - When I was 29, in the middle of August in 2025, I flew to Spain to visit my Dad in hospital, where he had just had open heart surgery, getting very close to death (sepsis and a bacterial infection *of a heart valve*, which would certainly have been fatal just a few decades ago). I thought it'd be the time to reconnect, as I hadn't spoken to him all year. I stayed in the hospital for 12+ hours a day for 2.5 weeks, and found that he was incredibly difficult to connect with, that he could only talk about himself, that he had no curiosity about me at all. I realised that he was like this when I was a teenager too - he has definitely gotten weirder over the years, but this was always his core way of being → total lack of curiosity, total focus on himself, blind disregard for the emotions of others, etc. I realised that even if I cared about football and classic cars and beer and classic rock, this is all we'd ever connect on, that we'd never have a deep relationship, that I'd never feel seen by him, because he couldn't see himself, he couldn't meet himself emotionally, he was blocked off emotionally, disembodied, dissociated, freeze response, so how could he possibly be attuned to me? If you can't be attuned to yourself then there's no way in hell that you can be attuned to others. My dad never went to therapy, of course, he's a boomer, it wasn't a possibility for many years, and by the time it become a normalised thing he probably would have been at least 40, if not 50, decades of unprocessed shit, decades of using beer as the way to relax, etc. 
 - So, it'd be mad to conclude "I am boring" from this data. Not to mention all the people in my life who love me, who enjoy spending time with me! My friend group at school, Jess and Tahira and Dan and of course my long-term girlfriend Ellie. Friends at uni like Vaishu and Olivia. Friends from my years of travelling, ok there aren't many, but Tilly is an absolute once-in-a-lifetime friend, a beacon of "ok clearly I'm not boring because we had so much fun together"! And then Toronto, Michael and Michelle, people who deeply cared for me. And mentors, Attila and Michael and Dan, Brent! Come on dude, how many people do you need to cherish you to make you realise that the story has been totally wrong this whole time. If you were boring, if your fundamental essence was boring, why would these people like you, they'd find you dull, they'd bounce right off you. Elisa, Alice, Simmo, Catherine, Jason, Carmen, Trish, Johnson, wake *up* dude, what are you *doing* dude. James, Dan, Simon, Irish James!! People cherish you dude!! 
 
+---
+
+# Is this done? Do I feel convinced? 
+- How do these cash out now? Do they feel properly updated? (Ok if not, I doubt it's as simple as that!)
+1. I am boring
+2. I don't have much to offer
+3. I don't have any interests
