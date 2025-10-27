@@ -51,3 +51,11 @@
 - But you and mum naively adopted a child and split up a year later, so all of these things because *extra* hard to care about, because you accidentally detonated a bomb and then split up and I'd only see you on the weekends, further straining our relationship. 
 - And now my home life is high conflict, my mum hates my sister, I'm hiding in my room, you're no longer in the house, and then oh hey it's the weekend, let's spend two days together with my adopted sister too. We already didn't have much to connect on, you already weren't very good at meeting me where *I* was at, and now things have just gotten 100x more complicated
 - So, it was already going to be an uphill battle, and it got much harder, lack of time, lack of connection
+
+
+---
+
+# My kid might not give a shit about what I like!
+- Might not care at all about writing, for example
+- Might not care at all about music
+- Might be born in the 2030s, raised in the 2040s, wildly different from being raised in the 2000s & 2010s. Different zeitgeist, concerns, ethics. (e.g., I read the Harpers "The Goon Squad" piece today, my god)
