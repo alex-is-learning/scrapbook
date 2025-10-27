@@ -1,7 +1,11 @@
-# References from Managers
-- [Brent Baumgartner, founder of Refract](https://docs.google.com/document/d/167F1KqTOYolQXr6eVGlFZMv9yrNxJHaLsoQ3Js8VJtI/edit?tab=t.0)
-- [Ethan Alley, co-founder of Alvea](https://docs.google.com/document/d/1mBN-iWSwoYM8zUMU25iPGs9Glgzzq3Ps1DRWEivRiFg/edit?tab=t.0)
-- [Robert Bölkow, Head of Operations at Alvea](https://docs.google.com/document/d/10dW1QWqK-GtL1IY1VjoSEpV0MOqHaScsPNIONNcmy6E/edit?tab=t.0)
+# Work-flavoured
+## References from Managers
+- [Brent Baumgartner, founder of Refract, March 2025](https://docs.google.com/document/d/167F1KqTOYolQXr6eVGlFZMv9yrNxJHaLsoQ3Js8VJtI/edit?tab=t.0)
+- [Ethan Alley, co-founder of Alvea, Jan 2023](https://docs.google.com/document/d/1mBN-iWSwoYM8zUMU25iPGs9Glgzzq3Ps1DRWEivRiFg/edit?tab=t.0)
+- [Robert Bölkow, Head of Operations at Alvea, Jan 2023](https://docs.google.com/document/d/10dW1QWqK-GtL1IY1VjoSEpV0MOqHaScsPNIONNcmy6E/edit?tab=t.0)
+## From friends that I've worked with 
+- [Simmo, October 2025](https://docs.google.com/document/d/1h2r2g2GtjooFZo8bHzak9QzbEMPY2TaqOFpLHYXam9I/edit?tab=t.0#heading=h.duh2sqfz26gh)
+- [Conor, April 2025](https://docs.google.com/document/d/1gy_Ns0tWPehuJ9NZ6LoVjIwMyLOSBT7C_dhpKnIjIFQ/edit?tab=t.0)
 # References from Friends
 At the start of 2025, I wrangled with all my info and hazy memories re: previous jobs and ended up with a CV that I was really pleased with, and a much stronger sense of “oh yeah, I can totally apply for great jobs, I've done some really good stuff.”
 
@@ -47,14 +51,7 @@ We're a group of post-rationalist-y, emotional-processing-y people; sometimes we
 > I've witnessed you going into spaces of self-reflection and growth, and beautifully developing yourself, while not becoming overly tied or tortured by the category of “self help,” which I find admirable.  
 > And finally, your **willingness to help the people you care about** — when someone needs a resource, or a spreadsheet, or some structure — you show up. I've just felt really supported by you, and that's a beautiful gift.
 ## Accountability Group
-### ❤️ Conor
-*Reference for Alexander Large – 10 April 2025.*
-> I previously worked as Head of Coaching at Effective Thesis (an EA organisation). I've been a part of a productivity group that Alex set up for 7 weeks now. This group has led to significant increases in focus, strategic thinking, and prioritisation for myself and other team members.  
-> Having accountability structures, spaces for strategic thinking, group prediction markets, and divisions of planning and action have helped us focus on our highest priorities.  
-> Getting to know Alex more through this group, I've been really impressed by how he thinks and acts. He has an excellent approach to strategic planning and execution.  
-> Alex has a very warm, clear, honest and straightforward way of communicating. This makes Alex a joy to work with, and I know I can rely on him to deliver on promises made. Alex is on a great trajectory and I'm delighted to see where this goes.  
-> **Best regards,**  
-> Conor Spence
+
 ### ❤️ [Simmo](https://x.com/MrSimmoSimpson) (re: being a CEO)
 
 > Let's assume you're targeting “high impact leader”. I think there are some core traits which are like agency, which I think you have in extremely high amounts.  
@@ -63,13 +60,14 @@ We're a group of post-rationalist-y, emotional-processing-y people; sometimes we
 > I think definitely, if we lived in a normal world (that is, one where AI timelines weren't a concern), you could become an unbelievably successful CEO in a small number of years.  
 > You've got the intelligence and the work ethic, the ability to work incredibly hard, the ability to learn anything really effectively.  
 > So in a normal world, absolutely no doubt whatsoever, I'd bet on you as much as I'd bet on anyone I've ever met.
-# Oct 2025
+# Misc
+## Oct 2025
 - [[Post-it notes from the hippy retreat]]
-# Sep 2025
+## Sep 2025
 - Twitter thread of Ship It Week compliments
 	- https://x.com/alexislearning/status/1965119915687584008
 - ![[Feedback-1757369848833.webp]]
-# August 2025
+## August 2025
 - ![[Feedback-1756036440316.webp|400]]
 - ![[Feedback-1756036450011.webp|500]]
 - ![[Feedback-1756036476484.webp|500]]
