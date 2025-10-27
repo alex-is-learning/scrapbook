@@ -11,3 +11,4 @@
 - [[Obsidian Guide - Phase 1 - A pretty writing space]]
 - [[Obsidian Guide - Phase 2 - A slightly more intentional infrastructure]]
 - [[Obsidian Guide - Phase 3 - Small quality of life things]]
+- [[Obsidian third-party plugins]]

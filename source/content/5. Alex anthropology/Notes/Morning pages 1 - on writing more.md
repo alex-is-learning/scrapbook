@@ -20,7 +20,6 @@
 1. Sift through mud
 2. Cherish and share the little grains you find
 3. Over time, smelt the grains into things of beauty and value
-
 ## Ok then, let's polish and tweet something
 I have a sense that there is a lot of, let's call it unprocessed gold, inside of me. It's subtle, it's granular, it's those little grains that a gold prospector would have to patiently sift to discover. So it's easy, when I look at the stream of my life, to think like "idk dude, nothing there but a bunch of mud". But if I'm patient, if I slow down, if I sift through the dregs for a while, I'll spot a grain, and then a few more, and perhaps with time my eyes will adjust and I'll find them more quickly, and perhaps after a while I'll have enough to smelt some small thing, a little ring or pendant, not profound, not a weighty ingot, but still, something meaningful to me, perhaps to a loved one or two as well. 
 

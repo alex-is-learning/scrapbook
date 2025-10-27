@@ -3,6 +3,8 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 ## 05. October 2025
+- Mon 2025-10-27
+	- [["Shut up and write" session 1 - 2025-10-27]]
 - Sun 2025-10-26
 	- [[Mythopoesis and re-writing my life story (parent page)]]
 	- [[Mythopoesis → "me and my dad didn't connect easily but we kept trying because we loved each other"]]
