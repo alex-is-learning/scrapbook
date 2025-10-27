@@ -1,0 +1,53 @@
+- [[Mythopoesis - same life story, different conclusions]]
+
+# 1. You shared your passions with me in order to connect, because you loved me
+- As I grew up, you met me the way that you could - by sharing your passions. 
+- "Won't it be deeply wonderful and meaningful to share my passions with my son? My dad was so uncaring, he kicked me out at 16, he didn't take time to try to connect with me. I'll take my son to football games, just the two of us. We'll go to car shows, we'll chat about football at the pub. It's going to be so fucking meaningful dude, I can't wait to have a son to share all this with"
+	- ![[Mythopoesis → rewriting the conclusion that _I am boring_, + _I don't have much to offer_, + _I don't have any interests_-1761493855588.webp]]
+		- 👆 *This, but it's my dad thinking this thought at 40 years old in 1996*
+## Football
+### I can see why football matters so much to you 
+- I get why you'd like it, growing up in the 1960s/70s
+- Imagine being born in a working class town in the 1950s. Of course football is going to be a big part of your life, of course there'd be a lot of local pride about it, of course you'd play football with your friends etc. Makes total sense (you know, pre-internet, surrounding by the working class, your dad is literally a coal miner, etc). Religion is kind of on the way out (I mean, we've just survived two world wars, modernity is on the way out). No-one is religious anymore, but we all have that religious impulse, the craving to care about something bigger, and for community. Football, supporting the town's team... you end up supporting them your entire life, sticking by them through highs and lows. I can see how that'd be very meaningful.
+### Sadly football just didn't matter to me!
+- I never cared about football
+	- As a kid, I just... I just didn't give a shit about football. Who knows why. Maybe by the 90s, it was less likely to capture my attention, compared to video games and Harry Potter. Maybe some kids are predisposed to loving sport because of... team spirit, loyalty, idk, and some kids are more... individualistic, averse to aligning themselves with a team, intellectual little nerds who think that supporting one team over another just because they're the team of your town is dumb, etc. Maybe I was too much of an only child, maybe if I had some brothers we'd bond over football, who knows. Anyway, it never clicked for me.
+	- I tried to care, a bit: I went to games with him, decked out my team scarf, yelling "come on you Brewers!" as instructed, having fun at being the centre of attention. But the act of watching the game - god, it's so dull. And it's cold, we're stood outside, and who cares who scores, who cares which team wins, I just don't get it. And cringing at the men in the stands who act as if they knew more than the referees, as if the players can hear their advice, as if anyone is impressed by the way they roleplay as the manager, strutting up and down, hollering, cajoling, despairing, etc. 
+## Music
+### I can imagine how exciting classic rock was to live through
+- Imagine you're born in the 1950s, your parents are from the silent generation, very conformist, very downtrodden. And then rock 'n' roll like, begins. You find the Beatles to be too twee, clearly aiming at their teenage girl fans (every song on their first 4 albums is "You're The Best Girlfriend Yeah Yeah Yeah"), you're not impressed even when they get more experimental. But then comes Black Sabbath, Led Zeppelin, Deep Purple, and holy shit, what IS this, this is so fucking NEW, so exciting, so electric. 
+- And then, when you're 45 and your son is 5, you're like fuck yeah, time to share my music with him. And he actually genuinely does love The White Stripes, the first band you introduce him to, a band who he deeply loves, listening to all them albums on repeat for what feels like years. But the classic rock, somehow he can sense how dated it is, the lustre is gone, it's 3 decades later, he doesn't care, really. 
+- And your son, he's not disagreeable, something in him makes it almost impossible for him to say "I don't like this thing" (be it football, or classic cars, or classic rock). So he sings along despite a feeling of hollowness with a lot of it. 
+### I strongly resonate with your very strong sense of musical taste
+- Because you loved stuff from the 70s and were very picky with your taste, you were not interested in a lot of the stuff I shyly tried to show you, dismissing it quickly, a habit from your own father that slipped out sometimes, which is understandable, I mean, who doesn't accidentally mirror their parents. 
+- E.g., I tried to show you The Voidz - "they're doing too much, it's complicated for no reason", which, yeah, they are kinda mad, fair. 
+- Same with Kendrick Lamar, my favourite artist - I actually didn't even bother, because that's also a lot. No 60-something working-class boomer is going to immediately love To Pimp a Butterfly, and we didn't have the kind of relationship that gave time for repeated listens, I can totally get how jarring and bad it'd sound
+- It's not that you didn't keep up with music, like I said, you liked The White Stripes, the Strokes, and you kept an eye on up-and-coming artists in the local scene, if they suited your taste.
+### My child won't be super excited about something from *my* zeitgeist and that's ok
+- It's like me showing my son the "Kendrick vs Drake" beef. He might be vaguely interested, but to be there as it was happening, to have been steeped in a decade of Kendrick and Drake and then have that happen, hits *so* different 
+- Something here on the difficulty on sharing something that is very of-the-zeitgeist. Very hard to share the zeitgeist with younger generations, things become a period-piece, quaint, etc
+### I want to do something like a 50/50 split with my kid
+- 99% stuff that my dad liked, 1% me. Ideal would be a more fair split, trying out each other's stuff
+- Take it in turns, earnestly try out the new stuff, stick with it. Like the [Turning the Tables](https://www.youtube.com/watch?v=xA1p3GSO-sI) youtube channel, which I know is a very high bar, those two have an awesome relationship
+### Some of it really hit
+- You put me onto The White Stripes, the first band I ever deeply loved!! 
+- You put me onto The Strokes, the second band I ever deeply loved!!!
+## I can see why cars were exciting
+- Cars were just way cooler in the 1960s/1970s. And then when you were in your 40s/50s, you could buy some of these cars that you loved as a teenager, which must have felt great
+- But yeah idk, something about caring about cars absolutely never clicked for me
+- We'd go to car shows at the local race track, watch them race, walk around and look at the cars, wow, look, this one is red, this one is silver, this one is fast, this one is... kind of cool, I suppose.
+# 2. It's a real shame that none of our interests lined up!
+- It's a genuine shame, bless us both
+- Oh man, I can't wait to go to football games with my son! → he doesn't give a shit about football
+- Oh man, I can't wait to listen to classic rock with my son! → he doesn't like most of it
+- Oh man, I can't wait to talk to my son about cars → he doesn't give a shit
+- Just an odd quirk of the universe, and we tried anyway!
+- The constant trying & not clicking shows constant care → we never threw up our hands and said "well, this clearly isn't working, forget it!", which is actually what my grandad said to me, in public. "He doesn't care about sport, he doesn't care about anything! [And by implication → I don't value him!"]". You didn't do that, you kept trying, even though it must have made you feel awkward and self-conscious, and sad to not be connecting with your son. 
+# 3. Our lack of aligned interests didn't diminish your love
+- Unlike my grandad who literally said that
+- You loved me regardless of our lack of shared interests, regardless of how awkward our connection was
+# 4. It was already a shame that we didn't have much in common and then the family got blown up
+- Perhaps we could have gone to football games, listened to music, gone to the pub, and perhaps with enough time together I'd grow to be able to say "I don't like this stuff, why don't we do this stuff instead", and we'd meet in the middle more 
+- But you and mum naively adopted a child and split up a year later, so all of these things because *extra* hard to care about, because you accidentally detonated a bomb and then split up and I'd only see you on the weekends, further straining our relationship. 
+- And now my home life is high conflict, my mum hates my sister, I'm hiding in my room, you're no longer in the house, and then oh hey it's the weekend, let's spend two days together with my adopted sister too. We already didn't have much to connect on, you already weren't very good at meeting me where *I* was at, and now things have just gotten 100x more complicated
+- So, it was already going to be an uphill battle, and it got much harder, lack of time, lack of connection

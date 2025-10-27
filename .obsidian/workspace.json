@@ -13,42 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/🪵 Log per day.md",
+                "file": "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis - same life story, different conclusions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🪵 Log per day"
-            }
-          },
-          {
-            "id": "8517b711f0f8b5b4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
-          },
-          {
-            "id": "13696f1830c223c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/1. Creating things/1. Writings/06. Cornflakes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06. Cornflakes"
+              "title": "Mythopoesis - same life story, different conclusions"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Creating things/1. Writings/06. Cornflakes.md",
+                "file": "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis - same life story, different conclusions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 06. Cornflakes"
+              "title": "Backlinks for Mythopoesis - same life story, different conclusions"
             }
           },
           {
@@ -177,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Creating things/1. Writings/06. Cornflakes.md",
+                "file": "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis - same life story, different conclusions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 06. Cornflakes"
+              "title": "Outline of Mythopoesis - same life story, different conclusions"
             }
           }
         ]
@@ -205,23 +178,33 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "13696f1830c223c3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "source/content/🪵 Log per day.md",
-    "source/content/1. Creating things/1. Writings/06. Cornflakes.md",
-    "source/content/2. Connecting with people/Feedback/Feedback, references.md",
-    "source/content/index.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis - what and why.md",
-    "source/content/📎 Files/1 - Images/misc/Mythopoesis - what and why-1761515738593.webp",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → rewriting the conclusion that \"I am boring\", + \"I don't have much to offer, I don't have any interests\".md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis and re-writing my life story (parent page).md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → \"my dad massively improved on the parenting that he received\".md",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis - same life story, different conclusions.md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → \"I am very unusual, and that's interesting\".md",
+    "source/content/📎 Files/1 - Images/misc/Mythopoesis → _I am very interesting_-1761566990752.webp",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → \"I have a huge amount to offer\".md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis and re-writing my life story (parent page).md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis - what and why.md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → \"me and my dad didn't connect easily but we kept trying because we loved each other\".md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/WIP → Mythopoesis → rewriting the conclusion that \"I was a loser in x era because of social anxiety.md",
+    "Mythopoesis → \"I am interesting, loved for other reasons, and intrinsically lovable\".md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → \"I have been loved by many people, and I love many people, and it's never about single traits\".md",
+    "source/content/2. Connecting with people/Feedback/Feedback, references.md",
+    "source/content/🪵 Log per day.md",
+    "source/content/5. Alex anthropology/Notes/On feedback.md",
+    "source/content/📎 Files/1 - Images/misc/On feedback-1761561281536.webp",
+    "source/content/📎 Files/1 - Images/misc/On feedback-1761561161530.webp",
+    "source/content/4. Thinking/Misc notes/How to make a website like this.md",
+    "source/content/1. Creating things/1. Writings/06. Cornflakes.md",
+    "source/content/index.md",
+    "source/content/📎 Files/1 - Images/misc/Mythopoesis - what and why-1761515738593.webp",
     "source/content/5. Alex anthropology/My Eras (index).md",
     "source/content/2. Connecting with people/Feedback/Post-it notes from the hippy retreat.md",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Enneagram 3w4.md",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Enneagram 3.md",
     "source/content/📎 Files/1 - Images/misc/Mythopoesis → rewriting the conclusion that _I am boring_, + _I don't have much to offer_, + _I don't have any interests_-1761493855588.webp",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → rewriting the conclusion that \"I was a loser in x era because of social anxiety.md",
     "source/content/5. Alex anthropology/Notes/Not wanting to talk.md",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis - a different life story.md",
     "source/content/📎 Files/1 - Images/misc/Mythopoesis and re-writing my life story (parent page)-1761487644632.webp",
@@ -231,18 +214,7 @@
     "source/content/📎 Files/1 - Images/misc/14. Gold prospecting-1761466789010.webp",
     "source/content/5. Alex anthropology/Notes/Morning pages 1 - on writing more.md",
     "source/content/1. Creating things/3. Misc notes/Morning Pages.md",
-    "source/content/4. Thinking/Misc notes/Obsidian third-party plugins.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Should I intentionally tweet better? 2025-10-24.md",
     "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761424560098.webp",
-    "source/content/📎 Files/1 - Images/misc/Should I intentionally tweet better_ 2025-10-24-1761424544305.webp",
-    "source/content/📎 Files/1 - Images/misc/Should I intentionally be better at tweeting etc_ 2025-10-24-1761329937582.webp",
-    "source/content/4. Thinking/Misc notes/Obsidian Guide - Phase 3 - Small quality of life things.md",
-    "source/content/4. Thinking/Misc notes/How to make a website like this.md",
-    "source/content/4. Thinking/How to learn/Notes/Learning techniques/Why an Obsidian-based website?.md",
-    "source/content/4. Thinking/Misc notes/Obsidian Publish vs Obsidian & Quartz.md",
-    "source/content/📎 Files/1 - Images/misc/Not wanting to talk-1761407262505.webp",
-    "source/content/1. Creating things/1. Writings/Writing - vignettes.md",
-    "source/content/2. Connecting with people/Misc notes/Misc thoughts on living at the EA Hotel 2025-10-24.md",
     "source/index.d.ts",
     "source/quartz.config.ts.sb-92c95949-4iiYyy",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)",
