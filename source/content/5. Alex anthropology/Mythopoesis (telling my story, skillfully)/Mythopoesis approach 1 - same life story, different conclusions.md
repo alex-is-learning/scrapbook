@@ -1,5 +1,8 @@
 - [[Mythopoesis (parent page)]]
 - [[Mythopoesis - what and why]]
+
+- 🚨 I need to make a high-level view of all my new stories/beliefs at some point! A cheat sheet, a list of this in a notebook to re-read daily, maybe?
+
 # Doing skillful mythopoesis
 - *I've been doing it my whole like, but unskillfully! Time to rewrite the conclusions I reached!*
 
@@ -11,11 +14,20 @@
 	- 👆 ✅
 3. "I am boring"
 	- [[Mythopoesis → "I am very unusual, and that's interesting"|"I am very unusual, and that's interesting"]]
-4. "I don't have much of value to offer"
+4. "My life has been a long list of missteps and failures"
+	- This is kind of the meta-story. Perhaps once I've finished the rest of these, I'll be able to create a new one?
+5. "I've been passive and clueless my whole life"
+	- [[Mythopoesis → "I've always known my preferences, and now I'm totally safe to live by them"]]
+	- [[Mythopoesis → "I've been high agency throughout my life"]]
+6. "It's bad that I was in a relationship from 15 to 26" (or something like that, it's more complex than that)
+	- [[Mythopoesis → "My relationship was wildly meaningful and I'm incredibly lucky to have had it"]]
+7. "I was deeply awkward and socially anxious and couldn't connect with people etc"
+	1. [[Mythopoesis → "I've connected with people throughout my life"]]
+8. "I don't have much of value to offer"
 	- [[Mythopoesis → "I have a huge amount to offer"|"I have a huge amount to offer"]]
-5. "I only matter if I'm interesting"
+9. "I only matter if I'm interesting"
 	- [[Mythopoesis → "I have been loved by many people, and I love many people, and it's never about single traits"]]
-6. "My life arc is dumb, mostly I've been a loser"
+10. "My life arc is dumb, mostly I've been a loser"
 	- My biggest failures have contained the seeds of my biggest wins (see the "I am very interesting" page for stuff on this)
 	- [[WIP → Mythopoesis → rewriting the conclusion that "I was a loser in x era because of social anxiety]]
 

@@ -32,9 +32,6 @@
 	- I think some of that stuff was useful, and has helped with executive function, but I don't think it was directionally correct, after some kind of minimum viable dose. But it started me on the journey! 
 	- I did humanistic talk therapy, it seemed to maybe do something, but not really enough, I kept searching. I tried to educate myself, I get a nonfiction book a week for a year, I got really into "learning how to learn" (which was actually useful!). This got me an insane job that 4x-d my salary, got me an insane bonus and eventually severance package that, even after giving half my net worth to my ex during our breakup, allowed me to live for ~3 years. And that job led to me discovering tpot and meeting mentors who changed my life in profound ways, etc. So, in retrospect I can just see the failures, just notice how oh god I read all those books and didn't retain any of it, but of course it was that exact insight that got me into learning how to learn, and that let me stumble into the amazing job which unlocked so many doors
 
-# I've been trying really hard, and the failures provide great data
-![[Mythopoesis → _I am very interesting_-1761566990752.webp]]
-
 # I'm an interesting weirdo dude
 - Let's
 
