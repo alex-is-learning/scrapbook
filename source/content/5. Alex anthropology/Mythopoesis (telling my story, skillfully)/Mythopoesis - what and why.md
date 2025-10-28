@@ -1,4 +1,4 @@
-- [[Mythopoesis and re-writing my life story (parent page)]]
+- [[Mythopoesis (parent page)]]
 # What is it
 - Really, it's "narrative therapy", but I find "mythopoesis" to sound cooler, lol
 - I stumbled across this [tweet](https://x.com/frideswyth/status/1739674619999625322) by Jess recently

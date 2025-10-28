@@ -5,8 +5,10 @@ permalink: log-per-day
 ## 05. October 2025
 - Mon 2025-10-27
 	- [["Shut up and write" session 1 - 2025-10-27]]
+	- [[Disagreeableness arc (2025-10-27)]]
+	- [[Ideal parent figure protocol session 2]]
 - Sun 2025-10-26
-	- [[Mythopoesis and re-writing my life story (parent page)]]
+	- [[Mythopoesis (parent page)]]
 	- [[Mythopoesis → "me and my dad didn't connect easily but we kept trying because we loved each other"]]
 - Sat 2025-10-25
 	- [[Twitter profile analysis via an app 2025-10-25]]

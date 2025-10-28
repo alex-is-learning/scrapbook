@@ -1,4 +1,6 @@
+- 2025-10-24
 - Related → [[14. Gold prospecting]]
+- Related → [[Disagreeableness arc (2025-10-27)]]
 # From EA hotel (2025-10-24)
 - From [[Misc thoughts on living at the EA Hotel 2025-10-24]]
 ## Often (always?) I don't want to talk in liminal spaces

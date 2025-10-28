@@ -18,9 +18,15 @@ permalink: home-page
 
 ---
 
+- What I'm doing
+	- 👇 currently at the Effective Altruism Hotel being the illegible post-rationalist guy
+	- ![[1761643022627.webp]]
+---
+
 - Also, sometimes I write [[Writing - vignettes|vignettes]] here!
 	- My favourites so far are [[01. To be a boomer|to be a boomer]], [[02. Don't be overwhelmed!|don't be overwhelmed]], [[06. Cornflakes|cornflakes]] and [[07. Travel day|travel day]]
 - [[Feedback, references]]
+- I am a part of the [[Tpot, post-rationalism]] community and I love it
 - I'm probably an [[Enneagram 3w4]]
 ---
 

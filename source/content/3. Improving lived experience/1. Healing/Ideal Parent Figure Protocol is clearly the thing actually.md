@@ -9,7 +9,7 @@
 - Check out this iconic tree from my childhood:
 	- ![[Ideal Parent Figure Protocol is clearly the thing actually-1761038717833.webp]]
 - What a perfect tree, right?? The bark is actually super slippery from thousands of kids climbing up it over decades, lol. It was really cool to visit this place (Calke Abbey) loads as I grew up and actually track my growth by how far up I could get - I remember being really young and not being able to get far, vs reaching the age where you're just like gg ez and walk up it with no hands like an absolute hero 
-- Anyway so my ideal father is Conan O'Brien and my ideal mother is Molly Weasley, lol. Both great parent archetypes who I've spent a decent amount of time with (probably 1000+ hours of Conan's podcast + youtube clips, and I read Harry Potter probably 20+ times as a kid)
+- Anyway so my ideal father was Conan O'Brien and my ideal mother was Molly Weasley, lol. Both great parent archetypes who I've spent a decent amount of time with (probably 1000+ hours of Conan's podcast + youtube clips, and I read Harry Potter probably 20+ times as a kid)
 - I received loving support from my ideal mother figure, and then my ideal father entered the scene and put his arm around my mother and there was this visceral sense of "woah, I've literally never experienced my parents loving each other before, that I can remember, this rules"
 ## Tableau 2 → ~15 year old me putting on a film to watch with my ideal parents 
 - At ~15 I fucking loved the film Scott Pilgrim, and in this tableau I imagined me and my ideal parents in the actual living room where I grew up, all on the same sofa with me in the middle, me getting ready to put on the film and feeling kinda nervous about it b/c I didn't know if they like it 

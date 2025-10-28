@@ -1,4 +1,4 @@
-- [[Mythopoesis - same life story, different conclusions]]
+- [[Mythopoesis approach 1 - same life story, different conclusions]]
 
 - What is the definition of "interesting"?
 - Here's one:

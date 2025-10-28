@@ -26,9 +26,15 @@
       "customTemplate": "{notename}-{timestamp}",
       "skipRenamePatterns": "",
       "conflictResolution": "increment"
+    },
+    {
+      "name": "Just timestamp",
+      "customTemplate": "{timestamp}",
+      "skipRenamePatterns": "",
+      "conflictResolution": "increment"
     }
   ],
-  "selectedFilenamePreset": "NoteName-Timestamp",
+  "selectedFilenamePreset": "Just timestamp",
   "outputFormat": "NONE",
   "quality": 100,
   "colorDepth": 1,
@@ -338,7 +344,7 @@
       }
     ]
   },
-  "isImageAlignmentEnabled": true,
+  "isImageAlignmentEnabled": false,
   "imageAlignment_cacheCleanupInterval": 3600000,
   "imageAlignment_cacheLocation": "plugin",
   "isDragResizeEnabled": true,
@@ -347,14 +353,14 @@
   "isResizeInReadingModeEnabled": false,
   "resizeSensitivity": 0.1,
   "scrollwheelModifier": "Shift",
-  "isImageResizeEnbaled": true,
+  "isImageResizeEnbaled": false,
   "resizeState": {
     "isResizing": false
   },
-  "enableContextMenu": true,
+  "enableContextMenu": false,
   "showSpaceSavedNotification": true,
   "revertToOriginalIfLarger": false,
-  "enableImageCaptions": true,
+  "enableImageCaptions": false,
   "skipCaptionExtensions": "icns",
   "captionFontSize": "var(--font-smaller)",
   "captionColor": "var(--text-gray)",

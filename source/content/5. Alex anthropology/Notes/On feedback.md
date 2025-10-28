@@ -1,3 +1,5 @@
+# Disagreeableness is a part of sincerity
+- [[Sasha Chapin post - disagreeableness is a part of sincerity]]
 # Supportive hard-ass
 - 2025-10-27 - I like this, and would love to receive more feedback from the right side of the graph
 	- ![[On feedback-1761561161530.webp]]

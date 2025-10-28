@@ -1,4 +1,4 @@
-- [[Mythopoesis - same life story, different conclusions]]
+- [[Mythopoesis approach 1 - same life story, different conclusions]]
 
 # 1. You shared your passions with me in order to connect, because you loved me
 - As I grew up, you met me the way that you could - by sharing your passions. 
@@ -34,19 +34,26 @@
 - You put me onto The Strokes, the second band I ever deeply loved!!!
 ## I can see why cars were exciting
 - Cars were just way cooler in the 1960s/1970s. And then when you were in your 40s/50s, you could buy some of these cars that you loved as a teenager, which must have felt great
-- But yeah idk, something about caring about cars absolutely never clicked for me
-- We'd go to car shows at the local race track, watch them race, walk around and look at the cars, wow, look, this one is red, this one is silver, this one is fast, this one is... kind of cool, I suppose.
-# 2. It's a real shame that none of our interests lined up!
+- You worked hard for decades and paid yourself a low wage to make sure the business was always very safe, and to save for retirement, so you didn't have a big flashy collection, you'd occasionally buy one old Lancia, probably each one costing less than £10,000, drive it for a few years, and always sell it after a while
+- [[My dad loved Lancias]]
+# 2. I probably never explicitly told you that I didn't care about these things
+- As a kid with poor theory of mind and a desire for attunement and also a dislike of hurting people's feelings, I didn't tell you that I didn't care about these things and instead hoped that you'd notice, or I guess, thought it was obvious, and that you were powering through anyway
+# 3. If I told you that I didn't care about these things, you probably would have changed your approach
+- If I said "I'm sorry dad, I know you love football and cars but they really just don't do anything for me", I don't believe that you would have said "well I don't care what you think, we'll keep going to football games and car shows anyway"
+- I think you would have said "ok what should we do instead"
+- There was a space where we could have e.g. watched more of the things that *I* wanted to watch (no more Laurel and Hardy!), played video games together, etc (sorry for being such an introverted kid lol, you can't exactly read Harry Potter together, really)
+- I didn't say that I didn't like your stuff, and I didn't say that I'd rather do x. I hoped you'd be an attuned mind reader. And perhaps you were pretty non-attuned. But perhaps also I was too good at faking enthusiasm! And perhaps you had a hunch that I didn't really have like, *the bug* for football and cars, I imagine it would've been pretty obvious that I wasn't like, super excited by this stuff. So we both could have done things differently here, but it's ok, we were both beginners
+# 3. It's a real shame that none of our interests lined up!
 - It's a genuine shame, bless us both
 - Oh man, I can't wait to go to football games with my son! → he doesn't give a shit about football
 - Oh man, I can't wait to listen to classic rock with my son! → he doesn't like most of it
 - Oh man, I can't wait to talk to my son about cars → he doesn't give a shit
 - Just an odd quirk of the universe, and we tried anyway!
 - The constant trying & not clicking shows constant care → we never threw up our hands and said "well, this clearly isn't working, forget it!", which is actually what my grandad said to me, in public. "He doesn't care about sport, he doesn't care about anything! [And by implication → I don't value him!"]". You didn't do that, you kept trying, even though it must have made you feel awkward and self-conscious, and sad to not be connecting with your son. 
-# 3. Our lack of aligned interests didn't diminish your love
+# 4. Our lack of aligned interests didn't diminish your love
 - Unlike my grandad who literally said that
 - You loved me regardless of our lack of shared interests, regardless of how awkward our connection was
-# 4. It was already a shame that we didn't have much in common and then the family got blown up
+# 5. It was already a shame that we didn't have much in common and then the family got blown up
 - Perhaps we could have gone to football games, listened to music, gone to the pub, and perhaps with enough time together I'd grow to be able to say "I don't like this stuff, why don't we do this stuff instead", and we'd meet in the middle more 
 - But you and mum naively adopted a child and split up a year later, so all of these things because *extra* hard to care about, because you accidentally detonated a bomb and then split up and I'd only see you on the weekends, further straining our relationship. 
 - And now my home life is high conflict, my mum hates my sister, I'm hiding in my room, you're no longer in the house, and then oh hey it's the weekend, let's spend two days together with my adopted sister too. We already didn't have much to connect on, you already weren't very good at meeting me where *I* was at, and now things have just gotten 100x more complicated
@@ -59,3 +66,4 @@
 - Might not care at all about writing, for example
 - Might not care at all about music
 - Might be born in the 2030s, raised in the 2040s, wildly different from being raised in the 2000s & 2010s. Different zeitgeist, concerns, ethics. (e.g., I read the Harpers "The Goon Squad" piece today, my god)
+- E.g., my dad showing me a lancia that he bought, "holy shit I loved this so much as a teenager and then I worked for decades and have been running my successful business and now I get to buy it, this is so a full circle moment for me, so much in this" and I'm a 10 year old or a 15 year old who doesn't get cars (and also you know, not an adult who can grok the profundity of the moment) so I'm just like "oh cool yeah this is a nice car", but it doesn't like, light a fire in my heart or anything

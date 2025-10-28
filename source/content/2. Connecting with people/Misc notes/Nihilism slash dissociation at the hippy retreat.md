@@ -46,3 +46,9 @@
 I went on some runs, mostly just chilled on my own, chatted with people a little bit at meal times but really followed my aliveness and lack thereof 
 
 Anyway idk, the end? **I want to get better at remembering my preferences**, but also I'm happy with the amount that I honoured my aliveness and lack thereof at the retreat, hell yeah 😎 
+
+--- 
+
+# It was too yin, barely any yang
+- Really like this old post by Sasha Chapin → [Self-Love Doesn't Require You to Become Huggy and Passive
+](https://sashachapin.substack.com/p/self-love-doesnt-require-you-to-become)

@@ -11,3 +11,5 @@ I don't think any third party plugins are essential
 
 ![[Obsidian third-party plugins-1761572568476.webp]]
 - 👆 I forget exactly how I did it, but I set it up to auto-convert all pasted images to .webp, and reduce the quality to 75% → this saves a huge amount of space, which is maybe probably useful, idk. Seems to be no noticable loss of image quality, maybe a little on screenshots. But e.g. check out [[Era 17 - "Life Itself" intentional community -> Kensho]], seems fine to me
+	- Screenshots look fairly shitty at 75% actually, e.g. see [[Not wanting to talk]]
+- Minor thing that I changed after a few months → Also, I recommend you change the filename renaming settings so that it just renamed pasted photos as the timestamp, not the note name + timestamp, as if the latter, if you have a file and paste 10 images into it, now your search to open new notes will show all of those when you're trying to find the file, it's a mess

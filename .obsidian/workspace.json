@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/1. Creating things/1. Writings/\"Shut up and write\" session 1 - 2025-10-27.md",
+                "file": "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis approach 1 - same life story, different conclusions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "\"Shut up and write\" session 1 - 2025-10-27"
+              "title": "Mythopoesis approach 1 - same life story, different conclusions"
+            }
+          },
+          {
+            "id": "22fd821591ebf621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → \"I am very unusual, and that's interesting\".md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mythopoesis → \"I am very unusual, and that's interesting\""
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Creating things/1. Writings/\"Shut up and write\" session 1 - 2025-10-27.md",
+                "file": "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → \"I am very unusual, and that's interesting\".md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for \"Shut up and write\" session 1 - 2025-10-27"
+              "title": "Backlinks for Mythopoesis → \"I am very unusual, and that's interesting\""
             }
           },
           {
@@ -150,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Creating things/1. Writings/\"Shut up and write\" session 1 - 2025-10-27.md",
+                "file": "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → \"I am very unusual, and that's interesting\".md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of \"Shut up and write\" session 1 - 2025-10-27"
+              "title": "Outline of Mythopoesis → \"I am very unusual, and that's interesting\""
             }
           }
         ]
@@ -178,44 +193,44 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "98d7371d08f179c9",
+  "active": "22fd821591ebf621",
   "lastOpenFiles": [
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis - what and why.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis and re-writing my life story (parent page).md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis - same life story, different conclusions.md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis approach 1 - same life story, different conclusions.md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → \"my dad massively improved on the parenting that he received\".md",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → \"me and my dad didn't connect easily but we kept trying because we loved each other\".md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis - a different life story.md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/My dad loved Lancias.md",
+    "source/content/📎 Files/1 - Images/misc/1761643768051.png",
+    "source/content/📎 Files/1 - Images/misc/1761643909528.webp",
+    "source/content/📎 Files/1 - Images/misc/1761643901255.webp",
+    "source/content/📎 Files/1 - Images/misc/1761643892354.webp",
+    "1761643828149.png",
+    "1761643843683.png",
+    "source/content/📎 Files/1 - Images/misc/1761643822216.png",
+    "source/content/📎 Files/1 - Images/misc/1761643814772.png",
+    "source/content/📎 Files/1 - Images/misc/1761643790817.png",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis (parent page).md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis approach 2 - a different life story.md",
+    "source/content/📎 Files/1 - Images/misc/1761643117407.webp",
+    "source/content/index.md",
+    "source/content/3. Improving lived experience/1. Healing/Ideal Parent Figure Protocol.md",
+    "source/content/4. Thinking/Misc notes/Obsidian third-party plugins.md",
+    "source/content/2. Connecting with people/Misc notes/Nihilism slash dissociation at the hippy retreat.md",
+    "source/content/5. Alex anthropology/Notes/Disagreeableness arc (2025-10-27).md",
+    "source/content/🪵 Log per day.md",
+    "source/content/3. Improving lived experience/1. Healing/Ideal Parent Figure Protocol is clearly the thing actually.md",
+    "source/content/5. Alex anthropology/Notes/On feedback.md",
+    "source/content/4. Thinking/Misc notes/Sasha Chapin post - disagreeableness is a part of sincerity.md",
+    "source/content/4. Thinking/Misc notes/03. Manifesto - \"Why I Should Learn the Socratic Method\".md",
+    "source/content/5. Alex anthropology/Notes/Not wanting to talk.md",
+    "source/content/2. Connecting with people/Misc notes/Misc thoughts on living at the EA Hotel 2025-10-24.md",
+    "source/content/5. Alex anthropology/Notes/tpot.md",
+    "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Tpot, post-rationalism.md",
     "source/content/1. Creating things/1. Writings/\"Shut up and write\" session 1 - 2025-10-27.md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis - what and why.md",
     "source/content/5. Alex anthropology/Notes/Morning pages 1 - on writing more.md",
     "source/content/1. Creating things/3. Misc notes/DFW/David Foster Wallace (parent page).md",
-    "source/content/4. Thinking/Misc notes/Obsidian third-party plugins.md",
     "source/content/5. Alex anthropology/Eras/Era 17 - \"Life Itself\" intentional community -> Kensho.md",
-    "source/content/📎 Files/1 - Images/misc/Obsidian third-party plugins-1761572568476.webp",
     "source/content/4. Thinking/Misc notes/How to make a website like this.md",
-    "source/content/index.md",
-    "source/content/📎 Files/1 - Images/misc/_Shut up and write_ session 1 - 2025-10-27-1761572315137.webp",
-    "source/content/5. Alex anthropology/Notes/On feedback.md",
-    "source/content/🪵 Log per day.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Should I intentionally tweet better? 2025-10-24.md",
-    "source/content/2. Connecting with people/Feedback/Feedback, references.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → \"my dad massively improved on the parenting that he received\".md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → \"I am very unusual, and that's interesting\".md",
-    "source/content/📎 Files/1 - Images/misc/Mythopoesis → _I am very interesting_-1761566990752.webp",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → \"I have a huge amount to offer\".md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/WIP → Mythopoesis → rewriting the conclusion that \"I was a loser in x era because of social anxiety.md",
-    "Mythopoesis → \"I am interesting, loved for other reasons, and intrinsically lovable\".md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → \"I have been loved by many people, and I love many people, and it's never about single traits\".md",
-    "source/content/📎 Files/1 - Images/misc/On feedback-1761561281536.webp",
-    "source/content/📎 Files/1 - Images/misc/On feedback-1761561161530.webp",
-    "source/content/1. Creating things/1. Writings/06. Cornflakes.md",
-    "source/content/📎 Files/1 - Images/misc/Mythopoesis - what and why-1761515738593.webp",
-    "source/content/5. Alex anthropology/My Eras (index).md",
-    "source/content/2. Connecting with people/Feedback/Post-it notes from the hippy retreat.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Enneagram 3w4.md",
-    "source/content/📎 Files/1 - Images/misc/Mythopoesis → rewriting the conclusion that _I am boring_, + _I don't have much to offer_, + _I don't have any interests_-1761493855588.webp",
-    "source/content/📎 Files/1 - Images/misc/Mythopoesis and re-writing my life story (parent page)-1761487644632.webp",
-    "source/content/📎 Files/1 - Images/misc/Mythopoesis and re-writing my life story-1761487221447.webp",
-    "source/content/📎 Files/1 - Images/misc/Mythopoesis and re-writing my life story-1761487076663.webp",
     "source/index.d.ts",
     "source/quartz.config.ts.sb-92c95949-4iiYyy",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)",

@@ -1,0 +1,5 @@
+- Just collecting things I've already said, but also, I've just stumbled across this old Sasha Chapin post that I haven't read before which looks very exciting and relevant:
+	- ![[Disagreeableness arc (2025-10-27)-1761576434554.webp]]
+	- [[Sasha Chapin post - disagreeableness is a part of sincerity]]
+	- Another Sasha post - [Self-Love Doesn't Require You to Become Huggy and Passive](https://sashachapin.substack.com/p/self-love-doesnt-require-you-to-become)
+- [[Not wanting to talk]]

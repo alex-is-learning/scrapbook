@@ -1,11 +1,14 @@
-- [[Mythopoesis and re-writing my life story (parent page)]]
+- [[Mythopoesis (parent page)]]
+- [[Mythopoesis - what and why]]
 # Doing skillful mythopoesis
 - *I've been doing it my whole like, but unskillfully! Time to rewrite the conclusions I reached!*
 
 1. "Me and my Dad had nothing in common and didn't connect, because I was boring"
 	- [[Mythopoesis → "me and my dad didn't connect easily but we kept trying because we loved each other"|"Me and my dad didn't connect easily but we kept trying because we loved each other"]]
+	- 👆 ✅ done
 2. "My Dad didn't live up to my expectations, wasn't attuned and emotionally mature etc"
 	- [[Mythopoesis → "my dad massively improved on the parenting that he received"|"My dad massively improved on the parenting that he received"]]
+	- 👆 ✅
 3. "I am boring"
 	- [[Mythopoesis → "I am very unusual, and that's interesting"|"I am very unusual, and that's interesting"]]
 4. "I don't have much of value to offer"
