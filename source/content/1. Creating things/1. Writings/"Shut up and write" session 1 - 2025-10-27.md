@@ -46,7 +46,7 @@
 1. To capture a moment from my life, in an evocative way, and give it *==a different ending==* (inspired by my recent coaching call with Mary)
 	- ![[_Shut up and write_ session 1 - 2025-10-27-1761572315137.webp]]
 
-2. Write a scene from my life, exactly how it happened, but with the ==wisdom of adult Alex==. E.g. as a teenager, key memory of being in car with my dad, us not connecting, key belief clicks into place of "it's my fault, I'm boring". Re-writing that story (as I'm doing over at [[Mythopoesis approach 1 - same life story, different conclusions]], but like, prettily, and in a way that can be shared, making it in a way even more real) would be really great IMO
+2. Write a scene from my life, exactly how it happened, but with the ==wisdom of adult Alex==. E.g. as a teenager, key memory of being in car with my dad, us not connecting, key belief clicks into place of "it's my fault, I'm boring". Re-writing that story (as I'm doing over at [[Mythopoesis 1 - same life story, different conclusions]], but like, prettily, and in a way that can be shared, making it in a way even more real) would be really great IMO
 #### Empathy/compassion
 1. Write from the perspective of another member of my family, to gain ==empathy== for them
 2. Write from the perspective of a friend, to gain empathy for their experience 

@@ -1,4 +1,4 @@
 - 2025-10-26
 - [[Mythopoesis - what and why]]
-- [[Mythopoesis approach 1 - same life story, different conclusions]]
+- [[Mythopoesis 1 - same life story, different conclusions]]
 - [[Mythopoesis approach 2 - a different life story]]

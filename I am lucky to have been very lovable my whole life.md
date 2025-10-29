@@ -1,5 +1,3 @@
-- [[Mythopoesis approach 1 - same life story, different conclusions]]
-
 ## I came from a high conflict household and probably had cPTSD so a band setting was hard (this is still too much of a victim framing IMO)
 - But I wasn't awkward in other places, with people I had knew for longer! 
 - Also there was IMO the awkwardness of like, I didn't care about being in a band really. I didn't care about the bass at all. I wasn't engaged at all. It felt similar to like, going on walks with my mum → "I guess I'll do this, I guess I have to", vs like e.g. cubs/scouts which I genuinely really enjoyed

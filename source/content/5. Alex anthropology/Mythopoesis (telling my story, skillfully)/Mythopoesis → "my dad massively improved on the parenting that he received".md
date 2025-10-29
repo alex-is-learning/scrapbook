@@ -1,4 +1,4 @@
-- [[Mythopoesis approach 1 - same life story, different conclusions]]
+- [[Mythopoesis 1 - same life story, different conclusions]]
 # 1. Zoomer values are very unlikely to be met by a boomer 
 - You were a working-class man from the 1950s, with difficult parents, kicked out of the house at 16, had many siblings, one who killed himself, another who was an alcoholic, another who cheated on his long-time wife and mother of his children and disappeared, etc. 
 - You worked hard and went from a man who made boxes in a factory to starting your own shipping/freighting company. You focused on the business, employed people, remained debt-free, continued following the football teams from your childhood, the music from your teenage years, saw your friends at the pub. Met my mum, had me at 40, life kept going 
@@ -40,3 +40,7 @@
 - Unlike your dad who was prickly and had no time for 1:1 time with his kids, you wanted to spend 1:1 time connecting with me, a prioritised this highly
 - You *tried* to connect, even if you weren't good at it, even if your tactics weren't very good (e.g. sharing the stuff that you loved (football, cars) without noticing that I didn't care about those things (and perhaps I hid it too well! I probably never *told you*!))
 	- [[Mythopoesis → "me and my dad didn't connect easily but we kept trying because we loved each other"]]
+
+# Did a really great job for a while 
+- My parents did really well for a while
+	- my parents fought entropy for a long time (and eventually started to succumb to it, as we all do sooner or later). That tweet of “meeting parents 8 years into a marathon” or whatevre. There’s no holidays from being a parent!

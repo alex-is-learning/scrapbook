@@ -1,5 +1,6 @@
-- [[Mythopoesis approach 1 - same life story, different conclusions]]
+- [[Mythopoesis 1 - same life story, different conclusions]]
 
+>Me and my dad didn't connect easily but we kept trying because we loved each other
 # 1. You shared your passions with me in order to connect, because you loved me
 - As I grew up, you met me the way that you could - by sharing your passions. 
 - "Won't it be deeply wonderful and meaningful to share my passions with my son? My dad was so uncaring, he kicked me out at 16, he didn't take time to try to connect with me. I'll take my son to football games, just the two of us. We'll go to car shows, we'll chat about football at the pub. It's going to be so fucking meaningful dude, I can't wait to have a son to share all this with"

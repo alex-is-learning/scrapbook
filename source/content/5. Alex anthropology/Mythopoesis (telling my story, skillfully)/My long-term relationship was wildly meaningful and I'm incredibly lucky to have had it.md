@@ -1,4 +1,4 @@
-- [[Mythopoesis approach 1 - same life story, different conclusions]]
+- [[Mythopoesis 1 - same life story, different conclusions]]
 
 
 - E.g., explaining my relationship history to Jono and his two friends, "oh it's lame because x", "huh, it's surprising to me that you think it's lame, I'd say that actually it's good/nice/etc"
