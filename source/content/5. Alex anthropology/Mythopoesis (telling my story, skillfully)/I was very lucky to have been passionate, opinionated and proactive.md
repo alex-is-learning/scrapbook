@@ -121,3 +121,33 @@ My underclass use video games
 The middle class get to like, have a nice family, so there's nothing to escape from 
 
 Making some kind of diagram b/c there's no satisfying stratification here that I'm aware of. Working class/middle class/upper class is far too coarse
+
+
+# 1. My interests weren't legible to my parents but were still *real*
+
+- My interests weren't legible to either parent
+- But they were still valid!
+- Not only did I sadly not like football/classic rock/cars, but also I liked introverted stuff that is kind of illegible (but then again, I could argue that football/classic rock/cars are totally illegible to me)
+- Ultimately, by some luck of the draw which probably happens a lot, I was very different from both parent. An intense introvert cherisher, almost autistic in how obsessed I would get with things, things that were illegible to them, and they didn't seem to have the willingness to try to engage
+## What I liked
+- Harry Potter. I was insanely obsessed with Harry Potter, I read it on repeat, non-stop, for years. Neither parent ever read it! This seems mad to me - how could you not want to see what the fuss was about, and to see if you could bond over it! 
+	- Huge disconnect → football dad, bookish son (reading a kids book series). Mum who doesn't read
+- Scott Pilgrim. I got really into this as a teenager, and it's very teenager-y
+- Video games → this is what gave me sanctuary in my high conflict home, and I'm very grateful to them. 
+- Writing → I discovered a real aptitude for writing
+## It's a shame that my parents didn't engage with my interests
+- Neither parent read Harry Potter; we could have read it together, watched the films!
+- Me and my dad could have played video games together, but alas, he wasn't interested, or at least, the thought didn't seem to cross his mind. I remember him having a go on my PS1 when he still lived with us and just not getting it. I think he hated being bad at things
+- Neither parent read or encouraged my writing from what I can remember
+
+- "I don't have much to offer/I don't have any interests"
+- This is downstream of my mum too, I think...? Because I spent more time with her, and she never made me feel boring, she made me feel illegible
+# 7. My interests are valid despite my parents not understanding them
+## What I have become 
+- I'm now 29, and the obsession with Harry Potter has of course subsided, but it morphed into other things over time, like e.g. an obsession with David Foster Wallace. Obsession with art (you may say HP isn't art, but you know) is a theme in my life. Harry Potter, the Metal Gear Solid series of video games (lol), Scott Pilgrim, then David Foster Wallace, Kendrick Lamar, Conan O'Brien, lesser obsessions (more like strong admirations) for e.g. Fiona Apple and D'Angelo. Albums that mean so much to me, albums that I cherish. Something that I haven't found a clean label for yet, but something around being deeply passionate about... I don't know what, individual artists who share themselves earnestly, or something, I don't know. I don't know what "type of guy" this makes me, this doesn't seem to be covered by the enneagram. "Deeply passionate about art, writing, music, rather than external things like... nature, holidays, sports, etc". 
+- Enneagram 3w4 → 	==3 core = build/achieve; 4 wing = depth, artistry, originality; result = “the producer/creator who wants the work to be both excellent and true.”==
+	- [[Enneagram 3w4]]
+- I think I'm very introverted, very like, focused on the *internal* world, like, the external world of football and cars makes no sense to me. So, there's a fundamental clash, and it's difficult for me to share this stuff
+
+
+# Superpowers

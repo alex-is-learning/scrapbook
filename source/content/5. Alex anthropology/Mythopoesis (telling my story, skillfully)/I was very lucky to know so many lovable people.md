@@ -13,6 +13,7 @@
 	- Alice C!
 	- Alice P!
 	- Attila!
+	- Elisa!
 	- Michael!
 	- Michelle!
 	- Simmo!
@@ -29,3 +30,4 @@
 	- Georgina!
 	- Ciaran!
 	- Rob!
+- Also like, mine and my ex's dog Moose. Didn't love him because he was interesting, loved him because he was a fuckin goof
