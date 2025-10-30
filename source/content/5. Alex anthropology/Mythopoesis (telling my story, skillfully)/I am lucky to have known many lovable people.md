@@ -1,0 +1,31 @@
+- [[Mythopoesis 1 - same life story, different conclusions]]
+- This started out as a reply to the "I am only loved if I am interesting" limiting belief. So, reflecting on all the people I've loved and *why*, and how it's not about single traits like *ever*
+
+- I love people for their them-ness, not because they have x quality. 
+- Really it's like, they're just, *great*, and themselves 
+	- James!
+	- Simon!
+	- Dan! 
+	- Irish James! 
+	- Tahira!
+	- Jess!
+	- Ellie!
+	- Alice C!
+	- Alice P!
+	- Attila!
+	- Michael!
+	- Michelle!
+	- Simmo!
+	- Stephanie!
+	- Tilly!!!
+	- Brent!
+	- Jono!
+	- Evelyn!
+	- Catherine!
+	- Jason!
+	- Carmen!
+	- Trish! 
+	- Johnson!
+	- Georgina!
+	- Ciaran!
+	- Rob!
