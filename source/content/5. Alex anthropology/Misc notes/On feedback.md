@@ -7,3 +7,5 @@
 # Encouragement vs criticism
 - ![[On feedback-1761561281536.webp]]
 	- [The tweet](https://x.com/nosilverv/status/1969357240847987179)
+- ![[1761896760529.webp]]
+	- [The tweet](https://x.com/callanable/status/1983911454823580029)

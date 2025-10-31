@@ -1,0 +1,2 @@
+
+Uni was very meaningful and not just about social anxiety, I had a lot of enjoyment, just introvert enjoyment that is easy to overlook. I loved spending all day in the library, I loved reading academic papers, I loved getting so into music, listening to childish gambino and drake etc on my walks into campus. I loved when damn came out holy shit . Fallout 4, dark souls 2 on ps3 and dark souls 3. I really enjoyed this time! Same with Albania - I was doing what I loved to do

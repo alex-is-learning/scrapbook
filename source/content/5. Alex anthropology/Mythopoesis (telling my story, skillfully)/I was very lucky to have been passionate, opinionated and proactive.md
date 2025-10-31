@@ -146,7 +146,7 @@ Making some kind of diagram b/c there's no satisfying stratification here that I
 ## What I have become 
 - I'm now 29, and the obsession with Harry Potter has of course subsided, but it morphed into other things over time, like e.g. an obsession with David Foster Wallace. Obsession with art (you may say HP isn't art, but you know) is a theme in my life. Harry Potter, the Metal Gear Solid series of video games (lol), Scott Pilgrim, then David Foster Wallace, Kendrick Lamar, Conan O'Brien, lesser obsessions (more like strong admirations) for e.g. Fiona Apple and D'Angelo. Albums that mean so much to me, albums that I cherish. Something that I haven't found a clean label for yet, but something around being deeply passionate about... I don't know what, individual artists who share themselves earnestly, or something, I don't know. I don't know what "type of guy" this makes me, this doesn't seem to be covered by the enneagram. "Deeply passionate about art, writing, music, rather than external things like... nature, holidays, sports, etc". 
 - Enneagram 3w4 → 	==3 core = build/achieve; 4 wing = depth, artistry, originality; result = “the producer/creator who wants the work to be both excellent and true.”==
-	- [[Enneagram 3w4]]
+	- [[Enneagram 3w4 (The Expert, The Professional)]]
 - I think I'm very introverted, very like, focused on the *internal* world, like, the external world of football and cars makes no sense to me. So, there's a fundamental clash, and it's difficult for me to share this stuff
 
 

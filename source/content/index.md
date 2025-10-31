@@ -22,12 +22,15 @@ permalink: home-page
 	- 👇 currently at the Effective Altruism Hotel being the illegible post-rationalist guy
 	- ![[1761643022627.webp]]
 ---
-
+## Writing
 - Also, sometimes I write [[Writing - vignettes|vignettes]] here!
 	- My favourites so far are [[01. To be a boomer|to be a boomer]], [[02. Don't be overwhelmed!|don't be overwhelmed]], [[06. Cornflakes|cornflakes]] and [[07. Travel day|travel day]]
 - [[Feedback, references]]
 - I am a part of the [[Tpot, post-rationalism]] community and I love it
-- I'm probably an [[Enneagram 3w4]]
+- I'm probably an [[Enneagram 3w4 (The Expert, The Professional)]]
+## Videos
+- I make goofy low-stakes youtube videos for a few months ~1 year ago
+- My fav is when I [said I'd make a song + video every day for 2025](https://www.youtube.com/watch?v=2zgnkjOvDEo&t=76s) and quit on like day 27 lol RIP
 ---
 
 - [[Creating things (parent page)]]
