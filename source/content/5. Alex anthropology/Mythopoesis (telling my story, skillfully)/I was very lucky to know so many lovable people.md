@@ -3,6 +3,7 @@
 
 - I love people for their them-ness, not because they have x quality. 
 - Really it's like, they're just, *great*, and themselves 
+- ![[1761915898674.webp]]
 	- James!
 	- Simon!
 	- Dan! 

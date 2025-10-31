@@ -8,34 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13b7f3110abcb5f2",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Enneagram 3.md",
+                "file": "source/content/🪵 Log per day.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enneagram 3"
+              "title": "🪵 Log per day"
             }
           },
           {
-            "id": "f05d1c44850c6ae4",
+            "id": "40705707afa8a970",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/5. Alex anthropology/Misc notes/The enneagram personality typing system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "The enneagram personality typing system"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fuel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Enneagram 3.md",
+                "file": "source/content/5. Alex anthropology/Misc notes/The enneagram personality typing system.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Enneagram 3"
+              "title": "Backlinks for The enneagram personality typing system"
             }
           },
           {
@@ -164,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Enneagram 3.md",
+                "file": "source/content/5. Alex anthropology/Misc notes/The enneagram personality typing system.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Enneagram 3"
+              "title": "Outline of The enneagram personality typing system"
             }
           }
         ]
@@ -192,44 +193,44 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "13b7f3110abcb5f2",
+  "active": "40705707afa8a970",
   "lastOpenFiles": [
-    "source/content/index.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Enneagram 3.md",
-    "source/content/1. Creating things/1. Writings/\"Shut up and write\" session 1 - 2025-10-27.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Enneagram 3w4 (The Expert, The Professional).md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to be born into my body.md",
     "source/content/5. Alex anthropology/Misc notes/The enneagram personality typing system.md",
+    "source/content/5. Alex anthropology/Misc notes/Aesthetics.md",
+    "source/content/📎 Files/1 - Images/1761950862264.webp",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Enneagram 3.md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to know so many lovable people.md",
+    "source/content/3. Improving lived experience/Fitness/\"How do I look after my body?\".md",
+    "source/content/5. Alex anthropology/Misc notes/Suffering is fuel.md",
+    "source/content/📎 Files/1 - Images/1761916017792.webp",
+    "source/content/📎 Files/1 - Images/1761916000007.webp",
+    "source/content/📎 Files/1 - Images/1761915898674.webp",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis 1 - same life story, different conclusions.md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to be so lovable.md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to have had the home life I did.md",
+    "source/content/🪵 Log per day.md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis (parent page).md",
+    "source/content/5. Alex anthropology/Misc notes/Human Design.md",
+    "source/content/5. Alex anthropology/Misc notes/A cool essay about my enneagram 3 nature.md",
+    "source/content/1. Creating things/2. Creating music/Cornflakes song 2025-09-09.md",
+    "source/content/📎 Files/2 - Audio/Songs/cornflakes-song.m4a",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Enneagram 3w4 (The Expert, The Professional).md",
     "source/content/5. Alex anthropology/Misc notes/Personality typing systems.md",
+    "source/content/4. Thinking/Misc notes/08. Enneagram 3 thinking sins.md",
+    "A cool essay 2025-10-31.md",
+    "source/content/index.md",
+    "source/content/1. Creating things/1. Writings/\"Shut up and write\" session 1 - 2025-10-27.md",
     "source/content/5. Alex anthropology/Misc notes/Manifesting Generator.md",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to enjoy every life era.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis 1 - same life story, different conclusions.md",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to have my life arc.md",
-    "source/content/🪵 Log per day.md",
     "source/content/5. Alex anthropology/Misc notes/On feedback.md",
     "source/content/📎 Files/1 - Images/misc/1761896760529.webp",
-    "source/content/2. Connecting with people/Feedback/Feedback, references.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis - \"isn't this gaslighting?\".md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to have had the home life I did.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to have been passionate, opinionated and proactive.md",
-    "source/content/4. Thinking/Misc notes/Wyrd.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to know so many lovable people.md",
     "source/content/📎 Files/1 - Images/misc/1761821111706.webp",
     "source/content/📎 Files/1 - Images/misc/1761819141341.webp",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to be born into my body.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to be so lovable.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky that my life arc has given me profound super-powers.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to have a lovely girlfriend from 15 to 26.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to have parents who massively improved upon the parenting they received.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to have a family who loved me a lot.md",
     "source/content/📎 Files/1 - Images/misc/1761820181685.webp",
     "source/content/📎 Files/1 - Images/misc/1761820181688.webp",
     "source/content/📎 Files/1 - Images/misc/1761820181686.webp",
-    "source/content/📎 Files/1 - Images/misc/1761820181687.webp",
-    "source/content/📎 Files/1 - Images/misc/1761820181684.webp",
-    "source/content/📎 Files/1 - Images/misc/1761819658110.webp",
-    "source/content/📎 Files/1 - Images/misc/1761819654225.webp",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis → \"my dad massively improved on the parenting that he received\".md",
-    "I am lucky to have had a Mum who loved me a lot.md",
     "source/index.d.ts",
     "source/quartz.config.ts.sb-92c95949-4iiYyy",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)",
@@ -238,7 +239,6 @@
     "source/content/5. Alex anthropology/untitled folder",
     "source/content/5. Alex anthropology/Misc notes",
     "source/content/5. Alex anthropology",
-    "source/content/📎 Files/2 - Audio/ML Episode 2.mp3",
-    "source/content/3. Improving lived experience/1. Healing"
+    "source/content/📎 Files/2 - Audio/ML Episode 2.mp3"
   ]
 }

@@ -3,7 +3,7 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 ## 05. October 2025
-- Tue 2025-10-29
+- Tue 2025-10-28
 	- [[Mythopoesis 1 - same life story, different conclusions]]
 - Mon 2025-10-27
 	- [["Shut up and write" session 1 - 2025-10-27]]

@@ -29,8 +29,9 @@ permalink: home-page
 - I am a part of the [[Tpot, post-rationalism]] community and I love it
 - I'm probably an [[Enneagram 3w4 (The Expert, The Professional)]]
 ## Videos
-- I make goofy low-stakes youtube videos for a few months ~1 year ago
-- My fav is when I [said I'd make a song + video every day for 2025](https://www.youtube.com/watch?v=2zgnkjOvDEo&t=76s) and quit on like day 27 lol RIP
+- I made goofy low-stakes youtube videos from Oct 2024 to Jan 2025 and it was fun as hell
+- A highlight is when I [said I'd make a song + video every day for 2025](https://www.youtube.com/watch?v=2zgnkjOvDEo&t=76s) and quit on like day 27 lol RIP. 
+	- Also, the song in this video is legit good?? Good for me dude 😎 
 ---
 
 - [[Creating things (parent page)]]
