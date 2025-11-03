@@ -7,6 +7,9 @@
 	- River Kenna's "[Mythopoetic Cognition is the Engine of Mind](https://innerwilds.blog/p/mythopoetic-cognition-is-the-engine)" (title is clunky/wordy/hard to grok as his stuff tends to be, post is pretty good)
 - David Chapman's post on vajrayana [yidam practice](# Yidams: a godless approach, naturally!) (aka deity yoga)
 	- ![[Mythopoesis and re-writing my life story-1761487221447.webp]]
+# "Your life is built on memes"
+- As Simon put it:
+	- Your life is essentially built on memes. Memes are easily repeatable phrases with a deep lore of meaning behind them. That is also what a spell is: You say it often enough and it actually starts forming your world.
 # What to do
 ## Telling your story skillfully
 - It's a good idea, when constructing your life story, to construct it skillfully

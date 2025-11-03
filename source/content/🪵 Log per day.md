@@ -3,6 +3,10 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 ## 05. October 2025
+- Mon 2025-11-03
+	- [["Shut up and write" session 2 - 2025-11-03]]
+- Fri 2025-10-31
+	- [[The enneagram personality typing system]]
 - Tue 2025-10-28
 	- [[Mythopoesis 1 - same life story, different conclusions]]
 - Mon 2025-10-27

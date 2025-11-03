@@ -26,6 +26,6 @@
 # 2025
 - WIP [[Era 21 - Making music & youtube videos at my mum's]]
 - WIP [[Era 22 - EA Hotel round 2 - Rationality Sprint]]
-- [[Era 23 - job hunting at my mum's, family therapy]]
-- [[Era 24 - Spain → Oxford → Germany]]
-- [[Era 25 - EA Hotel round 3]]
+- WIP [[Era 23 - job hunting at my mum's, family therapy]]
+- WIP [[Era 24 - Spain → Oxford → Germany]]
+- WIP [[Era 25 - EA Hotel round 3]]
