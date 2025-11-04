@@ -3,6 +3,8 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 ## 05. October 2025
+- Tue 2025-11-04
+	- [[Consensus-ism index]]
 - Mon 2025-11-03
 	- [["Shut up and write" session 2 - 2025-11-03]]
 - Fri 2025-10-31
@@ -15,7 +17,6 @@ permalink: log-per-day
 	- [[Ideal parent figure protocol session 2]]
 - Sun 2025-10-26
 	- [[Mythopoesis (parent page)]]
-	- [[Mythopoesis → "me and my dad didn't connect easily but we kept trying because we loved each other"]]
 - Sat 2025-10-25
 	- [[Twitter profile analysis via an app 2025-10-25]]
 	- [[Morning pages 1 - on writing more]]

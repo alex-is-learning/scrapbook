@@ -3,6 +3,7 @@
 	- [[Sasha Chapin post - disagreeableness is a part of sincerity]]
 	- Another Sasha post - [Self-Love Doesn't Require You to Become Huggy and Passive](https://sashachapin.substack.com/p/self-love-doesnt-require-you-to-become)
 - [[Not wanting to talk]]
+- [[Not caring about external things]]
 
 
 - 2025-10-29
