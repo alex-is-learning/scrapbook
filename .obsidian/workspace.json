@@ -8,52 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec02c21f4e5787de",
+            "id": "12f4f8f8d94dac0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis (parent page).md",
+                "file": "source/content/5. Alex anthropology/Albums per era/Era 3 - Middle School - Albums.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mythopoesis (parent page)"
-            }
-          },
-          {
-            "id": "c9d0450a1f3356cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/5. Alex anthropology/Albums I loved per era.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Albums I loved per era"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "2d15b462898f3a0e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8a7b998971338192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/5. Alex anthropology/My Eras (index).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "My Eras (index)"
+              "title": "Era 3 - Middle School - Albums"
             }
           }
         ]
@@ -130,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/5. Alex anthropology/Albums I loved per era.md",
+                "file": "source/content/5. Alex anthropology/Albums per era/Era 3 - Middle School - Albums.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Albums I loved per era"
+              "title": "Backlinks for Era 3 - Middle School - Albums"
             }
           },
           {
@@ -185,21 +150,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/5. Alex anthropology/Albums I loved per era.md",
+                "file": "source/content/5. Alex anthropology/Albums per era/Era 3 - Middle School - Albums.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Albums I loved per era"
+              "title": "Outline of Era 3 - Middle School - Albums"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,53 +178,52 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c9d0450a1f3356cf",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
     "source/content/5. Alex anthropology/My Eras (index).md",
+    "source/content/5. Alex anthropology/Albums per era",
+    "source/content/5. Alex anthropology/Albums per era/Era 25 - EA Hotel round 3 - albums.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 22 - EA Hotel round 2 - albums.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 21 - Making music & youtube vids at my mum's - albums.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 19 & 20 - Toronto - albums.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 18 - Divine Period (post-Kensho) - albums.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 17 - Life Itself - albums.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 16 - Albania, Barcelona, xmas at home - albums.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 15 - Asia - albums.md",
+    "source/content/5. Alex anthropology/Eras/Era 15 - Asia.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 13 & 14 - Breakup → Prague → Grandma's → Living in London for a few months - albums.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 12 - owned house - albums.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 11 - Rented house w girlfriend → COVID - albums.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 10 - Master's - Albums.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 9 - First job after uni - Albums.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 7 & 8 - Late Uni - Albums.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 6 - Early Uni - Albums.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 5 - Sixth Form - Albums.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 4 - High School - Albums.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 3 - Middle School - Albums.md",
     "source/content/5. Alex anthropology/Albums I loved per era.md",
-    "source/content/🪵 Log per day.md",
-    "source/content/3. Improving lived experience/1. Healing/So you want to learn about the post-rationalist \"healing\" space? (2025-11-10).md",
-    "source/content/4. Thinking/How to learn/Notes/Value of visual notes/🟣 Project - \"Are visual notes underrated and poorly understood?\".md",
+    "source/content/5. Alex anthropology/Alex anthropology (parent page).md",
+    "source/content/5. Alex anthropology/Albums per era/Era 24 - Spain → Oxford → Berlin + hippy retreat - albums.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 23 - Job hunting at my mum's, family therapy - albums.md",
+    "source/content/5. Alex anthropology/Eras/Era 19 - Arriving in Toronto.md",
+    "Era 11 - Rented house w",
     "source/content/📎 Files/1 - Images/misc/1762810159145.webp",
-    "source/content/4. Thinking/How to learn/Notes/Value of visual notes/Visual notes are a form of active learning.md",
-    "source/content/2. Connecting with people/Community/How to make an intentional community.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis (parent page).md",
-    "source/content/2. Connecting with people/Community/Rich Bartlett.md",
     "source/content/📎 Files/1 - Images/misc/1762801534158.webp",
     "source/content/📎 Files/1 - Images/misc/1762801682184.webp",
     "source/content/📎 Files/1 - Images/misc/1762801845458.webp",
     "source/content/📎 Files/1 - Images/misc/1762801727723.webp",
-    "source/content/2. Connecting with people/Misc notes/Ship It Week log.md",
-    "source/content/3. Improving lived experience/1. Healing/TRE (Trauma Release Exercises).md",
     "source/content/📎 Files/1 - Images/misc/1762801658945.webp",
     "source/content/📎 Files/1 - Images/misc/1762801562493.webp",
-    "source/content/2. Connecting with people/Community/Microsolidarity.md",
     "source/content/📎 Files/1 - Images/misc/Pasted image 20251110190439.png",
     "source/content/📎 Files/1 - Images/misc/Pasted image 20251110185858.png",
     "source/content/📎 Files/1 - Images/misc/community design.jpg",
     "source/content/2. Connecting with people/Community",
-    "source/content/2. Connecting with people/Community/Withholds.md",
-    "source/content/3. Improving lived experience/1. Healing/Enlightenment is possible.md",
-    "source/content/3. Improving lived experience/1. Healing/Ideal Parent Figure Protocol.md",
-    "source/content/3. Improving lived experience/1. Healing/Ideal Parent Figure Protocol is clearly the thing actually.md",
-    "source/content/3. Improving lived experience/1. Healing/Gendlin's Focusing.md",
-    "source/content/3. Improving lived experience/1. Healing/Deep Okayness.md",
-    "source/content/3. Improving lived experience/1. Healing/Jhanas.md",
-    "source/content/3. Improving lived experience/1. Healing/Jhourney meditation retreat.md",
-    "source/content/3. Improving lived experience/1. Healing/Existential Kink.md",
-    "source/content/3. Improving lived experience/1. Healing/Memory Reconsolidation.md",
-    "source/content/3. Improving lived experience/1. Healing/Lefkoe Belief Updating.md",
-    "source/content/3. Improving lived experience/1. Healing/Internal Family Systems therapy.md",
-    "source/content/3. Improving lived experience/1. Healing/Unlocking the Emotional Brain.md",
-    "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Tpot, post-rationalism.md",
     "source/content/2. Connecting with people/Coaching",
     "source/quartz.config.ts.sb-12fb2676-UQYIRu",
     "source/content/3. Improving lived experience/Consensus-ism",
     "source/content/📎 Files/2 - Audio/Songs/cornflakes-song.m4a",
     "source/index.d.ts",
     "source/quartz.config.ts.sb-92c95949-4iiYyy",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)",
-    "source/content/📎 Files/1 - Images/Eras photos",
-    "source/content/5. Alex anthropology/Eras"
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)"
   ]
 }

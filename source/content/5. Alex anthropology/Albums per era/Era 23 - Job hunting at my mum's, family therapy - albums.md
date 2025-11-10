@@ -1,0 +1,5 @@
+- Fontaines D.C. – Skinty Fia
+- Wet Leg - Moisturizer
+- Mannequin Pussy - I Got Heaven
+- Ego Death... Hayley Williams
+- Bay Faction - Thanks For Waiting 

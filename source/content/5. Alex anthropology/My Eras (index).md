@@ -1,7 +1,8 @@
 - [[Alex anthropology (parent page)]]
 - [[Why all the Alex anthropology bro?]]
+- [[Albums I loved per era]]
 
-- Era 1 – Before school
+- Era 1 – Before School
 - Era 2 – Primary School
 - Era 3 – Middle School
 - Era 4 – High School
