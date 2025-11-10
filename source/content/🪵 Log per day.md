@@ -5,6 +5,7 @@ permalink: log-per-day
 ## 06. November 2025
 - Mon 2025-11-10
 	- [[So you want to learn about the post-rationalist "healing" space? (2025-11-10)]]
+	- [[How to make an intentional community]]
 	- Made a website for coaching!
 		- https://alexislearning.me/coaching
 		- [[Coaching thoughts 2025-11-10]]

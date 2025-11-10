@@ -47,7 +47,10 @@
 - There are many crises happening simultaneously, very [Molochian](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 - We need to move beyond late-stage capitalism
 - This is very hard to do. There's not much money in this scene (unlike e.g. Effective Altruism) because thinking about how to improve the way the world is set up is... very difficult (complex systems, systems theory etc), intractable, speculative, etc
+	- I like this talk → [Cultural Co-Evolver: Frameworks, Skillsets, & Strategy for Embodied Action w/ Robert Gilman](https://www.youtube.com/watch?v=QYQK8m_EZLc)
 - Big names here are [Daniel Schmactenberger,](https://civilizationemerging.com/) maybe John Vervaeke.
+- [The Stoa](https://www.youtube.com/@thestoa) youtube channel
+- [Rebel Wisdom](https://www.youtube.com/@RebelWisdom) youtube channel
 - ["Game B" wiki](https://www.gameb.wiki/index.php?title=Game_B)
 - [The Listening Society](https://www.goodreads.com/book/show/36107916-the-listening-society) is a really good book on this topic. Talks about "meta-modernism", which is the thing to come after post-modernism (if we're lucky)
 ## Integral Theory
@@ -75,6 +78,10 @@
 		- (I know the "rationalists don't believe in emotinos!" thing is a bit of a strawman a la the "Straw Vulcan" from LessWrong)
 	- https://alexislearning.me/consensusism/1.-Layer-1/Feelings
 ## Intentional community and relational practices
+- [[How to make an intentional community]]
+	- Johnson: "What lineage, if any, do relational/communication practices like NVC or circling belong to? How long of history? Decades? Centuries? Millenia?"
+	- Rich: "uhoh extremely deep rabbit hole alert! you may enjoy this book written by my mentor billy matheson. it'll help you get oriented to the field" (book is "Gather Together" by William Matheson)
+		- (Twitter thread [here](https://x.com/RichDecibels/status/1666802694563188741?s=20))
 - Circling
 - Non-violent communication
 - Authentic Relating 
@@ -86,3 +93,4 @@
 
 # Open questions to return to 
 - How to make a community "intentional"? (This is something I'd like to learn more about too, so a perfect win/win for both of us)
+- FractalNYC and their spin-outs!

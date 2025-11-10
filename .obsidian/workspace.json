@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/3. Improving lived experience/1. Healing/So you want to learn about the post-rationalist \"healing\" space? (2025-11-10).md",
+                "file": "source/content/2. Connecting with people/Community/How to make an intentional community.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "So you want to learn about the post-rationalist \"healing\" space? (2025-11-10)"
+              "title": "How to make an intentional community"
+            }
+          },
+          {
+            "id": "8a7b998971338192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/🪵 Log per day.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🪵 Log per day"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "romeo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/3. Improving lived experience/1. Healing/So you want to learn about the post-rationalist \"healing\" space? (2025-11-10).md",
+                "file": "source/content/2. Connecting with people/Community/How to make an intentional community.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for So you want to learn about the post-rationalist \"healing\" space? (2025-11-10)"
+              "title": "Backlinks for How to make an intentional community"
             }
           },
           {
@@ -150,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/3. Improving lived experience/1. Healing/So you want to learn about the post-rationalist \"healing\" space? (2025-11-10).md",
+                "file": "source/content/2. Connecting with people/Community/How to make an intentional community.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of So you want to learn about the post-rationalist \"healing\" space? (2025-11-10)"
+              "title": "Outline of How to make an intentional community"
             }
           }
         ]
@@ -178,10 +192,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ec02c21f4e5787de",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/3. Improving lived experience/1. Healing/Enlightenment is possible.md",
+    "source/content/📎 Files/1 - Images/misc/Pasted image 20251110185858.png",
+    "source/content/📎 Files/1 - Images/misc/community design.jpg",
+    "source/content/📎 Files/1 - Images/misc/Pasted image 20251110183127.png",
+    "source/content/2. Connecting with people/Community/How to make an intentional community.md",
     "source/content/3. Improving lived experience/1. Healing/So you want to learn about the post-rationalist \"healing\" space? (2025-11-10).md",
+    "source/content/📎 Files/1 - Images/misc/IC 2.jpg",
+    "source/content/2. Connecting with people/Community",
+    "source/content/2. Connecting with people/Community/Withholds.md",
+    "source/content/🪵 Log per day.md",
+    "source/content/3. Improving lived experience/1. Healing/Enlightenment is possible.md",
     "source/content/3. Improving lived experience/1. Healing/Ideal Parent Figure Protocol.md",
     "source/content/3. Improving lived experience/1. Healing/Ideal Parent Figure Protocol is clearly the thing actually.md",
     "source/content/3. Improving lived experience/1. Healing/Gendlin's Focusing.md",
@@ -201,7 +223,6 @@
     "source/content/3. Improving lived experience/1. Healing/Unlocking the Emotional Brain.md",
     "source/content/📎 Files/1 - Images/misc/1762787840034.webp",
     "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Tpot, post-rationalism.md",
-    "source/content/🪵 Log per day.md",
     "source/content/4. Thinking/Misc notes/Tactically clever, strategically stupid.md",
     "source/content/2. Connecting with people/Coaching/Coaching thoughts 2025-11-10.md",
     "source/content/2. Connecting with people/Coaching/Coaching feedback Feb 2024.md",
@@ -210,21 +231,14 @@
     "source/content/index.md",
     "source/docs/plugins/index.md",
     "source/quartz.config.ts.sb-12fb2676-UQYIRu",
-    "source/content/📎 Files/1 - Images/misc/1762538592038.webp",
-    "source/content/📎 Files/1762538592038.webp",
-    "source/content/1762538592038.webp",
     "source/content/5. Alex anthropology/Misc notes/Not wanting to talk.md",
     "source/content/5. Alex anthropology/Misc notes/Disagreeableness arc (2025-10-27).md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/My dad loved Lancias.md",
-    "source/content/2. Connecting with people/Misc notes/It's possible that community could obviously be the thing for me (2025-08-28).md",
-    "source/content/3. Improving lived experience/Consensus-ism/Consensus-ism index.md",
     "source/content/3. Improving lived experience/Consensus-ism",
     "source/content/📎 Files/2 - Audio/Songs/cornflakes-song.m4a",
     "source/index.d.ts",
     "source/quartz.config.ts.sb-92c95949-4iiYyy",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)",
     "source/content/📎 Files/1 - Images/Eras photos",
-    "source/content/5. Alex anthropology/Eras",
-    "source/content/5. Alex anthropology/untitled folder"
+    "source/content/5. Alex anthropology/Eras"
   ]
 }
