@@ -11,7 +11,9 @@
 - 4th path (full enlightenment, arahantship) → you drop the rest of the fetters
 - See the chapter in his book for more info
 # People aiming at enlightenment
-- [Zen and the art of speedrunning enlightenment](https://psychotechnology.substack.com/p/zen-and-the-art-of-speedrunning-enlightenment)
+- Blog post →[Zen and the art of speedrunning enlightenment](https://psychotechnology.substack.com/p/zen-and-the-art-of-speedrunning-enlightenment) → in this blog post he talks about how enlightenment was actually lost for hundreds of years, because of a mis-understanding where buddhists believes you had to sharpen your concentration (shamatha) before you could do insight (vipassana) practice, which is what leads to enlightenment. And then someone realised, hang on, you can actually just do vipassana (e.g. body scanning), because that sharpens your concentration (shamatha) anyway. D'oh
+	- He also makes the point that if the Buddha was alive now, he'd be doing all kinds of wacky shit, psychedelics, brain imaging devices, who knows. He wouldn't be following dogma like a lil dweeb
+	- Also this reminds me of the thing where the Buddha's teachings (Therevada buddhism, the oldest) are seen as less "complete"/good/efficient by future schools (Mahayana and Vajryana). So Buddhism does have some cool like "ok the OG was a cool guy but we've innovated on him" stuff built in 
 ## Fetters people
 - So, as above, each stage involves dropping (or weakening) fetters
 - So, in the last ~1 year, a few coaches have popped up who help you directly drop the fetters

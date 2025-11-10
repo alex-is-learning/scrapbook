@@ -1,4 +1,5 @@
 - 2025-11-10
+- *Note that I did this in around 90 mins of work, and I have way more in my head, and way more useful links/people I could connect you with, if you have an interest in any of this (E.g. "do you know a therapist/coach who could do x modality with me?". Email me at alexiscreatingthings@gmail.com if you don't have my contact details!*
 # Intro
 - I have a friend who is involved in the Effective Altruist mental health space
 - So, he knows about e.g. CBT and cost-effective scalable interventions, but he doesn't know about the vague space that could be called:
@@ -48,16 +49,30 @@
 - Big names here are [Daniel Schmactenberger,](https://civilizationemerging.com/) maybe John Vervaeke.
 - ["Game B" wiki](https://www.gameb.wiki/index.php?title=Game_B)
 - [The Listening Society](https://www.goodreads.com/book/show/36107916-the-listening-society) is a really good book on this topic. Talks about "meta-modernism", which is the thing to come after post-modernism (if we're lucky)
+# Integral Theory
+- Theory developed by Ken Wilbur which maps humanity's development into different stages
+- This is a meta-crisis-y/post-rationalist-y thing, to think about how to further humanity, how to move to higher levels of development/consciousness
+- Spiral dynamics is the classic model/diagram here, with colours for each stage of development. Let's see if I can remember them from the old flashcards I made. 
+	- Purple (ritual, animism) → red (violence, domination, war) → blue (law and order, religion) → orange (rationalism, science) → green (the environment and shit?) → yellow → turquoise
+	- https://en.wikipedia.org/wiki/Spiral_Dynamics
+	- Each one has key flaws, and to move up a stage is to keep all the wisdom from the previous stages
 # Integral Altruism
-- London-based community blending meta-crisis-y, Ken Wilbur-y (as he's the Integral Theory guy) stuff with Effective Altruism (which, the main critique I'm aware of for EA is that it kind of can't aim at things like improving the way the world works (a la the book "The Listening Society") because stuff like that is of course not cost-effective or tractable
+- London-based community blending meta-crisis-y, Ken Wilbur-y (as he's the Integral Theory guy) stuff with Effective Altruism (which, the main critique I'm aware of for EA is that it kind of can't aim at things like improving the way the world works (a la the book "[The Listening Society](https://www.goodreads.com/book/show/36107916-the-listening-society)") because stuff like that is of course not cost-effective or tractable
 # Essential concepts
 - *WIP*
 - Adult development
 	- Kegan stages → Robert Kegan, developmental psychologist. Piaget was the genius of child development, but his framework stops at 18, "then you become an adult, the end". Kegan developed a model of 5 stages. He says that 60% of adults get stuck at the teenage state of mind for their entire lives (stage 3, "the socialised mind".) Then there's stage 4 (self-authoring mind), and tbh I don't understand stage 5. I think I got to stage 4 in the last ~6 months (November 2025 Alex here). 
-- Predictive processing & memory reconsolidation (see Scott Alexander)
+- Predictive processing & memory reconsolidation and the Bayesian Brain
+	- We hallucinate our reality, we are our world model. We can have limiting beliefs, strong "priors" that are frankly dumb
+	- Shamil Chandaria is the absolute GOAT here. His lecture → [The Bayesian Brain and Meditation](https://www.youtube.com/watch?v=WWaYKsUhXqg)
+	- Scott Alexander → [Mental Mountains](https://www.lesswrong.com/posts/JJFphYfMsdFMuprBy/mental-mountains)
+	- Scott Alexander → [Predictive Processing](https://slatestarcodex.com/2017/09/06/predictive-processing-and-perceptual-control/)
 - "Feel your feelings"
 	- Sasha blog post → "[Acting like emotions don't exist is a poor strategy](https://sashachapin.substack.com/p/acting-like-emotions-dont-exist-is)"
-- The Bayesian Brain
+- The importance of emotions
+	- Even the rationalists are discovering this, e.g. "[Generalized Hangriness: A Standard Rationalist Stance Toward Emotions](https://www.lesswrong.com/posts/naAeSkQur8ueCAAfY/generalized-hangriness-a-standard-rationalist-stance-toward)"
+		- (I know the "rationalists don't believe in emotinos!" thing is a bit of a strawman a la the "Straw Vulcan" from LessWrong)
+	- https://alexislearning.me/consensusism/1.-Layer-1/Feelings
 # Intentional community and relational practices
 - Circling
 - Non-violent communication
