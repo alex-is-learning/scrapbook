@@ -1,4 +1,4 @@
-## 1. Childhood
+# 1. Childhood
 - The White Stripes - my first musical love, thanks Dad!!!
 	1. **The White Stripes – The White Stripes**
 	2. **The White Stripes – De Stijl**
@@ -6,7 +6,7 @@
 	4. **The White Stripes – Elephant**
 	5. **The White Stripes – Get Behind Me Satan**
 	6. **The White Stripes – Icky Thump**
-## 2. High School
+# 2. High School
 - There was a whole iTunes and Limewire era when Spotify didn't exist yet, don't forget this!!! iPod Nano 4th generation, shout out
 - Daft Punk - Discovery → I remember listening to this 
 - Slipnot
@@ -17,7 +17,7 @@
 - Jack Johnson – On and On
 - Jack Johnson – In Between Dreams
 - Jamie Cullum! 
-## 3. Sixth Form 
+# 3. Sixth Form 
 - Various Artists - Scott Pilgrim vs. The World (Original Soundtrack)
 	- Or was this high school?
 - The Smashing Pumpkins – Mellon Collie and the Infinite Sadness
@@ -57,7 +57,7 @@
 ### Alt J
 2. **alt-J – This Is All Yours**
 3. **alt-J – An Awesome Wave**
-## 4. Early Uni
+# 4. Early Uni
 - Tame Impala – Currents
 ### Discovering rap!
 - Childish GAminbo's "Because the Internet" was the first rap album I *really* loved
@@ -87,7 +87,7 @@
 - 4. **Anderson .Paak – Malibu**
 ### Everything Everything
 6. **Everything Everything – Get to Heaven**
-## 5. Late Uni
+# 5. Late Uni
 - DAMN coming out!!!! 
 	- My first new Kendrick release as a huge fan. Super super exciting, kinda an anticlimax
 ### Radiohead
@@ -125,7 +125,7 @@
 - Burial – Untrue
 	- I seriously don't know if I listening to this on the way home from a night out at uni where I left the club early, or if that's just like, a meme, that Burial is perfect "walking home at night in the rain" music...
 - American Football – American Football (LP1, 1999)
-## 6. First job after uni
+# 6. First job after uni
 > What having a car and commuting to work every day does to a motherfucker. Man I miss having a car to listen to music to in
 
 1. **Oxbow – Thin Black Duke**
@@ -179,7 +179,8 @@
 - Flyte – The Loved Ones
 - Ought – Sun Coming Down
 - Ought – Room Inside the World
-## 7. Master's
+- Kali Uchis - Isolation
+# 7. Master's
 - Anderson .Paak – Ventura
 - Little Simz – GREY Area
 - Solange – A Seat at the Table
@@ -212,9 +213,9 @@
 - Lana Del Rey - Norman Fucking Rockwell
 - Bon Iver - i,i
 - Danny Brown - XXX
-- HAIM - Women In Music Pt. IIpI
+- HAIM - Women In Music Pt. III
 ## To process next
-## 8. Rented house w/ girlfriend → COVID
+# 8. Rented house w/ girlfriend → COVID
 - Magdalene by FKA Twigs
 ### The Beatles!!!!
 - Awesome lockdown project, listened to every The Beatles album
@@ -298,7 +299,7 @@
 - Charli XCX – CRASH
 - Anna von Hausswolff – All Thoughts Fly
 - Mac DeMarco – Another One
-## 10. Breakup → Prague → Grandma's → Living in London for a few months
+# 10. Breakup → Prague → Grandma's → Living in London for a few months
 - Cheekface – Too Much to Ask
 - Skrillex – Quest for Fire
 - Paramore – This Is Why
@@ -313,7 +314,7 @@
 - The Beths – Expert in a Dying Field
 - My Bloody Valentine – loveless
 - JPEGMAFIA – SCARING THE HOES
-## 11. Asia
+# 11. Asia
 - Djo – DECIDE
 - 100 gecs – 10,000 gecs
 - illuminati hotties – FREE I.H.: This Is Not the One You’ve Been Waiting For
@@ -332,7 +333,7 @@
 - Charli XCX – Speed Drive (From Barbie)
 - Bombay Bicycle Club – My Big Day
 - c0ncernn – Grave Robbing
-## Idk, misc adulthood
+# Idk, misc adulthood
 - Everything Everything – Raw Data Feel
 - Kendrick Lamar – Mr. Morale & the Big Steppers
 - Kendrick Lamar – The Heart Part 5 (single)
@@ -345,7 +346,7 @@
 - Injury Reserve – By the Time I Get to Phoenix
 - Amaarae – Fountain Baby
 	- Remember listening to this in Saudi Arabia during an insane layover that involved getting a bunch of public transport
-## 12. Albania
+# 12. Albania
 > This is where I think I *really* started to listen to way more podcasts
 
 
@@ -362,18 +363,18 @@
 
 
 - Charli XCX – BRAT
-## 1? Barcelona
+# 1? Barcelona
 - Anamanaguchi – Scott Pilgrim Takes Off (Original Soundtrack)
-## 1? Life Itself
+# 1? Life Itself
 - Everything Everything – Mountainhead
 - Brittany Howard – What Now
 - Future Islands – People Who Aren’t There Anymore
 - Baby Keem – The Hillbillies (single, w/ Kendrick Lamar)
 - Ariana Grande – yes, and?
-## 1? Holy period (or whatever I called it)
+# 1? Holy period (or whatever I called it)
 - Adrianne Lenker – Bright Future
 - Another Michael – Wishes to Fulfill
-## 1? Toronto
+# 1? Toronto
 - Vince Staples – Dark Times
 - Kendrick Lamar – meet the grahams (single)
 - Kendrick Lamar – euphoria (single)
@@ -385,18 +386,17 @@
 - Alex G – God Save the Animals
 - Yeah Yeah Yeahs – Fever To Tell
 - Remi Wolf – Big Ieas
-## 1? EA Hotel round 2
+# 1? EA Hotel round 2
 - Bob Dylan - Blood on the Tracks
-## 1? Back at my mums, making vids & songs
+# 1? Back at my mums, making vids & songs
 - Fontaines D.C. – Skinty Fia
 - Wet Leg - Moisturizer
 - Mannequin Pussy - I Got Heaven
 - Ego Death... Hayley Williams
 - Bay Faction - Thanks For Waiting
-## 1? Berlin + hippy retreat 
+# 1? Berlin + hippy retreat 
 - Geese - Getting Killed
 - Cameron Winter - Heavy Metal
-
 
 # Appendix
 huge huge huge shoutout to Anthony Fantano

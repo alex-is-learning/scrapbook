@@ -34,7 +34,14 @@
               "icon": "lucide-file",
               "title": "Albums I loved per era"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2d15b462898f3a0e",
+        "type": "tabs",
+        "children": [
           {
             "id": "8a7b998971338192",
             "type": "leaf",
@@ -49,8 +56,7 @@
               "title": "My Eras (index)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,8 +217,8 @@
   "active": "c9d0450a1f3356cf",
   "lastOpenFiles": [
     "source/content/5. Alex anthropology/My Eras (index).md",
-    "source/content/🪵 Log per day.md",
     "source/content/5. Alex anthropology/Albums I loved per era.md",
+    "source/content/🪵 Log per day.md",
     "source/content/3. Improving lived experience/1. Healing/So you want to learn about the post-rationalist \"healing\" space? (2025-11-10).md",
     "source/content/4. Thinking/How to learn/Notes/Value of visual notes/🟣 Project - \"Are visual notes underrated and poorly understood?\".md",
     "source/content/📎 Files/1 - Images/misc/1762810159145.webp",
