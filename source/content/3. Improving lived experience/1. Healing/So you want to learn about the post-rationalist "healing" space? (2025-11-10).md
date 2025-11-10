@@ -34,7 +34,7 @@
 - Coherence Therapy → sounds arguably more efficient than IFS? It's Bruce Ecker's thing, see [[Memory Reconsolidation]]
 - Core Transformation → Theo (the person I did IFS with, see [[Internal Family Systems therapy]]) also blends this in sometimes. Key tpot figure Romeo Stevens highly highly recommends CT
 - [[Existential Kink]] → Sasha Chapin talks about this as a key part of his reaching [[Deep Okayness]] 
-- TRE (Trauma Release Exercises)
+- [[TRE (Trauma Release Exercises)]]
 # 3. Buddism, meditation, enlightenment
 - Buddhism is a big part of the tpot/post-rationalist scene
 - One thing that I think a lot of people forget is that [[Enlightenment is possible]]

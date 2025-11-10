@@ -1,5 +1,6 @@
 - [[Gathering what people shipped at Ship It Week]]
 - [[On connecting with people more]]
+- [[Rich Bartlett]]
 ## During "Ship It Week"
 - Wednesday 2025-09-03
 	- ==Substack== post - [Becoming angry](https://alexislearning.substack.com/p/wednesday-at-ship-it-week) (substack post)
