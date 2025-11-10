@@ -1,0 +1,5 @@
+- The term was coined, I believe, by [[Sasha Chapin]]
+- Sasha posts
+	- His blog post from Jan 2022 → "[How I Attained Persistent Self-Love, or, I Demand Deep Okayness For Everyone](https://sashachapin.substack.com/p/how-i-attained-persistent-self-love)"
+	- A month later → [A Few Dispatches from Okayland](https://sashachapin.substack.com/p/a-few-dispatches-from-okayland)
+	- [Enlightenment](https://sashachapin.substack.com/p/enlightenment)

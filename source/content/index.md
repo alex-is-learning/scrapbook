@@ -9,6 +9,8 @@ permalink: home-page
 ---
 
 - 👋 A chronological view of my digital scrapbook posts → [[🪵 Log per day]] 
+- A work-in-progress guide to the thing I've dubbed "==consensus-ism==" which changed my life:
+	- https://alexislearning.me/consensusism/
 - A chronological view of my life → [[My Eras (index)]]
 - Insight into what I care about via my tweets → [[Twitter profile analysis via an app 2025-10-25]]
 ---

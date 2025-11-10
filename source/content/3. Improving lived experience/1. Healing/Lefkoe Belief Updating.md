@@ -1,0 +1,3 @@
+- Recommended to me by the rationalist coach [Trinley Goldenberg](https://x.com/mattgoldenberg)
+- An efficient way to update limiting beliefs - uses [[Memory Reconsolidation]]
+- ![[Lefkoe.jpg]]

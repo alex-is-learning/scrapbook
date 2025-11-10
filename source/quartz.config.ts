@@ -2,7 +2,7 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Alex is Learning (To Think) Configuration
+ * "scrapbook" configuration
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */

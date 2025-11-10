@@ -6,7 +6,7 @@
 # The infrastructure I use
 - [[Why an Obsidian-based website?]]
 - [[Obsidian Publish vs Obsidian & Quartz]]
-- I followed this guide by Defender of Basic: "[Host your Obsidian notebook on GitHub Pages for free](https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1)"
+- ==I followed this guide by Defender of Basic==: "[Host your Obsidian notebook on GitHub Pages for free](https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1)"
 # Obsidian
 - [[Obsidian Guide - Phase 1 - A pretty writing space]]
 - [[Obsidian Guide - Phase 2 - A slightly more intentional infrastructure]]

@@ -2,11 +2,20 @@
 permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
-## 05. October 2025
+## 06. November 2025
+- Mon 2025-11-10
+	- [[So you want to learn about the post-rationalist "healing" space? (2025-11-10)]]
+	- Made a website for coaching!
+		- https://alexislearning.me/coaching
+		- [[Coaching thoughts 2025-11-10]]
+- Fri 2025-11-07
+	- Made a website for consensus-ism!! 
+		- https://alexislearning.me/consensusism/
 - Tue 2025-11-04
 	- [[Consensus-ism index]]
 - Mon 2025-11-03
 	- [["Shut up and write" session 2 - 2025-11-03]]
+## 05. October 2025
 - Fri 2025-10-31
 	- [[The enneagram personality typing system]]
 - Tue 2025-10-28

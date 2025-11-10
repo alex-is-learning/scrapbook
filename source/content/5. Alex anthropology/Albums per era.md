@@ -6,6 +6,8 @@
 	4. **The White Stripes – Elephant**
 	5. **The White Stripes – Get Behind Me Satan**
 	6. **The White Stripes – Icky Thump**
+# NOTE
+- There was a whole iTunes and Limewire era when Spotify didn't exist yet, don't forget this!!! iPod Nano 4th generation 
 ## 2. Sixth Form 
 ### Loving music recommended by my girlfriend
 1. **John Mayer – Continuum**

@@ -29,3 +29,6 @@
 - I actually made a video about this lol, apologies about the mouth noises and giant spot on my forehead
 	- https://www.youtube.com/watch?v=RahrbShfqxU
 - Also, am I this kid from [Retail Therapy](https://www.youtube.com/shorts/xr_43Ot93Ec) that makes Charli XCX cry?
+
+
+![[1762538592038.webp]]

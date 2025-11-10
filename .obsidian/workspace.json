@@ -13,47 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/🪵 Log per day.md",
+                "file": "source/content/3. Improving lived experience/1. Healing/So you want to learn about the post-rationalist \"healing\" space? (2025-11-10).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🪵 Log per day"
-            }
-          },
-          {
-            "id": "45c3065e16b911f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/5. Alex anthropology/Albums per era.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Albums per era"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "ff523de85e8b676e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "83cb9296df5e9a17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/5. Alex anthropology/Albums per era.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Albums per era"
+              "title": "So you want to learn about the post-rationalist \"healing\" space? (2025-11-10)"
             }
           }
         ]
@@ -88,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fuel",
+                "query": "romeo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/5. Alex anthropology/Albums per era.md",
+                "file": "source/content/3. Improving lived experience/1. Healing/So you want to learn about the post-rationalist \"healing\" space? (2025-11-10).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Albums per era"
+              "title": "Backlinks for So you want to learn about the post-rationalist \"healing\" space? (2025-11-10)"
             }
           },
           {
@@ -185,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/5. Alex anthropology/Albums per era.md",
+                "file": "source/content/3. Improving lived experience/1. Healing/So you want to learn about the post-rationalist \"healing\" space? (2025-11-10).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Albums per era"
+              "title": "Outline of So you want to learn about the post-rationalist \"healing\" space? (2025-11-10)"
             }
           }
         ]
@@ -213,53 +178,53 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "45c3065e16b911f1",
+  "active": "ec02c21f4e5787de",
   "lastOpenFiles": [
+    "source/content/3. Improving lived experience/1. Healing/Ideal Parent Figure Protocol.md",
+    "source/content/3. Improving lived experience/1. Healing/Ideal Parent Figure Protocol is clearly the thing actually.md",
+    "source/content/3. Improving lived experience/1. Healing/So you want to learn about the post-rationalist \"healing\" space? (2025-11-10).md",
+    "source/content/3. Improving lived experience/1. Healing/Gendlin's Focusing.md",
+    "source/content/3. Improving lived experience/1. Healing/Enlightenment is possible.md",
+    "source/content/3. Improving lived experience/1. Healing/Deep Okayness.md",
+    "source/content/3. Improving lived experience/1. Healing/Jhanas.md",
+    "source/content/3. Improving lived experience/1. Healing/Jhourney meditation retreat.md",
+    "source/content/3. Improving lived experience/1. Healing/Existential Kink.md",
+    "source/content/3. Improving lived experience/1. Healing/Memory Reconsolidation.md",
+    "source/content/3. Improving lived experience/1. Healing/Lefkoe Belief Updating.md",
+    "source/content/📎 Files/1 - Images/visual notes/memory reconsolidation 1.jpg",
+    "source/content/📎 Files/1 - Images/visual notes/MR 2.jpg",
+    "source/content/📎 Files/1 - Images/visual notes/MR 1.jpg",
+    "source/content/📎 Files/1 - Images/visual notes/Pasted image 20251110152718.png",
+    "source/content/📎 Files/1 - Images/visual notes/MR 3.jpg",
+    "1762788291386.webp",
+    "source/content/3. Improving lived experience/1. Healing/Internal Family Systems therapy.md",
+    "source/content/3. Improving lived experience/1. Healing/Unlocking the Emotional Brain.md",
+    "source/content/📎 Files/1 - Images/misc/1762787840034.webp",
+    "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Tpot, post-rationalism.md",
     "source/content/🪵 Log per day.md",
-    "source/content/5. Alex anthropology/Albums per era.md",
-    "source/content/5. Alex anthropology/Misc notes/On feedback.md",
-    "source/content/3. Improving lived experience/Consensus-ism/Consensus-ism coaching - what's in it for me? 2025-11-04.md",
-    "source/content/3. Improving lived experience/Consensus-ism",
-    "source/content/3. Improving lived experience/Consensus-ism/Consensus-ism index.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis (parent page).md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis 1 - same life story, different conclusions.md",
-    "source/content/2. Connecting with people/Feedback/Feedback, references.md",
-    "source/content/5. Alex anthropology/Not caring about external things.md",
+    "source/content/4. Thinking/Misc notes/Tactically clever, strategically stupid.md",
+    "source/content/2. Connecting with people/Coaching/Coaching thoughts 2025-11-10.md",
+    "source/content/2. Connecting with people/Coaching/Coaching feedback Feb 2024.md",
+    "source/content/2. Connecting with people/Coaching",
+    "source/content/4. Thinking/Misc notes/How to make a website like this.md",
+    "source/content/index.md",
+    "source/docs/plugins/index.md",
+    "source/quartz.config.ts.sb-12fb2676-UQYIRu",
+    "source/content/📎 Files/1 - Images/misc/1762538592038.webp",
+    "source/content/📎 Files/1762538592038.webp",
+    "source/content/1762538592038.webp",
+    "source/content/5. Alex anthropology/Misc notes/Not wanting to talk.md",
     "source/content/5. Alex anthropology/Misc notes/Disagreeableness arc (2025-10-27).md",
-    "source/content/1. Creating things/1. Writings/\"Shut up and write\" session 2 - 2025-11-03.md",
-    "source/content/📎 Files/1 - Images/1762176208224.webp",
-    "source/content/5. Alex anthropology/My Eras (index).md",
-    "source/content/5. Alex anthropology/Eras/Era 23 - job hunting at my mum's, family therapy.md",
-    "source/content/5. Alex anthropology/Eras/Era 15 - Asia.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis - what and why.md",
-    "source/content/5. Alex anthropology/Misc notes/The enneagram personality typing system.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to be born into my body.md",
-    "source/content/5. Alex anthropology/Misc notes/Aesthetics.md",
-    "source/content/📎 Files/1 - Images/1761950862264.webp",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Enneagram 3.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to know so many lovable people.md",
-    "source/content/3. Improving lived experience/Fitness/\"How do I look after my body?\".md",
-    "source/content/5. Alex anthropology/Misc notes/Suffering is fuel.md",
-    "source/content/📎 Files/1 - Images/1761916017792.webp",
-    "source/content/📎 Files/1 - Images/1761916000007.webp",
-    "source/content/📎 Files/1 - Images/1761915898674.webp",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to be so lovable.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to have had the home life I did.md",
-    "source/content/5. Alex anthropology/Misc notes/Human Design.md",
-    "source/content/5. Alex anthropology/Misc notes/A cool essay about my enneagram 3 nature.md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/My dad loved Lancias.md",
+    "source/content/2. Connecting with people/Misc notes/It's possible that community could obviously be the thing for me (2025-08-28).md",
+    "source/content/3. Improving lived experience/Consensus-ism/Consensus-ism index.md",
+    "source/content/3. Improving lived experience/Consensus-ism",
     "source/content/📎 Files/2 - Audio/Songs/cornflakes-song.m4a",
-    "source/content/📎 Files/1 - Images/misc/1761896760529.webp",
-    "source/content/📎 Files/1 - Images/misc/1761821111706.webp",
-    "source/content/📎 Files/1 - Images/misc/1761819141341.webp",
-    "source/content/📎 Files/1 - Images/misc/1761820181685.webp",
-    "source/content/📎 Files/1 - Images/misc/1761820181688.webp",
     "source/index.d.ts",
     "source/quartz.config.ts.sb-92c95949-4iiYyy",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)",
     "source/content/📎 Files/1 - Images/Eras photos",
     "source/content/5. Alex anthropology/Eras",
-    "source/content/5. Alex anthropology/untitled folder",
-    "source/content/5. Alex anthropology/Misc notes",
-    "source/content/5. Alex anthropology"
+    "source/content/5. Alex anthropology/untitled folder"
   ]
 }
