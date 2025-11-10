@@ -2,6 +2,7 @@
 - https://richdecibels.com/
 - https://www.eltilo.casa/, where I was for [[Ship It Week log|Ship It Week]]
 - One of the creators of [[Microsolidarity]]
+- https://richdecibels.substack.com/
 # Great tweets
 - Find more with the search term "from:RichDecibels min_faves:250" → I'm currently just gathering some that are relevant for [[How to make an intentional community]]
 - ![[1762801534158.webp]]

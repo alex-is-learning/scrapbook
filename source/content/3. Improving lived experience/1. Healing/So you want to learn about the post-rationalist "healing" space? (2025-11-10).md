@@ -18,6 +18,7 @@
 	- Substack → "[A prophesy for postrationalism—or an elegy](https://meaningness.substack.com/p/a-prophesy-for-postrationalismor)"
 	- Another one → "[A bridge to meta-rationality vs. civilizational collapse](https://metarationality.com/stem-fluidity-bridge)"
 - This looks like a good quick overview → "[Postrationality, Table of Contents](https://yearlycider.wordpress.com/2014/09/19/postrationality-table-of-contents/)"
+- [Ribbonfarm](https://www.ribbonfarm.com/for-new-readers/) is a classic post-rat blog (that I have read essentially nothing of, apart from [The Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/))
 # 2. What is self-healing?
 - Basically, people in tpot (the twitter post-rationalist community) often end up there because they're ~traumatised in some way and have discovered the community as a place to learn about effective resources and share their journey and increase their agency etc
 - Good primer → Sasha Chapin's "[10x happiness increases are possible, and this is an underrated fact](https://sashachapin.substack.com/p/10x-happiness-increases-are-possible)"

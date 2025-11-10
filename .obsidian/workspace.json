@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/2. Connecting with people/Community/Rich Bartlett.md",
+                "file": "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis (parent page).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rich Bartlett"
+              "title": "Mythopoesis (parent page)"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/2. Connecting with people/Community/How to make an intentional community.md",
+                "file": "source/content/5. Alex anthropology/Albums I loved per era.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to make an intentional community"
+              "title": "Albums I loved per era"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/🪵 Log per day.md",
+                "file": "source/content/5. Alex anthropology/My Eras (index).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🪵 Log per day"
+              "title": "My Eras (index)"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/2. Connecting with people/Community/How to make an intentional community.md",
+                "file": "source/content/5. Alex anthropology/Albums I loved per era.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How to make an intentional community"
+              "title": "Backlinks for Albums I loved per era"
             }
           },
           {
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/2. Connecting with people/Community/How to make an intentional community.md",
+                "file": "source/content/5. Alex anthropology/Albums I loved per era.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to make an intentional community"
+              "title": "Outline of Albums I loved per era"
             }
           }
         ]
@@ -209,14 +209,20 @@
   },
   "active": "c9d0450a1f3356cf",
   "lastOpenFiles": [
+    "source/content/5. Alex anthropology/My Eras (index).md",
+    "source/content/🪵 Log per day.md",
+    "source/content/5. Alex anthropology/Albums I loved per era.md",
+    "source/content/3. Improving lived experience/1. Healing/So you want to learn about the post-rationalist \"healing\" space? (2025-11-10).md",
+    "source/content/4. Thinking/How to learn/Notes/Value of visual notes/🟣 Project - \"Are visual notes underrated and poorly understood?\".md",
+    "source/content/📎 Files/1 - Images/misc/1762810159145.webp",
+    "source/content/4. Thinking/How to learn/Notes/Value of visual notes/Visual notes are a form of active learning.md",
+    "source/content/2. Connecting with people/Community/How to make an intentional community.md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis (parent page).md",
     "source/content/2. Connecting with people/Community/Rich Bartlett.md",
     "source/content/📎 Files/1 - Images/misc/1762801534158.webp",
     "source/content/📎 Files/1 - Images/misc/1762801682184.webp",
     "source/content/📎 Files/1 - Images/misc/1762801845458.webp",
-    "source/content/2. Connecting with people/Community/How to make an intentional community.md",
-    "source/content/3. Improving lived experience/1. Healing/So you want to learn about the post-rationalist \"healing\" space? (2025-11-10).md",
     "source/content/📎 Files/1 - Images/misc/1762801727723.webp",
-    "source/content/🪵 Log per day.md",
     "source/content/2. Connecting with people/Misc notes/Ship It Week log.md",
     "source/content/3. Improving lived experience/1. Healing/TRE (Trauma Release Exercises).md",
     "source/content/📎 Files/1 - Images/misc/1762801658945.webp",
@@ -225,7 +231,6 @@
     "source/content/📎 Files/1 - Images/misc/Pasted image 20251110190439.png",
     "source/content/📎 Files/1 - Images/misc/Pasted image 20251110185858.png",
     "source/content/📎 Files/1 - Images/misc/community design.jpg",
-    "source/content/📎 Files/1 - Images/misc/Pasted image 20251110183127.png",
     "source/content/2. Connecting with people/Community",
     "source/content/2. Connecting with people/Community/Withholds.md",
     "source/content/3. Improving lived experience/1. Healing/Enlightenment is possible.md",
@@ -241,11 +246,7 @@
     "source/content/3. Improving lived experience/1. Healing/Internal Family Systems therapy.md",
     "source/content/3. Improving lived experience/1. Healing/Unlocking the Emotional Brain.md",
     "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Tpot, post-rationalism.md",
-    "source/content/4. Thinking/Misc notes/Tactically clever, strategically stupid.md",
-    "source/content/2. Connecting with people/Coaching/Coaching thoughts 2025-11-10.md",
-    "source/content/2. Connecting with people/Coaching/Coaching feedback Feb 2024.md",
     "source/content/2. Connecting with people/Coaching",
-    "source/content/4. Thinking/Misc notes/How to make a website like this.md",
     "source/quartz.config.ts.sb-12fb2676-UQYIRu",
     "source/content/3. Improving lived experience/Consensus-ism",
     "source/content/📎 Files/2 - Audio/Songs/cornflakes-song.m4a",
