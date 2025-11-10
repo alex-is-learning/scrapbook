@@ -42,23 +42,24 @@
 	- Metta → cultivating loving-awareness
 	- Meditating to calm the mind (concentration states, shamatha)
 	- Bliss states ([[Jhanas]]), e.g. I've done a [[Jhourney meditation retreat]]
-# The meta-crisis
+# Other things
+## The meta-crisis
 - There are many crises happening simultaneously, very [Molochian](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 - We need to move beyond late-stage capitalism
 - This is very hard to do. There's not much money in this scene (unlike e.g. Effective Altruism) because thinking about how to improve the way the world is set up is... very difficult (complex systems, systems theory etc), intractable, speculative, etc
 - Big names here are [Daniel Schmactenberger,](https://civilizationemerging.com/) maybe John Vervaeke.
 - ["Game B" wiki](https://www.gameb.wiki/index.php?title=Game_B)
 - [The Listening Society](https://www.goodreads.com/book/show/36107916-the-listening-society) is a really good book on this topic. Talks about "meta-modernism", which is the thing to come after post-modernism (if we're lucky)
-# Integral Theory
+## Integral Theory
 - Theory developed by Ken Wilbur which maps humanity's development into different stages
 - This is a meta-crisis-y/post-rationalist-y thing, to think about how to further humanity, how to move to higher levels of development/consciousness
 - Spiral dynamics is the classic model/diagram here, with colours for each stage of development. Let's see if I can remember them from the old flashcards I made. 
 	- Purple (ritual, animism) → red (violence, domination, war) → blue (law and order, religion) → orange (rationalism, science) → green (the environment and shit?) → yellow → turquoise
 	- https://en.wikipedia.org/wiki/Spiral_Dynamics
 	- Each one has key flaws, and to move up a stage is to keep all the wisdom from the previous stages
-# Integral Altruism
+## Integral Altruism
 - London-based community blending meta-crisis-y, Ken Wilbur-y (as he's the Integral Theory guy) stuff with Effective Altruism (which, the main critique I'm aware of for EA is that it kind of can't aim at things like improving the way the world works (a la the book "[The Listening Society](https://www.goodreads.com/book/show/36107916-the-listening-society)") because stuff like that is of course not cost-effective or tractable
-# Essential concepts
+## Essential concepts
 - *WIP*
 - Adult development
 	- Kegan stages → Robert Kegan, developmental psychologist. Piaget was the genius of child development, but his framework stops at 18, "then you become an adult, the end". Kegan developed a model of 5 stages. He says that 60% of adults get stuck at the teenage state of mind for their entire lives (stage 3, "the socialised mind".) Then there's stage 4 (self-authoring mind), and tbh I don't understand stage 5. I think I got to stage 4 in the last ~6 months (November 2025 Alex here). 
@@ -73,10 +74,15 @@
 	- Even the rationalists are discovering this, e.g. "[Generalized Hangriness: A Standard Rationalist Stance Toward Emotions](https://www.lesswrong.com/posts/naAeSkQur8ueCAAfY/generalized-hangriness-a-standard-rationalist-stance-toward)"
 		- (I know the "rationalists don't believe in emotinos!" thing is a bit of a strawman a la the "Straw Vulcan" from LessWrong)
 	- https://alexislearning.me/consensusism/1.-Layer-1/Feelings
-# Intentional community and relational practices
+## Intentional community and relational practices
 - Circling
 - Non-violent communication
 - Authentic Relating 
 - "The Art of Hosting"
-# Art of Accomplishment
+## Art of Accomplishment
 - Really really really good youtube channel, Joe Hudson is an incredible executive coach. They have a great podcast too
+
+---
+
+# Open questions to return to 
+- How to make a community "intentional"? (This is something I'd like to learn more about too, so a perfect win/win for both of us)
