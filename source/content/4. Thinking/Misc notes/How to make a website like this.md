@@ -12,3 +12,5 @@
 - [[Obsidian Guide - Phase 2 - A slightly more intentional infrastructure]]
 - [[Obsidian Guide - Phase 3 - Small quality of life things]]
 - [[Obsidian third-party plugins]]
+- Obsidian can incentivise dumb behaviours (e.g. collection rather than creation), but a public-facing Obsidian fixes this for me as everything I put in here has a potential reader in mind
+	- I love Sasha Chapin's "[Notes Against Note-Taking Systems](https://sashachapin.substack.com/p/notes-against-note-taking-systems)" re: how note-taking systems are often dumb as hell

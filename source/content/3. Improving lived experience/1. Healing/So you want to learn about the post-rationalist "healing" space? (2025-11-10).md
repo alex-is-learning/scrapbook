@@ -89,7 +89,7 @@
 - "The Art of Hosting"
 ## Art of Accomplishment
 - Really really really good youtube channel, Joe Hudson is an incredible executive coach. They have a great podcast too
-
+## [[The enneagram personality typing system]]
 ---
 
 # Open questions to return to 

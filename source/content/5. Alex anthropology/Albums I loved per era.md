@@ -7,6 +7,7 @@
 - [[Era 7 & 8 - Late Uni - Albums]]
 - [[Era 9 - First job after uni - Albums]]
 - [[Era 10 - Master's - Albums]]
+	- [[Albums reviews from 2019]]
 - [[Era 11 - Rented house w girlfriend → COVID - albums]]
 - [[Era 12 - owned house - albums]]
 - [[Era 13 & 14 - Breakup → Prague → Grandma's → Living in London for a few months - albums]]

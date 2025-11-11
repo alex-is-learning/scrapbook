@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12f4f8f8d94dac0d",
+            "id": "36bf5ac82ab59a09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/5. Alex anthropology/Albums per era/Era 3 - Middle School - Albums.md",
+                "file": "source/content/5. Alex anthropology/Albums per era/Getting into music again!!! 2025-11-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Era 3 - Middle School - Albums"
+              "title": "Getting into music again!!! 2025-11-11"
+            }
+          },
+          {
+            "id": "989af05f5a29ce38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/1. Creating things/1. Writings/Albums reviews from 2019.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Albums reviews from 2019"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/5. Alex anthropology/Albums per era/Era 3 - Middle School - Albums.md",
+                "file": "source/content/1. Creating things/1. Writings/Albums reviews from 2019.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Era 3 - Middle School - Albums"
+              "title": "Backlinks for Albums reviews from 2019"
             }
           },
           {
@@ -150,20 +165,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/5. Alex anthropology/Albums per era/Era 3 - Middle School - Albums.md",
+                "file": "source/content/1. Creating things/1. Writings/Albums reviews from 2019.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Era 3 - Middle School - Albums"
+              "title": "Outline of Albums reviews from 2019"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,45 +194,46 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "989af05f5a29ce38",
   "lastOpenFiles": [
-    "source/content/5. Alex anthropology/My Eras (index).md",
-    "source/content/5. Alex anthropology/Albums per era",
-    "source/content/5. Alex anthropology/Albums per era/Era 25 - EA Hotel round 3 - albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 22 - EA Hotel round 2 - albums.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 9 - First job after uni - Albums.md",
+    "source/content/5. Alex anthropology/Albums I loved per era.md",
+    "source/content/1. Creating things/1. Writings/Albums reviews from 2019.md",
+    "source/content/📎 Files/1 - Images/misc/IMG_20181102_170814986.jpg",
+    "source/content/📎 Files/1 - Images/misc/IMG_20190128_151711711.jpg",
+    "source/content/5. Alex anthropology/Albums per era/Era 10 - Master's - Albums.md",
+    "1762882061517.webp",
+    "source/content/🪵 Log per day.md",
+    "source/content/5. Alex anthropology/Albums per era/Getting into music again!!! 2025-11-11.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 23 - Job hunting at my mum's, family therapy - albums.md",
     "source/content/5. Alex anthropology/Albums per era/Era 21 - Making music & youtube vids at my mum's - albums.md",
     "source/content/5. Alex anthropology/Albums per era/Era 19 & 20 - Toronto - albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 18 - Divine Period (post-Kensho) - albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 17 - Life Itself - albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 16 - Albania, Barcelona, xmas at home - albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 15 - Asia - albums.md",
-    "source/content/5. Alex anthropology/Eras/Era 15 - Asia.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 13 & 14 - Breakup → Prague → Grandma's → Living in London for a few months - albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 12 - owned house - albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 11 - Rented house w girlfriend → COVID - albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 10 - Master's - Albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 9 - First job after uni - Albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 7 & 8 - Late Uni - Albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 6 - Early Uni - Albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 5 - Sixth Form - Albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 4 - High School - Albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 3 - Middle School - Albums.md",
-    "source/content/5. Alex anthropology/Albums I loved per era.md",
-    "source/content/5. Alex anthropology/Alex anthropology (parent page).md",
+    "source/content/📎 Files/1 - Images/misc/1762881195244.webp",
+    "source/content/📎 Files/1 - Images/misc/1762881298668.webp",
+    "source/content/📎 Files/1 - Images/misc/1762881259333.webp",
+    "source/content/5. Alex anthropology/Albums per era/Era 25 - EA Hotel round 3 - albums.md",
     "source/content/5. Alex anthropology/Albums per era/Era 24 - Spain → Oxford → Berlin + hippy retreat - albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 23 - Job hunting at my mum's, family therapy - albums.md",
-    "source/content/5. Alex anthropology/Eras/Era 19 - Arriving in Toronto.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 22 - EA Hotel round 2 - albums.md",
+    "source/content/5. Alex anthropology/Eras/Era 25 - EA Hotel round 3.md",
+    "source/content/index.md",
+    "source/content/4. Thinking/Misc notes/How to make a website like this.md",
+    "source/content/2. Connecting with people/Community/How to make an intentional community.md",
+    "intentional community.md",
+    "source/content/5. Alex anthropology/Eras/Era 17 - \"Life Itself\" intentional community -> Kensho.md",
+    "source/content/5. Alex anthropology/Misc notes/The enneagram personality typing system.md",
+    "source/content/3. Improving lived experience/1. Healing/So you want to learn about the post-rationalist \"healing\" space? (2025-11-10).md",
+    "source/content/5. Alex anthropology/Holland Code test (career, vocational choice).md",
+    "source/content/📎 Files/1 - Images/misc/1762858287367.webp",
+    "source/content/📎 Files/1 - Images/misc/1762858304981.webp",
+    "source/content/5. Alex anthropology/Misc notes/Personality typing systems.md",
+    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Enneagram 3.md",
+    "source/content/5. Alex anthropology/Misc notes/On feedback.md",
+    "source/content/2. Connecting with people/Feedback/Feedback, references.md",
+    "source/content/5. Alex anthropology/Albums per era/Era 3 - Middle School - Albums.md",
+    "source/content/5. Alex anthropology/Albums per era",
     "Era 11 - Rented house w",
     "source/content/📎 Files/1 - Images/misc/1762810159145.webp",
     "source/content/📎 Files/1 - Images/misc/1762801534158.webp",
-    "source/content/📎 Files/1 - Images/misc/1762801682184.webp",
-    "source/content/📎 Files/1 - Images/misc/1762801845458.webp",
-    "source/content/📎 Files/1 - Images/misc/1762801727723.webp",
-    "source/content/📎 Files/1 - Images/misc/1762801658945.webp",
-    "source/content/📎 Files/1 - Images/misc/1762801562493.webp",
-    "source/content/📎 Files/1 - Images/misc/Pasted image 20251110190439.png",
-    "source/content/📎 Files/1 - Images/misc/Pasted image 20251110185858.png",
-    "source/content/📎 Files/1 - Images/misc/community design.jpg",
     "source/content/2. Connecting with people/Community",
     "source/content/2. Connecting with people/Coaching",
     "source/quartz.config.ts.sb-12fb2676-UQYIRu",

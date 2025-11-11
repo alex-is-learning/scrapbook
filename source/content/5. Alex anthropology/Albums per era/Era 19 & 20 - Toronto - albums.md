@@ -10,7 +10,8 @@
 - Fontaines D.C. – Romance
 - Alex G – God Save the Animals
 - Yeah Yeah Yeahs – Fever To Tell
-- Remi Wolf – Big Ieas
+- Remi Wolf – Big Ideas
+- Jack White - NO NAME
 
 # Next
 - [[Era 21 - Making music & youtube vids at my mum's - albums]]

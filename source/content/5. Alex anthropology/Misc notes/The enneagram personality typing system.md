@@ -1,5 +1,5 @@
 - [[Personality typing systems]]
-- Cate Hall - "[There are nine wolves inside of you](https://usefulfictions.substack.com/p/there-are-nine-wolves-inside-of-you)" 👇
+- Cate Hall[^1] substack post - "[There are nine wolves inside of you](https://usefulfictions.substack.com/p/there-are-nine-wolves-inside-of-you)" 👇
 
 > "When I first encountered the Enneagram, I thought it sounded pretty dumb: Nine types of people, precisely? It seemed awfully arbitrary, not unlike astrology. But some wise friends (including my husband) convinced me to give it a shot, and that decision ended up making me happier, saner, and more free. Here are a few notes about how I came to love it and why you might too, especially if you’re an overly cerebral type like me."
 
@@ -43,3 +43,5 @@
 - Calculating Mind vs Contemplative Mind. (Same as Iain McGhilchrist)
 - I am who I am, and it's ok. And God's using all of me to bring me to God. I don't take any time now splitting, rejecting, avoiding or denying, because it is what it is and I am what I am, 
 - The sinner is actually the one who does not live himself enough (that is, does not love their shadow too)
+
+[^1]: COO of Alvea when I worked there, big ~Effective Altruist

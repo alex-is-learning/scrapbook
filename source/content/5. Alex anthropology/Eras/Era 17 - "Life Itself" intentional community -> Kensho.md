@@ -3,7 +3,8 @@
 [[Photos from era 17 - Life Itself intentional community]]
 Vlog from this time [here](https://youtu.be/jVj4atzGWzA)
 
-My first ever experience at an "[[intentional community]]"
+My first ever experience at an "intentional community"
+	- [[How to make an intentional community]]
 
 I arrived super socially anxious and awkward, eventually had a [[Kensho]] experience and my social anxiety vanished, as detailed in https://alexislearning.substack.com/p/consensus-ism-part-2
 

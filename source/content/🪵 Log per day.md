@@ -3,9 +3,14 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 ## 06. November 2025
+- Tue 2025-11-11
+	- [[Holland Code test (career, vocational choice)]]
+	- [[Getting into music again!!! 2025-11-11]]
+	- [[Albums reviews from 2019]]
 - Mon 2025-11-10
 	- [[So you want to learn about the post-rationalist "healing" space? (2025-11-10)]]
 	- [[How to make an intentional community]]
+	- [[Albums I loved per era]]
 	- Made a website for coaching!
 		- https://alexislearning.me/coaching
 		- [[Coaching thoughts 2025-11-10]]

@@ -1,4 +1,5 @@
 - Previous - [[Era 9 - First job after uni - Albums]]
+- [[Albums reviews from 2019]]
 
 - Anderson .Paak – Ventura
 - Little Simz – GREY Area

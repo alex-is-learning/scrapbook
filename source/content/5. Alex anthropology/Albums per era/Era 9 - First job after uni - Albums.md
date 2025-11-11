@@ -3,17 +3,19 @@
 > What having a car and commuting to work every day does to a motherfucker. Man I miss having a car to listen to music to in
 
 1. **Oxbow – Thin Black Duke**
-2. **The Strokes – Future Present Past (EP)**
-3. **Lorde – Melodrama**
-4. **Bruno Mars – 24K Magic**
-5. **Rina Sawayama – RINA (EP)**
-6. **Yucky Duster – Yucky Duster**
-7. **Alex Cameron – Forced Witness**
-8. **The Voidz – Tyranny**
-9. **Alvvays – Antisocialites**
-10. **Kamasi Washington – Harmony of Difference (EP)**
-11. **Run the Jewels – Run the Jewels 3**
-12. **Carly Rae Jepsen – Emotion (Deluxe)**
+- Mick Jenkins - The Healing Component → can definitely remember listening to this whilst working
+- Hop Along!!! 
+1. **The Strokes – Future Present Past (EP)**
+2. **Lorde – Melodrama**
+3. **Bruno Mars – 24K Magic**
+4. **Rina Sawayama – RINA (EP)**
+5. **Yucky Duster – Yucky Duster**
+6. **Alex Cameron – Forced Witness**
+7. **The Voidz – Tyranny**
+8. **Alvvays – Antisocialites**
+9. **Kamasi Washington – Harmony of Difference (EP)**
+10. **Run the Jewels – Run the Jewels 3**
+11. **Carly Rae Jepsen – Emotion (Deluxe)**
 - Carly Rae Jepsen - EMOTION Side B
 - JPEGMAFIA – Veteran
 - J. Cole – 4 Your Eyez Only
