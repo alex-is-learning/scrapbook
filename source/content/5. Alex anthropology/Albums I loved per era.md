@@ -5,6 +5,7 @@
 - [[Era 5 - Sixth Form - Albums]]
 - [[Era 6 - Early Uni - Albums]]
 - [[Era 7 & 8 - Late Uni - Albums]]
+	- [[2016 albums]]
 - [[Era 9 - First job after uni - Albums]]
 - [[Era 10 - Master's - Albums]]
 	- [[Albums reviews from 2019]]

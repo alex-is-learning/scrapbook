@@ -3,12 +3,16 @@
 - Various Artists - Scott Pilgrim vs. The World (Original Soundtrack)
 	- Or was this high school?
 - The Smashing Pumpkins – Mellon Collie and the Infinite Sadness
-
-### Loving music recommended by my girlfriend
-1. **John Mayer – Continuum**
-2. **The Maccabees – Marks To Prove It**
-3. **The Maccabees – Given To The Wild**
-- Vampire Weekend!!
+# The Big Three
+- My "big three" bands were:
+	- The Strokes
+	- The White Stripes (by this age, I think I'd worn them out though, listening to them so much as a kid/high-schooler)
+	- Kings of Leon
+# Loving music recommended by my girlfriend
+- John Mayer – Continuum
+- The Maccabees – Marks To Prove It
+- The Maccabees – Given To The Wild
+- Vampire Weekend
 ### Kings of Leon
 1. **Kings of Leon – Holy Roller Novocaine (EP)**
 2. **Kings of Leon – Aha Shake Heartbreak**

@@ -13,6 +13,10 @@
 		- I miss driving to work so much, perfect time to listen and sing along, smh
 	2. Listening whilst writing song reviews?
 		- E.g. make a page for the album, write up some thoughts etc
+	- Ways to interact with music more
+		1. Making playlists?
+		2. Learning to DJ? Attila has a DJ deck here 👀 👀
+		3. Dancing more?
 # Albums to listen to 
 ## 1. Double Infinity by Big Thief
 - Let's listen to this a bunch
@@ -23,3 +27,10 @@
 - ![[1762881259333.webp|300]]
 - I really loved her EP when I was in Taiwan (Delusional 👇)
 - ![[1762881298668.webp|300]]
+## 3. West End Girl by Lily Allen
+- I'm listening to "Pussy Palace" right now and what the fuck, absolute banger
+- ![[1762901784216.webp]]
+# 4. Alright, Still by Lily Allen
+- ![[1762902782732.webp]]
+- Shit this actually rules
+- 2006

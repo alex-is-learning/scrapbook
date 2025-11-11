@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0ae3eecb6225bcf8",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "36bf5ac82ab59a09",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/5. Alex anthropology/Albums per era/Getting into music again!!! 2025-11-11.md",
+                "file": "source/content/5. Alex anthropology/Art I love/Albums per era/Era 13 & 14 - Breakup → Prague → Grandma's → Living in London for a few months - albums.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Getting into music again!!! 2025-11-11"
-            }
-          },
-          {
-            "id": "989af05f5a29ce38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/1. Creating things/1. Writings/Albums reviews from 2019.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Albums reviews from 2019"
+              "title": "Era 13 & 14 - Breakup → Prague → Grandma's → Living in London for a few months - albums"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "release",
+                "query": "jenkins",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/1. Creating things/1. Writings/Albums reviews from 2019.md",
+                "file": "source/content/5. Alex anthropology/Art I love/Albums per era/Era 13 & 14 - Breakup → Prague → Grandma's → Living in London for a few months - albums.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Albums reviews from 2019"
+              "title": "Backlinks for Era 13 & 14 - Breakup → Prague → Grandma's → Living in London for a few months - albums"
             }
           },
           {
@@ -165,21 +150,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/1. Creating things/1. Writings/Albums reviews from 2019.md",
+                "file": "source/content/5. Alex anthropology/Art I love/Albums per era/Era 13 & 14 - Breakup → Prague → Grandma's → Living in London for a few months - albums.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Albums reviews from 2019"
+              "title": "Outline of Era 13 & 14 - Breakup → Prague → Grandma's → Living in London for a few months - albums"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,53 +178,52 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "989af05f5a29ce38",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "source/content/5. Alex anthropology/Albums per era/Era 9 - First job after uni - Albums.md",
+    "source/content/5. Alex anthropology/Art I love/Getting into music again!!! 2025-11-11.md",
+    "source/content/📎 Files/1 - Images/misc/1762902782732.webp",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 13 & 14 - Breakup → Prague → Grandma's → Living in London for a few months - albums.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 12 - owned house - albums.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 11 - Rented house w girlfriend → COVID - albums.md",
+    "source/content/5. Alex anthropology/Art I love/Albums/M.I.A. – Arular.md",
+    "source/content/5. Alex anthropology/Art I love/Albums/King Krule - Man Alive!.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 10 - Master's - Albums.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 9 - First job after uni - Albums.md",
+    "source/content/📎 Files/1 - Images/misc/1762901784216.webp",
+    "source/content/📎 Files/1 - Images/misc/Pasted image 20251111225617.png",
+    "source/content/5. Alex anthropology/Art I love/Artists/The Beatles.md",
+    "source/content/5. Alex anthropology/Art I love/Albums/Arctic Monkeys – Tranquility Base Hotel & Casino.md",
+    "source/content/5. Alex anthropology/Art I love/Albums/Phoebe Bridgers – Punisher.md",
+    "source/content/5. Alex anthropology/Art I love/Artists/Father John Misty.md",
+    "source/content/5. Alex anthropology/Art I love/Albums/The Voidz – Tyranny.md",
+    "source/content/5. Alex anthropology/Art I love/Albums/Hop Along - Bark Your Head Off, Dog.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 7 & 8 - Late Uni - Albums.md",
+    "source/content/5. Alex anthropology/Art I love/Artists/Car Seat Headrest.md",
+    "source/content/5. Alex anthropology/Art I love/Artists/Kanye West.md",
+    "source/content/5. Alex anthropology/Art I love/Artists/Danny Brown.md",
+    "source/content/5. Alex anthropology/Art I love/Artists/D'Angelo.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 6 - Early Uni - Albums.md",
+    "source/content/5. Alex anthropology/Art I love/Albums/Radiohead.md",
+    "source/content/5. Alex anthropology/Art I love/Albums/2016 albums.md",
+    "source/content/5. Alex anthropology/Art I love/Artists/Kendrick Lamar.md",
     "source/content/5. Alex anthropology/Albums I loved per era.md",
-    "source/content/1. Creating things/1. Writings/Albums reviews from 2019.md",
-    "source/content/📎 Files/1 - Images/misc/IMG_20181102_170814986.jpg",
-    "source/content/📎 Files/1 - Images/misc/IMG_20190128_151711711.jpg",
-    "source/content/5. Alex anthropology/Albums per era/Era 10 - Master's - Albums.md",
-    "1762882061517.webp",
-    "source/content/🪵 Log per day.md",
-    "source/content/5. Alex anthropology/Albums per era/Getting into music again!!! 2025-11-11.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 23 - Job hunting at my mum's, family therapy - albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 21 - Making music & youtube vids at my mum's - albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 19 & 20 - Toronto - albums.md",
-    "source/content/📎 Files/1 - Images/misc/1762881195244.webp",
-    "source/content/📎 Files/1 - Images/misc/1762881298668.webp",
-    "source/content/📎 Files/1 - Images/misc/1762881259333.webp",
-    "source/content/5. Alex anthropology/Albums per era/Era 25 - EA Hotel round 3 - albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 24 - Spain → Oxford → Berlin + hippy retreat - albums.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 22 - EA Hotel round 2 - albums.md",
-    "source/content/5. Alex anthropology/Eras/Era 25 - EA Hotel round 3.md",
-    "source/content/index.md",
-    "source/content/4. Thinking/Misc notes/How to make a website like this.md",
-    "source/content/2. Connecting with people/Community/How to make an intentional community.md",
-    "intentional community.md",
-    "source/content/5. Alex anthropology/Eras/Era 17 - \"Life Itself\" intentional community -> Kensho.md",
-    "source/content/5. Alex anthropology/Misc notes/The enneagram personality typing system.md",
-    "source/content/3. Improving lived experience/1. Healing/So you want to learn about the post-rationalist \"healing\" space? (2025-11-10).md",
-    "source/content/5. Alex anthropology/Holland Code test (career, vocational choice).md",
-    "source/content/📎 Files/1 - Images/misc/1762858287367.webp",
-    "source/content/📎 Files/1 - Images/misc/1762858304981.webp",
-    "source/content/5. Alex anthropology/Misc notes/Personality typing systems.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Enneagram 3.md",
-    "source/content/5. Alex anthropology/Misc notes/On feedback.md",
-    "source/content/2. Connecting with people/Feedback/Feedback, references.md",
-    "source/content/5. Alex anthropology/Albums per era/Era 3 - Middle School - Albums.md",
-    "source/content/5. Alex anthropology/Albums per era",
+    "source/content/5. Alex anthropology/Art I love/Artists/David Bowie.md",
+    "source/content/📎 Files/1 - Images/misc/Pasted image 20251111222039.png",
+    "source/content/5. Alex anthropology/Art I love/Artists",
+    "source/content/5. Alex anthropology/Art I love/Albums per era",
+    "source/content/5. Alex anthropology/Art I love/Albums",
+    "source/content/5. Alex anthropology/Art I love",
+    "source/content/📎 Files/1 - Images/misc/1762897845005.webp",
+    "source/content/📎 Files/1 - Images/misc/1762897191795.webp",
+    "source/content/📎 Files/1 - Images/misc/1762897722559.webp",
+    "source/content/📎 Files/1 - Images/misc/1762897711128.webp",
+    "source/content/📎 Files/1 - Images/misc/1762897624137.webp",
+    "source/content/📎 Files/1 - Images/misc/1762897393143.webp",
     "Era 11 - Rented house w",
-    "source/content/📎 Files/1 - Images/misc/1762810159145.webp",
-    "source/content/📎 Files/1 - Images/misc/1762801534158.webp",
     "source/content/2. Connecting with people/Community",
     "source/content/2. Connecting with people/Coaching",
     "source/quartz.config.ts.sb-12fb2676-UQYIRu",
     "source/content/3. Improving lived experience/Consensus-ism",
-    "source/content/📎 Files/2 - Audio/Songs/cornflakes-song.m4a",
-    "source/index.d.ts",
-    "source/quartz.config.ts.sb-92c95949-4iiYyy",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)"
+    "source/content/📎 Files/2 - Audio/Songs/cornflakes-song.m4a"
   ]
 }
