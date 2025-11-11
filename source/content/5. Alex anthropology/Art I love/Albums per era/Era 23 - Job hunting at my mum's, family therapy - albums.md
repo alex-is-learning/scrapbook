@@ -1,6 +1,6 @@
 - Previous - [[Era 22 - EA Hotel round 2 - albums]]
 
-- Fontaines D.C. – Skinty Fia
+- [[Fontaines D.C. – Skinty Fia]]
 - Wet Leg - Moisturizer
 - Mannequin Pussy - I Got Heaven
 - Ego Death... Hayley Williams

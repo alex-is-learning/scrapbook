@@ -1,3 +1,2 @@
 - Previous - [[Era 24 - Spain → Oxford → Berlin + hippy retreat - albums]]
 - [[Getting into music again!!! 2025-11-11]]
-- 

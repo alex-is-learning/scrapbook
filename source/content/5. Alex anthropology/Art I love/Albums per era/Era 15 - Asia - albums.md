@@ -1,17 +1,21 @@
 - Previous - [[Era 13 & 14 - Breakup → Prague → Grandma's → Living in London for a few months - albums]]
-## 1. Manila
-- Djo – DECIDE
+# 1. Manila
+## S tier 
+- [[Djo]] – [[Djo - DECIDE]]
+## B tier
 - Fred again.. – Actual Life 3 (January 1 – September 9 2022)
 - Taylor Swift – Midnights
 # 2. Taipei
+## S tier
 - 100 gecs – 10,000 gecs
+- 100 gecs – 1000 gecs
 - illuminati hotties – FREE I.H.: This Is Not the One You’ve Been Waiting For
+- Geese – 3D Country
+- [[Ben Howard]] – Is It?
+- [[Dev Lemons – Delusional]] (EP)
+## A tier
 - Joanna Sternberg – I’ve Got Me
 - feeble little horse – Girl with Fish
-- 100 gecs – 1000 gecs
-- Geese – 3D Country
-- Ben Howard – Is It?
-- Dev Lemons – Delusional (EP)
 - Djo – Twenty Twenty
 - The Voidz – Prophecy of the Dragon (single / release)
 - Yves Tumor – Praise a Lord Who Chews but Which Does Not Consume; (Or Simply, Hot Between Worlds)

@@ -1,7 +1,7 @@
 - Previous - [[Era 19 & 20 - Toronto - albums]]
 
 - Kendrick Lamar - GNX !!!! Dude!!!
-- Fontaines D.C. – Skinty Fia
+- [[Fontaines D.C. – Skinty Fia]]
 
 
 # Next

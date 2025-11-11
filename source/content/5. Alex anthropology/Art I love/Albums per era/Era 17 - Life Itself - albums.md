@@ -1,5 +1,8 @@
 - Previous - [[Era 16 - Albania, Barcelona, xmas at home - albums]]
 
+# S tier
+
+# A tier
 - Everything Everything – Mountainhead
 - Brittany Howard – What Now
 - Future Islands – People Who Aren’t There Anymore

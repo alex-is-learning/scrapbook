@@ -3,6 +3,7 @@
 - ![[1762858287367.webp]]
 # Sociable artist who doesn't give a shit about science, lol
 - ![[1762858304981.webp]]
+- Note - this website shows that I do have *some* investigative interest, right? Does it count if it's me investigating... myself? 😅
 # Asking ChatGPT
 ```
 I'm an enneagram 3w4 with this holland code
