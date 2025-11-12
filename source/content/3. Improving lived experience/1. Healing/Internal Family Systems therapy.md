@@ -7,7 +7,7 @@
 - FWIW, I think he believes in IFS a bit *too* much - IMO it's a cool imaginal way to interface with beliefs/feelings, whereas he really does believe that parts are like, lil dudes
 - ![[1762787840034.webp|200]]
 # If you're a rationalist frickin nerd
-- There's an IFS section of Lesswrong, in case you don't believe stuff unless Lesswrong approves it
+- There's an IFS section of LessWrong, in case you don't believe stuff unless Lesswrong approves it
 - https://www.lesswrong.com/w/internal-family-systems
 - Good posts
 	- [Building up to an Internal Family Systems model](https://www.lesswrong.com/posts/5gfqG3Xcopscta3st/building-up-to-an-internal-family-systems-model) by Kaj

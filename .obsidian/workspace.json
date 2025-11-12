@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/5. Alex anthropology/Art I love/Getting into music again!!! 2025-11-11.md",
+                "file": "source/content/3. Improving lived experience/1. Healing/Internal Family Systems therapy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Getting into music again!!! 2025-11-11"
+              "title": "Internal Family Systems therapy"
+            }
+          },
+          {
+            "id": "29daabd496bc6d54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/2. Connecting with people/Calendly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Calendly"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/5. Alex anthropology/Art I love/Getting into music again!!! 2025-11-11.md",
+                "file": "source/content/2. Connecting with people/Calendly.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Getting into music again!!! 2025-11-11"
+              "title": "Backlinks for Calendly"
             }
           },
           {
@@ -150,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/5. Alex anthropology/Art I love/Getting into music again!!! 2025-11-11.md",
+                "file": "source/content/2. Connecting with people/Calendly.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Getting into music again!!! 2025-11-11"
+              "title": "Outline of Calendly"
             }
           }
         ]
@@ -178,13 +193,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/3. Improving lived experience/1. Healing/Internal Family Systems therapy.md",
+    "source/content/2. Connecting with people/Calendly.md",
+    "source/content/3. Improving lived experience/1. Healing/Gendlin's Focusing.md",
+    "source/content/2. Connecting with people/Coaching/Coaching feedback Feb 2024.md",
+    "source/content/2. Connecting with people/Community/How to make an intentional community.md",
+    "source/content/📎 Files/1 - Images/misc/1762938354115.webp",
+    "source/content/5. Alex anthropology/Not caring about external things.md",
+    "source/content/5. Alex anthropology/My Eras (index).md",
+    "source/content/5. Alex anthropology/Alex anthropology (parent page).md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Albums I loved per era.md",
+    "source/content/5. Alex anthropology/Art I love/Artists/David Bowie.md",
+    "source/content/5. Alex anthropology/Art I love/Getting into music again!!! 2025-11-11.md",
     "source/content/🪵 Log per day.md",
     "source/content/5. Alex anthropology/Art I love/Albums per era/Era 25 - EA Hotel round 3 - albums.md",
     "source/content/5. Alex anthropology/Art I love/Albums per era/Era 24 - Spain → Oxford → Berlin + hippy retreat - albums.md",
     "source/content/1. Creating things/1. Writings/Albums reviews from 2019.md",
-    "source/content/5. Alex anthropology/Art I love/Getting into music again!!! 2025-11-11.md",
     "source/content/5. Alex anthropology/Holland Code test (career, vocational choice).md",
     "source/content/5. Alex anthropology/Art I love/Albums per era/Era 23 - Job hunting at my mum's, family therapy - albums.md",
     "source/content/5. Alex anthropology/Art I love/Albums per era/Era 22 - EA Hotel round 2 - albums.md",
@@ -196,16 +222,6 @@
     "source/content/5. Alex anthropology/Art I love/Albums per era/Era 18 - Divine Period (post-Kensho) - albums.md",
     "source/content/5. Alex anthropology/Art I love/Albums per era/Era 17 - Life Itself - albums.md",
     "source/content/5. Alex anthropology/Art I love/Albums/Another Michael – Wishes to Fulfill.md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 16 - Albania, Barcelona, xmas at home - albums.md",
-    "source/content/5. Alex anthropology/Art I love/Albums/Purple Mountains – Purple Mountains.md",
-    "source/content/5. Alex anthropology/Art I love/Albums/underscores – Wallsocket.md",
-    "source/content/5. Alex anthropology/Art I love/Albums/Jane Remover – Census Designated.md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 15 - Asia - albums.md",
-    "source/content/5. Alex anthropology/Art I love/Albums/Dev Lemons – Delusional.md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 13 & 14 - Breakup → Prague → Grandma's → Living in London for a few months - albums.md",
-    "source/content/5. Alex anthropology/Albums I loved per era.md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 3 - Middle School - Albums.md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 12 - owned house - albums.md",
     "source/content/📎 Files/1 - Images/misc/1762902782732.webp",
     "source/content/📎 Files/1 - Images/misc/1762901784216.webp",
     "source/content/📎 Files/1 - Images/misc/Pasted image 20251111225617.png",
@@ -219,7 +235,6 @@
     "source/content/📎 Files/1 - Images/misc/1762897722559.webp",
     "source/content/📎 Files/1 - Images/misc/1762897711128.webp",
     "source/content/📎 Files/1 - Images/misc/1762897624137.webp",
-    "source/content/📎 Files/1 - Images/misc/1762897393143.webp",
     "Era 11 - Rented house w",
     "source/content/2. Connecting with people/Community",
     "source/content/2. Connecting with people/Coaching",

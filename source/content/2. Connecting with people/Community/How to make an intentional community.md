@@ -2,6 +2,10 @@
 - So I've only lived in one intentional community ([[Era 17 - "Life Itself" intentional community -> Kensho]]), and this was during the off-season when there wasn't *that much* going on
 - So, I'm definitely not an expert, but I have some thoughts, and I'd like to do some more thinking
 - I'm living at the Effective Altruism Hotel right now which hasn't historically been set up as an intentional community (more of a work focus with people hanging out and organising events as and when)
+# This seems really good!
+- https://developmentalspaces.org/paper
+- Shout out to the Life Itself gang
+- ![[1762938354115.webp]]
 # I should read "Gather Together"
 - ![[Pasted image 20251110183127.png]]
 - https://x.com/RichDecibels/status/1666802694563188741?s=20

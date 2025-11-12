@@ -1,3 +1,4 @@
 - Don't care about views, e.g. didn't care about La Sagrada Familia, felt non-profound to me
 - Same with e.g. seeing the sea, seeing the view from the top of Snowdon. I just don't care about views dude
 - I care a lot about e.g. music, great writing. But I don't give a shit about scenery really
+- Related to [[Disagreeableness arc (2025-10-27)]]
