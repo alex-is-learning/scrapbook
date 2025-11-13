@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/3. Improving lived experience/Making music interactive/DJing/Baby's first DJ playlist (2025-11-13).md",
+                "file": "source/content/3. Improving lived experience/Making music interactive/DJing/DJing - day 1 (2025-11-13).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Baby's first DJ playlist (2025-11-13)"
+              "title": "DJing - day 1 (2025-11-13)"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/3. Improving lived experience/Making music interactive/DJing/DJing - day 1 (2025-11-13).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "DJing - day 1 (2025-11-13)"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/3. Improving lived experience/Making music interactive/DJing/DJing - day 1 (2025-11-13).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for DJing - day 1 (2025-11-13)"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/3. Improving lived experience/Making music interactive/DJing/DJing - day 1 (2025-11-13).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of DJing - day 1 (2025-11-13)"
             }
           }
         ]
@@ -195,17 +195,18 @@
   },
   "active": "be1b8265310ac83e",
   "lastOpenFiles": [
+    "source/content/3. Improving lived experience/Making music interactive/DJing/DJing.md",
+    "source/content/index.md",
     "scripts/install-git-hooks.sh",
     "scripts/hooks/pre-commit",
     "scripts/hooks",
-    "source/content/3. Improving lived experience/Making music interactive/DJing/Baby's first DJ playlist (2025-11-13).md",
+    "source/content/3. Improving lived experience/Making music interactive/DJing/DJing - day 1 (2025-11-13).md",
     "scripts/update-wordcount.sh",
     "scripts",
     "source/content/📎 Files/1 - Images/misc/1763032736456.webp",
     "source/content/📎 Files/1 - Images/misc/1763032555544.webp",
     "source/content/3. Improving lived experience/Making music interactive/DJing",
     "source/content/3. Improving lived experience/Making music interactive",
-    "source/content/3. Improving lived experience/Making music interactive/DJing/DJing.md",
     "source/content/🪵 Log per day.md",
     "source/content/5. Alex anthropology/Art I love/Getting into music again!!! 2025-11-11.md",
     "source/content/5. Alex anthropology/Art I love/ChatGPT - how to listen to music more.md",
@@ -237,7 +238,6 @@
     "source/content/5. Alex anthropology/Art I love/Artists",
     "source/content/5. Alex anthropology/Art I love/Albums per era",
     "source/content/5. Alex anthropology/Art I love/Albums",
-    "source/content/5. Alex anthropology/Art I love",
     "source/content/📎 Files/1 - Images/misc/1762897845005.webp",
     "source/content/📎 Files/1 - Images/misc/1762897191795.webp",
     "source/content/📎 Files/1 - Images/misc/1762897722559.webp"
