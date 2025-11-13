@@ -52,3 +52,6 @@ Monopoly and Under Control are funny lol
 # 3 - Rock vibe
 ## 1. "Overthing It" to "This is Why"
 - Rock vibe
+
+# Ways to improve
+- Mixing in key
