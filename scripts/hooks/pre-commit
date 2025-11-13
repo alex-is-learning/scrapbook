@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# Pre-commit hook to update content word count before committing
+set -euo pipefail
+
+# Run from the repository root
+ROOT=$(git rev-parse --show-toplevel 2>/dev/null || true)
+if [ -n "$ROOT" ]; then
+  cd "$ROOT"
+fi
+
+# Run the update script
+bash scripts/update-wordcount.sh
+
+# If the update script exits non-zero, the commit will abort due to 'set -e'
+exit 0
