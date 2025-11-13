@@ -16,6 +16,8 @@
 5. [[I was very lucky to have had the home life I did]] ✅
 6. [[I was very lucky to have my life arc]]
 7. [[I was very lucky to enjoy every life era]]
+8. [[I was very lucky to have video games and Harry Potter]]
+	- Rewriting from "eeee I wasted so much time playing video games as a kid/teen" to "I was really lucky to have such a great fun meaningful escape"
 ## Lucky in my constitution
 7. [[I was very lucky to have been passionate, opinionated and proactive]]
 8. [[I was very lucky to be so lovable]]

@@ -15,8 +15,11 @@
 		- E.g. make a page for the album, write up some thoughts etc
 	- Ways to interact with music more
 		1. Making playlists?
+			- Making a load of playlists. Dance playlists. Vibe playlists, etc. Mixtapes...
 		2. Learning to DJ? Attila has a DJ deck here 👀 👀
+			- [[DJing]]
 		3. Dancing more?
+- [[ChatGPT - how to listen to music more]] → fed it the above
 # Albums to listen to 
 ## 1. Double Infinity by Big Thief
 - Let's listen to this a bunch

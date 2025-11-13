@@ -1,0 +1,3 @@
+- 2025-11-13
+- Starting learning yesterday and immediately fell in love are you kidding me dude
+- [[Baby's first DJ playlist (2025-11-13)]]

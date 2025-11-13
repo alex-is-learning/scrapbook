@@ -3,6 +3,8 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 ## 06. November 2025
+- Thur 2025-11-13
+	- [[DJing]]
 - Tue 2025-11-11
 	- [[Holland Code test (career, vocational choice)]]
 	- [[Getting into music again!!! 2025-11-11]]

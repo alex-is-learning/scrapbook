@@ -16,6 +16,7 @@
 - Era 12 – owned house with girlfriend 
 - Era 13 – America Trip & Retreat 2 & Breakup
 - Era 14 – Breakup – pre-Asia
+	- [[45 Days to Awakening course]]
 # 2023
 - [[Era 15 - Asia]] (May 2023 - Oct 2023)
 - [[Era 16 - Back to Europe, Christmas at home]] (Oct 2023 - Jan 2024)
