@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/3. Improving lived experience/Making music interactive/DJing/DJing - day 1 (2025-11-13).md",
+                "file": "source/content/2. Connecting with people/Feedback/Feedback, references.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DJing - day 1 (2025-11-13)"
+              "title": "Feedback, references"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/3. Improving lived experience/Making music interactive/DJing/DJing - day 1 (2025-11-13).md",
+                "file": "source/content/2. Connecting with people/Feedback/Feedback, references.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DJing - day 1 (2025-11-13)"
+              "title": "Backlinks for Feedback, references"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/3. Improving lived experience/Making music interactive/DJing/DJing - day 1 (2025-11-13).md",
+                "file": "source/content/2. Connecting with people/Feedback/Feedback, references.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DJing - day 1 (2025-11-13)"
+              "title": "Outline of Feedback, references"
             }
           }
         ]
@@ -195,12 +195,13 @@
   },
   "active": "be1b8265310ac83e",
   "lastOpenFiles": [
-    "source/content/3. Improving lived experience/Making music interactive/DJing/DJing.md",
+    "source/content/1. Creating things/3. Misc notes/Mansplaining David Foster Wallace 2025-09-02.md",
     "source/content/index.md",
+    "source/content/3. Improving lived experience/Making music interactive/DJing/DJing - day 1 (2025-11-13).md",
+    "source/content/3. Improving lived experience/Making music interactive/DJing/DJing.md",
     "scripts/install-git-hooks.sh",
     "scripts/hooks/pre-commit",
     "scripts/hooks",
-    "source/content/3. Improving lived experience/Making music interactive/DJing/DJing - day 1 (2025-11-13).md",
     "scripts/update-wordcount.sh",
     "scripts",
     "source/content/📎 Files/1 - Images/misc/1763032736456.webp",
@@ -230,7 +231,6 @@
     "source/content/1. Creating things/1. Writings/Albums reviews from 2019.md",
     "source/content/5. Alex anthropology/Holland Code test (career, vocational choice).md",
     "source/content/5. Alex anthropology/Art I love/Albums per era/Era 23 - Job hunting at my mum's, family therapy - albums.md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 22 - EA Hotel round 2 - albums.md",
     "source/content/📎 Files/1 - Images/misc/1762902782732.webp",
     "source/content/📎 Files/1 - Images/misc/1762901784216.webp",
     "source/content/📎 Files/1 - Images/misc/Pasted image 20251111225617.png",
