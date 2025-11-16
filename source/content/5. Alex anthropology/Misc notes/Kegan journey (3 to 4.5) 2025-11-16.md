@@ -1,3 +1,4 @@
+- *Meta-note: I have been told that it is cringe and humble brag-y to try to diagnose myself on stages, and that I'll cringe at this in a year. Yolo!*
 - I had a blinding realisation last night that felt Kegan 4.5-adjacent
 - ![[1763310404868.webp]]
 - ![[1763310355435.webp]]
