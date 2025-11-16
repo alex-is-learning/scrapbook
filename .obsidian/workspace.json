@@ -20,8 +20,79 @@
               "icon": "lucide-file",
               "title": "Kegan journey (3 to 4.5) 2025-11-16"
             }
+          },
+          {
+            "id": "fb5393aa417c4695",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/4. Thinking/Misc notes/Questioning Effective Altruism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Questioning Effective Altruism"
+            }
+          },
+          {
+            "id": "0d8fd1e27f51aa9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/5. Alex anthropology/Eras/Era 25 - EA Hotel round 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Era 25 - EA Hotel round 3"
+            }
+          },
+          {
+            "id": "aa74d2fcd33369c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/2. Connecting with people/Misc notes/Misc thoughts on living at the EA Hotel 2025-10-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Misc thoughts on living at the EA Hotel 2025-10-24"
+            }
+          },
+          {
+            "id": "7cdafed71ab9d930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/5. Alex anthropology/Misc notes/Kegan journey (3 to 4.5) 2025-11-16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kegan journey (3 to 4.5) 2025-11-16"
+            }
+          },
+          {
+            "id": "dc689505dbe77522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/2. Connecting with people/Misc notes/Monday, third time living at the Effective Altruism hotel (2025-10-20).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monday, third time living at the Effective Altruism hotel (2025-10-20)"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -178,13 +249,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "98f1756b6bcfc34f",
+  "active": "7cdafed71ab9d930",
   "lastOpenFiles": [
+    "source/content/5. Alex anthropology/Misc notes/Not wanting to talk.md",
+    "source/content/2. Connecting with people/Misc notes/Monday, third time living at the Effective Altruism hotel (2025-10-20).md",
+    "source/content/5. Alex anthropology/Misc notes/Disagreeableness arc (2025-10-27).md",
+    "source/content/2. Connecting with people/Misc notes/Misc thoughts on living at the EA Hotel 2025-10-24.md",
+    "source/content/5. Alex anthropology/Eras/Era 25 - EA Hotel round 3.md",
+    "source/content/4. Thinking/Misc notes/Questioning Effective Altruism.md",
+    "source/content/5. Alex anthropology/Misc notes/Kegan journey (3 to 4.5) 2025-11-16.md",
     "source/content/📎 Files/1 - Images/misc/look within.webp",
     "source/content/📎 Files/1 - Images/misc/Romeo Stevens taste 2.webp",
     "source/content/📎 Files/1 - Images/misc/Romeo Stevens taste, preferences.webp",
     "1763313127807.webp",
-    "source/content/5. Alex anthropology/Misc notes/Kegan journey (3 to 4.5) 2025-11-16.md",
     "source/content/📎 Files/1 - Images/misc/1763310404868.webp",
     "source/content/📎 Files/1 - Images/misc/1763310355435.webp",
     "source/content/🪵 Log per day.md",
@@ -215,14 +292,8 @@
     "source/content/📎 Files/1 - Images/misc/1763032555544.webp",
     "source/content/3. Improving lived experience/Making music interactive/DJing",
     "source/content/3. Improving lived experience/Making music interactive",
-    "source/content/5. Alex anthropology/Art I love/Getting into music again!!! 2025-11-11.md",
-    "source/content/5. Alex anthropology/Art I love/ChatGPT - how to listen to music more.md",
-    "source/content/2. Connecting with people/Calendly.md",
-    "source/content/2. Connecting with people/Buy Me a Coffee.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis 1 - same life story, different conclusions.md",
     "source/content/📎 Files/1 - Images/misc/1762938354115.webp",
     "source/content/📎 Files/1 - Images/misc/1762902782732.webp",
-    "source/content/📎 Files/1 - Images/misc/1762901784216.webp",
     "source/content/5. Alex anthropology/Art I love/Artists",
     "source/content/5. Alex anthropology/Art I love/Albums per era",
     "source/content/5. Alex anthropology/Art I love/Albums"

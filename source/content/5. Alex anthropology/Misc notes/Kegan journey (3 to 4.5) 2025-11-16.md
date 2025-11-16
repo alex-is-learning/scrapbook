@@ -1,15 +1,18 @@
+- 2025-11-16
 - *Meta-note: I have been told that it is cringe and humble brag-y to try to diagnose myself on stages, and that I'll cringe at this in a year. Yolo!*
 - I had a blinding realisation last night that felt Kegan 4.5-adjacent
 - ![[1763310404868.webp]]
+- ChatGPT 👇
 - ![[1763310355435.webp]]
 # How my rationalist vs post-rationalist models clashed
-- Really awesome to live at the EA hotel with people who have the exact mirror model to me in some ways, so I get multiple opportunities per day to have this 4.5 insight of "oh shit, they'll see me as dumb and wrong just as I see them as dumb and wrong"
+- (Really awesome to live at the EA hotel with people who have the exact mirror model to me in some ways, so I get multiple opportunities per day to have this 4.5 insight of "oh shit, they'll see me as dumb and wrong just as I see them as dumb and wrong")
 ## My Kegan 3 view
 - "I don't know what I care about or what is important"
-- "Therefore, I'll happily do the EA thing"
+- "Therefore, I'll happily do the Effective Altruist thing"
 - "So, I'll pivot away from my hobbies & etc and restart life & my career as an EA"
 ## My Kegan 4 view
 - "Aha, but the EA stuff was never alive, it was chosen, it came from outside of me"
+	- See for example [[Questioning Effective Altruism]]
 - "What actually matters is what is inside of me"
 - "What do I intrinsically care about? Music! Writing!"
 - "These are therefore My Things, my destiny"
@@ -40,8 +43,11 @@
 ### My Kegan 4 experience
 - So, my Kegan 4 world-view was a reaction to my EA/rat Kegan 3 model
 	- "Opportunity cost is for atheists", "the point of life is to follow your passion and purpose" (rather than being nerd-sniped by abstract concepts like "impact")
+	- [[Questioning Effective Altruism]]
 - Becoming very disagreeable, misanthropic, self-certain.
 	- "Fortress Stage" - "I have my self-authored model/values, other people are idiots/corrupted/naive. Strong identification with your own frame, high contempt for others"
+	- [[Disagreeableness arc (2025-10-27)]] 
+	- [[Not wanting to talk]]
 ## Kegan 4.5 transition
 - Happened yesterday, 2025-11-15
 - Blinding insight - "oh god, my model which feels absolutely True is in fact just a model"
