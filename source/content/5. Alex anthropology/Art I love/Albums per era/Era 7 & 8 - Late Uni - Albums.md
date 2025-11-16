@@ -1,8 +1,16 @@
-- Previous - [[Era 6 - Early Uni - Albums]]
+- Previous - [[Era 6 - Early Uni (1st year) - Albums]]
 - [[2016 albums]]
-
+- I definitely listened to way more music in my non-uni housing (2nd & 3rd year)
+# More rap
+- **Isaiah Rashad – Cilvia Demo** → Top Dawg
+- **Mick Jenkins – The Water[s]**
 - DAMN coming out!!!! 2017
 	- My first new Kendrick release as a huge fan. Super super exciting, kinda an anticlimax
+# David Bowie
+- I became obsessed with David Bowie whilst at uni!!!
+- [[David Bowie]]
+# Radiohead
+- [[Radiohead]]
 # [[Radiohead]] remained a bit fixture
 
 # Marvin Gaye
@@ -16,7 +24,6 @@
 # [[Danny Brown]]
 4. **Danny Brown – Atrocity Exhibition**
 # Mick Jenkins
-- [[Mick Jenkins – The Healing Component]]
 - Mick Jenkins - Wave[s] 
 # [[Kanye West]]
 - The Life of Pablo
@@ -32,6 +39,11 @@
 	- I seriously don't know if I listening to this on the way home from a night out at uni where I left the club early, or if that's just like, a meme, that Burial is perfect "walking home at night in the rain" music...
 - American Football – American Football (LP1, 1999)
 - Ought – Room Inside the World
+- **Damien Rice – O**
+- [[Ben Howard]] – I Forget Where We Were
+- 4. **Anderson .Paak – Malibu**
+### Everything Everything
+- [[Everything Everything]] – Get to Heaven
 
 Blackstar!!! Are you kidding me!!!!
 # Next

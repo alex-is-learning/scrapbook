@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/3. Improving lived experience/Making music interactive/DJing/DJing - day 1 (2025-11-13).md",
+                "file": "source/content/5. Alex anthropology/Misc notes/Kegan journey (3 to 4.5) 2025-11-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DJing - day 1 (2025-11-13)"
-            }
-          },
-          {
-            "id": "be1b8265310ac83e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/2. Connecting with people/Feedback/Feedback, references.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Feedback, references"
+              "title": "Kegan journey (3 to 4.5) 2025-11-16"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/2. Connecting with people/Feedback/Feedback, references.md",
+                "file": "source/content/5. Alex anthropology/Misc notes/Kegan journey (3 to 4.5) 2025-11-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Feedback, references"
+              "title": "Backlinks for Kegan journey (3 to 4.5) 2025-11-16"
             }
           },
           {
@@ -165,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/2. Connecting with people/Feedback/Feedback, references.md",
+                "file": "source/content/5. Alex anthropology/Misc notes/Kegan journey (3 to 4.5) 2025-11-16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Feedback, references"
+              "title": "Outline of Kegan journey (3 to 4.5) 2025-11-16"
             }
           }
         ]
@@ -193,11 +178,33 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "be1b8265310ac83e",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
+    "source/content/📎 Files/1 - Images/misc/look within.webp",
+    "source/content/📎 Files/1 - Images/misc/Romeo Stevens taste 2.webp",
+    "source/content/📎 Files/1 - Images/misc/Romeo Stevens taste, preferences.webp",
+    "1763313127807.webp",
+    "source/content/5. Alex anthropology/Misc notes/Kegan journey (3 to 4.5) 2025-11-16.md",
+    "source/content/📎 Files/1 - Images/misc/1763310404868.webp",
+    "source/content/📎 Files/1 - Images/misc/1763310355435.webp",
+    "source/content/🪵 Log per day.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 7 & 8 - Late Uni - Albums.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 9 - First job after uni - Albums.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Albums I loved per era.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 5 - Sixth Form - Albums.md",
+    "source/content/3. Improving lived experience/Making music interactive/DJing/DJing - day 1 (2025-11-13).md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 4 - High School - Albums.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 3 - Middle School - Albums.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 6 - Early Uni (1st year) - Albums.md",
+    "source/content/5. Alex anthropology/Art I love/Artists/Kanye West.md",
+    "source/content/5. Alex anthropology/Art I love/Albums/Radiohead.md",
+    "source/content/5. Alex anthropology/Art I love/Artists/David Bowie.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 19 & 20 - Toronto - albums.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 13 & 14 - Breakup → Prague → Grandma's → Living in London for a few months - albums.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 10 - Master's - Albums.md",
+    "source/content/2. Connecting with people/Feedback/Feedback, references.md",
     "source/content/1. Creating things/3. Misc notes/Mansplaining David Foster Wallace 2025-09-02.md",
     "source/content/index.md",
-    "source/content/3. Improving lived experience/Making music interactive/DJing/DJing - day 1 (2025-11-13).md",
     "source/content/3. Improving lived experience/Making music interactive/DJing/DJing.md",
     "scripts/install-git-hooks.sh",
     "scripts/hooks/pre-commit",
@@ -208,38 +215,16 @@
     "source/content/📎 Files/1 - Images/misc/1763032555544.webp",
     "source/content/3. Improving lived experience/Making music interactive/DJing",
     "source/content/3. Improving lived experience/Making music interactive",
-    "source/content/🪵 Log per day.md",
     "source/content/5. Alex anthropology/Art I love/Getting into music again!!! 2025-11-11.md",
     "source/content/5. Alex anthropology/Art I love/ChatGPT - how to listen to music more.md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Albums I loved per era.md",
     "source/content/2. Connecting with people/Calendly.md",
     "source/content/2. Connecting with people/Buy Me a Coffee.md",
     "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis 1 - same life story, different conclusions.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis (parent page).md",
-    "source/content/3. Improving lived experience/1. Healing/45 Days to Awakening course.md",
-    "source/content/5. Alex anthropology/My Eras (index).md",
-    "source/content/3. Improving lived experience/1. Healing/Internal Family Systems therapy.md",
-    "source/content/3. Improving lived experience/1. Healing/Gendlin's Focusing.md",
-    "source/content/2. Connecting with people/Coaching/Coaching feedback Feb 2024.md",
-    "source/content/2. Connecting with people/Community/How to make an intentional community.md",
     "source/content/📎 Files/1 - Images/misc/1762938354115.webp",
-    "source/content/5. Alex anthropology/Not caring about external things.md",
-    "source/content/5. Alex anthropology/Alex anthropology (parent page).md",
-    "source/content/5. Alex anthropology/Art I love/Artists/David Bowie.md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 25 - EA Hotel round 3 - albums.md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 24 - Spain → Oxford → Berlin + hippy retreat - albums.md",
-    "source/content/1. Creating things/1. Writings/Albums reviews from 2019.md",
-    "source/content/5. Alex anthropology/Holland Code test (career, vocational choice).md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 23 - Job hunting at my mum's, family therapy - albums.md",
     "source/content/📎 Files/1 - Images/misc/1762902782732.webp",
     "source/content/📎 Files/1 - Images/misc/1762901784216.webp",
-    "source/content/📎 Files/1 - Images/misc/Pasted image 20251111225617.png",
-    "source/content/📎 Files/1 - Images/misc/Pasted image 20251111222039.png",
     "source/content/5. Alex anthropology/Art I love/Artists",
     "source/content/5. Alex anthropology/Art I love/Albums per era",
-    "source/content/5. Alex anthropology/Art I love/Albums",
-    "source/content/📎 Files/1 - Images/misc/1762897845005.webp",
-    "source/content/📎 Files/1 - Images/misc/1762897191795.webp",
-    "source/content/📎 Files/1 - Images/misc/1762897722559.webp"
+    "source/content/5. Alex anthropology/Art I love/Albums"
   ]
 }

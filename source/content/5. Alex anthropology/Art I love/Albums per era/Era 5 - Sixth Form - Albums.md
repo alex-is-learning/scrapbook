@@ -36,10 +36,9 @@
 ### Other
 1. **The Smashing Pumpkins – Mellon Collie and the Infinite Sadness**
 2. **Bon Iver – For Emma, Forever Ago** (bottom-left corner)
-
 ### Alt J
 2. **alt-J – This Is All Yours**
 3. **alt-J – An Awesome Wave**
 
 # Next
-- [[Era 6 - Early Uni - Albums]]
+- [[Era 6 - Early Uni (1st year) - Albums]]

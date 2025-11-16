@@ -1,6 +1,6 @@
 - Previous - [[Era 5 - Sixth Form - Albums]]
-
-- Tame Impala – Currents
+- I definitely listened to way more music in my non-uni housing (2nd & 3rd year)
+- [Spotify playlist](https://open.spotify.com/playlist/6Q1qKHlpfVgjuGE4WnB3Ye?si=16e48a30be8749eb)
 # 1. Discovering rap!
 - One of my favourite things about my first year at uni was getting really into rap
 - I forget how it happened. It honestly could have been "watched Community → watched the Childish Gambino 'Sweatpants' music video" lol. Or maybe watching Anthony Fantano?
@@ -16,21 +16,10 @@
 	- Kendrick Lamar – good kid, m.A.A.d city
 	- I remember trying out To Pimp A Butterfly in my first year bedroom when Kanye tweeted about how good it was, and I bounced right off it, too jazzy and weird
 		- Of course it eventually clicked *hard*
-- Other
-- **Isaiah Rashad – Cilvia Demo** → Top Dawg
-- **Mick Jenkins – The Water[s]**
-# 2. David Bowie
-- I became obsessed with David Bowie whilst at uni!!!
-- [[David Bowie]]
-# Radiohead
-- [[Radiohead]]
+- [[Kanye West]]
+	- Remembering walking from my 1st year halls listening to this!
 # Other 
 - **Tame Impala – Currents**
 - **Lorde – Pure Heroine**
-- **Damien Rice – O**
-- [[Ben Howard]] – I Forget Where We Were
-- 4. **Anderson .Paak – Malibu**
-### Everything Everything
-- [[Everything Everything]] – Get to Heaven
 # Next
 - [[Era 7 & 8 - Late Uni - Albums]] 
