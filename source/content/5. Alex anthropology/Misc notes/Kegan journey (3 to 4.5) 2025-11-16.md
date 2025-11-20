@@ -18,6 +18,7 @@
 - "These are therefore My Things, my destiny"
 - "These are the most important thing for me to work on. Fuck impact, the idea of impact came from Without, not Within"
 - ![[look within.webp]]
+- ![[1763476861509.webp]]
 ## Kegan 4.5
 - Ahhh, this is just a story. Just because I care about music and writing doesn't mean that they are definitely My Destiny, there's no way of knowing that for sure. Maybe I just had an early preference given to me by my Dad playing music that I liked in the car when I was a kid, and being born at a time when Harry Potter came out, which I loved reading. 
 - One story is that it was Destiny, another is that it was just a random occurance
