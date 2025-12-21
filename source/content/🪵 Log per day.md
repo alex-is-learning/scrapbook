@@ -4,6 +4,7 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 ## Dec 2025
 - Sun 2025-12-21
+	- [[Who am I to criticise my parents?]]
 	- [[What makes post-rationalism post-rationalism?]]
 ## 06. November 2025
 - Sun 2025-11-16

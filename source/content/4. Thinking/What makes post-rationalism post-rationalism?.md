@@ -1,3 +1,4 @@
+- [[Tpot, post-rationalism]]
 2025-12-21
 - Funnily enough, it only dawned on me very recently that post-rationalism might really mean that: beyond rationalism
 - I mean, no, of course I always got that that is what the phrase is saying, but it didn't feel true to me, it wasn't part of my felt sense of the term. More like, "people who bounced off rationalism" than "a worldview that actually includes more stuff than rationalism, or at the very least is a direct response to rationalism". But now this feels much more true!

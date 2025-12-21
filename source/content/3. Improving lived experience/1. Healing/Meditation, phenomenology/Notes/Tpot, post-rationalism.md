@@ -8,6 +8,7 @@ permalink: tpot-post-rationalism
 	- See also [Christine's guide to twitter](https://docs.google.com/document/d/1Bd3PfKDL9pOM7YoxGbRBwO_qOWh6B7u5170Xw8VyK6s/edit?tab=t.0#heading=h.ajgdt9ncvzx7)
 	- See also [Milan's guide to twitter](https://www.flightfromperfection.com/getting-started-with-tpot.html)
 	- https://tpot.website/library/
+	- [[What makes post-rationalism post-rationalism?]]
 - About me on twitter
 	- My twitter → https://x.com/alexislearning
 	- [[Should I intentionally tweet better? 2025-10-24]]
