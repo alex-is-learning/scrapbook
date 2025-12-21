@@ -18,6 +18,8 @@
 		- Of course it eventually clicked *hard*
 - [[Kanye West]]
 	- Remembering walking from my 1st year halls listening to this!
+- J Cole
+	- Black Friday freestyles - Kendrick and J Cole swapping beats, so good
 # Other 
 - **Tame Impala – Currents**
 - **Lorde – Pure Heroine**

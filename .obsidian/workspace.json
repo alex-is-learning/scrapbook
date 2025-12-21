@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/🪵 Log per day.md",
+                "file": "source/content/4. Thinking/What makes post-rationalism post-rationalism?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🪵 Log per day"
+              "title": "What makes post-rationalism post-rationalism?"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/🪵 Log per day.md",
+                "file": "source/content/4. Thinking/What makes post-rationalism post-rationalism?.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🪵 Log per day"
+              "title": "Backlinks for What makes post-rationalism post-rationalism?"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/🪵 Log per day.md",
+                "file": "source/content/4. Thinking/What makes post-rationalism post-rationalism?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🪵 Log per day"
+              "title": "Outline of What makes post-rationalism post-rationalism?"
             }
           }
         ]
@@ -180,9 +180,22 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 15 - Asia - albums.md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Albums I loved per era.md",
+    "source/content/4. Thinking/Misc notes/Vervaeke's 4 Ps of Knowledge.md",
+    "source/content/4. Thinking/What makes post-rationalism post-rationalism?.md",
     "source/content/🪵 Log per day.md",
+    "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Sit reports/Switching to open awareness practice 2025-08-08 (sit 010).md",
+    "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Increasing the skillfulness of my mind, log 🪵.md",
+    "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Meditation log.md",
+    "source/content/3. Improving lived experience/Making music interactive/DJing/DJing - day 1 (2025-11-13).md",
+    "source/content/3. Improving lived experience/Making music interactive/DJing/DJing.md",
+    "source/content/1. Creating things/1. Writings/Writing - vignettes.md",
+    "Untitled.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 6 - Early Uni (1st year) - Albums.md",
+    "J Cole.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Albums I loved per era.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 16 - Albania, Barcelona, xmas at home - albums.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 11 - Rented house w girlfriend → COVID - albums.md",
+    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 15 - Asia - albums.md",
     "source/content/3. Improving lived experience/1. Healing/Vygotsky.md",
     "source/content/📎 Files/1 - Images/misc/1763477047824.webp",
     "1763476897260.webp",
@@ -202,19 +215,6 @@
     "source/content/📎 Files/1 - Images/misc/1763310404868.webp",
     "source/content/📎 Files/1 - Images/misc/1763310355435.webp",
     "source/content/5. Alex anthropology/Art I love/Albums per era/Era 7 & 8 - Late Uni - Albums.md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 9 - First job after uni - Albums.md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 5 - Sixth Form - Albums.md",
-    "source/content/3. Improving lived experience/Making music interactive/DJing/DJing - day 1 (2025-11-13).md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 4 - High School - Albums.md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 3 - Middle School - Albums.md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 6 - Early Uni (1st year) - Albums.md",
-    "source/content/5. Alex anthropology/Art I love/Artists/Kanye West.md",
-    "source/content/5. Alex anthropology/Art I love/Albums/Radiohead.md",
-    "source/content/5. Alex anthropology/Art I love/Artists/David Bowie.md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 19 & 20 - Toronto - albums.md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 13 & 14 - Breakup → Prague → Grandma's → Living in London for a few months - albums.md",
-    "source/content/5. Alex anthropology/Art I love/Albums per era/Era 10 - Master's - Albums.md",
-    "source/content/2. Connecting with people/Feedback/Feedback, references.md",
     "scripts/install-git-hooks.sh",
     "scripts/hooks/pre-commit",
     "scripts/hooks",

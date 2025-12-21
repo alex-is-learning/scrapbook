@@ -2,6 +2,9 @@
 permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
+## Dec 2025
+- Sun 2025-12-21
+	- [[What makes post-rationalism post-rationalism?]]
 ## 06. November 2025
 - Sun 2025-11-16
 	- [[Kegan journey (3 to 4.5) 2025-11-16]]
