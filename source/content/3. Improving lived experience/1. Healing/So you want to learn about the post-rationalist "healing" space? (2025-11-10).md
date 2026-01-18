@@ -13,6 +13,7 @@
 - As far as I'm aware, there isn't a parent term that collects all of these things - I think "post-rationalism" is the best one - to be a post-rationalist (like me!) is to IMO be likely to know about all of these things
 	- Note that "tpot" is the post-rationalist corner of twitter (it starts for "this part of twitter", an intentionally kinda dumb name? I made a slide-deck "[guide to tpot](https://docs.google.com/presentation/d/1GORGyGXHnXKg16J26YqxxMr8TqTzxxVzUcpJZWUAxuI/edit?slide=id.p#slide=id.p)" back in Jan 2024 just to give a bit of the flavour of it). I also wrote a zeitgeist-y prose poem-y thing about what it's like to be on tpot - [[03. To be a tpot zoomer]]
 	- See my website page → [[Tpot, post-rationalism]]
+	- See also [[What makes post-rationalism post-rationalism?]]
 # 1. What is post-rationalism?
 - David Chapman coined the term AFAIK
 	- Substack → "[A prophesy for postrationalism—or an elegy](https://meaningness.substack.com/p/a-prophesy-for-postrationalismor)"
