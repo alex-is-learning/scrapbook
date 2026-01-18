@@ -2,6 +2,7 @@
 - *Note that I did this in around 90 mins of work, and I have way more in my head, and way more useful links/people I could connect you with, if you have an interest in any of this (E.g. "do you know a therapist/coach who could do x modality with me?". Email me at alexiscreatingthings@gmail.com if you don't have my contact details!*
 # Intro
 - See this new slide deck (2026-01-18) → "[Some good tpot tweets etc](https://docs.google.com/presentation/d/1Dq-7pmF2MHrLcFwEm-oUcHaE8TBVeSqpJIptfa-uGt4/edit?slide=id.g3b8bb92f576_0_370#slide=id.g3b8bb92f576_0_370)"
+- And for the stuff that most changed my life, see https://alexislearning.me/consensusism
 - I have a friend who is involved in the Effective Altruist mental health space
 - So, he knows about e.g. CBT and cost-effective scalable interventions, but he doesn't know about the vague space that could be called:
 	- Post-rationalism?
