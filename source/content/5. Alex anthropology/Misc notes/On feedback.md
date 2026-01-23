@@ -12,5 +12,12 @@
 - ![[1769156730708.webp]]
 	- 👆 https://x.com/Malcolm_Ocean/status/1391959685851324421
 	- Banger re: Kegan 4 vs 5, blank parts of your map that others can see and you find incomprehensible when first pointed out 
+
+
+- Crocker's Rules
+	- [The pure rules](http://sl4.org/crocker.html)
+	- [LessWrong](https://www.lesswrong.com/w/crockers-rules)
+	- [Malcolm Ocean](https://malcolmocean.com/2013/11/crockers-rules/)
+
 - ![[1761896760529.webp]]
 	- [The tweet](https://x.com/callanable/status/1983911454823580029)
