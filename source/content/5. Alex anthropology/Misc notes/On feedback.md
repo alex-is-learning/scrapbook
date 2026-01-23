@@ -9,5 +9,8 @@
 	- [The tweet](https://x.com/nosilverv/status/1969357240847987179)
 - ![[1769156552985.webp]]
 	- 👆[The tweet](https://x.com/nosilverv/status/2014420487921672646?s=46)
+- ![[1769156730708.webp]]
+	- 👆 https://x.com/Malcolm_Ocean/status/1391959685851324421
+	- Banger re: Kegan 4 vs 5, blank parts of your map that others can see and you find incomprehensible when first pointed out 
 - ![[1761896760529.webp]]
 	- [The tweet](https://x.com/callanable/status/1983911454823580029)
