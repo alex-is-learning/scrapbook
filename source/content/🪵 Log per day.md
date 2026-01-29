@@ -2,6 +2,10 @@
 permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
+- Note that I've stopped adding to this website for the most part and now have a non-public "2026" Obsidian vault so that I can write about more personal stuff
+# Jan 2026
+- 2026-01-29
+	- [[The key themes of this site]]
 ## Dec 2025
 - Sun 2025-12-21
 	- [[Who am I to criticise my parents?]]
