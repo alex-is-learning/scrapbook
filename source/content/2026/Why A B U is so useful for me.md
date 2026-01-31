@@ -1,5 +1,6 @@
 - 2026-01-31
 - *Note that it's actually A/B/U, Obsidian just doesn't play nicely with / symbols in file names*
+- *Made a [slide deck](https://docs.google.com/presentation/d/1UScBoVfjTM7BzdQQ8S-qUMN_hKatsN6A3iJ_zqbb2lM/edit?slide=id.g3c299f788bf_0_738#slide=id.g3c299f788bf_0_738) for in-person presentation night too, but I think this document is more self-contained*
 - I discovered ORI's [[A B U]] a few days ago and I've found it incredibly useful, plausibly one of the most immediately useful and insight-bringing concepts of recent memory (a very big "A" for me!) 
 	- (Note that I have been in an A Drought for a while, which may be part of the explanation here)
 	- As a sidenote, it was Defender of Basic of ORI who inspired me to make this website, and taught me how (via his guide) 
