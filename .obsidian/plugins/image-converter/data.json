@@ -34,7 +34,7 @@
       "conflictResolution": "increment"
     }
   ],
-  "selectedFilenamePreset": "Just timestamp",
+  "selectedFilenamePreset": "Keep original name",
   "outputFormat": "NONE",
   "quality": 100,
   "colorDepth": 1,

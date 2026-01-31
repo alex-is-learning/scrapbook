@@ -1,6 +1,6 @@
 https://x.com/alexislearning/status/1967910257579135483
 
-![[image.webp]]
+![[technical debt.webp]]
 
 https://x.com/alexislearning/status/1968573199605534910
 
