@@ -1,0 +1,3 @@
+- From [[A B U]]
+- https://defenderofthebasic.substack.com/p/a-storms-are-dangerous
+- ![[1769866394858.webp]]

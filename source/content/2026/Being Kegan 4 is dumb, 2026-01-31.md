@@ -7,7 +7,7 @@
 - And, because you endorse your special blend, because you ==reify/deify certain axioms==, there are all these downstream implications of your world view. Like, there are a bunch of things to figure out, to consider. Also a bunch of things to ==feel really torn about==, because of course, your special Kegan 4 blend wasn't created intelligently, wasn't well engineered, so there are all these clashes, and silly limiting beliefs, incommensurable ideas/opinions, etc
 - And this is how scenes, subgroups, communities, ==ideologues== work - you find people who share the same axioms as you, who exist in the same place in... phase space? State space? Something about manifolds? I'm not well educated enough in math to get the metaphor quite right
 - ![[manifold.webp]]
-	- 👆 from "[My Understanding of the Manifold Hypothesis ft Geoffrey Hinton | Deep Learning](https://www.youtube.com/watch?v=BePQBWPnYuE&t=307s)". This is a manifold 
+	- 👆 from the video "[My Understanding of the Manifold Hypothesis ft Geoffrey Hinton | Deep Learning](https://www.youtube.com/watch?v=BePQBWPnYuE&t=307s)". 
 		- "high-dimensional data (like images) actually lies on much lower-dimensional "surfaces" or ==manifolds==."
 		- "Data that follows natural laws or specific structures (like a set of faces) lies on a ==low-dimensional manifold==. While the "ambient space" is high-dimensional, the "degrees of freedom" are limited"
 		- This feels similar to ==attractor basins== to me, and/or local minima. World-views, ideologies, sub-communities etc are attractor basins. "We all agree on the same stuff, so we can communicate effectively from the same axioms, we are intelligible to each other."
@@ -17,7 +17,7 @@
 - So, when I'm being a ==Kegan 4 dumbass==, I am totally "==blended with==" my special Kegan 4 worldview (or perhaps, I am currently foregrounding and reifying/deifying one single value, for example "I must become more sociable"). 
 - This is the ==subject/object== thing that Kegan talks about: when you're "subject to" the thing, it's holding *you*, and you're not even aware of it. You're like a fish in water.
 - So, blended with this axiom, believing it to be true, you then have all these implications that you need to figure out and stress out about. "Because I definitely ==Need To Become More Sociable==, I need to do xyz". "Because I definitely Need To ==Live In The Perfect Country==, I need to figure a bunch of stuff out"
-- And you may spend years in a particular world-view, with people who agree with you, investigating the implications of the world view - AI safety is a salient example to me, but of course any career would apply. Finding people who share your axioms, learning (getting "[[As]]"), being able to talk to people at the same level of abstraction (having the prerequisite [[B floor]]), etc.
+- And you may spend years in a particular world-view, with people who agree with you, investigating the implications of the world view - AI safety is a salient example to me, but of course any career would apply. Finding people who share your axioms, learning (getting "[["A"s]]"), being able to talk to people at the same level of abstraction (having the prerequisite [["B" floor]]), etc.
 ## Unclench
 - *Will also make this into a separate page - [[Kegan 5 unclenching]]*
 - But, if you're ==stressing out about the implications of your Kegan 4 model==, remember that it's just a model, and none are right
