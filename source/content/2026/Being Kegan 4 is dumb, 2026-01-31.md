@@ -35,6 +35,7 @@
 - ![[Romeo - preferences and 100 hours.webp]]
 
 # Anyway, I could write about this more, but I'll stop 
+- [[Doing stuff in order to Figure It Out and Arrive and Be OK]]
 - Right now I'm blended with the Key Axiom of "if I keep writing/thinking, I'll Figure It Out/Arrive/Be Able to Feel Good"
 - But I can Arrive and Feel Good right now. I get step back from this axiom, be in the present moment
 - ![[secure vs insecure attachment.webp]]

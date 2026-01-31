@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/2026/Doing stuff in order to Figure It Out and Arrive and Be OK.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Doing stuff in order to Figure It Out and Arrive and Be OK"
+              "title": "index"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/2026/Doing stuff in order to Figure It Out and Arrive and Be OK.md",
+                "file": "source/content/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Doing stuff in order to Figure It Out and Arrive and Be OK"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/2026/Doing stuff in order to Figure It Out and Arrive and Be OK.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Doing stuff in order to Figure It Out and Arrive and Be OK"
+              "title": "Outline of index"
             }
           }
         ]
@@ -195,10 +195,10 @@
   },
   "active": "703cf50197f6750f",
   "lastOpenFiles": [
-    "source/content/Log per day.md",
-    "source/content/2026/My \"introverted\" behaviour set and where it comes from.md",
     "source/content/2026/Doing stuff in order to Figure It Out and Arrive and Be OK.md",
     "source/content/2026/Being Kegan 4 is dumb, 2026-01-31.md",
+    "source/content/Log per day.md",
+    "source/content/2026/My \"introverted\" behaviour set and where it comes from.md",
     "source/content/📎 Files/Files 0 - 2026/secure vs insecure attachment.webp",
     "source/content/📎 Files/Files 0 - 2026/Romeo - preferences and 100 hours.webp",
     "source/content/2026/Turns out writing for an audience is very useful 2026-01-31.md",
