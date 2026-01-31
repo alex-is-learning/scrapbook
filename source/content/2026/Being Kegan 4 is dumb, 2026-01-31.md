@@ -1,8 +1,9 @@
+- [[Log per day]]
 - 2026-01-31
 - I think one of my absolute biggest failure modes atm is being kegan 4 as all shit dude. 
 - It's like, there's this very very ==hyperdimensional object== of "preferences" or "values" or "opinions" etc, where each dimension is a spectrum, and you have some ==special blend== which you call "the correct world view", and you're protective of it, think others who exist in a different configuration are wrong
 - ![[hyperdimensional.webp]]
-	- 👆 this is kinda how I envision the high dimensional object when I think (or more accurately, feel) about this whole thing. I have a felt sense of this concept
+	- 👆 this is kinda how I envision the high dimensional object when I think/feel about this whole thing
 - And, because you endorse your special blend, because you ==reify/deify certain axioms==, there are all these downstream implications of your world view. Like, there are a bunch of things to figure out, to consider. Also a bunch of things to ==feel really torn about==, because of course, your special Kegan 4 blend wasn't created intelligently, wasn't well engineered, so there are all these clashes, and silly limiting beliefs, incommensurable ideas/opinions, etc
 - And this is how scenes, subgroups, communities, ==ideologues== work - you find people who share the same axioms as you, who exist in the same place in... phase space? State space? Something about manifolds? I'm not well educated enough in math to get the metaphor quite right
 - ![[manifold.webp]]
@@ -28,3 +29,12 @@
 - ![[technical debt.webp]]
 - It currently feels right to me (blended with my Kegan 4 model, foregrounding certain axioms, lol), that this "technical debt" could be the mix of your Kegan 4 "==opinions/values==", and also "==trauma==", which are like, "stuck priors that were useful to you back then but are now suboptimal" (e.g., "if I'm quiet around men, they won't snap at me" working for you to not get snapped at by your grandad, but now as an adult causing you to be somewhat uncomfortable around all men)
 - Post I wanna read - "[technical debt, meditation, and minds](https://meditationstuff.wordpress.com/2019/04/11/technical-debt-meditation-and-minds/ )"
+# Where did your special blend come from?
+- I imagine a lot of it is laid down in childhood/adolscence! 
+- For example, when I was a kid, my Dad introduced me to some music that I loved (e.g. The White Stripes). I listened to them a bunch, then he introduced me to The Strokes and I listened to them a bunch. And then because of this, I gradually become a "music nerd", because of these early seeds being planted
+- ![[Romeo - preferences and 100 hours.webp]]
+
+# Anyway, I could write about this more, but I'll stop 
+- Right now I'm blended with the Key Axiom of "if I keep writing/thinking, I'll Figure It Out/Arrive/Be Able to Feel Good"
+- But I can Arrive and Feel Good right now. I get step back from this axiom, be in the present moment
+- ![[secure vs insecure attachment.webp]]

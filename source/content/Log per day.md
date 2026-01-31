@@ -6,6 +6,7 @@ permalink: log-per-day
 - 2026-01-31
 	- [[Turns out writing for an audience is very useful 2026-01-31]]
 	- [[Being Kegan 4 is dumb, 2026-01-31]]
+	- [[Doing stuff in order to Figure It Out and Arrive and Be OK]]
 - 2026-01-29
 	- [[The key themes of this site]]
 # 2025
