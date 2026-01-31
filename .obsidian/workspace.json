@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/2026/Kegan 5 unclenching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Kegan 5 unclenching"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/2026/Kegan 5 unclenching.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Kegan 5 unclenching"
             }
           },
           {
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/2026/Kegan 5 unclenching.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Kegan 5 unclenching"
             }
           }
         ]
@@ -194,11 +194,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "source/content/2025/4. Thinking/Misc notes/The key themes of this site.md",
+    "source/content/📎 Files/0 - 2026/how romeo started meditating.webp",
+    "source/content/2026/Being Kegan 4 is dumb, 2026-01-31.md",
+    "source/content/2026/Kegan 5 unclenching.md",
+    "source/content/Log per day.md",
     "source/content/index.md",
+    "source/content/2025/4. Thinking/Misc notes/The key themes of this site.md",
     "source/content/📎 Files/1769156730708.webp",
     "source/content/📎 Files/1769156552985.webp",
-    "source/content/2026/Being Kegan 4 is dumb, 2026-01-31.md",
     "source/content/📎 Files/0 - 2026/technical debt.webp",
     "source/content/📎 Files/0 - 2026/hyperdimensional.webp",
     "source/content/📎 Files/0 - 2026/kegan 3 friend group.webp",
@@ -210,7 +213,6 @@
     "source/content/2026/A B U.md",
     "source/content/2026",
     "source/content/2026/Turns out writing for an audience is very useful 2026-01-31.md",
-    "source/content/Log per day.md",
     "source/content/2026/Living in community.md",
     "source/content/2026/Polyamory.md",
     "source/content/2026/Nosilverv.md",
@@ -232,7 +234,6 @@
     "source/content/2025/3. Improving lived experience/1. Healing/45 Days to Awakening course.md",
     "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Paper notebook.md",
     "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Meditation parent page.md",
-    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Kensho.md",
     "source/content/📎 Files/1 - Images/misc/1763477047824.webp",
     "scripts/install-git-hooks.sh",
     "scripts/hooks/pre-commit",

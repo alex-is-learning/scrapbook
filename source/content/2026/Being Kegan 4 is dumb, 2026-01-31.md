@@ -18,6 +18,7 @@
 - So, blended with this axiom, believing it to be true, you then have all these implications that you need to figure out and stress out about. "Because I definitely Need To Become More Sociable, I need to do xyz". "Because I definitely Need To Live In The Perfect Country, I need to figure a bunch of stuff out"
 - And you may spend years in a particular world-view, with people who agree with you, investigating the implications of the world view - AI safety is a salient example to me, but of course any career would apply. Finding people who share your axioms, learning (getting "[[As]]"), being able to talk to people at the same level of abstraction (having the prerequisite [[B floor]]), etc.
 ## Unclench
+- *Will also make this into a separate page - [[Kegan 5 unclenching]]*
 - But, if you're stressing out about the implications of your Kegan 4 model, remember that it's just a model, and none are right
 - The Kegan 5 shift is from subject to object. You from from being subject to your world view, immersed in it, it being transparent to you, something that holds you, to being able to step back from it, see it as just one world view of many (infinite amounts?). So you can drop that line of thought, the panic, unclench, chill out
 - ![[horny extrovert.webp]]
