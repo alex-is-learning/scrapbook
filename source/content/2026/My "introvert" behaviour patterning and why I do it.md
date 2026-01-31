@@ -31,6 +31,13 @@
 - So, I spent lots of time either alone in my room, 1:1 with my girlfriend, sometimes 1:1 with a friend in my room, (and from 16-18, some time in my friend group)
 - So, I'm not someone who has really *any* experience living in a community. I imagine even just being an only child with two healthy parents would give a feeling of "I am safe to hang out in this building, and hanging out is nice to do", which I never really had. I had "I will be in my room, because being in any other room isn't safe, as there will be conflict"
 - So yeah - it makes total sense, and it's easy for me to forget this
+## Being around people is stressful because I have to manage them
+- I've had a lot of people pleasing conditioning which was the result of growing up with a dysregulated family
+- For example, my mum suffered a huge amount as a result of adopting my sister without realising how traumatised she'd be. Huge amount of guilt, shame, pain at losing the unproblematic relationships she had with my Dad and me beforehand, etc
+- So, as a child I was in that system, and part of my role was to soothe her, by e.g. going on walks, doing things with her, acting ok, being the well behaved one, etc
+- It's the "parentified child" thing. I ended up looking after my mum a lot, being very aware of her poor state, her bad mental health, her sadness and shame etc. So I did the "be the sparkly golden son" thing
+- (A very nice outcome from my [[Mythopoesis 1 - same life story, different conclusions]] project is seeing my parents as victims here too, rather than the childish/teenage/Kegan 2 thing of "I am the victim and they are the perpetrators who Betrayed Me)
+- So anyway. The dinner table is stressful because if it's awkward, if the conversation isn't flowing, then people will be feeling bad about themselves. There's a 12 year old part (a la IFS) who is sat at the dining table at my grandma's, taking on the responsibility of the one who actually talks and gets the conversation flowing, because my family was so awkward that I had to take that role. There's the 20 year old part who resents being forced to spend time with my mum just because she's lonely, with no insight into how boring it might be for me, how stifling. 
 # Training myself out of it
 - First of all, worth acknowledging that I don't have to do *shit*. I can stay like this if I want. There's no obligation here
 - In the [[Being Kegan 4 is dumb, 2026-01-31]] way, I can blend with a "omg I must become more sociable and comfortable in community" axiom, but in a [[Kegan 5 unclenching]] way I can step back from that and see that I don't have to do anything
