@@ -8,7 +8,7 @@ permalink: log-per-day
 	- [[Being Kegan 4 is dumb, 2026-01-31]]
 	- [[Doing stuff in order to Figure It Out and Arrive and Be OK]]
 	- [[My "introvert" behaviour patterning and why I do it]]
-	- Why A/B/U is so useful for me
+	- [[Why A B U is so useful for me]]
 - 2026-01-29
 	- [[The key themes of this site]]
 # 2025
