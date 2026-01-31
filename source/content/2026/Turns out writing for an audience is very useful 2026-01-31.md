@@ -1,0 +1,11 @@
+- 2026-01-31
+- I tried switching to a new private Obsidian vault for 2026
+- I've written an enormous amount in it! 
+- But because I know that it's just for me, I haven't edited anything, there's no sense of trying to make things comprehensible for an other, and as such, it's a real stream-of-consciousness mess
+- I have 2 friends who I like sending my writing to too, so it's been a bit of a pain having this stuff be walled off
+- So, here I am again! 
+- I've just reorganised this website in 2025 vs 2026. It really does feel like I'm thinking about different stuff now, and I've left a lot of 2025 stuff behind (like, "Creating things", family therapy stuff)
+## What I'm currently thinking about
+- I'm currently very into Open Research Institute's [[A B U|A/B/U]], [[Nosilverv]]'s "[[Reflexivity]]", and I feel like I'm close to the "B floor" required to actually start meditating seriously. This feels related to reflexivity - when you really grok that you are both the participant in and the creator of your world model, then you discover radical agency to shape your experience via meditation, something like that
+- [[Polyamory]], which is very new to me and going surprisingly well!!! Something about the post-rationalist path I've been on for the past 3+ years and the various "insights" and "attainments" seems to have got me to a place where I can actually do this in a very lovely way
+- [[Living in community]], we've I've been doing now for ~4 months in a row, my longest time ever. Lots of unfolding to still happen here.

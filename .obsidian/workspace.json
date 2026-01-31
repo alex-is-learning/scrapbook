@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e39bbc32a93f83d2",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "8a6894647b2c659c",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/2026/Turns out writing for an audience is very useful 2026-01-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Turns out writing for an audience is very useful 2026-01-31"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/2026/Turns out writing for an audience is very useful 2026-01-31.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Turns out writing for an audience is very useful 2026-01-31"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/2026/Turns out writing for an audience is very useful 2026-01-31.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Turns out writing for an audience is very useful 2026-01-31"
             }
           }
         ]
@@ -178,37 +178,39 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8a6894647b2c659c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "source/content/2026/Living in community.md",
+    "source/content/2026/Turns out writing for an audience is very useful 2026-01-31.md",
+    "source/content/2026/Polyamory.md",
+    "source/content/2026/Nosilverv.md",
+    "source/content/2026/Reflexivity.md",
+    "source/content/2026/A B U.md",
     "source/content/🪵 Log per day.md",
-    "source/content/4. Thinking/Misc notes/The key themes of this site.md",
+    "source/content/2026/Log per day - 2025.md",
+    "source/content/2026",
+    "source/content/2025",
+    "source/content/2025/4. Thinking/Misc notes/The key themes of this site.md",
     "source/content/index.md",
     "Untitled.md",
     "source/content/📎 Files/1 - Images/misc/care guy nosilver rival voices.webp",
-    "source/content/5. Alex anthropology/Misc notes/On feedback.md",
+    "source/content/2025/5. Alex anthropology/Misc notes/On feedback.md",
     "source/content/📎 Files/1769156730708.webp",
     "source/content/📎 Files/1769156552985.webp",
-    "source/content/2. Connecting with people/Feedback/Feedback, references.md",
-    "source/content/3. Improving lived experience/1. Healing/So you want to learn about the post-rationalist \"healing\" space? (2025-11-10).md",
-    "source/content/1. Creating things/1. Writings/03. To be a tpot zoomer.md",
-    "source/content/3. Improving lived experience/1. Healing/Ideal Parent Figure Protocol.md",
-    "source/content/3. Improving lived experience/1. Healing/Gendlin's Focusing.md",
-    "source/content/3. Improving lived experience/1. Healing/Existential Kink.md",
-    "source/content/3. Improving lived experience/1. Healing/Enlightenment is possible.md",
-    "source/content/3. Improving lived experience/1. Healing/Deep Okayness.md",
-    "source/content/3. Improving lived experience/1. Healing/45 Days to Awakening course.md",
-    "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Paper notebook.md",
-    "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Meditation parent page.md",
-    "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Kensho.md",
-    "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Increasing the skillfulness of my mind, log 🪵.md",
-    "source/content/5. Alex anthropology/Misc notes/Personality typing systems.md",
-    "source/content/4. Thinking/Misc notes/Astrology.md",
-    "source/content/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Tpot, post-rationalism.md",
-    "source/content/4. Thinking/What makes post-rationalism post-rationalism?.md",
-    "Post-rationalist journey.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis approach 2 - a different life story.md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis (parent page).md",
-    "source/content/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis 1 - same life story, different conclusions.md",
+    "source/content/2025/2. Connecting with people/Feedback/Feedback, references.md",
+    "source/content/2025/3. Improving lived experience/1. Healing/So you want to learn about the post-rationalist \"healing\" space? (2025-11-10).md",
+    "source/content/2025/1. Creating things/1. Writings/03. To be a tpot zoomer.md",
+    "source/content/2025/3. Improving lived experience/1. Healing/Ideal Parent Figure Protocol.md",
+    "source/content/2025/3. Improving lived experience/1. Healing/Gendlin's Focusing.md",
+    "source/content/2025/3. Improving lived experience/1. Healing/Existential Kink.md",
+    "source/content/2025/3. Improving lived experience/1. Healing/Enlightenment is possible.md",
+    "source/content/2025/3. Improving lived experience/1. Healing/Deep Okayness.md",
+    "source/content/2025/3. Improving lived experience/1. Healing/45 Days to Awakening course.md",
+    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Paper notebook.md",
+    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Meditation parent page.md",
+    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Kensho.md",
+    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Increasing the skillfulness of my mind, log 🪵.md",
+    "source/content/2025/5. Alex anthropology/Misc notes/Personality typing systems.md",
     "source/content/📎 Files/1 - Images/misc/1763477047824.webp",
     "1763476897260.webp",
     "source/content/📎 Files/1 - Images/misc/1763476861509.webp",
@@ -221,10 +223,8 @@
     "scripts/hooks",
     "scripts/update-wordcount.sh",
     "scripts",
-    "source/content/3. Improving lived experience/Making music interactive/DJing",
-    "source/content/3. Improving lived experience/Making music interactive",
-    "source/content/5. Alex anthropology/Art I love/Artists",
-    "source/content/5. Alex anthropology/Art I love/Albums per era",
-    "source/content/5. Alex anthropology/Art I love/Albums"
+    "source/content/2025/3. Improving lived experience/Making music interactive/DJing",
+    "source/content/2025/3. Improving lived experience/Making music interactive",
+    "source/content/2025/5. Alex anthropology/Art I love/Artists"
   ]
 }
