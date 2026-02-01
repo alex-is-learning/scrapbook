@@ -2,6 +2,11 @@
 permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
+
+# Feb 2026
+- 2026-02-01
+	- [[Scrunching]]
+	- Introvert pattern updates from coaching 2026-02-01
 # Jan 2026
 - 2026-01-31
 	- [[Turns out writing for an audience is very useful 2026-01-31]]

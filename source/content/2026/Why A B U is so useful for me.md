@@ -21,7 +21,7 @@
 - E.g., I fell in love with David Foster Wallace's writing when I was like, 19. And then I noticed how infrequently this happened, like, I've never since then (in 10 years) discovered a writer who I've loved as much. 
 - This is what I'm now calling the ==A Drought== phenomena
 - This is just one example of *many!*
-# [[A Drought]]s
+# [["A" Drought]]s
 - Now that I have this term (which I invented, shout out to me), I can foreground the fact that... I can go *months* without learning anything significant and new, that updates my world model. 
 - I have a "bad habit" of listening to my favourite comedy podcast on repeat. I've already listened to all the episodes like 3+ times. This is something I've done throughout my life (e.g., rewatching Conan clips, rereading Harry Potter, etc)
 - Because like, it's fucking *hard* to find a new A. The times I've discovered a new thing to become obsessed with, I've gone hard on that thing for ages, and it's very unlikely that I'll find something that hits the same way. E.g. if I'm like "ok well I've already listened to this podcast I love once all the way through, should I try a new one, or relisten to this one?", it's actually far more likely that relistening to this one will provide more enjoyment, because it *really* hits my exact sense of humour
@@ -45,4 +45,4 @@
 - Again, I'm brand new to this, so we're yet to see how this plays out, but I've already had one 10 minute conversation IRL with someone who I had been avoiding for weeks because "well, we're illegible to each other", and as I was talking to him I mentally noted the As that I was gaining (e.g., more stuff about him, adding resolution to my very low resolution model of him). And it felt so good! "Holy shit, look at me getting As from this guy who I had previously completely written off". So this could legitimately have implications for how I show up and connect in this in-person community
 # [["U"s]]
 - Haven't thought about this much yet, apart from I guess when I think "well, I don't have the B Floor to talk to these AI Safety people about AI Safety", I'm acknowledging that a lot of what they'd say would be a U to me
-- "U"s are related/the same as being in an [[A Drought]]. You might try to get out of the A Drought, but all you can find are Us. You can't find a podcast that hits different, you can't find a book or theory that is genuinely helpful. You try to memorise a load of Us via anki in the hopes that something will click and you will Jump Ahead In Your Understanding.
+- "U"s are related/the same as being in an [["A" Drought]]. You might try to get out of the A Drought, but all you can find are Us. You can't find a podcast that hits different, you can't find a book or theory that is genuinely helpful. You try to memorise a load of Us via anki in the hopes that something will click and you will Jump Ahead In Your Understanding.
