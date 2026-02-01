@@ -1,0 +1,2 @@
+- https://defenderofthebasic.substack.com/p/i-started-writing-a-book?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true
+- 

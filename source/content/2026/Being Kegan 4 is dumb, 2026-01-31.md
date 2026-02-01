@@ -1,4 +1,4 @@
-- [[Log per day]]
+- [[Log per day - 2026]]
 - 2026-01-31
 - I think one of my absolute biggest failure modes atm is being kegan 4 as all shit dude. 
 - It's like, there's this very very ==hyperdimensional object== of "preferences" or "values" or "opinions" etc, where each dimension is a spectrum, and you have some ==special blend== which you call "the correct world view", and you're protective of it, think others who exist in a different configuration are wrong

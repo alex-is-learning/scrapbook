@@ -1,4 +1,4 @@
-- [[Log per day]]
+- [[Log per day - 2026]]
 - Mon 2025-10-04
 
 Damn, it's been a while! 

@@ -1,4 +1,4 @@
-- [[Log per day]]
+- [[Log per day - 2026]]
 - Tuesday 2025-10-21
 - Dude IPFP fuckin rules
 - ![[Ideal Parent Figure Protocol is clearly the thing actually-1761038448669.webp]]

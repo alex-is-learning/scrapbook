@@ -10,6 +10,6 @@ permalink: log-per-day
 	- [[My "introvert" behaviour patterning and why I do it]]
 	- [[Why A B U is so useful for me]]
 - 2026-01-29
-	- [[The key themes of this site]]
+	- [[The key themes of this site in 2025]]
 # 2025
 - [[Log per day - 2025]]

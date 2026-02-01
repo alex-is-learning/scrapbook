@@ -5,11 +5,11 @@ aliases:
 permalink: home-page
 ---
 - Hi! I'm Alex, this is my digital scrapbook
-- **Word count:** 277,960 words (AKA The Order of the Phoenix x 1.08).
+- **Word count:** 277,994 words (AKA The Order of the Phoenix x 1.08).
 
-- 😎 **Chronological posts** → [[Log per day]] 
+- 😎 **Chronological posts** → [[Log per day - 2026]] 
 # Appendix
-- [[The key themes of this site]] (2026-01-31, looking at all the 2025 stuff I wrote)
+- [[The key themes of this site in 2025]] (2026-01-31, looking at all the 2025 stuff I wrote)
 - A work-in-progress guide to the thing I've dubbed "==consensus-ism==" which changed my life:
 	- https://alexislearning.me/consensusism/
 - A chronological view of my life → [[My Eras (index)]]

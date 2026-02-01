@@ -1,4 +1,5 @@
-
+- [[Log per day - 2026]]
+- [[The key themes of this site in 2025]]
 ## Dec 2025
 - Sun 2025-12-21
 	- [[Who am I to criticise my parents?]]

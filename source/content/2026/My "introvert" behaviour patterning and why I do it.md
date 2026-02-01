@@ -1,5 +1,5 @@
 - 2026-01-31
-- [[Log per day]]
+- [[Log per day - 2026]]
 - Whaddup whaddup
 - So I live in a community, but I:
 
