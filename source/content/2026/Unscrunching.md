@@ -1,6 +1,8 @@
-- 2026-02-01
 - See also [[Scrunching]]
 
+- 2026-02-01
+- Yesterday, I invented a term for the very first time in my life (?) - [["A" Drought]]
+- And now I'm inventing a new one! Well, two
 - I was calling this "Kegan 5 unclenching", now I'm gonna call it "unscrunching", much better
 
 ## From "[[Being Kegan 4 is dumb, 2026-01-31]]"

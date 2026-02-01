@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scrunching.md",
+                "file": "source/content/2026/Unscrunching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scrunching"
+              "title": "Unscrunching"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/2026/Unscrunching.md",
+                "file": "source/content/2026/Scrunching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unscrunching"
+              "title": "Scrunching"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,13 +206,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "daf1ba88a58f18d8",
+  "active": "21b1dae2b414ce9e",
   "lastOpenFiles": [
-    "Scrunching.md",
-    "Unscrunching.md",
-    "source/content/2026/Unscrunching.md",
-    "source/content/2026/Being Kegan 4 is dumb, 2026-01-31.md",
+    "source/content/2026/Scrunching.md",
     "source/content/Log per day - 2026.md",
+    "source/content/2026/Unscrunching.md",
+    "Unscrunching.md",
+    "source/content/2026/Being Kegan 4 is dumb, 2026-01-31.md",
     "source/content/2026/\"A\" Drought.md",
     "source/content/📎 Files/Files 1 - Images/1769958997530.webp",
     "source/content/2026/\"A\" drought.md",

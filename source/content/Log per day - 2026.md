@@ -5,7 +5,7 @@ permalink: log-per-day
 
 # Feb 2026
 - 2026-02-01
-	- [[Scrunching]]
+	- [[Scrunching]] & [[Unscrunching]]
 	- Introvert pattern updates from coaching 2026-02-01
 # Jan 2026
 - 2026-01-31

@@ -3,7 +3,7 @@
 
 - 2026-02-01
 - Yesterday, I invented a term for the very first time in my life (?) - [["A" Drought]]
-- And now I'm inventing a new one!
+- And now I'm inventing a new one! Well, two
 - From [[Being Kegan 4 is dumb, 2026-01-31]]
 - The act of taking your current idea/belief/opinion Very Seriously, reifying it, acting as if it is definitely true and must be acted on, thinking about all the implications of it, thinking about how people who don't agree are wrong, etc
 
