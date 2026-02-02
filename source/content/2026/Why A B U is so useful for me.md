@@ -1,6 +1,6 @@
 - [[A B U]]
 
-# 2026-01-31
+# 2026-01-31 - initial writeup
 - *Note that it's actually A/B/U, Obsidian just doesn't play nicely with / symbols in file names*
 - *Made a [slide deck](https://docs.google.com/presentation/d/1UScBoVfjTM7BzdQQ8S-qUMN_hKatsN6A3iJ_zqbb2lM/edit?slide=id.g3c299f788bf_0_738#slide=id.g3c299f788bf_0_738) for in-person presentation night too, but I think this document is more self-contained*
 - I discovered ORI's [[A B U]] a few days ago and I've found it incredibly useful, plausibly one of the most immediately useful and insight-bringing concepts of recent memory (a very big "A" for me!) 
@@ -48,7 +48,7 @@
 ## [["U"s]]
 - Haven't thought about this much yet, apart from I guess when I think "well, I don't have the B Floor to talk to these AI Safety people about AI Safety", I'm acknowledging that a lot of what they'd say would be a U to me
 - "U"s are related/the same as being in an [["A" Drought]]. You might try to get out of the A Drought, but all you can find are Us. You can't find a podcast that hits different, you can't find a book or theory that is genuinely helpful. You try to memorise a load of Us via anki in the hopes that something will click and you will Jump Ahead In Your Understanding.
-# 2026-02-02
+# 2026-02-02 - clarifying your A ceiling and following that
 - Something is close to clicking re: the first thing of Defender's that I ever read
 - ![[1770063216713.webp]]
 	- 👆 [link](https://defenderofthebasic.substack.com/p/geoffrey-hinton-on-developing-your)
