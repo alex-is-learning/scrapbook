@@ -21,3 +21,10 @@
 
 - ![[1761896760529.webp]]
 	- [The tweet](https://x.com/callanable/status/1983911454823580029)
+
+
+---
+
+# New stuff to add
+- Re: roasting your friends
+- Authentic Relating "dark reflections"

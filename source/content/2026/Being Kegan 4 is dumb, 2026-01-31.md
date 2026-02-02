@@ -6,6 +6,8 @@
 	- 👆 this is kinda how I envision the high dimensional object when I think/feel about this whole thing
 - And, because you endorse your special blend, because you ==reify/deify certain axioms==, there are all these downstream implications of your world view. Like, there are a bunch of things to figure out, to consider. Also a bunch of things to ==feel really torn about==, because of course, your special Kegan 4 blend wasn't created intelligently, wasn't well engineered, so there are all these clashes, and silly limiting beliefs, incommensurable ideas/opinions, etc
 - And this is how scenes, subgroups, communities, ==ideologies== work - you find people who share the same axioms as you, who exist in the same place in... phase space? State space? Something about manifolds? I'm not well educated enough in math to get the metaphor quite right
+	- ![[1770063001328.webp]]
+	- 👆 [the tweet](https://x.com/everytstudies/status/2018385426940325950)
 - ![[manifold.webp]]
 	- 👆 from the video "[My Understanding of the Manifold Hypothesis ft Geoffrey Hinton | Deep Learning](https://www.youtube.com/watch?v=BePQBWPnYuE&t=307s)". 
 		- "high-dimensional data (like images) actually lies on much lower-dimensional "surfaces" or ==manifolds==."
