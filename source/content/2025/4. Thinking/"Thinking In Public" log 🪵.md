@@ -23,7 +23,7 @@
 	- [[Prepping for thinking tutor]]
 ## Week of 14th July
 - Sun 2025-07-20
-	- [[Should I meditate regularly?]]
+	- [[Should I meditate regularly? (2025-07-20)]]
 - Wed 2025-07-16
 	- [[Gemini Socrates - Outcapped]]
 - Tue 2025-07-15

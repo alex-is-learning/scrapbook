@@ -1,4 +1,4 @@
-- [[Meditation log]]
+- [[Increasing the skillfulness of my mind, log (2025)]]
 - Eye gazing in the mirror leading to visual deconstruction, hell yeah
 - 30 mins
 - Technique - [[Visual deconstruction via eye gazing and verbal debugging]]

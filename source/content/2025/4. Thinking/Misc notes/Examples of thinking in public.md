@@ -2,7 +2,7 @@
 - E.g. 
 	- [[What does it mean to be a professional meta-cognitionist?]] 2025-08-18
 	- [[Are visual notes underrated and poorly understood?]] 2025-06-24
-	- [[Should I meditate regularly?]] (2025-07-20)
+	- [[Should I meditate regularly? (2025-07-20)]] (2025-07-20)
 	- [[What I currently know about Bowen family systems theory|What I know about Bowen family systems theory]] (2025-07-18)
 	- [[06. Learning the Socratic method, part 1 → the rationale|Learning the Socratic Method]] (2025-07-05)
 	- [[How can I operate from a place of uncertainty?]] (2025-07-08)

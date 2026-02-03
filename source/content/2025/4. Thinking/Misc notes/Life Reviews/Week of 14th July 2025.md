@@ -10,7 +10,7 @@ permalink: week-of-14th-july-2025
 2. Wrote up a thing re: the terrible pedagogy of Bowen family systems
 	- [[The terrible pedagogy of (Michael Kerr's version of) Bowen Family Systems Theory]]
 3. Wrote up a manifesto re: “should I meditate?”
-	- [[Should I meditate regularly?]]
+	- [[Should I meditate regularly? (2025-07-20)]]
 4. Rediscovered the Gilman equation
 	- [[Gilman Equation]] 
 5. Booked some intro calls with philosophy/ethics/"how to think" tutors on Superprof.co.uk

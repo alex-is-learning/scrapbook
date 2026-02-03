@@ -1,6 +1,7 @@
 - From [[A B U]]
 
-- The "B floor" is a minimum set of beliefs / knowledge you share with someone.
+- Official: The "B floor" is a minimum set of beliefs / knowledge you share with someone.
+- (I also see it as, minimum personal prerequisite knowledge to understand something. "Oh, I don't get x, I don't have the B floor". "Oh, I can't get myself to meditate regularly from a place of genuine desire, guess I don't have the B floor")
 
 # From 2026-01-31 [[Why A B U is so useful for me]]:
 

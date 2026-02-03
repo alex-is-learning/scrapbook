@@ -1,10 +1,10 @@
-- [[Should I meditate regularly?]]
+- 2026 - [[Do I finally have the "B" floor to meditate? (2026-02-03)]]
+- [[Should I meditate regularly? (2025-07-20)]]
 # 2. Fetters work
 - [[Should I pay Michael Stroe to help me break aversion?]]
 
 - Sat 2025-08-23
 	- [[Fetters work 2025-08-23]]
-
 # 1. Meditating for 1 hour a day
 - But then I fell off when I had to fly to Spain to help my Dad in hospital
 ## Week of 4th August
@@ -60,7 +60,7 @@
 		- This is the hardest part of the journey! Super distracted, no clear benefits, feel like I'm failing. But it's ok, it's normal to have very poor shamatha at the start
 ## Week of 14th July
 - Sun 2025-07-20
-	- Wrote up [[Should I meditate regularly?]] → 4 pomodoros
+	- Wrote up [[Should I meditate regularly? (2025-07-20)]] → 4 pomodoros
 	- Convinced myself!
 	- Sit 1 → 30 minutes, focus on the nostrils
 		- [[Ānāpānasati (Anapanasati)]]

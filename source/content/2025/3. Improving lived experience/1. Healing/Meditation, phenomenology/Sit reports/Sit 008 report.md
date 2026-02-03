@@ -2,7 +2,7 @@
 permalink: 
 created:
 ---
-- [[Meditation log]]
+- [[Increasing the skillfulness of my mind, log (2025)]]
 # Pre-Meditation Preparation
 - **Date & Time:** 2025-08-03  22:00
 - **Planned Duration:** 1 hour

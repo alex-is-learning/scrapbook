@@ -20,7 +20,7 @@ created: 2025-08-03
 - I used this website to write up my thinking on various things, e.g.
 	- [[11. Manifesto - "Time to re-assess full-time vs part-time work"]]
 	- [[Questioning Effective Altruism]]
-	- [[Should I meditate regularly?]]
+	- [[Should I meditate regularly? (2025-07-20)]]
 	- Thought through if I wanted to work for Outcapped or not 
 		- [[Working with Rob at Outcapped, parent page]]
 	- [[Should I value in-person connection highly? (first pass)]]

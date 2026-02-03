@@ -21,7 +21,7 @@ permalink: why-am-i-publishing-stuff-semi-privately
 # 3. Previous emotional blocks
 - *Because I love doing Alex Anthropology, lol*
 	- [[Self-anthropology]]
-- Also kinda inspired by [[Should I meditate regularly?]] yesterday, where I found it really useful (and fun) to gather all my previous experiences with meditation, before then tackling the "why am I not doing it right now, and should I?" question
+- Also kinda inspired by [[Should I meditate regularly? (2025-07-20)]] yesterday, where I found it really useful (and fun) to gather all my previous experiences with meditation, before then tackling the "why am I not doing it right now, and should I?" question
 ## 3a. No emotional blocks, just a kid
 - *<span class="text-red">Feel free to skip this bit - not particularly relevant, just fun for me to go down memory lane</span>*
 ### 1. First ever youtube video - me as a ~10 year old playing the guitar
@@ -38,7 +38,7 @@ permalink: why-am-i-publishing-stuff-semi-privately
 ## 3b. Emotional blocks as an "adult"[^1]
 ### 1. Post-rationalist Twitter & Substack
 #### A) Being a lurker
-- I discovered the post-rationalist/tpot space (see [[Should I meditate regularly?]])
+- I discovered the post-rationalist/tpot space (see [[Should I meditate regularly? (2025-07-20)]])
 	- [[Tpot, post-rationalism]]
 - Around the age of 26
 - But I was a lurker for a good long while - for whatever reason I didn't want to tweet
@@ -66,7 +66,7 @@ permalink: why-am-i-publishing-stuff-semi-privately
 - Me and Simmo worked on a youtube channel in Asia for a little bit
 - I tried recording myself for one video and I was just so stilted and awkward lol, it was a total no go
 #### B) ~Stream entry to the rescue
-- I had my ~stream entry experience (see [[Should I meditate regularly?]])
+- I had my ~stream entry experience (see [[Should I meditate regularly? (2025-07-20)]])
 - And then immediately, my adult fear of being in front of the camera dropped to 0, as I no longer had social anxiety
 - Made a vlog of me at Life Itself in France (where I was living at the time) and was just totally chill
 #### C) Making music/vlogs - "Alex is Creating Things (Finally!)"

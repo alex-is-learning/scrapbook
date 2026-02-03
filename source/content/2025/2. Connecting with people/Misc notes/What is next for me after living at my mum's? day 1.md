@@ -55,7 +55,7 @@ permalink:
 	- Skill issues re: connecting in person (e.g. JessCamp, Life Itself)
 		- Social skills (perspectival and procedural) as open question
 	- The amount of social podcasts I listen to!
-- Similar to [[Should I meditate regularly?]], I'd like to write something up like [[Should I value in-person connection highly? (first pass)]]
+- Similar to [[Should I meditate regularly? (2025-07-20)]], I'd like to write something up like [[Should I value in-person connection highly? (first pass)]]
 # 4. Currently in limbo
 - Waiting for family therapy session 1 
 - Waiting to start contractor role 

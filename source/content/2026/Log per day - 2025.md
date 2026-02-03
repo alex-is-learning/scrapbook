@@ -189,7 +189,7 @@
 ### Week of 14th July
 - Sun 2025-07-20
 	- [[NVC flashcards]]
-	- [[Should I meditate regularly?]]
+	- [[Should I meditate regularly? (2025-07-20)]]
 	- [[Gilman Equation]]
 	- [[Meditation log]]
 - Fri 2025-07-18

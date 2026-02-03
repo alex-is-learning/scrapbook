@@ -5,7 +5,8 @@ permalink: log-per-day
 
 # Feb 2026
 - 2026-02-03
-	- [[Ok so like, now what (2026-02-03)]]
+	- [[After the ORI "A" storm (2026-02-03)]]
+	- [[Do I finally have the "B" floor to meditate? (2026-02-03)]]
 - 2026-02-01
 	- [[Inventing terms]]
 	- [[Scrunching]] & [[Unscrunching]]

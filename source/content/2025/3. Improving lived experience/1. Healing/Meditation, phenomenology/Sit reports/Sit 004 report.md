@@ -2,7 +2,7 @@
 permalink: sit-004-report
 created: 2025-07-30
 ---
-- [[Meditation log]]
+- [[Increasing the skillfulness of my mind, log (2025)]]
 - **Date & Time:** 
 - **Duration:** 
 - **Technique:** 

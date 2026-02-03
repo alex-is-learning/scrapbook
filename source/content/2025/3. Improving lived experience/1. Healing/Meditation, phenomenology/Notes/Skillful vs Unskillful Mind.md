@@ -2,4 +2,4 @@
 - I want to get more serious about meditation, specifically fetters work, to improve my daily lived experience! 
 	- E.g., the amount of rumination I do re: my family → it's something I have the power to change, by e.g. weakening fetters 4 & 5, doing more Byron Katie, etc. Gratitude practice, etc
 		- [["How can I change how to orient to my family?" (Open Question)]]
-- [[Increasing the skillfulness of my mind, log 🪵]]
+- [[Increasing the skillfulness of my mind, log (2025)]]

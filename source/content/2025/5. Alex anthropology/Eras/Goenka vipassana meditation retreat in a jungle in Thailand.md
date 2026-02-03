@@ -1,6 +1,7 @@
 - [[Era 15 - Asia]]
 
-10 day silent meditation retreat in the jungle. Goenka vipassana, not a style that I really endorse but a *very*  interesting and cool experience
+- September 2023
+- 10 day silent meditation retreat in the jungle. Goenka vipassana, not a style that I really endorse but a *very*  interesting and cool experience
 
 Here -> https://maps.app.goo.gl/ghrVaMCG1cohRqhF9
 

@@ -1,7 +1,7 @@
 ---
 permalink: sit-001-report
 ---
-- [[Meditation log]]
+- [[Increasing the skillfulness of my mind, log (2025)]]
 - **Date & Time:** 2025-07-27
 - **Duration:** 1 hour
 - **Technique:** [[Ānāpānasati (Anapanasati)]]

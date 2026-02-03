@@ -6,7 +6,7 @@
 - Their [onboarding website](https://openresearchinstitute.org/onboarding/welcome.html)
 # After A/B/U clicked for me
 - 2026-02-03
-	- [[Ok so like, now what (2026-02-03)]]
+	- [[After the ORI "A" storm (2026-02-03)]]
 - 2026-01-31
 	- [[A B U]]
 # Before A/B/U clicked for me
