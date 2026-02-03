@@ -10,3 +10,9 @@ how cool it is to have people like Defender and Guy reply to me, and Romeo with 
 And how there are no special states of consciousness, eg it’s not like meditation time is the separate different special thing. It’s not like the jhanas I reached were different or didn’t count because they were “in a retreat setting”, it’s all the same (the Romeo Stevens tweet)
 
 “Once you start thinking reflexively, a lot of puzzle pieces start sliding into place.”
+
+
+![[1770159752125.webp]]
+
+![[1770159768051.webp]]
+- 👆 https://x.com/nosilverv/status/2016885163209187401

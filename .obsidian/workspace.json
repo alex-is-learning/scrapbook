@@ -6,6 +6,7 @@
       {
         "id": "72c1390d639e6e69",
         "type": "tabs",
+        "dimension": 49.885189437428245,
         "children": [
           {
             "id": "b29d5834f4e7ac9c",
@@ -20,12 +21,27 @@
               "icon": "lucide-file",
               "title": "Do I finally have the \"B\" floor to meditate? (2026-02-03)"
             }
+          },
+          {
+            "id": "b140f2285157d7c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/2025/3. Improving lived experience/1. Healing/My meditation journey so far (2025-07-20).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My meditation journey so far (2025-07-20)"
+            }
           }
         ]
       },
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 50.114810562571755,
         "children": [
           {
             "id": "21b1dae2b414ce9e",
@@ -33,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/2025/4. Thinking/Misc notes/Should I meditate regularly? (2025-07-20).md",
+                "file": "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Increasing the skillfulness of my mind, log (2025).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Should I meditate regularly? (2025-07-20)"
+              "title": "Increasing the skillfulness of my mind, log (2025)"
             }
           }
         ]
@@ -200,11 +216,16 @@
   },
   "active": "b29d5834f4e7ac9c",
   "lastOpenFiles": [
-    "source/content/2025/3. Improving lived experience/1. Healing/My meditation journey so far (2025-07-20).md",
-    "source/content/2026/Do I finally have the \"B\" floor to meditate? (2026-02-03).md",
-    "source/content/2025/4. Thinking/Misc notes/Should I meditate regularly? (2025-07-20).md",
-    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Sit reports/Sit 007 report.md",
     "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Increasing the skillfulness of my mind, log (2025).md",
+    "source/content/2025/4. Thinking/Misc notes/Should I meditate regularly? (2025-07-20).md",
+    "source/content/2026/Do I finally have the \"B\" floor to meditate? (2026-02-03).md",
+    "source/content/📎 Files/Files 0 - 2026/romeo - there is no special awareness.webp",
+    "source/content/2025/3. Improving lived experience/1. Healing/My meditation journey so far (2025-07-20).md",
+    "source/content/2026/Reflexivity.md",
+    "source/content/📎 Files/Files 0 - 2026/1770159768051.webp",
+    "source/content/📎 Files/Files 0 - 2026/1770159752125.webp",
+    "source/content/2026/My \"introvert\" behaviour patterning and why I do it (2026-01-31).md",
+    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Sit reports/Sit 007 report.md",
     "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Sit reports/Sit 009 report.md",
     "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Sit reports/Sit 008 report.md",
     "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Sit reports/Sit 006 report.md",
@@ -223,9 +244,6 @@
     "source/content/2026/Access concentration.md",
     "source/content/2026/MCTB.md",
     "source/content/2025/5. Alex anthropology/Eras/Goenka vipassana meditation retreat in a jungle in Thailand.md",
-    "source/content/Log per day - 2026.md",
-    "source/content/2026/After the ORI \"A\" storm (2026-02-03).md",
-    "source/content/2026/ORI.md",
     "source/content/📎 Files/Files 0 - 2026/1770063216713.webp",
     "source/content/📎 Files/Files 0 - 2026/1770063631108.webp",
     "source/content/📎 Files/Files 0 - 2026/1770063525421.webp",
@@ -233,9 +251,6 @@
     "source/content/📎 Files/Files 0 - 2026/1770063244963.webp",
     "source/content/📎 Files/Files 0 - 2026/1770063001328.webp",
     "source/content/📎 Files/Files 1 - Images/1769958997530.webp",
-    "source/content/📎 Files/Files 0 - 2026/1769879228958.webp",
-    "source/content/📎 Files/Files 0 - 2026/1769880241259.webp",
-    "source/content/📎 Files/Files 0 - 2026/1769880215194.webp",
     "source/content/📎 Files/Files 0 - 2026",
     "source/content/📎 Files/Untitled",
     "source/content/2026",
