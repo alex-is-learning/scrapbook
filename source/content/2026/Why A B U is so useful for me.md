@@ -65,3 +65,4 @@
 	- ![[1770063631108.webp]]
 - When I made a prediction, I actually added a point to my own personal model of the thing, that I could very easily validate whether it was "true" or "false"
 - Ultimately, this wasn't a topic that I was genuinely interested in, but it still showed how to make an initial A and actually be engaged in the outcome. The beginning of a possible A cascade, etc, rather than learning a load of Us that you can't determine if they're true or not
+
