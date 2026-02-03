@@ -1,5 +1,6 @@
 - Return!
 - Didn't work in 2025 ([[Increasing the skillfulness of my mind, log (2025)]]) but guess what, I've definitely figured it out now 😎 [^1]
+- See also [["B" floor]]
 # 2026-02-03
 ## Never had a regular practice
 - So, I've never had a regular meditation practice, despite having some great experiences on retreat
