@@ -4,6 +4,8 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 
 # Feb 2026
+- 2026-02-03
+	- [[Ok so like, now what (2026-02-03)]]
 - 2026-02-01
 	- [[Inventing terms]]
 	- [[Scrunching]] & [[Unscrunching]]

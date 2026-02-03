@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/2026/Why A B U is so useful for me.md",
+                "file": "source/content/2026/ORI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why A B U is so useful for me"
+              "title": "ORI"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/2026/Why A B U is so useful for me.md",
+                "file": "source/content/2026/ORI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Why A B U is so useful for me"
+              "title": "Backlinks for ORI"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/2026/Why A B U is so useful for me.md",
+                "file": "source/content/2026/ORI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Why A B U is so useful for me"
+              "title": "Outline of ORI"
             }
           }
         ]
@@ -178,21 +178,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "21b1dae2b414ce9e",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/content/📎 Files/Files 0 - 2026/1770063216713.webp",
-    "source/content/2026/Why A B U is so useful for me.md",
-    "source/content/📎 Files/Files 0 - 2026/1770063631108.webp",
+    "source/content/2026/A B U.md",
+    "source/content/2026/ORI.md",
+    "source/content/2025/4. Thinking/What does it mean to be in ORI?/Notes/My model of ORI/My model of ORI, 2025-06-23.md",
+    "source/content/2025/4. Thinking/What does it mean to be in ORI?/\"What does it mean to be in ORI?\" (Open Question).md",
+    "source/content/2026/Ok so like, now what (2026-02-03).md",
+    "source/content/2026/Scrunching.md",
     "source/content/Log per day - 2026.md",
+    "source/content/2026/Why A B U is so useful for me.md",
+    "source/content/📎 Files/Files 0 - 2026/1770063216713.webp",
+    "source/content/📎 Files/Files 0 - 2026/1770063631108.webp",
     "source/content/2026/Log per day - 2025.md",
     "source/content/2025/4. Thinking/How to learn/Notes/Learning examples/International relations/Middle East/Israel & Iran (session 2).md",
     "source/content/2025/4. Thinking/How to learn/Notes/Learning examples/International relations/Middle East/Israel & Iran (session 1).md",
     "source/content/📎 Files/Files 0 - 2026/1770063525421.webp",
     "source/content/📎 Files/Files 0 - 2026/1770063484016.webp",
     "source/content/📎 Files/Files 0 - 2026/1770063244963.webp",
-    "source/content/2026/A B U.md",
     "source/content/2026/Being Kegan 4 is dumb, 2026-01-31.md",
-    "source/content/2026/Scrunching.md",
     "source/content/📎 Files/Files 0 - 2026/1770063001328.webp",
     "source/content/index.md",
     "source/content/2026/Reflexivity.md",
@@ -211,10 +215,7 @@
     "source/content/📎 Files/Files 0 - 2026/1769879228958.webp",
     "source/content/📎 Files/Files 0 - 2026/1769880241259.webp",
     "source/content/📎 Files/Files 0 - 2026/1769880215194.webp",
-    "source/content/2025/4. Thinking/What does it mean to be in ORI?/\"What does it mean to be in ORI?\" (Open Question).md",
     "source/content/2025/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/Mythopoesis 1 - same life story, different conclusions.md",
-    "source/content/2025/4. Thinking/Misc notes/Old website intro.md",
-    "source/content/2025/4. Thinking/What does it mean to be in ORI?/Notes/My model of ORI/My model of ORI, 2025-06-23.md",
     "source/content/📎 Files/Files 0 - 2026",
     "source/content/📎 Files/Untitled",
     "source/content/2026",
