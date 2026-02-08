@@ -22,6 +22,8 @@
 - And you may spend years in a particular world-view, with people who agree with you, investigating the implications of the world view - AI safety is a salient example to me, but of course any career would apply. Finding people who share your axioms, learning (getting "[["A"s]]"), being able to talk to people at the same level of abstraction (having the prerequisite [["B" floor]]), etc.
 - I am now calling this [[Scrunching]]
 ## Unclench
+> "*But at some point you realize that all principles are somewhat arbitrary or relative. There is no ultimately true principle on which a correct system can be built. It’s not just that we don’t yet know what the absolute truth is; it is that there cannot be one. All systems come to seem inherently empty."*
+	- 👆 https://vividness.live/developing-ethical-social-and-cognitive-competence
 - The opposite of [[Scrunching]]
 - I am now going to call this [[Unscrunching]]
 - *Will also make this into a separate page - [[Unscrunching]]*
@@ -34,6 +36,11 @@
 - ![[technical debt.webp]]
 - It currently feels right to me (blended with my Kegan 4 model, foregrounding certain axioms, lol), that this "technical debt" could be the mix of your Kegan 4 "==opinions/values==", and also "==trauma==", which are like, "stuck priors that were useful to you back then but are now suboptimal" (e.g., "if I'm quiet around men, they won't snap at me" working for you to not get snapped at by your grandad, but now as an adult causing you to be somewhat uncomfortable around all men)
 - Post I wanna read - "[technical debt, meditation, and minds](https://meditationstuff.wordpress.com/2019/04/11/technical-debt-meditation-and-minds/ )"
+### The metta sutta
+> But when one lives quite free from any view,
+ is virtuous, with perfect insight won,
+ and greed for sensual desires expelled —
+ one surely comes no more to any womb.
 # Where did your special blend come from?
 - I imagine a lot of it is laid down in childhood/adolscence! 
 - For example, when I was a kid, my Dad introduced me to some music that I loved (e.g. The White Stripes). I listened to them a bunch, then he introduced me to The Strokes and I listened to them a bunch. And then because of this, I gradually become a "music nerd", because of these early seeds being planted

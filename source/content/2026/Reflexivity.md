@@ -4,7 +4,6 @@
 	- This is a great term that displays both - Defender's "[I started writing a book](https://defenderofthebasic.substack.com/p/i-started-writing-a-book)"
 	- [Tasshin](https://tasshin.com/blog/hyperstition-for-the-future/) has a post where he sets up a hyperstition
 	- Really, it's very close to manifesting innit
-
 ## From Nosilverv's post
 Elon isn't trying to predict the future—he's far too busy building it. A [classic](https://effectuation.org/) entrepreneur.
 
