@@ -1,0 +1,2 @@
+- This is kinda the Genie Problem/Eternalism, thinking there's something out there that will fix you. Better to focus on what you need right now.
+- You might get to a point where the top thing you want to do is expand your life, learn something new, do something new etc.

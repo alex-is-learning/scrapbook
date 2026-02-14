@@ -1,0 +1,11 @@
+- ![[Pasted image 20251107101624.png]]
+- Feelings
+	- [[Feelings are signal]]
+	- [[Feelings don't contain false info]]
+	- [[All feelings are good]]
+- [[No Guessing Rule]]
+- [[One unitary preference (no parts)]]
+- [[Pendulation]]
+# Relevant "Art of Accomplishment" video
+- "[Finding Your Purpose is Hard Until You Understand This](https://www.youtube.com/watch?v=WSTcCbhbG7U)"
+	- "What is my purpose asking me to do right now"is the same as "what is my consensus right now"

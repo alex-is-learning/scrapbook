@@ -1,0 +1,7 @@
+- [[Where does consensus-ism come from?]]
+- [[Mastering the Core Teachings of the Buddha]]
+- [[Saints and Psychopaths]]
+- [[Decartes' Error]] → just re: "emotions are essential signal and you can't make good decisions without them"
+- I think I'm also pointing at a very similar thing as Mark of "[meditationbook.page](https://meditationbook.page/)", which I can't read because it's written in such an insanely discursive way, but [Sasha Chapin highly rates](https://sashachapin.substack.com/p/review-meditation-from-cold-start). I think we're pointing at the same thing because of Malcolm Ocean's summary:
+	- ![[Pasted image 20260118105857.png]]
+		- 👆 [link to tweet](https://x.com/Malcolm_Ocean/status/1574463817177878529)

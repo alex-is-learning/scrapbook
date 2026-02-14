@@ -59,7 +59,7 @@
 - 2025-10-17
 	- [[Poetry with Jonathan]]
 - Fri 2025-10-10
-	- [[Nihilism slash dissociation at the hippy retreat]]
+	- [[Nihilism slash dissociation at the hippy retreat 2025-10-10]]
 - Sat 2025-10-04
 	- [[Back to writing daily - quick Berlin retrospective and where I'm at now]]
 ## 04. September 2025

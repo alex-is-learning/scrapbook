@@ -1,0 +1,7 @@
+- It's essentially streamlined Buddhism 
+- It's very inspired by the Four Path Model of Enlightenment, which I first came across in [[Mastering the Core Teachings of the Buddha]]
+- It's kind of like... *acting as if you're enlightened*m, in an asymptotic way, where occasionally it really clicks for you and becomes notably easier to do. You don't even have to meditate. It's essentially this:
+	- 	![[Pasted image 20260118105857.png]]
+- It's worth saying that *I don't understand it fully yet*. This is an incomplete model, I have not mastered it, I have not figured out all the kinks, etc. I am not Done, essentially
+	- There's an argument that doing the Daniel Ingram thing of doing a bunch of insight meditation with the guidance of a good teacher would actually be more efficient, as you'd get less stuck. But on the other hand, if you don't have genuine consensus to meditate loads, then that's pretty tough to do (e.g., I've never had a regular meditation practice that I've stuck to)
+- See [[Books and sources]] for other books

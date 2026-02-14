@@ -18,7 +18,7 @@
 ## I'm not interested in talking ~most of the time
 - ![[Misc thoughts on living at the EA Hotel 2025-10-24-1761302681578.webp]]
 - Most of the time I just don't want to talk! It's weird
-- I have a bit of a sense that some point soon it'd be good to install a new story/belief re: the value of chatting, yapping, etc. I feel like I don't have a sense of playfulness and silliness and default to a kind of intense gloomy presence (astrology girlies will say it's my scorpio rising). E.g. [[Nihilism slash dissociation at the hippy retreat]]. But at the same time maybe I don't need to change anything about this. I'm friendly and engaged in 1:1 contexts, I am valued and liked despite this, etc
+- I have a bit of a sense that some point soon it'd be good to install a new story/belief re: the value of chatting, yapping, etc. I feel like I don't have a sense of playfulness and silliness and default to a kind of intense gloomy presence (astrology girlies will say it's my scorpio rising). E.g. [[Nihilism slash dissociation at the hippy retreat 2025-10-10]]. But at the same time maybe I don't need to change anything about this. I'm friendly and engaged in 1:1 contexts, I am valued and liked despite this, etc
 ### Something something I don't want to be stuck in verbal land
 - Maybe there's something here for me like I want to communicate in a vibes-based way, I want to do activities with people, I want it to be safe to be silent when I want to be silent. I want to learn your life story, I want to learn more about what you care about, I don't want to talk about things that smell like unimportant bullshit
 # Jess tweet

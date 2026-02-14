@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/2026/Being Kegan 4 is dumb, 2026-01-31.md",
+                "file": "source/content/2026/Unscrunching, Out-There-ism, Neti Neti (2026-02-14).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Being Kegan 4 is dumb, 2026-01-31"
-            }
-          },
-          {
-            "id": "0995a488d5ed7425",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/2026/Unscrunching.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unscrunching"
-            }
-          },
-          {
-            "id": "169494a321516d98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/2026/Reflexivity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reflexivity"
+              "title": "Unscrunching, Out-There-ism, Neti Neti (2026-02-14)"
             }
           }
         ]
@@ -123,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/2026/Being Kegan 4 is dumb, 2026-01-31.md",
+                "file": "source/content/2026/Unscrunching, Out-There-ism, Neti Neti (2026-02-14).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Being Kegan 4 is dumb, 2026-01-31"
+              "title": "Backlinks for Unscrunching, Out-There-ism, Neti Neti (2026-02-14)"
             }
           },
           {
@@ -178,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/2026/Being Kegan 4 is dumb, 2026-01-31.md",
+                "file": "source/content/2026/Unscrunching, Out-There-ism, Neti Neti (2026-02-14).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Being Kegan 4 is dumb, 2026-01-31"
+              "title": "Outline of Unscrunching, Out-There-ism, Neti Neti (2026-02-14)"
             }
           }
         ]
@@ -208,51 +180,51 @@
   },
   "active": "21b1dae2b414ce9e",
   "lastOpenFiles": [
+    "source/content/2025/2. Connecting with people/Misc notes/Nihilism slash dissociation at the hippy retreat 2025-10-10.md",
+    "source/content/2026/Log per day - 2025.md",
     "source/content/Log per day - 2026.md",
-    "source/content/2026/Unscrunching.md",
-    "source/content/2025/4. Thinking/Misc notes/Should I meditate regularly? (2025-07-20).md",
-    "source/content/2025/3. Improving lived experience/1. Healing/My meditation journey so far (2025-07-20).md",
-    "source/content/2026/Why A B U is so useful for me.md",
-    "source/content/2026/After the ORI \"A\" storm (2026-02-03).md",
-    "source/content/2026/Do I finally have the \"B\" floor to meditate? (2026-02-03).md",
-    "source/content/2026/Reflexivity.md",
-    "source/content/📎 Files/Files 0 - 2026/1770161087710.webp",
-    "source/content/📎 Files/Files 0 - 2026/1770161249243.webp",
-    "source/content/📎 Files/Files 0 - 2026/1770161170236.webp",
-    "source/content/📎 Files/Files 0 - 2026/1770161122174.webp",
-    "source/content/📎 Files/Files 0 - 2026/nosilverv you are in the system reflexivity.webp",
-    "source/content/2026/\"B\" floor.md",
-    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Increasing the skillfulness of my mind, log (2025).md",
-    "source/content/📎 Files/Files 0 - 2026/romeo - there is no special awareness.webp",
-    "source/content/📎 Files/Files 0 - 2026/1770159768051.webp",
-    "source/content/📎 Files/Files 0 - 2026/1770159752125.webp",
-    "source/content/2026/My \"introvert\" behaviour patterning and why I do it (2026-01-31).md",
-    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Sit reports/Sit 007 report.md",
-    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Sit reports/Sit 009 report.md",
-    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Sit reports/Sit 008 report.md",
-    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Sit reports/Sit 006 report.md",
-    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Sit reports/Sit 005 report.md",
-    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Sit reports/Sit 004 report.md",
-    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Sit reports/Sit 011 report.md",
-    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Sit reports/Sit 010 report.md",
-    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Sit reports/Sit 003 report.md",
-    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Sit reports/Sit 002 report.md",
-    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Sit reports/Sit 001 report.md",
-    "source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Meditation log.md",
-    "source/content/2025/3. Improving lived experience/1. Healing/Jhourney meditation retreat.md",
-    "source/content/2026/Jhana 2.md",
-    "source/content/2026/Jhana 1.md",
-    "source/content/📎 Files/Files 0 - 2026/1770063216713.webp",
-    "source/content/📎 Files/Files 0 - 2026/1770063631108.webp",
-    "source/content/📎 Files/Files 0 - 2026",
-    "source/content/📎 Files/Untitled",
-    "source/content/2026",
-    "source/content/2026",
-    "source/content/2025",
-    "scripts/install-git-hooks.sh",
-    "scripts/hooks/pre-commit",
-    "scripts/hooks",
-    "scripts/update-wordcount.sh",
-    "scripts"
+    "source/content/2026/Unscrunching, Out-There-ism, Neti Neti (2026-02-14).md",
+    "source/content/2025/3. Improving lived experience/1. Healing/Deep Okayness.md",
+    "source/content/2025/Consensus-ism website/1. Layer 1/Layer 1 (perceptions, ultimate reality).md",
+    "source/content/2025/Consensus-ism website/Images/dropping fear and tension.png",
+    "source/content/2025/Consensus-ism website/Images/malcolm pick 0 or 1 1.png",
+    "source/content/2025/Consensus-ism website/Images/cucked.png",
+    "source/content/2025/Consensus-ism website/Images/Pasted image 20251108184430.png",
+    "source/content/2025/Consensus-ism website/Images/suppressing yourself.png",
+    "source/content/2025/Consensus-ism website/Images/ultimate reality.jpg",
+    "source/content/2025/Consensus-ism website/Images/sasha visions.png",
+    "source/content/2025/Consensus-ism website/Images/Pasted image 20251107180204.png",
+    "source/content/2025/Consensus-ism website/Images/sasha steelman.png",
+    "source/content/2025/Consensus-ism website/Images/Pasted image 20260118105354.png",
+    "source/content/2025/Consensus-ism website/Images/MCTB - 4 path.pdf",
+    "source/content/2025/Consensus-ism website/Images/What if it makes me lazy (to follow my genuine desires).md",
+    "source/content/2025/Consensus-ism website/8. Appendix/This is a skill - try it!.md",
+    "source/content/2025/Consensus-ism website/8. Appendix/Importance of dialogue/Zone of Proximal Development.md",
+    "source/content/2025/Consensus-ism website/8. Appendix/Importance of dialogue/More Knowledgable Other.md",
+    "source/content/2025/Consensus-ism website/8. Appendix/Importance of dialogue/Vygotsky.md",
+    "source/content/2025/Consensus-ism website/8. Appendix/Importance of dialogue/Unconditional Positive Regard.md",
+    "source/content/2025/Consensus-ism website/8. Appendix/Importance of dialogue/Importance of dialogue.md",
+    "source/content/2025/Consensus-ism website/8. Appendix/Importance of dialogue",
+    "source/content/2025/Consensus-ism website/8. Appendix/People/Simply The Seen.md",
+    "source/content/2025/Consensus-ism website/8. Appendix/People/Sasha Chapin.md",
+    "source/content/2025/Consensus-ism website/8. Appendix/People/People working on similar things.md",
+    "source/content/2025/Consensus-ism website/8. Appendix/People/Michael Stroe.md",
+    "source/content/2025/Consensus-ism website/8. Appendix/People/Mark L.md",
+    "source/content/2025/Consensus-ism website/8. Appendix/People/Guy, Rivalvoices, nosilverv.md",
+    "source/content/2025/Consensus-ism website/8. Appendix/People",
+    "source/content/2025/Consensus-ism website/8. Appendix/Resources/Mastering the Core Teachings of the Buddha.md",
+    "source/content/2025/Consensus-ism website/8. Appendix/Resources/Saints and Psychopaths.md",
+    "source/content/2025/Consensus-ism website/8. Appendix/Resources/Decartes' Error.md",
+    "source/content/2025/Consensus-ism website/8. Appendix/Resources/Books and sources.md",
+    "source/content/2025/Consensus-ism website/8. Appendix/Resources",
+    "source/content/2025/Consensus-ism website/8. Appendix/History of emotions (ChatGPT).md",
+    "source/content/2025/Consensus-ism website/8. Appendix/Misc skills/Tips for living this way.md",
+    "source/content/2025/Consensus-ism website/8. Appendix/Misc skills/Gendlin's Focusing.md",
+    "source/content/2025/Consensus-ism website/8. Appendix/Misc skills",
+    "source/content/2025/Consensus-ism website/8. Appendix/Misc concepts",
+    "source/content/2025/Consensus-ism website/5. True beliefs/Sub-beliefs",
+    "source/content/2025/Consensus-ism website/3. False beliefs/Sub-beliefs",
+    "source/content/2025/Consensus-ism website/2. Layer 2/Layer 1 vs layer 2",
+    "source/content/2025/Consensus-ism website/Images"
   ]
 }

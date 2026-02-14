@@ -1,0 +1,5 @@
+- By William "Bill" Hamilton
+- Bill was Daniel Ingram's teacher (?) → [[Mastering the Core Teachings of the Buddha]] is dedicated to him
+	- ![[Pasted image 20251107173550.png]]
+- Part 2 of the book (the Saints section) is a really nice straightforward description of enlightenment. Part 1 (Psychopaths) isn't necessarily required reading IMO, or at least, it should be a like, B-tier reading for you, rather than MCTB which is S-tier
+- ![[Pasted image 20251107174002.png]]
