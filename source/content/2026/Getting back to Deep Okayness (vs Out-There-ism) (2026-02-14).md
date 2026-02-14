@@ -1,5 +1,6 @@
 - [[Log per day - 2026]]
 - 2026-02-14
+# Main Body
 - In [[Being Kegan 4 is dumb, 2026-01-31]], I explored a useful visualisation/pointer given by a mentor, re: unscrunching from your Kegan 4 worldview/key axioms that you might be scrunched with in the moment
 - E.g., something like "we have to do it this way!!!" re: a work project, which makes you rush something through without getting insights from others, because you're possessed by the notion that the thing is Definitely A Problem that you need to fix ASAP (vs if you unscrunched, you'd realise that it's one of a thousand possible problems, etc)
 	- [[Scrunching]]
@@ -81,14 +82,24 @@
 	- "I need to meditate for 3+ hours a day so that I can be saved at some point in the future" → I don't need to meditate for 3+ hours a day because **I don't need saving**
 	- Blending with "I can't be ok until I've *gained x knowledge/experience*" → actually no, the way to be ok is to **drop all of that, right now in this moment**
 - See the two thorns analogy above
-
+# Conclusion
 ## So where does this leave me?
 - I'm deeply okay right now. I don't need concepts. I don't need to explain myself. I don't need to hold all of the above in my head, like a tangle of thorns, in an attempt to get me back to that state, one day. 
 -  =="**The Truth** is the reality that exists _before_ you even start thinking or labeling yourself."==
 
-# And what about my conditioning?
+## And what about my conditioning?
 - I wonder if meditating could help with this. I clearly still have a huge amount of technical debt, and actually, the [[Technical debt]] analogy comes from Mark of meditationbook.page, so yeah, I imagine meditation would definitely help
 - *But*, with the rememberance that I don't have to "clear up enough technical debt so that I can be happy one day". Happiness/okayness isn't "Out There" some time in the future. 
 - (Another path for cleaning up conditioning is the "integration" pillar that Romeo Stevens describes in "[the threefold training](https://neuroticgradientdescent.blogspot.com/2021/03/threefold-training.html))
 - And of course, morality, sila.
 - So there's still lots to do to keep operating at higher levels, but I don't *have* to do shit. If I want to clear out some technical debt, become more moral, kind, compassionate etc, then hell yeah, what an awesome extra thing that I get to do 
+## Talking about this with people = cherishing the second thorn
+- Here's an interesting nascent insight I've been vaguely approaching:
+- I talk about this stuff *a lot*. I live in a community, and when people ask me how I'm doing, what I'm up to, I often tell them about this stuff, about my new insights, the previous insights to give context, etc
+- This feels suboptimal for two reasons:
+	1. It makes me very... one-note. This stuff feels the Most Important, so I don't talk about more like, chill/fun things, it's always Serious Talking Time where I explain my big Insights and their Implications. It's also inherently hyper-personal, so may be illegible to others, totally about me, etc. And inherently hyper-self-centered, therefore.
+	2. It's the thing of cherishing the second thorn. "I'm really excited about my new intellectualisation, new concepts, that help me understand my ignorance a bit better!". It's me holding both of the thorns in place, cherishing them
+- Really, if the point is to discard all the thorns, then talking about my thorns and intellectualisations is the exact opposite thing
+- I've made my whole life about this stuff, for years. It has meant that I have very little to talk about with my family, because they are hyper-removed from this stuff (and this is why tpot/post-rationalist people like hanging out, because they can talk about their journey re: the thorns that they're collecting and cherishing, and be legible to each other, and hope that they might stumble across a thorn from another person which might be added to their own tangle of thorns in a way that feels useful)
+- Vs, if you drop all the thorns, what remains? What can you talk about then?
+- Maybe in this space, you can be playful, tuned into the other person, spontaneous, free.

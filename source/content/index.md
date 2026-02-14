@@ -5,7 +5,7 @@ aliases:
 permalink: home-page
 ---
 - Hi! I'm Alex, this is my digital scrapbook
-- **Word count:** 296,801 words (AKA The Order of the Phoenix x 1.15).
+- **Word count:** 297,113 words (AKA The Order of the Phoenix x 1.16).
 
 - 😎 **Chronological posts** → [[Log per day - 2026]] 
 # Appendix
