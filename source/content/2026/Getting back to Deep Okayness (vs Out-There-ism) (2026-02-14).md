@@ -37,11 +37,11 @@
 - Vs, what about dropping the whole thing ([[Unscrunching]]), and being ok now? 
 - After all, the whole *thing* of enlightenment is a subtractive process. The whole "there's nowhere to get to" thing. The whole "you have Buddha nature right now" thing.
 - "I can't enjoy life/chill/relax/Do Nothing/do things that aren't part of the Spiritual Path (e.g. dating) right now, because I need to prioritise meditating as much as I can". 
-- But of course, even though I'm not permanently in the non-dual, Braham-foregrounding state that I was in during kensho, the conclusion reached by seeing that state (there is a perfect untouched awareness/oneness and nothing needs fixing) still applies.
+- But of course, even though I'm not permanently in the non-dual, Brahman-foregrounding state that I was in during kensho, the conclusion reached by seeing that state (there is a perfect untouched awareness/oneness and nothing needs fixing) still applies.
 - I don't need to do anything. I don't need to do xyz so that one day I can be ok. Okayness is my baseline state. I am deeply ok
 ### Intellectualisation, conceptualisation
 - See the bit on the 2 thorns, below
-- But basically, becoming obsessed with conceptually grasping the thing, becoming obsessed with your philosophy of what happened, which actually just creates layers on bullshit on top of the thing which requires no concepts. It's a subtractive thing and you're adding shit on top of it.
+- But basically, becoming obsessed with conceptually grasping the thing, becoming obsessed with your philosophy of what happened, which actually just creates layers of bullshit on top of the thing which requires no concepts. It's a subtractive thing and you're adding shit on top of it.
 - This is also where [[Unscrunching]] and "Neti neti" comes in. Whatever you're identifying yourself with, *you are not that*. Stop it!
 - From Gemini:
 	- **Neti neti** is a Sanskrit expression that translates to **"not this, not this"** or **"neither this nor that."** It is one of the oldest and most powerful analytical tools in Hindu philosophy (specifically the _Upanishads_ and _Advaita Vedanta_). It is the "subtractive" path to finding the Truth you were asking about—the process of peeling away everything that _isn't_ you until only the absolute remains.
@@ -58,11 +58,12 @@
 	- 🚨 🚨 🚨
 	- "**The Truth** is the reality that exists _before_ you even start thinking or labeling yourself."
 	- 🚨 🚨 🚨
-- So, I experienced this state, ultimate reality. And then I went back to 
+- So, I experienced this state, ultimate reality. And then I went back to my conditioning, because *of course*,  it'd be mad if I didn't. There's a Shamil Chandaria graph of the path where the x axis is waking up and the y axis is cleaning up your conditioning. I "woke up" somewhat but my pile of conditioning ([[Technical debt]]) remained, by bad habits remain. So, including Out-There-ism and intellectualisation, this also included:
 ### Left-hemisphere capture
 - I've been super left-hemisphere captured. Always in problem-solving mode, collapsed awareness, "don't talk to me whilst I make my coffee because I'm in a collapsed awareness state holding tension in my body because I'm in work mode"
+- Always listening to podcasts over being with my own thoughts (for years). Etc.
 ### Discomfort being around people
-- I wrote about this recently - I often have the sense that I'm not "Okay" around people, because I'm not being interesting enough, charming enough, energetic enough, etc
+- I wrote about this recently - I often have the sense that I'm not "Okay" around people, because I'm not being interesting enough, charming enough, energetic enough, etc. 
 - [[My "introvert" behaviour patterning and why I do it (2026-01-31)]]
 ### Judgementalness
 - I do a lot of "I'm better than that person because x". "Oh shit, I wish I was like that person because y"
@@ -84,3 +85,8 @@
 ## So where does this leave me?
 - I'm deeply okay right now. I don't need concepts. I don't need to explain myself. I don't need to hold all of the above in my head, like a tangle of thorns, in an attempt to get me back to that state, one day. 
 -  =="**The Truth** is the reality that exists _before_ you even start thinking or labeling yourself."==
+
+# And what about my conditioning?
+- I wonder if meditating could help with this. I clearly still have a huge amount of technical debt, and actually, the [[Technical debt]] analogy comes from Mark of meditationbook.page, so yeah, I imagine meditation would definitely help
+- *But*, with the rememberance that I don't have to "clear up enough technical debt so that I can be happy one day". Happiness/okayness isn't "Out There" some time in the future. 
+- (Another path for cleaning up conditioning is the "integration" pillar that Romeo Stevens describes in "[the threefold training](https://neuroticgradientdescent.blogspot.com/2021/03/threefold-training.html))
