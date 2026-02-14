@@ -90,3 +90,5 @@
 - I wonder if meditating could help with this. I clearly still have a huge amount of technical debt, and actually, the [[Technical debt]] analogy comes from Mark of meditationbook.page, so yeah, I imagine meditation would definitely help
 - *But*, with the rememberance that I don't have to "clear up enough technical debt so that I can be happy one day". Happiness/okayness isn't "Out There" some time in the future. 
 - (Another path for cleaning up conditioning is the "integration" pillar that Romeo Stevens describes in "[the threefold training](https://neuroticgradientdescent.blogspot.com/2021/03/threefold-training.html))
+- And of course, morality, sila.
+- So there's still lots to do to keep operating at higher levels, but I don't *have* to do shit. If I want to clear out some technical debt, become more moral, kind, compassionate etc, then hell yeah, what an awesome extra thing that I get to do 
