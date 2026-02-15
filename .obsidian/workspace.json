@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/2026/15. Burn.md",
+                "file": "source/content/2025/1. Creating things/1. Writings/Writing - vignettes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15. Burn"
+              "title": "Writing - vignettes"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/2026/15. Burn.md",
+                "file": "source/content/2025/1. Creating things/1. Writings/Writing - vignettes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 15. Burn"
+              "title": "Backlinks for Writing - vignettes"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/2026/15. Burn.md",
+                "file": "source/content/2025/1. Creating things/1. Writings/Writing - vignettes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 15. Burn"
+              "title": "Outline of Writing - vignettes"
             }
           }
         ]
@@ -195,12 +195,25 @@
   },
   "active": "ca2f34495d0dbcd5",
   "lastOpenFiles": [
-    "source/content/2026/If there's nothing to do, what now? 2026-02-15.md",
-    "source/content/2026/15. Burn.md",
-    "source/content/Log per day - 2026.md",
-    "source/content/2025/1. Creating things/1. Writings/14. Gold prospecting.md",
-    "source/content/2026/Getting back to Deep Okayness (vs Out-There-ism) (2026-02-14).md",
+    "source/content/2025/1. Creating things/1. Writings/01. To be a boomer.md",
     "source/content/2025/1. Creating things/1. Writings/Writing - vignettes.md",
+    "source/content/2025/1. Creating things/1. Writings/02. Don't be overwhelmed!.md",
+    "source/content/2025/1. Creating things/1. Writings/03. To be a tpot zoomer.md",
+    "source/content/2025/1. Creating things/1. Writings/04. It flows, if you let it.md",
+    "source/content/2025/1. Creating things/1. Writings/05. Hospital cafe.md",
+    "source/content/2025/1. Creating things/1. Writings/06. Cornflakes.md",
+    "source/content/2025/1. Creating things/1. Writings/07. Travel day.md",
+    "source/content/2025/1. Creating things/1. Writings/08. Morning by the pool.md",
+    "source/content/2025/1. Creating things/1. Writings/09. Hill.md",
+    "source/content/2025/1. Creating things/1. Writings/10. After \"Ship It Week\".md",
+    "source/content/2025/1. Creating things/1. Writings/11. Balcony.md",
+    "source/content/2025/1. Creating things/1. Writings/12. Misery.md",
+    "source/content/2025/1. Creating things/1. Writings/13. I don't know yet.md",
+    "source/content/2025/1. Creating things/1. Writings/14. Gold prospecting.md",
+    "source/content/2026/15. Burn.md",
+    "source/content/2026/If there's nothing to do, what now? 2026-02-15.md",
+    "source/content/Log per day - 2026.md",
+    "source/content/2026/Getting back to Deep Okayness (vs Out-There-ism) (2026-02-14).md",
     "source/content/2026/Technical debt.md",
     "source/content/2025/2. Connecting with people/Misc notes/Nihilism slash dissociation at the hippy retreat 2025-10-10.md",
     "source/content/2026/Log per day - 2025.md",
@@ -219,21 +232,8 @@
     "source/content/2025/Consensus-ism website/Images/MCTB - 4 path.pdf",
     "source/content/2025/Consensus-ism website/Images/What if it makes me lazy (to follow my genuine desires).md",
     "source/content/2025/Consensus-ism website/8. Appendix/This is a skill - try it!.md",
-    "source/content/2025/Consensus-ism website/8. Appendix/Importance of dialogue/Zone of Proximal Development.md",
-    "source/content/2025/Consensus-ism website/8. Appendix/Importance of dialogue/More Knowledgable Other.md",
-    "source/content/2025/Consensus-ism website/8. Appendix/Importance of dialogue/Vygotsky.md",
-    "source/content/2025/Consensus-ism website/8. Appendix/Importance of dialogue/Unconditional Positive Regard.md",
-    "source/content/2025/Consensus-ism website/8. Appendix/Importance of dialogue/Importance of dialogue.md",
     "source/content/2025/Consensus-ism website/8. Appendix/Importance of dialogue",
-    "source/content/2025/Consensus-ism website/8. Appendix/People/Simply The Seen.md",
-    "source/content/2025/Consensus-ism website/8. Appendix/People/Sasha Chapin.md",
-    "source/content/2025/Consensus-ism website/8. Appendix/People/People working on similar things.md",
-    "source/content/2025/Consensus-ism website/8. Appendix/People/Michael Stroe.md",
-    "source/content/2025/Consensus-ism website/8. Appendix/People/Mark L.md",
-    "source/content/2025/Consensus-ism website/8. Appendix/People/Guy, Rivalvoices, nosilverv.md",
     "source/content/2025/Consensus-ism website/8. Appendix/People",
-    "source/content/2025/Consensus-ism website/8. Appendix/Resources/Mastering the Core Teachings of the Buddha.md",
-    "source/content/2025/Consensus-ism website/8. Appendix/Resources/Saints and Psychopaths.md",
     "source/content/2025/Consensus-ism website/8. Appendix/Resources",
     "source/content/2025/Consensus-ism website/8. Appendix/Misc skills",
     "source/content/2025/Consensus-ism website/8. Appendix/Misc concepts",
