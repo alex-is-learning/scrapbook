@@ -103,3 +103,6 @@
 - I've made my whole life about this stuff, for years. It has meant that I have very little to talk about with my family, because they are hyper-removed from this stuff (and this is why tpot/post-rationalist people like hanging out, because they can talk about their journey re: the thorns that they're collecting and cherishing, and be legible to each other, and hope that they might stumble across a thorn from another person which might be added to their own tangle of thorns in a way that feels useful)
 - Vs, if you drop all the thorns, what remains? What can you talk about then?
 - Maybe in this space, you can be playful, tuned into the other person, spontaneous, free.
+
+## Related vignette
+- [[15. Burn]]
