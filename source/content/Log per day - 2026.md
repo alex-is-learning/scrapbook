@@ -5,6 +5,7 @@ permalink: log-per-day
 
 # Feb 2026
 - 2026-02-16
+	- [[17. Horns]]
 	- [[16. Quest]]
 - 2026-02-15
 	- [[15. Burn]]

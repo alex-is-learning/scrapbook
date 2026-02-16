@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Log per day - 2026.md",
+                "file": "source/content/2026/16. Quest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Log per day - 2026"
+              "title": "16. Quest"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Log per day - 2026.md",
+                "file": "source/content/2026/16. Quest.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Log per day - 2026"
+              "title": "Backlinks for 16. Quest"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Log per day - 2026.md",
+                "file": "source/content/2026/16. Quest.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Log per day - 2026"
+              "title": "Outline of 16. Quest"
             }
           }
         ]
@@ -195,9 +195,10 @@
   },
   "active": "e921c69b93431772",
   "lastOpenFiles": [
-    "source/content/2026/If there's nothing to do, what now? 2026-02-15.md",
-    "source/content/Log per day - 2026.md",
+    "source/content/2026/17. Horns.md",
     "source/content/2026/16. Quest.md",
+    "source/content/Log per day - 2026.md",
+    "source/content/2026/If there's nothing to do, what now? 2026-02-15.md",
     "source/content/2025/1. Creating things/1. Writings/Writing - vignettes.md",
     "source/content/2026/15. Burn.md",
     "source/content/2025/1. Creating things/1. Writings/03. To be a tpot zoomer.md",
@@ -231,7 +232,6 @@
     "source/content/2025/Consensus-ism website/Images/sasha steelman.png",
     "source/content/2025/Consensus-ism website/Images/Pasted image 20260118105354.png",
     "source/content/2025/Consensus-ism website/Images/MCTB - 4 path.pdf",
-    "source/content/2025/Consensus-ism website/Images/What if it makes me lazy (to follow my genuine desires).md",
     "source/content/2025/Consensus-ism website/8. Appendix/Importance of dialogue",
     "source/content/2025/Consensus-ism website/8. Appendix/People",
     "source/content/2025/Consensus-ism website/8. Appendix/Resources",
