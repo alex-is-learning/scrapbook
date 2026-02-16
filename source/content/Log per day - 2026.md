@@ -4,6 +4,8 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 
 # Feb 2026
+- 2026-02-16
+	- [[16. Quest]]
 - 2026-02-15
 	- [[If there's nothing to do, what now? 2026-02-15]]
 	- [[15. Burn]]
