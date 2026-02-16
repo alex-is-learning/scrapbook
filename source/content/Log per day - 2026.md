@@ -7,7 +7,6 @@ permalink: log-per-day
 - 2026-02-16
 	- [[16. Quest]]
 - 2026-02-15
-	- [[If there's nothing to do, what now? 2026-02-15]]
 	- [[15. Burn]]
 - 2026-02-14
 	- [[Getting back to Deep Okayness (vs Out-There-ism) (2026-02-14)]]

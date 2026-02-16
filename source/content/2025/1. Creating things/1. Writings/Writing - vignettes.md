@@ -1,13 +1,16 @@
 - [[Writing more! (Parent page)]]
 - By vignettes, I mean... I'm not trying to write fiction or short stories here. It's still essentially my voice, maybe written from a particular "part", but yeah, there's no characters or anything, pretty much just a "instead of something like an essay, I'm writing something more emotive"
+## February 2026
 - 2026-02-16
 	- [[16. Quest]]
 - 2026-02-15
 	- [[15. Burn]]
+## October 2025
 - 2025-10-25
 	- [[14. Gold prospecting]]
 - 2025-10-17 
 	- [[13. I don't know yet]]
+## September 2025
 - 2025-09-13
 	- [[12. Misery]]
 - 2025-09-10
@@ -16,6 +19,7 @@
 	- [[10. After "Ship It Week"]]
 - 2025-09-03
 	- [[09. Hill]]
+## August 2025
 - 2025-08-31
 	- [[08. Morning by the pool]]
 - 2025-08-28

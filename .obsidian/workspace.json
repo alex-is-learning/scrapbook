@@ -35,7 +35,8 @@
               "title": "Log per day - 2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/2026/16. Quest.md",
+                "file": "source/content/Log per day - 2026.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 16. Quest"
+              "title": "Backlinks for Log per day - 2026"
             }
           },
           {
@@ -164,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/2026/16. Quest.md",
+                "file": "source/content/Log per day - 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 16. Quest"
+              "title": "Outline of Log per day - 2026"
             }
           }
         ]
@@ -192,11 +193,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ca2f34495d0dbcd5",
+  "active": "e921c69b93431772",
   "lastOpenFiles": [
+    "source/content/2026/If there's nothing to do, what now? 2026-02-15.md",
     "source/content/Log per day - 2026.md",
-    "source/content/2025/1. Creating things/1. Writings/Writing - vignettes.md",
     "source/content/2026/16. Quest.md",
+    "source/content/2025/1. Creating things/1. Writings/Writing - vignettes.md",
     "source/content/2026/15. Burn.md",
     "source/content/2025/1. Creating things/1. Writings/03. To be a tpot zoomer.md",
     "source/content/2025/1. Creating things/1. Writings/04. It flows, if you let it.md",
@@ -212,7 +214,6 @@
     "source/content/2025/1. Creating things/1. Writings/12. Misery.md",
     "source/content/2025/1. Creating things/1. Writings/13. I don't know yet.md",
     "source/content/2025/1. Creating things/1. Writings/14. Gold prospecting.md",
-    "source/content/2026/If there's nothing to do, what now? 2026-02-15.md",
     "source/content/2026/Getting back to Deep Okayness (vs Out-There-ism) (2026-02-14).md",
     "source/content/2026/Technical debt.md",
     "source/content/2025/2. Connecting with people/Misc notes/Nihilism slash dissociation at the hippy retreat 2025-10-10.md",
