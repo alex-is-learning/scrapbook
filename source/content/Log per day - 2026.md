@@ -4,6 +4,8 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 
 # Feb 2026
+- 2026-02-19
+	- [[Writing 2026-02-19]]
 - 2026-02-16
 	- [[17. Horns]]
 	- [[16. Quest]]
