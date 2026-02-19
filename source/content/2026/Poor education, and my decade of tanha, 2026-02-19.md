@@ -17,6 +17,7 @@ My fellow unschooled call me a great writer (when I share my minuscule fragments
 - 👆 This is what going to a private school would be. Imagine, to be a child who from 5 to 18, went to private schools, the best in the country, and then to an elite university. These are the people who become geniuses. Almost every celebrity, almost every person of note, comes from the upper class, 95% at least. So difficult to find artistic role models who came from humble or deprived beginnings. (Rappers like Kendrick Lamar are rare exceptions, but even he has a English teacher who encouraged his poetry, saw a Biggie and Tupac video as a child (making it family lore that these people were real and could be experienced in the flesh, that their path could be followed)). This a real preoccupation of mine, and not a useful one - pontificating on how I ended up non-extraordinary. And this is a key theme below, and here I am doing it again, focusing on the lack, not the abundance. A ten year habit, forgive me, I'm getting much better at spotting it.
 ## Tanha, my decade of folly
 - ![[rich-b-group-splits-in-two.webp]]
+
 I will not become extraordinary in the way that I've been seeking to become extraordinary. I believed I could will it with hard work and determination. But I have not been determined, and I have not worked hard. I have flitted from idea to idea, dozens (perhaps hundreds) of seeds abandoned after a few weeks, months, the occasional year. Guitar the rare example of something I stuck with long enough for something to emerge from the soil, never sprouting petals, but still further along than most others reach here. 
 
 Writing: another bud, perhaps a petal of two. This is true: in the last year, I have made a few people, adult humans, unrelated to me, tear up, when reading my writing. That is not nothing! To move others. This is the same, actually, with my singing at the guitar. This is also the same, actually, and encouragingly, with songs that I have made. I can think of three *original* songs on my youtube channel that have heart-warmed comments.
@@ -27,9 +28,11 @@ Writing: another bud, perhaps a petal of two. This is true: in the last year, I 
 
 This is also true: I have two fantastic references, from two people who I worked with (Ethan and Brent). These speak to my character, and show their genuine love of me, their passion, their desire to let others know. Beautiful. 
 
+([[Feedback, references]])
+
 And this brings me to the matter quite neatly, and this was not my intention when writing this, but perhaps that's how these things go, you meander pleasantly and pointlessly until you find you've stumbled upon a clearing of great profundity, and one you had already been musing upon, perhaps you saw it in a dream first, such that arriving here feels like a waking up and a wry cheerful recognition of a thing known already[^6].
 
-I have been seeking for the extraordinary outside of myself, outside of my life. "Perhaps, if I become/achieve [insert scheme here]", then I will be extraordinary. Achieving that thing is a equivalent to extraordinariness. 
+I have been seeking for the extraordinary outside of myself, outside of my life. "Perhaps, if I become/achieve [insert scheme here]", then I will be extraordinary. Achieving that thing is an equivalent to extraordinariness. 
 
 And as such, I miss the plain fact that I am already extraordinary[^7]. That if I close my eyes and reflect upon my life, the things that have happened to me, the things people have shown me, the things I have done, I will see a mountain of evidence that is more than incontrovertible, it's weaved into the very fabric of my being, self evident like the sun. Literally not even worth pontificating on for a single instant. Any attempted intellectual rebuke withers to ash before it can even be fully thought. 
 

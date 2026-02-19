@@ -5,7 +5,7 @@ permalink: log-per-day
 
 # Feb 2026
 - 2026-02-19
-	- [[Writing 2026-02-19]]
+	- [[Poor education, and my decade of tanha, 2026-02-19]]
 - 2026-02-16
 	- [[17. Horns]]
 	- [[16. Quest]]

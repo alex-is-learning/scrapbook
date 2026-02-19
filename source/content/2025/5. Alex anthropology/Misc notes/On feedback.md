@@ -28,3 +28,6 @@
 # New stuff to add
 - Re: roasting your friends
 - Authentic Relating "dark reflections"
+
+
+And David Foster Wallace's thing of how the hardest thing that all undergraduates would have to learn is that their writing is not good just because they did it (which they are taught in highschool, when it is encouragement, not criticism, that they require, to garner the bravery to capture their newly emerging thoughts onto the page).
