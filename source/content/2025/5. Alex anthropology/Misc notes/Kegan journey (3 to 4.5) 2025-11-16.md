@@ -48,7 +48,7 @@
 - Becoming very disagreeable, misanthropic, self-certain.
 	- "Fortress Stage" - "I have my self-authored model/values, other people are idiots/corrupted/naive. Strong identification with your own frame, high contempt for others"
 	- [[Disagreeableness arc (2025-10-27)]] 
-	- [[Not wanting to talk]]
+	- [[Not wanting to talk (2025-10-24)]]
 ## Kegan 4.5 transition
 - Happened yesterday, 2025-11-15
 - Blinding insight - "oh god, my model which feels absolutely True is in fact just a model"

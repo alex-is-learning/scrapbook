@@ -4,6 +4,8 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 
 # Feb 2026
+- 2026-02-21
+	- [[What's stopping me from connecting, from talking? 2026-02-21]]
 - 2026-02-19
 	- [[Poor education, and my decade of tanha, 2026-02-19]]
 - 2026-02-16

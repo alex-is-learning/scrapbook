@@ -1,0 +1,13 @@
+- Copy-pasted from [[Getting back to Deep Okayness (vs Out-There-ism) (2026-02-14)]]
+
+- A mentor told me about this a few days ago
+- First thorn = ignorance, e.g. the belief that I'm in a Buddhist Nihilism Phase
+- Second thorn = knowledge, e.g. the realisation that actually no, it's not true that things are meaningless because they can't save me, it's true that I don't need saving/improving, so everything else is like, a bonus that I get to interact with
+- And *then*, you *drop them both*!!! You don't cherish both thorns, think about them, hold them in place. 
+	- "Once you have realized the ultimate truth, you no longer need the concepts, words, or teachings that got you there.
+	- "**Cherishing** the knowledge (becoming arrogant about being "wise") is just as much a binding attachment as ignorance itself."
+	- In the teachings of sages like **Ramana Maharshi** and **Nisargadatta Maharaj**, the point is that Truth isn't a "thing" you find or a new piece of information you acquire. Instead, **Truth is what is already there**, but it’s currently covered up by both your mistakes (ignorance) and your concepts about reality (knowledge).
+	- 🚨 🚨 🚨
+	- "**The Truth** is the reality that exists _before_ you even start thinking or labeling yourself."
+	- 🚨 🚨 🚨
+- So, I experienced this state, ultimate reality. And then I went back to my conditioning, because *of course*,  it'd be mad if I didn't. There's a Shamil Chandaria graph of the path where the x axis is waking up and the y axis is cleaning up your conditioning. I "woke up" somewhat but my pile of conditioning ([[Technical debt]]) remained, by bad habits remain. So, including Out-There-ism and intellectualisation, this also included:

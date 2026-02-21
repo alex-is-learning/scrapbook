@@ -1,6 +1,6 @@
 - See also [[Monday, third time living at the Effective Altruism hotel (2025-10-20)]]
 # On my social needs/desires
-- Porting to [[Not wanting to talk]] too
+- Porting to [[Not wanting to talk (2025-10-24)]] too
 ## Often (always?) I don't want to talk in liminal spaces
 - (This was the case last time too but it mostly made me feel bad about myself, whereas this time I'm trying to just accept it as true)
 - When I'm making a coffee or grabbing a snack, there's really no desire to say anything, which can make me worry that I'm being antisocial, that I'm unfriendly etc. But I'm trying to just be like "ok yeah no desire to talk, that's ok"

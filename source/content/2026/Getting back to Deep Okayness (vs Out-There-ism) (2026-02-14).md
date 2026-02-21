@@ -49,6 +49,7 @@
 	- The logic follows that if you keep saying "not this" to everything you can perceive, you eventually run out of things to negate.
 	- What is left is **pure consciousness**—the "Witness." This "leftover" is what the texts call **Brahman** or **Atman**. It can’t be described with words because words are "things," and the Truth is the _source_ of things.
 #### The two thorns analogy of Advaita Vedanta
+- Will make this into its own page too - [[The two thorns analogy of Advaita Vedanta]]
 - A mentor told me about this a few days ago
 - First thorn = ignorance, e.g. the belief that I'm in a Buddhist Nihilism Phase
 - Second thorn = knowledge, e.g. the realisation that actually no, it's not true that things are meaningless because they can't save me, it's true that I don't need saving/improving, so everything else is like, a bonus that I get to interact with
