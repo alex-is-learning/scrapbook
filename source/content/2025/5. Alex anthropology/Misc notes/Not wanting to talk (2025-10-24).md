@@ -1,4 +1,6 @@
 - Note - this may have ended?? [[Kegan journey (3 to 4.5) 2025-11-16]]
+	- Lol, no, *this* time it has ended - [[What's stopping me from connecting, from talking? 2026-02-21]]
+	- 👆 nah, I'll still be this way for a while, but this feels like a useful insight
 - 2025-10-24
 - Related → [[14. Gold prospecting]]
 - Related → [[Disagreeableness arc (2025-10-27)]]
