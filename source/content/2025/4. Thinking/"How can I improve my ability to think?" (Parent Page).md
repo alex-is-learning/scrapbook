@@ -7,3 +7,8 @@ permalink: how-can-i-improve-my-ability-to-think-open-question
 - [[Examples of thinking in public]]
 - [["Thinking In Public" log 🪵]]
 - [["How can I learn effectively?"]]
+
+--- 
+
+# 2026
+- [[Re wanting to learn how to think, 2026-03-04]]

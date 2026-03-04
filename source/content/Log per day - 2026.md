@@ -3,6 +3,9 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 
+# Mar 2026
+- 2026-03-04
+	- [[Re wanting to learn how to think, 2026-03-04]]
 # Feb 2026
 - 2026-02-21
 	- [[What's stopping me from connecting, from talking? 2026-02-21]]
