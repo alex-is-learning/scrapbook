@@ -1,3 +1,4 @@
+- [[Log per day - 2026]]
 ## Ramblings on being poorly educated 
 > *Mostly not interesting!*
 
