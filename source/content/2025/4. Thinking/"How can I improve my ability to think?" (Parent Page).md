@@ -12,3 +12,4 @@ permalink: how-can-i-improve-my-ability-to-think-open-question
 
 # 2026
 - [[Re wanting to learn how to think, 2026-03-04]]
+- [[Errors in thinking at work, 2026-03-05]]
