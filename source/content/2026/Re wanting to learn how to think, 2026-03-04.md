@@ -1,6 +1,7 @@
 - [[Log per day - 2026]]
 - 2026-03-04
 - Note that this is a mess, a brain-dump
+- See also [[What do you learn at private school that you don't learn at a public school?]]
 # Brief context
 - After a recent brief "crisis" where I thought I should meditate as much as possible in order to get out of emptiness/be happy/something, I was nudged back to "it's the obsessive seeking that's the problem, didn't you experience deep okayness in the past?" by a mentor (lucky me!!!!)
 	- See [[Getting back to Deep Okayness (vs Out-There-ism) (2026-02-14)]]
@@ -119,6 +120,11 @@ Note that in June of 2025 I did start writing up things on my website, which I f
 And occasionally, I've e.g. tried to learn about Socrates and how to think, the elenchus etc. But I never put these things to use, so they fall out of my brain. (E.g, in July of 2025, [[03. Manifesto - "Why I Should Learn the Socratic Method"]])
 
 So that's it, I've written another unsystematic brain dump. Hopefully one of my last?
+
+--- 
+
+- See also [[What do you learn at private school that you don't learn at a public school?]]
+
 
 [^1]: See e.g. [[So you want to learn about the post-rationalist "healing" space? (2025-11-10)]]
 

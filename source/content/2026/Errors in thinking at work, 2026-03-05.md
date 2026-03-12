@@ -71,7 +71,7 @@ $Z$: Therefore, more important things are thought about less than they should be
 - In these kinds of meetings, it can be easy to fall into "bikeshedding", where you discuss the trivial stuff that is easier to hold in your head, whilst the more abstract and complex stuff is too difficult to make synchronous progress on. It probably should have been done asynchronously and earlier. E.g., the purpose of a retreat, should be the distilled outcome of a "research" phase
 - First principles thinking is expensive and effortful. But having a group of people in a meeting with no clear axioms, no clarified purpose, makes it difficult to think, leads to bikeshedding
 - Also, people in this state are more likely to make inferential leaps. "Yes, ok cool, the retreat is about x, that sounds good!", without properly exploring the multidimensional ladder of inference, without considering other options, without ensuring that there are some core axioms, etc
-# Attempt at a one-paragraph summary
+## Attempt at a one-paragraph summary
 > First draft, my problem here is that I feel too time-crunched to do this thoroughly, which is foolish!
 - At work, it is possible for a group to come together for a meeting at a suboptimal time. A meeting can discuss the solution-space of a retreat, before the purpose of the retreat is fully articulated. And, as the purpose is difficult to reason about synchronously, people are likely to prefer to talk about the concrete details of e.g. the schedule and possible workshops, despite the fact that the upstream purpose has not been agreed upon, which has a large impact on schedule, aims, etc. Use of the double-diamond framework can help ensure that discussions occur in the correct order, with the problem space explored and key axioms agreed upon before solutions are investigated. Without an awareness of the importance of key axioms, inferential jumps can occur, where things that "sound good" can be agreed upon, despite a lack of agreed upon axioms to attach them to, leading to a piecemeal, disjointed plan.
 ## Second attempt, after getting feedback
@@ -81,3 +81,5 @@ In the workplace, it is common for meetings to occur at suboptimal times. An exa
 ---
 
 That'll do for now. Took 70 minutes! But, educational. I'm making progress!
+
+I'm used to writing in a very vibe-y way. Switching to writing in a logical way is going to be a gradual process! 
