@@ -1,11 +1,13 @@
+- [[Log per day - 2026]]
 - Following on from [[Re wanting to learn how to think, 2026-03-04]]
 - Just a copy-paste of my conversation with Claude
 
+# Talking with Claude
 ## Prompt
 i've attached some context re: my education [the [[Re wanting to learn how to think, 2026-03-04]] post]
 
 my first question is - I'm curious what I might have been taught in a private school, or via a "classical"/aristocratic education of a bygone era, vs what I learned in the English state school system of ~2000 - ~2014
-## Copy-pastes from reply
+## Reply
 
 This is a really rich question, and I think there are essentially three layers to it: the classical/ancient education, the English "public school" (i.e. elite private school) tradition, and then the modern elite private school — each of which would have given you something quite different from what you got.
 
@@ -72,3 +74,7 @@ Reading your piece, the specific gaps that jump out are:
 > Vs in a state school, it's considered nerdy and unusual to genuinely be interested in a subject, to ask questions beyond the curriculum, etc
 
 The honest truth, though — and you seem to already sense this — is that a lot of what the public schools historically provided was as much _social confidence_ and _cultural capital_ as it was genuine intellectual training. The Latin verse composition at Eton was partly about learning precision, but it was also partly about signalling membership in the ruling class. The real intellectual benefit was less about specific subjects and more about being in an ==environment where thinking seriously was the norm==, where you were expected to be articulate, and where you had ==mentors who could see your blind spots== — which is exactly what you're now building for yourself, just later.
+# Shining a light on the shame
+- With this whole thing ("I'm not well educated") as a thing that I never looked at in a clear-eyed way, because of shame and embarrassment, it made it feel much worse (I'm not writing well right now)
+- It's like, my implicit frame has been "I'm poorly educated, and it's *my fault*"
+- And as soon as you actually look at the thing properly it's like, of *course* it's not my fault. This stuff just wasn't taught in state schools. I didn't go to a private school. It's a systemic issue affecting many tens of thousands (hundreds of thousands?) of kids. It's not a failure on my part

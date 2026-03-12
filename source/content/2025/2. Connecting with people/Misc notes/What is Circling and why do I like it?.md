@@ -1,4 +1,5 @@
 - 2025-10-23
+- See also [[Authentic Relating organisations]]
 - I just led my first ever [Circling](https://www.artemzen.com/what-is-circling/) session! 
 	- *"Led" is a strong word because you know, surrendered leadership, there's not actually much to do, etc. But, I created the container, introduced it, explained it well (got good feedback on this) etc, so let's not be too minimising right dude*
 - At first I was kinda struggling to describe what it *is* in a way that a) is legible to Effective Altruists b) that actually gets across any kind of profundity, because I do think it's somewhat profound and great, but I was struggling to... remember why
