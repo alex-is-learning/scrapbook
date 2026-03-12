@@ -4,20 +4,12 @@ tags:
   - ori
   - growth/post-rationalism
 ---
-
-Notes on ORI (the community I'm part of), post-rationalism, and the A/B/U framework. Consensus-ism is a personal philosophy that grew out of this context.
-
 ## 2026-03
-
 - [[Authentic Relating organisations]]
-
 ## 2026-02
-
 - [[After the ORI "A" storm (2026-02-03)]]
 - [["A" Drought]]
-
 ## 2026-01
-
 - [["A" ceiling]]
 - [["B"s]]
 - [["A" storm]]

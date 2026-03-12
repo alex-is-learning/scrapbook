@@ -4,7 +4,6 @@ tags:
   - growth/healing
   - growth
 ---
-
 Notes on trauma healing, family systems, therapeutic modalities, and personal development. Lots of overlap with meditation and ORI.
 
 ## 2026-02

@@ -5,9 +5,7 @@ tags:
   - creative/writing
   - creative/writing
 ---
-
 Writing, music, vignettes, and the YouTube era. The vignettes are probably my best work.
-
 ## 2026-02
 
 - [[16. Quest]]

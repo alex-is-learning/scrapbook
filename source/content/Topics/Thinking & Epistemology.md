@@ -4,9 +4,6 @@ tags:
   - thinking
   - thinking/epistemology
 ---
-
-Notes on how to think well, the Socratic method, reasoning, and epistemology. A lot of this is about getting better at actually using what I know.
-
 ## 2026-03
 
 - [[Errors in thinking at work, 2026-03-05]]

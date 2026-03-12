@@ -4,9 +4,6 @@ tags:
   - growth/meditation
   - growth/contemplative-practice
 ---
-
-Notes on meditation, concentration, jhana practice, and phenomenology. Mostly following the MCTB / TMI lineage with some Theravada and post-rationalist influence.
-
 ## 2026-02
 
 - [[The two thorns analogy of Advaita Vedanta]]
