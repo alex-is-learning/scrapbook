@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 - Previous - [[Era 15 - Asia - albums]]
 
 > This is where I think I *really* started to listen to way more podcasts

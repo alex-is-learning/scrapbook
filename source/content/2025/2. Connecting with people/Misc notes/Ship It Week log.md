@@ -1,3 +1,8 @@
+---
+tags:
+  - community
+  - relationships
+---
 - [[Gathering what people shipped at Ship It Week]]
 - [[On connecting with people more]]
 - [[Rich Bartlett]]

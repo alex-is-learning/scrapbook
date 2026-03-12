@@ -1,5 +1,8 @@
 ---
 permalink: self-anthropology
+tags:
+  - thinking
+  - epistemology
 ---
 
 - 2025-07-21

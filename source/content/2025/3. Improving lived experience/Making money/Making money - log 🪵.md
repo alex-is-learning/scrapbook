@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - personal-growth
+---
 ## Week of 18th August
 - Mon 2025-08-18
 	- [[What does it mean to be a professional meta-cognitionist?]]

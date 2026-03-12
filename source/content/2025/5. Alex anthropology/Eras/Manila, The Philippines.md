@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[Era 15 - Asia]]
 
 Mostly worked on our proposal for an intentional community

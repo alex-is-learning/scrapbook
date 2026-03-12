@@ -1,3 +1,8 @@
+---
+tags:
+  - healing
+  - personal-growth
+---
 - [[Log per day - 2026]]
 - Tuesday 2025-10-21
 - Dude IPFP fuckin rules

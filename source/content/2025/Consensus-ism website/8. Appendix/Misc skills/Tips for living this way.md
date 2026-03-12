@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 
 1. Start off from the idea that you could die tomorrow
 2. Make things floating, e.g. schedule everything tentatively where possible

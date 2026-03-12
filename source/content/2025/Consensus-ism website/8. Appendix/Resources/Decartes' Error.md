@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - Book
 - https://en.wikipedia.org/wiki/Descartes%27_Error
 - Without access to emotions, people become deeply irrational, as they no longer have the signal that allows them to make good decisions

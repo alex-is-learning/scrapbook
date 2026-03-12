@@ -1,5 +1,8 @@
 ---
 permalink: formal-ontology
+tags:
+  - thinking
+  - epistemology
 ---
 
 [[Formal Ontology - books]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - 2025-09-14 
 - I'm wondering if I could clean up my digital footprint
 - Era 1 of making things involved publishing a lot of first drafts and being really happy to be making things

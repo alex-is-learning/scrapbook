@@ -1,5 +1,10 @@
 ---
 permalink: second-round-of-learning-from-ward-farnworths-book-on-the-socratic-method
+tags:
+  - thinking
+  - epistemology
+  - ori
+  - post-rationalism
 ---
 
 - 2025-07-09

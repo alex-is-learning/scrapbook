@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - See also [[Guy, Rivalvoices, nosilverv]] for more relevant tweets
 
 - ![[rivalvoices how the brain works.png]]

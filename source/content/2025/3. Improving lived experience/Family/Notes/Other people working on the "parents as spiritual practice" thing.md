@@ -1,3 +1,8 @@
+---
+tags:
+  - personal-growth
+  - personal-history
+---
 - 2025-07-22
 - I got "parents as a spiritual practice" from the below tweet by Theo, really like it! Much prefer it to like "how do I heal my family". "Family as spiritual practice" feels much more equanimous, kind etc
 # Johnson x Theo

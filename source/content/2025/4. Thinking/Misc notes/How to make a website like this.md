@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 - [[source/content/index|Home Page]]
 # Reasoning
 - [[Writing public-facing manifestos, slash showing your thought process, seems powerful]]

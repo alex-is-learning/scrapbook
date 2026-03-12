@@ -1,3 +1,6 @@
+---
+date: 2026-02-03
+---
 - I got this term from [[Nosilverv]]'s substack post "[Reflexivity — Part 1](https://rivalvoices.substack.com/p/reflexivity-part-1)" (it's not his term but he tweets about it a bunch)
 	- 👆 just read this!!! It's great, clear and concise
 - A closely related term is hyperstitioning

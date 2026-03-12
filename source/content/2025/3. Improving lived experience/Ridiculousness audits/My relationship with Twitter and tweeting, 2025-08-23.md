@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-growth
+---
 - From my ridiculousness audit 
 	- [[Ridiculousness audit 2025-08-23]]
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[Mythopoesis 1 - same life story, different conclusions]]
 # 1. Before adulthood - oasis
 ## Gf at 15 → profound oasis & deeply meaningful

@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 - [[How to make a website like this]]
 - Andy Matuschak post:
 	- https://notes.andymatuschak.org/Work_with_the_garage_door_up

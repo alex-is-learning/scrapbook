@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - [[On fiction (parent page)]]
 - 2025-08-07
 - It's interesting to me how I've listened to many hours of DFW interviews, and I've read a bunch of his stuff and clearly been moved by it, but it didn't make me want to be a fiction writer

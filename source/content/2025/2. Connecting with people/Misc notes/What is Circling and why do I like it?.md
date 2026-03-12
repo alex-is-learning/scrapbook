@@ -1,3 +1,8 @@
+---
+tags:
+  - community
+  - relationships
+---
 - 2025-10-23
 - See also [[Authentic Relating organisations]]
 - I just led my first ever [Circling](https://www.artemzen.com/what-is-circling/) session! 

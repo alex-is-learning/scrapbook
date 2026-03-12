@@ -1,3 +1,6 @@
+---
+date: 2026-01-31
+---
 - [[Log per day - 2026]]
 - 2026-01-31
 - I think one of my absolute biggest failure modes atm is being kegan 4 as all shit dude. 

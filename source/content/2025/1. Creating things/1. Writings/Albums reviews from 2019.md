@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - I wrote some album reviews for the Imperial College London student university when I was doing my Masters! How cute! I was really thrilled about this, and it was really the first time my art-loving side poked out during my STEM years (apart from, you know, all the music I listened to and loved)
 - Sadly, I swear I wrote more, and I totally lost them. I might still have them at my mum's house, in the shed...
 - I'm pretty sure I wrote reviews for:

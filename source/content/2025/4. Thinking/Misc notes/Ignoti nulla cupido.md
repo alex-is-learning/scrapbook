@@ -1,6 +1,9 @@
 ---
 permalink: 
 created:
+tags:
+  - thinking
+  - epistemology
 ---
 - *Ignoti nulla cupido*. There is no desire for the unknown. 
 

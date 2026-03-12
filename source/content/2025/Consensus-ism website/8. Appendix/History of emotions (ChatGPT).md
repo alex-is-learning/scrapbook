@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - Prompt:
 	- I haven't read the book Decartes' Error yet, but I'm curious about how we got to a place where the emotions were considered... secondary to reason, perhaps even as distractions, by the culture. Like, rationalists often think that they can just reason, and emotions are a distraction. Is there a history of how we've interfaced with our emotions? I'm thinking e.g. of something like how Heidegger wrote a history of what it is like to be human. I'm wondering if e.g. the ancient greeks thought x, then maybe e.g. the industrial revolution made us too busy to think about our emotions. And how peasants didn't have time etc. and now there's a post like "[Generalised Hangriness](https://www.lesswrong.com/posts/naAeSkQur8ueCAAfY/generalized-hangriness-a-standard-rationalist-stance-toward)" which a friend has said is a watershed moments re: rationalists taking emotions seriously
 

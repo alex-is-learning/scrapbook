@@ -1,3 +1,9 @@
+---
+tags:
+  - personal-growth
+  - personal-history
+  - healing
+---
 - 2025-07-22
 - When I was ~8, my parents adopted a ~6 year old girl, and it didn't go particularly well (wrote a substack about it [here](https://alexislearning.substack.com/p/the-shame-series))
 	- *(Up until today, I thought I was 6 and she was 4 - just checked with my sister and she had more accurate dates (she has the paperwork))*

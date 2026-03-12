@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 - [[Writing public-facing manifestos, slash showing your thought process, seems powerful]]
 - E.g. 
 	- [[What does it mean to be a professional meta-cognitionist?]] 2025-08-18

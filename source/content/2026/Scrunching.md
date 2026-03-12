@@ -1,3 +1,6 @@
+---
+date: 2026-02-01
+---
 - [[Log per day - 2026]]
 - See also - [[Unscrunching]]
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[Era 15 - Asia]]
 Went to Bangkok for ~2 weeks and did a 10-day silent meditation retreat
 

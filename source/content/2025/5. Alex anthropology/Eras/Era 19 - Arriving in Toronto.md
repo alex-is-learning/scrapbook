@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 > *Parent page - [[My Eras (index)]]*
 
 Vlog from this era [here](https://youtu.be/0koKj6EvATg)

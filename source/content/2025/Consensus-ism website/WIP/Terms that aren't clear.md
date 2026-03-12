@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 "Feelings" vs "emotions"
 
 

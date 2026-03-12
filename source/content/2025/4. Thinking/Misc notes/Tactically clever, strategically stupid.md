@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 One of my favourite tweets of all time
 
 Romeo Stevens:

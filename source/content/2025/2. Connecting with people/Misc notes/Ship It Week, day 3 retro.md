@@ -1,3 +1,8 @@
+---
+tags:
+  - community
+  - relationships
+---
 - [[Ship It Week log]]
 
 - Ahhhhhhhh what a shitty day, lol.

@@ -1,6 +1,8 @@
 ---
 permalink: the-end-of-the-tour
 created: 2025-08-04
+tags:
+  - creative
 ---
 - I'm so torn about this film! 
 	- On the one hand, it's pretty great, and it was my entry point into DFW

@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 - See also [[RLC (Rejecting Leaving to Chance)]]
 - A concept from my Superprof philosophy/ethics tutor
 # Gemini summary

@@ -1,3 +1,8 @@
+---
+tags:
+  - community
+  - relationships
+---
 - [[Alex and Simmo group house, parent page]]
 - 2025-08-25 
 - One key open question right now is "Oxford or London" (or some third thing, but I can't be bothered to consider a third thing right now)

@@ -1,3 +1,10 @@
+---
+tags:
+  - healing
+  - personal-growth
+  - meditation
+  - contemplative-practice
+---
 - [[Jhourney meditation retreat]]
 - See Sasha Chapin's "[Pure Pleasure Isn't What You Want, or, Notes on the Jhānas](https://sashachapin.substack.com/p/pure-pleasure-isnt-what-you-want)"
 - Also see the chapter in Daniel Ingram's MCTB

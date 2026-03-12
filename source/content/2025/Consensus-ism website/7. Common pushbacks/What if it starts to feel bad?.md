@@ -1,2 +1,6 @@
+---
+tags:
+  - consensus-ism
+---
 - If you stay in touch with feelings, you will feel when something starts to feel bad (e.g. 1 episode of Netflix vs a whole season)
 - Once it feels bad, it's no longer the best thing, so you'll stop

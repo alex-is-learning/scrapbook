@@ -1,5 +1,9 @@
 ---
 permalink: progressive-iteration-of-visual-notes---pandemic-action-network-examples
+tags:
+  - thinking
+  - learning
+  - epistemology
 ---
 - [[🟣 Project - "Are visual notes underrated and poorly understood?"]]
 - I've spent the last 2 days orienting to the "[Pandemic Action Network](https://www.pandemicactionnetwork.org/)", as I'm going to apply to one of their job listings

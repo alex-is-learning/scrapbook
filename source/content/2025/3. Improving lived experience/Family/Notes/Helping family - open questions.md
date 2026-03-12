@@ -1,5 +1,8 @@
 ---
 permalink: helping-family---open-questions
+tags:
+  - personal-growth
+  - personal-history
 ---
 
 - 2025-06-24

@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[Mythopoesis 1 - same life story, different conclusions]]
 
 - What is the definition of "interesting"?

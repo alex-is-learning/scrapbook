@@ -1,5 +1,9 @@
 ---
 permalink: learning-twitch-streams
+tags:
+  - thinking
+  - learning
+  - epistemology
 ---
 
 - As a slightly unhinged experiment, I'm gonna try streaming to Twitch as I learn

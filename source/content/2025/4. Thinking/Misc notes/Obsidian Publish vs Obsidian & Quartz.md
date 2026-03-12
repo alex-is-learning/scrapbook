@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 - [[How to make a website like this]]
 - [[Why an Obsidian-based website?]]
 # Option 1 - pay for Obsidian Publish

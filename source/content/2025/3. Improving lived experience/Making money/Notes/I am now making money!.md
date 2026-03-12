@@ -1,6 +1,9 @@
 ---
 permalink: i-am-making-money-2025-07-29
 created: 2025-07-29
+tags:
+  - thinking
+  - personal-growth
 ---
 - 2025-07-29
 ## Outcapped

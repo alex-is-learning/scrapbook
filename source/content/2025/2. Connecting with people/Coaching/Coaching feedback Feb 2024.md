@@ -1,3 +1,8 @@
+---
+tags:
+  - community
+  - relationships
+---
 # Client 1 coaching feedback
 - Note - this is from 10 mins of voice notes they sent today → we'll now be doing a weekly call
 - “this is so valuable to me, so grateful, fact that you’re like ‘do you wanna do a weekly one’ I’m like yes this is so valuable”

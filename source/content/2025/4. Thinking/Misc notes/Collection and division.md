@@ -1,5 +1,8 @@
 ---
 permalink: collection-and-division
+tags:
+  - thinking
+  - epistemology
 ---
 
 ### Systole

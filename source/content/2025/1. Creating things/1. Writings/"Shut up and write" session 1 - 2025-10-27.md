@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - Experiment, with [Simon](https://x.com/simon_ohler) and [Jono](https://x.com/jnsyaaa) (although sadly he's a stinker who didn't show up today)
 # Meta
 ## "Shut Up and Write" as an improvement on "Hit Publish"

@@ -1,5 +1,8 @@
 ---
 permalink: anticipatio-mentis
+tags:
+  - thinking
+  - epistemology
 ---
 
 - Francis Bacon

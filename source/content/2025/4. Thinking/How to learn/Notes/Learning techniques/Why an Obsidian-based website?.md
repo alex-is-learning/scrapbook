@@ -1,6 +1,10 @@
 ---
 permalink: how-to-create-obsidian-quartz-website
 created: 2025-08-01
+tags:
+  - thinking
+  - learning
+  - epistemology
 ---
 - [[How to make a website like this]]
 - 2025-08-01

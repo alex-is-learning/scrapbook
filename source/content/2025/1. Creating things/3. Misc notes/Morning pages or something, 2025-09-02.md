@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 # Recovering from a bad day
 - Yesterday was bad in some ways, and in some ways I don't want to dwell on it because of the whole like "focus on what you want to see more of" thing
 - But I also think that quickly processing it might be good 

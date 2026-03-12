@@ -1,5 +1,9 @@
 ---
 permalink: project---"are-visual-notes-underrated-and-poorly-understood?"
+tags:
+  - thinking
+  - learning
+  - epistemology
 ---
 - 2025-11-10
 	- Really like this re: communication & cognitive anchoring

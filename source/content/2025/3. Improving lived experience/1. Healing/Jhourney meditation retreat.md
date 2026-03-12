@@ -1,3 +1,10 @@
+---
+tags:
+  - healing
+  - personal-growth
+  - meditation
+  - contemplative-practice
+---
 - https://www.jhourney.io/
 - [[Jhanas]]
 - I did a Jhourney meditation retreat in July of 2024

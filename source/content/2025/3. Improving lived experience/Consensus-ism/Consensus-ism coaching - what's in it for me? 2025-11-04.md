@@ -1,3 +1,10 @@
+---
+tags:
+  - consensus-ism
+  - personal-growth
+  - community
+  - relationships
+---
 - 2025-11-04
 - Clearly, I don't currently want to explain this stuff, and really I never have
 - I half-heartedly launched consensus-ism coaching back in June of 2024 ([[Launching consensus-ism coaching! (2024-06-06)]]), had one client who was excited about it, but I wasn't that excited to talk about it

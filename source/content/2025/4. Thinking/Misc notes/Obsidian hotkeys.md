@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 ## 1. Navigate back
 - By default, navigate back (that is, you've just clicked into a note, and now you want to return to the one you were on before) is a clunker
 - ![[Obsidian hotkeys.webp]]

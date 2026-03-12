@@ -1,6 +1,11 @@
 ---
 permalink: sit-005-report
 created: 2025-07-31
+tags:
+  - meditation
+  - contemplative-practice
+  - healing
+  - personal-growth
 ---
 - [[Increasing the skillfulness of my mind, log (2025)]]
 - *Voice note to a friend who, in response to me saying this is my fifth day in a row, said: "nice one! Have you noticed any benefits?"*

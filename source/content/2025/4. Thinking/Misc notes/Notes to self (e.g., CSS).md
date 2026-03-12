@@ -1,5 +1,8 @@
 ---
 draft: true
+tags:
+  - thinking
+  - epistemology
 ---
 - "Draft" frontmatter should prevent this from being published?
 - Want an easy place to store my CSS so I can quickly access it via Obsidian

@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - https://www.tjwaldorf.com/first-and-second-darts-the-darts-we-throw-ourselves/
 
 

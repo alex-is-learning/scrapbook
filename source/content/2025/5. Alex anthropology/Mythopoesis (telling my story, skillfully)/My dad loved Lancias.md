@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[Mythopoesis → "me and my dad didn't connect easily but we kept trying because we loved each other"]]
 # ChatGPT on why he might have loved them
 - ChatGPT prompt:

@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 - Previous - [[Era 3 - Middle School - Albums]]
 
 - There was a whole iTunes and Limewire era when Spotify didn't exist yet, don't forget this!!! iPod Nano 4th generation, shout out

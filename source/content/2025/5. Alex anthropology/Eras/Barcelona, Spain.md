@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[Era 16 - Back to Europe, Christmas at home]]
 
 I went from Albania for 1 month to Barcelona for 1 month to cowork with Refract's founder and our CTO, and it was similarly really lovely. Still feeling socially anxious, but fucking banger coworking space, gorgeous city (loved just wandering around, buying food and coffee), perfect weather.

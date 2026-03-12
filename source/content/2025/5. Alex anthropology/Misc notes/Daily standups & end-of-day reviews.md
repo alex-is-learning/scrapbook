@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 *I'm in an ~accountability group with 2 friends where we post what we'll do each day and then review how the day went. Aim is to be super light-touch and just to provide some social accountability*
 
 ### Thur 2025-10-23

@@ -1,3 +1,8 @@
+---
+tags:
+  - community
+  - relationships
+---
 - See also [[Monday, third time living at the Effective Altruism hotel (2025-10-20)]]
 # On my social needs/desires
 - Porting to [[Not wanting to talk (2025-10-24)]] too

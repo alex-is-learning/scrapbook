@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - music
+---
 - [[Music making log (era 2)]]
 - Experimenting with turning a vignette into a song
 - [[06. Cornflakes]]

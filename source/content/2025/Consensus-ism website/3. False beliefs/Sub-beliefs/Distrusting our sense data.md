@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - There's a really great David Chapman clip ([here]([https://x.com/Meaningness/status/1886512455289069669/video/1](https://x.com/Meaningness/status/1886512455289069669/video/1 "https://x.com/Meaningness/status/1886512455289069669/video/1"))) about how the West (in particular, Western philosophy, with Decartes as the prime example) *begins* from a place of distrust of our sense data, and how paranoid and weird this is
 	- *E.g., "I think, therefore I am", where Decartes decided that we can't trust our sense data because a demon might be making us hallucinate that we are e.g. in this room, and the only thing we can trust is our thoughts*
 - However, Chapman points out that this is *really weird*, because our sense data is pretty much always very trustworthy, and it's our thoughts that mislead us like, all the frickin time. We don't have control over which thoughts appear (try meditating for 10 minutes and report back), so Decartes could have easily instead said that an evil demon gives us intrusive and pointless thoughts, and it's our sense data which is rock-solid and congruent

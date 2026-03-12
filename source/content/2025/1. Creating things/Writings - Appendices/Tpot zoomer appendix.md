@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - [[03. To be a tpot zoomer]]
 
 The vignette is about tpot overwhelm, but then of course there's also just general zoomer overwhelm 

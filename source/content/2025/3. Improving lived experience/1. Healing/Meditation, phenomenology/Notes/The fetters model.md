@@ -1,3 +1,10 @@
+---
+tags:
+  - meditation
+  - contemplative-practice
+  - healing
+  - personal-growth
+---
 - [[Should I pay Michael Stroe to help me break aversion?]]
 - https://www.simplytheseen.com/
 # Why do I believe in the fetters model?

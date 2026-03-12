@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[Mythopoesis 1 - same life story, different conclusions]]
 # Dad
 ## You intentionally changed your fathering approach to improve on what you received

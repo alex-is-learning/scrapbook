@@ -1,5 +1,8 @@
 ---
 permalink: amusing-ourselves-to-death-read-1
+tags:
+  - thinking
+  - epistemology
 ---
 
 - 2025-06-22

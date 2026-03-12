@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 - Previous - [[Era 13 & 14 - Breakup → Prague → Grandma's → Living in London for a few months - albums]]
 # 1. Manila
 ## S tier 

@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 - Thursday 2025-08-28
 
 # What's up? 

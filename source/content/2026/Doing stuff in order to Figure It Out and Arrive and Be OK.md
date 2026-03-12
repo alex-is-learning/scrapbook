@@ -1,3 +1,6 @@
+---
+date: 2026-01-31
+---
 - 2026-01-31
 - From the end of [[Being Kegan 4 is dumb, 2026-01-31]]
 

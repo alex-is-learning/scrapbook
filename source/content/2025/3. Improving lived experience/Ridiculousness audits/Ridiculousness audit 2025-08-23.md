@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-growth
+---
 - What is currently stressing me out, that I can change?
 - What is currently ridiculous in my life
 

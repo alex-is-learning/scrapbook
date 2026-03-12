@@ -1,3 +1,8 @@
+---
+tags:
+  - community
+  - relationships
+---
 - [[Ship It Week log]]
 # [Agi](https://x.com/AgotaDubi)
 - Friday 29th August

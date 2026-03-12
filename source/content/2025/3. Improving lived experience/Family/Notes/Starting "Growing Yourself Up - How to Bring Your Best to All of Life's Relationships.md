@@ -1,5 +1,8 @@
 ---
 permalink: starting-growing-yourself-up---how-to-bring-your-best-to-all-of-life's-relationships
+tags:
+  - personal-growth
+  - personal-history
 ---
 
 - Want to learn about "family systems"!

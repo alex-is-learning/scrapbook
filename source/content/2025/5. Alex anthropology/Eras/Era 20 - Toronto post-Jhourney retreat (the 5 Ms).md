@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 > *Parent page - [[My Eras (index)]]*
 
 > *Previous era - [[Era 19 - Arriving in Toronto]]*

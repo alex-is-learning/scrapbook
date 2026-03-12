@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-growth
+---
 ## On ridiculousness audits
 - I have this idea after reading the "The Mundanity of Excellence" paper
 	- https://academics.hamilton.edu/documents/themundanityofexcellence.pdf

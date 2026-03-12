@@ -1,3 +1,8 @@
+---
+tags:
+  - community
+  - relationships
+---
 - 2025-08-31
 - There's something I want to explore around the two of us as a pair, what makes sense and doesn't make sense (this isn't worded well, I'm just writing quickly atm)
 ## Polarity and stuff

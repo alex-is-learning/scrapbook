@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - writing
+---
 - Friday 2025-08-22
 
 - I wrote [[01. To be a boomer]] today and got some nice feedback from tweeting it

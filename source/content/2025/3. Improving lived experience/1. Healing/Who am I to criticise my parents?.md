@@ -1,3 +1,8 @@
+---
+tags:
+  - healing
+  - personal-growth
+---
 - 2025-12-21
 - A sad thing about getting older is the way my family is deteriorated, and I have played a part in this
 - When I was a kid/teenager, it was the only world I knew, I had no reference class. When I went to uni, I started to realise that my family had some issues. And as the next ~10 years went by, I drove myself more and more mad about these issues. 

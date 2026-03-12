@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - Man I feel reallyyyyy groggy for some reason
 - Actually instead of throat clearing let me just write
 

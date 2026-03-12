@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[Mythopoesis (parent page)]]
 - [[Mythopoesis - what and why]]
 - [[Mythopoesis - "isn't this gaslighting?"]]

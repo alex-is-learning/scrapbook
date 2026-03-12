@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 # Because the Internet - 2013
 - ![[1762897191795.webp|200]]
 - I'm pretty sure this was the first rap album I deeply loved. It's wildly iconic to me, literally just thinking about it places me back at my first year halls, Benyon, I can picture it so clearly lol, wtf

@@ -1,5 +1,8 @@
 ---
 permalink: global-health-flashcards-from-day-3
+tags:
+  - thinking
+  - personal-growth
 ---
 
 # 2025-06-26

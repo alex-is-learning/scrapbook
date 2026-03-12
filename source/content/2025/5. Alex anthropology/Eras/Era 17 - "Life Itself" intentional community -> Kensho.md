@@ -1,3 +1,9 @@
+---
+tags:
+  - personal-history
+  - community
+  - relationships
+---
 > *Parent page - [[My Eras (index)]]*
 
 [[Photos from era 17 - Life Itself intentional community]]

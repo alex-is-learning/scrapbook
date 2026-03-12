@@ -1,6 +1,9 @@
 ---
 permalink: 
 created:
+tags:
+  - thinking
+  - epistemology
 ---
 - [[Circumstantial luck]]
 - [[Constitutive luck]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - [[Archiving older things]]
 
 Since writing my [last post](https://alexislearning.substack.com/p/fission-solar-fusion) about my “nuclear fission → solar power → nuclear fusion” analogy, I’ve had a sense of ickiness, of wrongness. I think this is so so insanely cool.

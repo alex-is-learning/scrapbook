@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - From [[Why do I love DFW's fiction so much?]]
 
 - A key theme that comes up often, particularly in Infinite Jest, and also This is Water. I believe this is because he had to go to AA or narcotics anonymous and reckon with the "I am incredibly intelligent and well-educated and all the advice here sounds so banal and lame but actually I have to do it and stop intellectualising"

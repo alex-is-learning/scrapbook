@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - Also "where sin abounds, grace abounds even more" (Romans 5:20).
 	- 👆 Richard Rohr says this in [this enneagram video](https://www.youtube.com/watch?v=Q01YoMgjATw&list=PLXApjGRWCCnYG6h57C1GH_tevNE77utP_&index=1) at around minute 31.
 	- He says "of course it is, that's the breakthrough point for grace!"

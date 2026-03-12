@@ -1,5 +1,9 @@
 ---
 permalink: america-immigration
+tags:
+  - thinking
+  - learning
+  - epistemology
 ---
 
 - 2025-03-13

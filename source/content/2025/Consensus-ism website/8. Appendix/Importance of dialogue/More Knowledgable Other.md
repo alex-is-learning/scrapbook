@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 
 - From https://monistowl.substack.com/p/beyond-the-ladder:
 

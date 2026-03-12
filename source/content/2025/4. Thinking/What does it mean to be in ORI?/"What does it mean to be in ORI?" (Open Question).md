@@ -1,3 +1,10 @@
+---
+tags:
+  - thinking
+  - epistemology
+  - ori
+  - post-rationalism
+---
 - [[source/content/index|Home Page]]
 - 2025-08-23
 	- [[Imagining that my "open questions" are actually solved by prediction markets of experts, 2025-08-23]]

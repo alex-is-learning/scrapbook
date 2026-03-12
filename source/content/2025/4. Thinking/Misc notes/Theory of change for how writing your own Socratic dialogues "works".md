@@ -1,5 +1,12 @@
 ---
 permalink: theory-of-change-for-how-writing-your-own-socratic-dialogues-works
+tags:
+  - thinking
+  - epistemology
+  - ori
+  - post-rationalism
+  - writing
+  - creative
 ---
 
 ## Gemini's theory of change for how this could work

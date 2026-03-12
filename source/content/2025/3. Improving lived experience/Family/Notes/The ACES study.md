@@ -1,3 +1,8 @@
+---
+tags:
+  - personal-growth
+  - personal-history
+---
 - 2025-07-22
 - Gemini
 `What was the ACES study?`

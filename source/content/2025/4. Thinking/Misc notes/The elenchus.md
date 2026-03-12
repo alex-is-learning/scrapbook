@@ -1,5 +1,8 @@
 ---
 permalink: the-elenchus
+tags:
+  - thinking
+  - epistemology
 ---
 
 - [[What is the elenchus?]]

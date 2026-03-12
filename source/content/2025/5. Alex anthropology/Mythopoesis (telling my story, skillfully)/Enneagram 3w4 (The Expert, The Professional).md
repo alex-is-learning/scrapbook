@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[The enneagram personality typing system]]
 - [[Enneagram 3]]
 - [[08. Enneagram 3 thinking sins]]

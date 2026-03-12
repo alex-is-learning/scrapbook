@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 - Previous - [[Era 7 & 8 - Late Uni - Albums]]
 
 > What having a car and commuting to work every day does to a motherfucker. Man I miss having a car to listen to music to in

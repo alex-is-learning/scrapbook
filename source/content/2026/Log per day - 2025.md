@@ -1,3 +1,6 @@
+---
+date: 2026-01-29
+---
 - [[Log per day - 2026]]
 - [[The key themes of this site in 2025]]
 ## Dec 2025

@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[The enneagram personality typing system]]
 - [[Holland Code test (career, vocational choice)]]
 - [[Human Design]]

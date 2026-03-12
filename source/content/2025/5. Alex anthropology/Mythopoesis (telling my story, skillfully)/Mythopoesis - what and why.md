@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[Mythopoesis (parent page)]]
 # What is it
 - Really, it's "narrative therapy", but I find "mythopoesis" to sound cooler, lol

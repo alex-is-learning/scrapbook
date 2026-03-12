@@ -1,3 +1,8 @@
+---
+tags:
+  - community
+  - relationships
+---
 - 2025-09-02
 - The only thing I've read about friendship is Tasshin's post, and I didn't even read it deeply, but one thing that stuck with me was that he gives permission to call pretty much anyone a friend
 - https://tasshin.com/blog/the-practice-of-friendship/

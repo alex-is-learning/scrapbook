@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - DFW talked in a few interviews about how the hardest thing about teaching undergrads is that you have to wake them up from the "expressive" mode that they're used to from high school
 - That is, from high school, they receive the feedback of "this is good! This is good, because you wrote it"
 - Whereas, as a college student, you have to realise that "it's not just good because you wrote it." You have to realise that a reader has limited time and attention, they can't read your mind, they're not interested in what you're interested in, etc

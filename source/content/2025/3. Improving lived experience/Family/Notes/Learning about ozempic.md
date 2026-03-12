@@ -1,5 +1,8 @@
 ---
 permalink: learning-about-ozempic
+tags:
+  - personal-growth
+  - personal-history
 ---
 
 - I don't know much about it

@@ -1,3 +1,10 @@
+---
+tags:
+  - creative
+  - personal-history
+  - healing
+  - personal-growth
+---
 - Previous - [[Era 22 - EA Hotel round 2 - albums]]
 
 - [[Fontaines D.C. – Skinty Fia]]

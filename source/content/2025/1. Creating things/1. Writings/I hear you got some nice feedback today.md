@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - [[Writing - vignettes]]
 - Warning - this one isn't good
 

@@ -1,3 +1,9 @@
+---
+tags:
+  - thinking
+  - learning
+  - epistemology
+---
 - *Quick and profoundly incomplete writeup:*
 ## "Oh, I suck at learning"
 - I first got into this question during something like my third year of uni when I ==realised how bad I was at learning== and how I forgot essentially everything from my lectures within 6 months

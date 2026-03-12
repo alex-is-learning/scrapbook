@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 ```
 # espanso match file
 

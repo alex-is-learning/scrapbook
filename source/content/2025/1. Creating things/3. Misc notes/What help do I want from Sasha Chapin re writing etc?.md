@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - writing
+---
 - [[Creating things (parent page)]]
 - Wed 2025-09-10
 - See also [[What could the Alexnaissance look like?]]  from 25th Aug 2025

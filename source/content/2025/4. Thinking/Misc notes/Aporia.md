@@ -1,5 +1,8 @@
 ---
 permalink: aporia
+tags:
+  - thinking
+  - epistemology
 ---
 
 - *Just quickly writing this page as this is grokked (as I've experienced aporia)*

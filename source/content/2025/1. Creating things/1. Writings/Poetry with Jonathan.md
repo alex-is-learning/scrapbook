@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - 2025-10-17
 - Me and Jono are experimenting with writing poetry weekly, where each week has a theme/format
 - The aim is... I don't even really know what the aim is. Partly it's just to make stuff, low-stakes, see where it goes

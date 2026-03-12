@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - The ultimate false belief is "something I'm feeling/experiencing is bad to feel/experience"
 - The truth is that all feelings are good
 	- There isn't a separate "you" that the feeling/experience is *happening to*, there's just experience

@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 # Misc other things:
 
 To have never been to a gym, or tracked your macros, or learned how to use a computer well. To operate as if Google Maps and Google Translate do not exist.

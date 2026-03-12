@@ -1,3 +1,9 @@
+---
+tags:
+  - thinking
+  - learning
+  - epistemology
+---
 - https://www.alexislearning.me/blog/2025-05-30-anki-algorithm/
 
 ## (Ok not really but you know what I mean)

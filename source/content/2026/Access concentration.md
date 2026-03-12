@@ -1,3 +1,8 @@
+---
+tags:
+  - meditation
+  - contemplative-practice
+---
 - *Putting MCTB and Right Concentration into NotebookLM*
 # What Daniel Ingram says in [[MCTB]]
 Daniel Ingram defines **access concentration** in _Mastering the Core Teachings of the Buddha_ (MCTB) as the ability to **steady the mind on a chosen object with relative ease to the exclusion of distractions**. He characterises it as a state where attention remains on the object **second after second and minute after minute** without wandering, yet it occurs **before the onset of the more "interesting, blissful, or unusually steady" perceptual shifts** associated with the jhanas. This level of concentration is considered a **basic attainment** that acts as a bridge, allowing a practitioner to access both the higher shamatha jhanas and the path of insight.

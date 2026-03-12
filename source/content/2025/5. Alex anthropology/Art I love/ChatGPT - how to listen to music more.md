@@ -1,3 +1,9 @@
+---
+tags:
+  - creative
+  - personal-history
+  - music
+---
 - 2025-11-12
 
 - Easiest lever here: not “more willpower,” just finding more _ear-time slots_ and making them fun enough that music wins against podcasts/YouTube.

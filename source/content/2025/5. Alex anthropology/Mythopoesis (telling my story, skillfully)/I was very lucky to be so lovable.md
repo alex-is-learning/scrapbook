@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - Enneagram 3 → "I'm only lovable if I'm producing value, why would you love me intrinsically", Richard Rohr talks about this in the first 3 mins [here](https://www.youtube.com/watch?v=mt-7uAHpTSQ)
 ## I came from a high conflict household and probably had cPTSD so a band setting was hard (this is still too much of a victim framing IMO)
 - But I wasn't awkward in other places, with people I had knew for longer! 

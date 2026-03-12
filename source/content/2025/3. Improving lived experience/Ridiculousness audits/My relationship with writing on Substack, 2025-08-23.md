@@ -1,3 +1,9 @@
+---
+tags:
+  - personal-growth
+  - writing
+  - creative
+---
 - I write *loads* on this website, pretty much just for my 2 friends in our ~rationality group chat to read. I should probably be taking this stuff and making twitter threads, youtube videos, ==substack== posts, etc
 - Somehow my substack subscriber count surprises me the most. Why the hell do 58 people subscribe to my substack?? That's way more than I would guess
 - Again, an audience capture fear of "are they there to learn about 'consensus-ism'?"

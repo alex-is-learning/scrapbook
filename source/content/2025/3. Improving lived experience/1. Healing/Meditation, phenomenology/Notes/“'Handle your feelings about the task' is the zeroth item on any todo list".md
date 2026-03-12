@@ -1,6 +1,11 @@
 ---
 permalink: 
 created:
+tags:
+  - meditation
+  - contemplative-practice
+  - healing
+  - personal-growth
 ---
 - [[Useful concepts and mental models (parent page)]]
 - ![[“'handle your feelings about the task' is the zeroth item on any todo list".webp]]

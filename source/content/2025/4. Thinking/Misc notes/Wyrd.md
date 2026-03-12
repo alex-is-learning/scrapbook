@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 First came across this term in this awesome twitter thread [about attraction](https://x.com/BIMBOSATTVA_/status/1935812993528599012):
 
 > The norse concept is called 'hamingja', the power that radiates from people when they are aligned with their fate, their doom, their wyrd. It was said to be impossible to fake, it was the electricity of one who had found their true wyrd and was living it unashamedly. 

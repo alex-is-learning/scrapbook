@@ -1,3 +1,10 @@
+---
+tags:
+  - thinking
+  - learning
+  - epistemology
+  - personal-history
+---
 - https://www.alexislearning.me/blog/2025-06-13-new-learning-era/
 
 Discovering Defender of Basic’s post on how he learned to think at 30 feels like a hugeeee turning point.

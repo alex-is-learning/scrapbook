@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - https://www.simplytheseen.com/
 - https://www.simplytheseen.com/what-is-awakening.html
 - https://www.simplytheseen.com/4-in-the-seen-simply-the-seen.html

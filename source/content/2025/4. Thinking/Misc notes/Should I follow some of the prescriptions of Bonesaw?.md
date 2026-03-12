@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 - 2025-08-10
 - I read this really great Substack post yesterday:
 	- "[CRANIOTOMY: Dissection of your Human Condition](https://bonesawmd.substack.com/p/craniotomy-dissection-of-your-human)"

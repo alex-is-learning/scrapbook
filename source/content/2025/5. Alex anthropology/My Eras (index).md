@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[Alex anthropology (parent page)]]
 - [[Why all the Alex anthropology bro?]]
 - [[Albums I loved per era]]

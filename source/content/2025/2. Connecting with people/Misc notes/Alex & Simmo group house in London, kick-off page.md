@@ -1,3 +1,8 @@
+---
+tags:
+  - community
+  - relationships
+---
 - [[Alex and Simmo group house, parent page]]
 - Tuesday 2025-08-12
 # Alex's current uncertainties

@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - See [[First Dart vs Second Dart]]
 
 - As discussed in [[Distrusting our sense data]], it *does* make sense that we're wary of our emotions, (as warned by e.g. the Ancient Greeks and Stoics, [[History of emotions (ChatGPT)]])

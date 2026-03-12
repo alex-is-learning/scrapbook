@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[Era 16 - Back to Europe, Christmas at home]]
 
 So, I landed my role at Refract, and then flew from Taipei to Albania because [River Kenna](https://x.com/the_wilderless?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) recommended visiting him in Tirana. 

@@ -1,3 +1,8 @@
+---
+tags:
+  - community
+  - relationships
+---
 - [[Log per day - 2025]]
 - Told a friend that I've been feeling kinda nihilistic and dissociated (re: why Evolving Ground's "Open Awareness" practice is currently feeling appealing to me) and he recommended a David Chapman post about it
 	- https://meaningness.com/nihilism

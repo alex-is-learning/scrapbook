@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[The enneagram personality typing system]]
 - [[Enneagram 3w4 (The Expert, The Professional)]]
 - [Richard Rohr lecture on the 3](https://www.youtube.com/watch?v=mt-7uAHpTSQ) → it's sooo bang on dude

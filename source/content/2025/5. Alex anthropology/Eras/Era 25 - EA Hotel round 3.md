@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[On connecting with people more]]
 - [[Monday, third time living at the Effective Altruism hotel (2025-10-20)]]
 - [[Misc thoughts on living at the EA Hotel 2025-10-24]]

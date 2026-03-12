@@ -1,3 +1,8 @@
+---
+tags:
+  - consensus-ism
+  - personal-growth
+---
 - 2025-11-07
 	- https://alexislearning.me/consensusism/
 - 2025-11-04

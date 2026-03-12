@@ -1,3 +1,10 @@
+---
+tags:
+  - meditation
+  - contemplative-practice
+  - healing
+  - personal-growth
+---
 - [[Airpods are kind of insidious]]
 - 2025-08-10
 - *Why make a cup of tea in silence when there are comedy podcasts to listen to?*

@@ -1,3 +1,10 @@
+---
+tags:
+  - creative
+  - consensus-ism
+  - community
+  - relationships
+---
 - [[Archiving older things]]
 
 Hello from Toronto! I love it here!

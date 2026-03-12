@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - 2025-11-11
 - https://openpsychometrics.org/tests/RIASEC/
 - ![[1762858287367.webp]]

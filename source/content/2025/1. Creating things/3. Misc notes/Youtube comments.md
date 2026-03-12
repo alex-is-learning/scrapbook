@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 # "[I did 'Steal Like An Artist' for a week & I get it now](https://www.youtube.com/watch?v=bukMESdhZ_U)"
 - ![[Youtube comments-1757503110709.webp]]
 - ![[Youtube comments-1757503122322.webp]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - [[Where does consensus-ism come from?]]
 - [[Mastering the Core Teachings of the Buddha]]
 - [[Saints and Psychopaths]]

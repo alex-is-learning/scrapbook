@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 
 - From my substack post "[consensus-ism part 2](https://alexislearning.substack.com/p/consensus-ism-part-2)"
 

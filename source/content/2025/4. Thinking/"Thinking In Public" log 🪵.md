@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 # August 2025
 ## Week of 18th August
 - Mon 2025-08-18

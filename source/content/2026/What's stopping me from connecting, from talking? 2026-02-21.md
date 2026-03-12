@@ -1,3 +1,6 @@
+---
+date: 2026-02-21
+---
 - [[Log per day - 2026]]
 - Also relates to [[Disagreeableness arc (2025-10-27)]] & [[Not wanting to talk (2025-10-24)]]
 

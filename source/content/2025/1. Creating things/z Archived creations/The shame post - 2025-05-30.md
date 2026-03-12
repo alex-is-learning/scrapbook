@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - [[Archiving older things]]
 
 

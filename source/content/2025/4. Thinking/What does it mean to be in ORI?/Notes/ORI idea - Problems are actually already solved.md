@@ -1,3 +1,10 @@
+---
+tags:
+  - thinking
+  - epistemology
+  - ori
+  - post-rationalism
+---
 - I guess this is the thing? I'm still not entirely sure how this applies to "wordly concerns" (but then again, maybe it totally does)
 - ![[ORI idea - Problems are actually already solved.webp]]
 - ![[ORI idea - Problems are actually already solved-1.webp]]

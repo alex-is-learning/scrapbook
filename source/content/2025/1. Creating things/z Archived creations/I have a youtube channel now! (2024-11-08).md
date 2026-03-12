@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - [[Archiving older things]]
 
 I still haven’t got my frickin Twitter account back (!!!) so thought I’d do a quick post here instead:

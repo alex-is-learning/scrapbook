@@ -1,3 +1,10 @@
+---
+tags:
+  - meditation
+  - contemplative-practice
+  - healing
+  - personal-growth
+---
 - [[Meditation log]]
 - 2025-08-08
 - 👇 sent this to my friends

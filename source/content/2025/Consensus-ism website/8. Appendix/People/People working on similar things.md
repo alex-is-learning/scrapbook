@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - [[Michael Stroe]] 
 - Guy/Rivalvoices/@nosilverv
 	- Has tweeted an insane amount about this stuff. Hard to dig through his tweets but worth it!

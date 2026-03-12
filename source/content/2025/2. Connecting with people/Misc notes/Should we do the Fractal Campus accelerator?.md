@@ -1,3 +1,8 @@
+---
+tags:
+  - community
+  - relationships
+---
 - [[Alex and Simmo group house, parent page]]
 - 2025-08-25
 - Read through [this](https://fractalcampus.com/) and realised it starts on the 1st of Sep, which is when we'll both be at Casa Tilo for "Ship It Week", which seems like pretty much absurdly perfect timing (in-person synchronous working, focus, etc)

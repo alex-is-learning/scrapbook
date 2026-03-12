@@ -1,3 +1,10 @@
+---
+tags:
+  - meditation
+  - contemplative-practice
+  - healing
+  - personal-growth
+---
 - [[Increasing the skillfulness of my mind, log (2025)]]
 - Eye gazing in the mirror leading to visual deconstruction, hell yeah
 - 30 mins

@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 - [[Superprof tutor lesson 1 (The Fundamental Decision)]]
 - RLC is rejecting leaving your life, worldview, beliefs etc to chance
 - To me, this sounds the same as transitioning to Kegan 4 (the self-authoring mind)

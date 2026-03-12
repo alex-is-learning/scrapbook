@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 # This Substack post is amazing:
 https://monistowl.substack.com/p/beyond-the-ladder
 

@@ -1,6 +1,9 @@
 ---
 permalink: constitutive-luck
 created: 2025-08-04
+tags:
+  - thinking
+  - epistemology
 ---
 - See also [[Circumstantial luck]]
 - This form of luck concerns the kind of person you are—your innate character, temperament, and capacities. These are traits that are largely, if not entirely, determined by factors beyond our control, such as genetics, upbringing, and environment. For example, a person may be naturally courageous or cowardly, intelligent or slow-witted. Constitutive luck points out that we often praise or blame people for these character traits and the actions that stem from them, despite the fact that individuals did not choose their fundamental dispositions.

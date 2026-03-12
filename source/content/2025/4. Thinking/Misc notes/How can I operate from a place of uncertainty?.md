@@ -1,5 +1,8 @@
 ---
 permalink: 2025-07-08-uncertainty-manifesto
+tags:
+  - thinking
+  - epistemology
 ---
 # Intro/context:
 - It feels very disorienting to become "un-hypnotised" from my main story

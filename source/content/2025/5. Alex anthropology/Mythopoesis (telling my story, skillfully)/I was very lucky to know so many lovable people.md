@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[Mythopoesis 1 - same life story, different conclusions]]
 - This started out as a reply to the "I am only loved if I am interesting" limiting belief. So, reflecting on all the people I've loved and *why*, and how it's not about single traits like *ever*
 

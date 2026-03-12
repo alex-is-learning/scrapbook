@@ -1,5 +1,12 @@
 ---
 permalink: tpot-post-rationalism
+tags:
+  - meditation
+  - contemplative-practice
+  - healing
+  - personal-growth
+  - ori
+  - post-rationalism
 ---
 
 - Guides

@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 # Disagreeableness is a part of sincerity
 - [[Sasha Chapin post - disagreeableness is a part of sincerity]]
 # Supportive hard-ass

@@ -1,5 +1,8 @@
 ---
 permalink: I-saw-a-family-therapist-yesterday
+tags:
+  - personal-growth
+  - personal-history
 ---
 - 2025-07-22
 - I paid £70 for a solo session with a family therapist

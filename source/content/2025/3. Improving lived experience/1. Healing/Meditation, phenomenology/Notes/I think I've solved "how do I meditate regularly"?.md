@@ -1,6 +1,11 @@
 ---
 permalink: I-think-I-solved-how-to-meditate
 created: 2025-07-29
+tags:
+  - meditation
+  - contemplative-practice
+  - healing
+  - personal-growth
 ---
 - 2025-07-29
 - My struggle from [[2025-07-22 meditation open questions]] was "how do I sit for more than 20 minutes? I get so restless"

@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[Era 16 - Back to Europe, Christmas at home]]
 
 Then I returned home for Christmas and felt so great, so *adult* - returning from this voyage to Asia where I had grown and learned stuff and spent significant time away from family and the people I had known

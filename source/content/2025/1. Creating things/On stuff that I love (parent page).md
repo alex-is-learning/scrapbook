@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - I'm yet to write up a manifesto for this. But basically, there are various things that I've been very passionate about in my life, and I've never quite known what to *do* with all that energy
 - The answer is probably "create stuff"
 - Thur 2025-08-07

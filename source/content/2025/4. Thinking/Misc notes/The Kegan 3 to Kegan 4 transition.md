@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 - [[RLC as the Kegan 3 to Kegan 4 transition]]
 # Gemini
 `What would an omnipotent observer see, what would make it apparent that someone has recently cast off kegan 3 and is becoming (or has recently become) kegan 4?`

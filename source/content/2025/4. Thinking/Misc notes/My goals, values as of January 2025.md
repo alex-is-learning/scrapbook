@@ -1,5 +1,8 @@
 ---
 permalink: my-goals-values-as-of-january-2025
+tags:
+  - thinking
+  - epistemology
 ---
 
 - I want to do a bit of introspection re: what I'm motivated by and what I'm actually trying to achieve

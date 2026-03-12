@@ -1,3 +1,8 @@
+---
+tags:
+  - healing
+  - personal-growth
+---
 - Very simple and a prerequisite to a bunch of other things. Basically the ability to notice feelings in your body, give them labels that fit, and notice a shift/update/insight. Gendlin describes Focusing as the thing that differentiates people who have success in talk therapy vs those that don't (as some will notice when something feels off in their body, investigate and update, and others just remain in narrative land for the entire session and never update)
 # From the intro section of the book by Gendlin
 - At the University of Chicago and elsewhere in the past fifteen years, a group of colleagues and I have been studying some questions that most psychotherapists don’t like to ask out loud. ==Why doesn’t therapy succeed more often?== Why does it so often fail to make a real difference in people’s lives? In the rarer cases when it does succeed, what is it that those patients and therapists do? What is it that the majority fail to do?

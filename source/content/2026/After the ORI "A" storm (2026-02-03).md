@@ -1,3 +1,9 @@
+---
+tags:
+  - ori
+  - post-rationalism
+date: 2026-02-03
+---
 - [[Log per day - 2026]]
 
 # Post [["A" storm]]

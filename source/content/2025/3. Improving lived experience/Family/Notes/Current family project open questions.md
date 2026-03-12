@@ -1,5 +1,8 @@
 ---
 permalink: current-family-project-open-questions
+tags:
+  - personal-growth
+  - personal-history
 ---
 
 - 2025-07-18

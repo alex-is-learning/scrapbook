@@ -1,3 +1,10 @@
+---
+tags:
+  - meditation
+  - contemplative-practice
+  - healing
+  - personal-growth
+---
 - [[Increasing the skillfulness of my mind, log (2025)]]
 - **Date & Time:** 22:20
 - **Duration:** 20 mins

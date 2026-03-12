@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - **Doing the things which satisfy all the current internal cues results in feeling really satisfied, clear-headed; as happy as we can feel**
 	- [[One unitary preference (no parts)]]
 - Also just feeling confident that until and unless the situation changes, what you’re doing is the best choice you could be making

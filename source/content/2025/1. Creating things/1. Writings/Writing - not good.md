@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - writing
+---
 - [[Writing - vignettes]]
 - *It feels important to me somehow to collect stuff I do which is "dead", which never came alive*
 

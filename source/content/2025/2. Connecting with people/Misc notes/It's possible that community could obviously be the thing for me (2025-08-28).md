@@ -1,3 +1,8 @@
+---
+tags:
+  - community
+  - relationships
+---
 - [[Alex and Simmo group house, parent page]]
 - 2025-08-28
 - **Epistemic status**: this is a very profound and deep topic for me, kind of *the* key topic in my life so far, and I know that I won't be able to explain it well right now. I'm giving myself permission to write a quick, incomplete thing here

@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 - 2025-08-18
 - (Idea started with "[[Aha, maybe I'm a "professional meta-cognitionist", lol]]")
 # 1. Why I'm thinking about this 

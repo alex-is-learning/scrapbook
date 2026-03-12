@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - personal-growth
+---
 - 2025-08-07
 - I'm doing a lot of "noticing my confusions and aversions at work and speaking up about them", feels great
 - Today, it led to the internal tactics we were following shifting, which is a huge win

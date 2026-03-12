@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 - [[How to make a website like this]]
 - 2025-08-05
 # What is this guide for?

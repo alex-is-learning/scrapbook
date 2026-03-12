@@ -1,5 +1,8 @@
 ---
 permalink: pan-top-down-model-day-2
+tags:
+  - thinking
+  - personal-growth
 ---
 
 # Model from 2 days of orientation

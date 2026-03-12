@@ -1,3 +1,6 @@
+---
+date: 2026-01-31
+---
 - 2026-01-31
 - [[Log per day - 2026]]
 - Whaddup whaddup

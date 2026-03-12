@@ -1,5 +1,8 @@
 ---
 permalink: the-second-half-of-the-elenchus
+tags:
+  - thinking
+  - epistemology
 ---
 
 - Parent page - [[How to construct the elenchus]]

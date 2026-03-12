@@ -1,3 +1,9 @@
+---
+tags:
+  - thinking
+  - learning
+  - epistemology
+---
 https://www.alexislearning.me/blog/2025-06-02-deep-research/
 
 Gemini Deep Research is so so good dude. This isn’t news - I’ve been using it pretty much daily for probably around 2 months at this point, but it just keeps striking me how amazing it is.

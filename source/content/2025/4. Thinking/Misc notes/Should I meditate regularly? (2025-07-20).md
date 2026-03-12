@@ -1,5 +1,8 @@
 ---
 permalink: should-i-meditate-regularly
+tags:
+  - thinking
+  - epistemology
 ---
 - 2025-07-20
 - Outcome of writing this → I've convinced myself to give it a proper go! 

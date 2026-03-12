@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[Mythopoesis 1 - same life story, different conclusions]]
 # Life-long learner
 - Like my dad before me, I had to learn to climb out of the mud. I wasn't given an easy situation where I could coast, I had strong motivation to figure shit out. And there were no easy escape routes, and no easy role models, so I had to learn to do everything *myself*. And yes, it was a very circuitous path, with many false starts, but that's a necessary part of the journey, and completely normal when you're operating in the fog of war. It's literally impossible to take the correct step every time when you don't have a map

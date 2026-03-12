@@ -1,3 +1,10 @@
+---
+tags:
+  - thinking
+  - epistemology
+  - ori
+  - post-rationalism
+---
 - [[Tpot, post-rationalism]]
 2025-12-21
 - Funnily enough, it only dawned on me very recently that post-rationalism might really mean that: beyond rationalism

@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 - Previous - [[Era 10 - Master's - Albums]]
 
 - Magdalene by FKA Twigs

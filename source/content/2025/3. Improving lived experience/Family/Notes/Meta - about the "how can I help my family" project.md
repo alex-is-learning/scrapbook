@@ -2,6 +2,9 @@
 created: 2025-06-24 19:49:18
 updated: 2025-06-24 19:49:36
 permalink: meta---about-the-"how-can-i-help-my-family"-project
+tags:
+  - personal-growth
+  - personal-history
 ---
 
 ...existing code...

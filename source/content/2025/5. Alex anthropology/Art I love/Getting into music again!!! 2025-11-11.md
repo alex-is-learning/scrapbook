@@ -1,3 +1,9 @@
+---
+tags:
+  - creative
+  - personal-history
+  - music
+---
 - 2025-11-11
 - Ok so making [[Albums I loved per era]] has really highlighted how I listen to so much less new music than I used to 
 - Partly due to pivoting to podcasts and youtube videos, partly due to not having a car anymore, partly due to not watching Anthony Fantano anymore... etc

@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - See [[First Dart vs Second Dart]]
 
 - There are two types

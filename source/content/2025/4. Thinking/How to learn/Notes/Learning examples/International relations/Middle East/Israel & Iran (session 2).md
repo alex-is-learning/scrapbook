@@ -1,5 +1,9 @@
 ---
 permalink: israel-iran-session-2
+tags:
+  - thinking
+  - learning
+  - epistemology
 ---
 
 - Following on from [[Israel & Iran (session 1)]]

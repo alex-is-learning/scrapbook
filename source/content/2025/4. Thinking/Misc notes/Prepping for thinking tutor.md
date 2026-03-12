@@ -1,5 +1,8 @@
 ---
 permalink: prepping-for-thinking-tutor
+tags:
+  - thinking
+  - epistemology
 ---
 
 - 2025-07-21

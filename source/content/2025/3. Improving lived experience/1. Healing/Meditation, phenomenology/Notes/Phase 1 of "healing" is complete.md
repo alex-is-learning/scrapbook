@@ -1,5 +1,10 @@
 ---
 permalink: how-to-heal
+tags:
+  - meditation
+  - contemplative-practice
+  - healing
+  - personal-growth
 ---
 - AKA "oh god why am I so socially anxious" or "oh god what is 'wrong with me'"
 	- [[Tpot, post-rationalism]]

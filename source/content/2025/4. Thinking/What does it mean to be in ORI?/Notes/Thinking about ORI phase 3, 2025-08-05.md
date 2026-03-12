@@ -1,5 +1,10 @@
 ---
 title: ORI update & open questions, 2025-08-05
+tags:
+  - thinking
+  - epistemology
+  - ori
+  - post-rationalism
 ---
 - 2025-08-05
 - [["What does it mean to be in ORI?" (Open Question)]]

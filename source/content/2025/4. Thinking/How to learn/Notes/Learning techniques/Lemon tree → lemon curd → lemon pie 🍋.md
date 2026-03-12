@@ -1,5 +1,9 @@
 ---
 permalink: lemon-tree-lemon-curd-lemon-pie
+tags:
+  - thinking
+  - learning
+  - epistemology
 ---
 - 2025-07-17
 - My friend Simmo shared a photo of him holding a lemon with the caption "fallen lemons", and another friend said "that'd be a good substack name", and then I said:

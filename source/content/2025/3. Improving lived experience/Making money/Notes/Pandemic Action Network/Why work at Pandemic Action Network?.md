@@ -1,5 +1,8 @@
 ---
 permalink: why-work-at-pandemic-action-network
+tags:
+  - thinking
+  - personal-growth
 ---
 
 - Made this document whilst streaming

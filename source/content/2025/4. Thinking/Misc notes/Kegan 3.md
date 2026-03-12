@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 # Gemini summary
 
 In Robert Kegan's theory of adult development, Stage 3 is known as the "Socialised Mind" or the "Interpersonal" stage. It represents a crucial shift from the self-centred perspective of adolescence to an identity that is deeply intertwined with others. According to Kegan's research, a significant majority of the adult population, estimated at 58%, operates from this stage.

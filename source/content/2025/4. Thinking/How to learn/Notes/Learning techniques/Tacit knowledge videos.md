@@ -1,5 +1,9 @@
 ---
 permalink: tacit-knowledge-videos
+tags:
+  - thinking
+  - learning
+  - epistemology
 ---
 
 - LessWrong - "[The Best Tacit Knowledge Videos on Every Subject](https://www.lesswrong.com/posts/SXJGSPeQWbACveJhs/the-best-tacit-knowledge-videos-on-every-subject)"

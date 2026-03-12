@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - personal-growth
+---
 - A friend has set me up with a possible role, and I have a call with the co-founder in 2.5 hours (unless I cancel, which I do kinda want to do, hence writing this)
 	- Their product manager is going on maternity leave so they're looking for support to fill in the gaps whilst she's out
 	- I did all the user-facing stuff at Refract (finding users, talking with and supporting them, bringing all the insight back) and a bunch of other work

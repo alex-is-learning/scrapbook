@@ -1,3 +1,10 @@
+---
+tags:
+  - thinking
+  - epistemology
+  - writing
+  - creative
+---
 - 2025-08-07
 - It's interesting to me (and also shows how miles apart we are intellectually) how DFW wrote his first book (Broom of the System) to explore the ideas of Wittgenstein and Derrida, to be a kind of conversation. A main character who is terrified by the Wittgensteinian notion of "the limits of your language are the limits of your world", how (apparently, I haven't actually read it!) she's very preoccupied with this, with fearing that she's just a character in a story. And how it ends, and etc
 - Of course, [[Circumstantial luck]] here - his mum was an English teacher, his dad was a philosophy professor, he went to a very good liberal arts college, he was very smart and raised by very smart parents. 

@@ -1,6 +1,9 @@
 ---
 permalink: 
 created:
+tags:
+  - community
+  - relationships
 ---
 - [[Ship It Week log]]
 - Next - [[Ship It Week, day 1 retro]]

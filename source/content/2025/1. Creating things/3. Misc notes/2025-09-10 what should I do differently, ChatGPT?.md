@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - From [[What help do I want from Sasha Chapin re writing etc?]]
 - I'm not necessarily endorsing much of what ChatGPT has written here, but I wanted to experiment with it as I'm not ready for Sasha's >$300/hr coaching yet
 - I think generative AI is pretty great for strategy stuff and really dreadful for creative stuff, like when it said "write a post with this title!" it was awful, but the tactics-type stuff is good and useful

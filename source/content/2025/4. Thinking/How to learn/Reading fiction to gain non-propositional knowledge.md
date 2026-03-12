@@ -1,3 +1,9 @@
+---
+tags:
+  - thinking
+  - learning
+  - epistemology
+---
 - 2025-08-07
 - Oooohhhh, this is a good insight!!!
 - Re: [[Vervaeke's 4 Ps of Knowledge]]

@@ -1,5 +1,8 @@
 ---
 permalink: resisting-the-urge-to-switch-to-logic-or-rhetoric
+tags:
+  - thinking
+  - epistemology
 ---
 
 - 2025-07-09

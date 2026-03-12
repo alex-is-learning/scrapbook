@@ -1,3 +1,8 @@
+---
+tags:
+  - meditation
+  - contemplative-practice
+---
 - See also [[Jhana 2]]
 # What Jhourney say about Jhana 1
 - The first jhana is described as a state where a practitioner **continuously embraces their direct experience with unconditional delight**. It is considered one of four distinct "flavours of friendliness" that can be brought to moment-to-moment experience.

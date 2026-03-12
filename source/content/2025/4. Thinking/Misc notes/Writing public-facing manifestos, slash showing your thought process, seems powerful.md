@@ -1,3 +1,10 @@
+---
+tags:
+  - thinking
+  - epistemology
+  - writing
+  - creative
+---
 - [[How to make a website like this]]
 - ![[Digital Garden.webp|400]]
 - https://x.com/RandomSprint/status/1952922419775299826

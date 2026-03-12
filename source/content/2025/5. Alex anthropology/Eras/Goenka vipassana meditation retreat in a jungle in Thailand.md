@@ -1,3 +1,9 @@
+---
+tags:
+  - personal-history
+  - meditation
+  - contemplative-practice
+---
 - [[Era 15 - Asia]]
 
 - September 2023

@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 - This David Foster Wallace clip speaks to this well 
 	- https://www.youtube.com/watch?v=P1PC1sArw70
 - Consumerism etc

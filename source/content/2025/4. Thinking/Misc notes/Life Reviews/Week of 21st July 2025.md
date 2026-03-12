@@ -1,5 +1,8 @@
 ---
 permalink: week-of-21st-july-2025
+tags:
+  - thinking
+  - epistemology
 ---
 
 - [[Life Reviews]]

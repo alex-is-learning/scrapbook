@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 ## "Emotions get us into trouble"
 - I think the exhortations from e.g. the Ancient Greeks, the Stoics re: "don't let your emotions control you" are totally valid, because they'll be talking about what are essentially emotional spirals, when an emotion has grown and is now this big uncontrollable mess, like when e.g. you've brooded on a resentment which has grown wilder the more you've brooded
 - So yes, seriously, don't choose your actions based on these emotion spirals - the size of the spiral is way bigger than the actual trigger

@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 - Previous - [[Era 5 - Sixth Form - Albums]]
 - I definitely listened to way more music in my non-uni housing (2nd & 3rd year)
 - [Spotify playlist](https://open.spotify.com/playlist/6Q1qKHlpfVgjuGE4WnB3Ye?si=16e48a30be8749eb)

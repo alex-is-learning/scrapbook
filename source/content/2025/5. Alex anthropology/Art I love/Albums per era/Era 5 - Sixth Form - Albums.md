@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 - Previous - [[Era 4 - High School - Albums]]
 
 - Various Artists - Scott Pilgrim vs. The World (Original Soundtrack)

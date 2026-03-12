@@ -1,3 +1,9 @@
+---
+tags:
+  - creative
+  - music
+  - personal-history
+---
 - [[Creating things (parent page)]]
 
 # Fade into memory - Thursday 2025-09-11

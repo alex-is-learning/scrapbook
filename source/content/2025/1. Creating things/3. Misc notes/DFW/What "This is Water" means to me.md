@@ -1,6 +1,8 @@
 ---
 permalink: what-this-is-water-means-to-me
 created: 2025-08-04
+tags:
+  - creative
 ---
 - Parent page - [[David Foster Wallace (parent page)]]
 - Mon 2025-08-04

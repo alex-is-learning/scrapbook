@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - Kinda the same as extrinsic vs intrinsic motivation?
 - Kinda the same as self-coercion vs non-coercion?
 # Intrinsic motivation

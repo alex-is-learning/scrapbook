@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - What ChatGPT says
 
 # **Manifesting Generator — cheat sheet**

@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - [[Archiving older things]]
 
 Hello! So I started this blog (and tweeting way more) after my silent meditation retreat, when I noticed that I had a big need to express myself more, to have more self-authorship, more creative expression, etc.

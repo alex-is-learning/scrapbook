@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 > *The task of philosophy is to show the fly the way out of the fly bottle*
 
 - Wittgenstein 

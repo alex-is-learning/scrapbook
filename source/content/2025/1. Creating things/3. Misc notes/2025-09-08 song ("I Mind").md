@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - music
+---
 - [[Music making log (era 2)]]
 - Really struggling to sing well lol RIP 
 - ![[2025-09-08 I mind.mp3]]

@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - writing
+---
 - [[Log per day - 2026]]
 - Mon 2025-10-04
 

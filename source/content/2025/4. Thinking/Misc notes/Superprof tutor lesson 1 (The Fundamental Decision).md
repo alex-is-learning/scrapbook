@@ -1,6 +1,9 @@
 ---
 permalink: superprof-tutor-lesson-1
 created: 2025-08-01
+tags:
+  - thinking
+  - epistemology
 ---
 # 1. Reading List
 - He gave me an essay he wrote to read - I won't share it here as I guess it's his "intellectual property"

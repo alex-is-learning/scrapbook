@@ -1,3 +1,9 @@
+---
+tags:
+  - personal-history
+  - writing
+  - creative
+---
 - 2025-10-25
 - Note, this started as morning pages and now has become something I'm adding to throughout the day
 # 1 - Writing more, why?

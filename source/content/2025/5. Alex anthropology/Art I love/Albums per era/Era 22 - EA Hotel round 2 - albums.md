@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 - Previous - [[Era 21 - Making music & youtube vids at my mum's - albums]]
 
 

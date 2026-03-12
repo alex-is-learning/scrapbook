@@ -1,5 +1,9 @@
 ---
 permalink:
+tags:
+  - thinking
+  - learning
+  - epistemology
 ---
 # Post from 2nd June 2025:
 - https://www.alexislearning.me/blog/2025-06-02-deep-research/

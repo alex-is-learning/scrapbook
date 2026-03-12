@@ -1,3 +1,10 @@
+---
+tags:
+  - meditation
+  - contemplative-practice
+  - healing
+  - personal-growth
+---
 - 2025-08-10
 # 1. The halcyon days of ipods
 - There was a time when we all owned an ipod

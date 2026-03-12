@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - It’s “something I’m feeling/experiencing is bad to feel/experience” - as if there’s a you separate from the experience
 - It could be argued as being the same as a lack of secure attachment. "Ahh, this is bad, must push it away", rather than feeling okay with what arises
 - "I am bad because I feel xyz"

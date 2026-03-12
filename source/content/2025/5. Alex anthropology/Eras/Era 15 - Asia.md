@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 > *Parent page - [[My Eras (index)]]*
 # Why I went to Asia
 I went through a *big* breakup (like, we owned a house & had a dog together, my sweet chicken boy [[Moose]] the greyhound), and ~3 months later I was let go from my job (a biotech startup funded in large part by FTX, which went kaboom and our poor startup followed suit pretty soon after. RIP, incredible incredible experience, really life-changing).

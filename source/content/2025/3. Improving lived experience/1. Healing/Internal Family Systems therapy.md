@@ -1,3 +1,8 @@
+---
+tags:
+  - healing
+  - personal-growth
+---
 - I recommend Theo! 
 	- https://untanglingself.com/
 	- He's no longer pure IFS, he blends in somatic-imaginal stuff too, but it's a good blend sir

@@ -1,0 +1,5 @@
+---
+tags:
+  - thinking
+  - epistemology
+---

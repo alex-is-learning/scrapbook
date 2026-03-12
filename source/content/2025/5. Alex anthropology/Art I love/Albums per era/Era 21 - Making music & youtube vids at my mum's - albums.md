@@ -1,3 +1,9 @@
+---
+tags:
+  - creative
+  - personal-history
+  - music
+---
 - Previous - [[Era 19 & 20 - Toronto - albums]]
 
 - Kendrick Lamar - GNX !!!! Dude!!!

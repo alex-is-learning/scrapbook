@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 - [[Getting into music again!!! 2025-11-11]]
 - I know this is an unhinged thing to do, ok??? But I'm finding it very meaningful, no regrets
 

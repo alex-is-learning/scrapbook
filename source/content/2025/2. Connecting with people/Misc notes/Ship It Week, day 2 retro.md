@@ -1,3 +1,8 @@
+---
+tags:
+  - community
+  - relationships
+---
 - Sunday morning, 2025-08-31
 - Yesterday was the first full day
 - I'm sat outside by the pool, Brent is meditating and giggling to my left

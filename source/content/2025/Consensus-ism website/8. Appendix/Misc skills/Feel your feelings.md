@@ -1,2 +1,6 @@
+---
+tags:
+  - consensus-ism
+---
 - ![[Pasted image 20251107180032.png]]
 	- https://x.com/nosilverv/status/1934958222235820388

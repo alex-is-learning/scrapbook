@@ -1,3 +1,8 @@
+---
+tags:
+  - community
+  - relationships
+---
 - https://x.com/RichDecibels
 - https://richdecibels.com/
 - https://www.eltilo.casa/, where I was for [[Ship It Week log|Ship It Week]]

@@ -1,5 +1,8 @@
 ---
 permalink: gilman-equation
+tags:
+  - thinking
+  - epistemology
 ---
 
 - 2025-07-20

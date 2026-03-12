@@ -1,3 +1,10 @@
+---
+tags:
+  - meditation
+  - contemplative-practice
+  - healing
+  - personal-growth
+---
 - 2026 - [[Do I finally have the "B" floor to meditate? (2026-02-03)]]
 - [[Should I meditate regularly? (2025-07-20)]]
 # 2. Fetters work

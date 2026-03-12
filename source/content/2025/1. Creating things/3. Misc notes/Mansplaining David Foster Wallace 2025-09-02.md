@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - I mansplained DFW at my friend Evelyn!! hehehe, what a treat
 - ![[Mansplaining David Foster Wallace 2025-09-02-1756905274888.webp]]
 - ![[ML Episode 2.mp3]]

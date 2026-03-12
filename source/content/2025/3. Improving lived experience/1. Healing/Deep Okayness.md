@@ -1,3 +1,8 @@
+---
+tags:
+  - healing
+  - personal-growth
+---
 - The term was coined, I believe, by [[Sasha Chapin]]
 - Sasha posts
 	- His blog post from Jan 2022 → "[How I Attained Persistent Self-Love, or, I Demand Deep Okayness For Everyone](https://sashachapin.substack.com/p/how-i-attained-persistent-self-love)"

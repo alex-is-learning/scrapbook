@@ -1,5 +1,8 @@
 ---
 permalink: gathering-pan-slash-global-health-open-questions
+tags:
+  - thinking
+  - personal-growth
 ---
 
 # Open questions from 2025-06-26

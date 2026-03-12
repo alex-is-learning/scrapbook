@@ -1,5 +1,8 @@
 ---
 permalink: vervaekes-4-ps-of-knowledge
+tags:
+  - thinking
+  - epistemology
 ---
 
 - 2025-07-21

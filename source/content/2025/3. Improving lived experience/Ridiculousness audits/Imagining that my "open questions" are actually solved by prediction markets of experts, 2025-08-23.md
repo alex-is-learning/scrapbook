@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-growth
+---
 - From my parent page on ORI → [["What does it mean to be in ORI?" (Open Question)]]
 - Last time I thought about this was on my birthday, lol
 	- [[Thinking about ORI phase 3, 2025-08-05]]

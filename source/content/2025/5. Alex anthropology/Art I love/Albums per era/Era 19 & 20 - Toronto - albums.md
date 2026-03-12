@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 - Previous - [[Era 18 - Divine Period (post-Kensho) - albums]]
 
 # S tier

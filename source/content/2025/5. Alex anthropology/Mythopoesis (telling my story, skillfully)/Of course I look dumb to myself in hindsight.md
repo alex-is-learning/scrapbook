@@ -1,1 +1,5 @@
+---
+tags:
+  - personal-history
+---
 Also, of course I look dumb to myself in hindsight, of course I’d look dumb to a smarter person, a person with good parent ms etc [https://x.com/rikardhjort/status/1983162263738671414?s=46](https://x.com/rikardhjort/status/1983162263738671414?s=46)

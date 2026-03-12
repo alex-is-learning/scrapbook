@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 - I remember when it was announced that A Moon Shaped Pool was coming out and everyone was like "omg Radiohead are coming back!" and I was like "who are they and also that's a shit name for a band"
 - Then I listened to A Moon Shaped Pool and lovedddd it. Is it a 2016 album? It is!!! What the fuck dude
 	- [[2016 albums]]

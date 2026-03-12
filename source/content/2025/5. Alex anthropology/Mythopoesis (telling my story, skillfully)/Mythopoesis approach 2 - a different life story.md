@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - This is kind of like doing Ideal Parent Figure Protocol, at least, how I'm currently doing it
 - Right now, I'm my private Obsidian vault, I'm slowly writing an alternative life where my parents were very emotionally mature (like, unusually so) and handled things really well
 - ![[1761643117407.webp]]

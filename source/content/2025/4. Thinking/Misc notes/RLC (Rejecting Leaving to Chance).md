@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 - From my Superprof ethics/philosophy tutor
 - See also [[ILC (Implicitly Leaving to Chance)]]
 # Gemini Summary

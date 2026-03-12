@@ -1,3 +1,6 @@
+---
+date: 2026-03-12
+---
 - [[Log per day - 2026]]
 - Following on from [[Re wanting to learn how to think, 2026-03-04]]
 - Just a copy-paste of my conversation with Claude

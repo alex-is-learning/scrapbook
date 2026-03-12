@@ -1,3 +1,10 @@
+---
+tags:
+  - thinking
+  - epistemology
+  - writing
+  - creative
+---
 ## 01. Installing Obsidian
 - Download it here https://obsidian.md/
 ## 02. Create a vault 

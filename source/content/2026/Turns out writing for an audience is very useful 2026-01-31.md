@@ -1,3 +1,9 @@
+---
+tags:
+  - writing
+  - creative
+date: 2026-01-31
+---
 - 2026-01-31
 - I tried switching to a new private Obsidian vault for 2026
 - I've written an enormous amount in it! 

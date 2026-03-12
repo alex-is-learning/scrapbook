@@ -1,6 +1,8 @@
 ---
 permalink: david-foster-wallace
 created: 2025-08-04
+tags:
+  - creative
 ---
 - 2025-09-02
 	- [[Mansplaining David Foster Wallace 2025-09-02]]

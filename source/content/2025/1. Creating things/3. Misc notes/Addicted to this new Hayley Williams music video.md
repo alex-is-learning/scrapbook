@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - music
+---
 # Wed 2025-08-06
 - Super addicted to this, watched it a bunch of times today (I think the music video adds a lot to the song)
 - https://www.youtube.com/watch?v=Bw72CQYfHvY

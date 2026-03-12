@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 - When you follow the Quartz guide:
 	- [[Why an Obsidian-based website?]]
 - It'll involve downloading a ready-made Obsidian vault from Github

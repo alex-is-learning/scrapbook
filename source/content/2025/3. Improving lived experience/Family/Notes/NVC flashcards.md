@@ -1,5 +1,8 @@
 ---
 permalink: nvc-flashcards
+tags:
+  - personal-growth
+  - personal-history
 ---
 
 # 2025-07-20

@@ -28,6 +28,21 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.RecentNotes({
+      title: "Recent notes",
+      limit: 3,
+      showTags: false,
+      // Only show logged 2026 entries (those with an explicit date from the log)
+      filter: (f) => (f.slug?.startsWith("2026/") && !!f.dates?.created) ?? false,
+      sort: (f1, f2) => {
+        const d1 = f1.dates?.created
+        const d2 = f2.dates?.created
+        if (d1 && d2) return d2.getTime() - d1.getTime()
+        if (d1) return -1
+        if (d2) return 1
+        return 0
+      },
+    })),
   ],
   right: [
     Component.Graph(),

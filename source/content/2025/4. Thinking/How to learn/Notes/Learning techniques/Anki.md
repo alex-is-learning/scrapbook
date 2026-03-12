@@ -1,5 +1,9 @@
 ---
 permalink:
+tags:
+  - thinking
+  - learning
+  - epistemology
 ---
 - Spaced repetition via Anki, the GOAT
 - Shoutout https://augmentingcognition.com/ltm.html, best essay about this

@@ -1,6 +1,9 @@
 ---
 permalink: 
 created: 2025-08-06
+tags:
+  - thinking
+  - personal-growth
 ---
 - [[FRI (Parent Page)]]
 - 2025-08-06

@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 ### Became obsessed with David Bowie
 - I forget how this happened too! But I remember starting with his first (well, second, but everyone ignores his real first album) and then working my way through his discography for a while, and *then* he died! And I was in a lecture and the lecturer was like "oh yeah, sorry I'm feeling a bit sad today, David  Bowie died" and I was so gutted!!! And I'd been listening to Blackstar for 2 days, it had only been out for two days and then he died!!! Wtf!! What an incredible artist
 - I went through his albums in order for a while:

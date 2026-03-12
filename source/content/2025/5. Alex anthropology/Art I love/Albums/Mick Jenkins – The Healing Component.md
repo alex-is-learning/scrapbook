@@ -1,3 +1,10 @@
+---
+tags:
+  - creative
+  - personal-history
+  - healing
+  - personal-growth
+---
 - 2016, the frickin year for music (according to James Acaster, and tbf yes, he's right)
 # I hate these skits holy shit
 AHHHHH IT'S SO CRINGE HOW HE'S ACTING LIKE AN EXPERT IN LOVE IN THE SKITS WHERE HE'S TALKING TO HIS GIRLFRIEND AND HE'S SAYING THE LEAST PROFOUND SHIT OF ALL TIME

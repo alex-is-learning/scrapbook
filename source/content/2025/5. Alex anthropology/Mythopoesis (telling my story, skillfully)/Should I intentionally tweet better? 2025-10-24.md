@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - 2025-10-24
 - My profile:
 	- I currently have 363 twitter followers (https://x.com/alexislearning)

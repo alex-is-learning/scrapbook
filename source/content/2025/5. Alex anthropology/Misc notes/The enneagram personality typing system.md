@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[Personality typing systems]]
 - Cate Hall[^1] substack post - "[There are nine wolves inside of you](https://usefulfictions.substack.com/p/there-are-nine-wolves-inside-of-you)" 👇
 

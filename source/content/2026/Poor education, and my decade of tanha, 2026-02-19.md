@@ -1,3 +1,6 @@
+---
+date: 2026-02-19
+---
 - [[Log per day - 2026]]
 ## Ramblings on being poorly educated 
 > *Mostly not interesting!*

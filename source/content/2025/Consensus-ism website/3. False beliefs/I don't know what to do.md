@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - Because I feel like [[The core false belief → "Something I'm feeling is bad to feel"]], I'm disowning parts of my experience and refusing to look at them, and as such there's a sense that I don't know what to do (because blind spots)
 	- Lulie calls this "fixation" → [[Getting stuck]]
 - But, you actually always have access to the info you need to make the next right choice

@@ -1,3 +1,9 @@
+---
+tags:
+  - personal-history
+  - music
+  - creative
+---
 > *Parent page - [[My Eras (index)]]*
 
 https://www.youtube.com/@alexiscreatingthings/videos

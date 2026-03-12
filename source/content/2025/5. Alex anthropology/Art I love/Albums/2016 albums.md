@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 - British comedian James Acaster had a podcast (and a book) about how 2016 was the best year for music ever. And to be honest, it *was* fucking *insane*
 
 https://en.wikipedia.org/wiki/Perfect_Sound_Whatever

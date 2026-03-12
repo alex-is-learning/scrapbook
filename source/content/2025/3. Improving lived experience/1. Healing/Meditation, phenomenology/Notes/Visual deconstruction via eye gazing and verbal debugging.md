@@ -1,6 +1,11 @@
 ---
 permalink: 
 created:
+tags:
+  - meditation
+  - contemplative-practice
+  - healing
+  - personal-growth
 ---
 - 2025-08-09
 - A meditation technique introduced to me by a friend in Toronto

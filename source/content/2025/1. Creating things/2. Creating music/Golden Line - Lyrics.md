@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - [[Gathering what people shipped at Ship It Week]]
 - ![[golden line.mp3]]
 I saw the sun slide across the lake on a golden line

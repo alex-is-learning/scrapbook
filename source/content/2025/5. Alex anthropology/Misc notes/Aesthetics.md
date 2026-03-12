@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - ![[1761916000007.webp]]
 - https://x.com/DefenderOfBasic/status/1981391280329634229
 - ![[1761916017792.webp]]

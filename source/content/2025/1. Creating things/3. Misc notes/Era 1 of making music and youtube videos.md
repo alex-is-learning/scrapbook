@@ -1,3 +1,9 @@
+---
+tags:
+  - creative
+  - music
+  - personal-history
+---
 - From October 2024 to January 2025 I made something like 40 Youtube videos
 - It was really fun! 
 - It's now 2025-08-23 and I'd like to dust off the ol' Youtube channel some time soon...

@@ -1,3 +1,9 @@
+---
+tags:
+  - personal-growth
+  - personal-history
+  - healing
+---
 - 2025-08-09
 - I've had this thought in my head since session 1 (session 2 is supposed to be next week, but I'm currently unsure if I should go ahead with it)
 - Below are some scrappy thoughts

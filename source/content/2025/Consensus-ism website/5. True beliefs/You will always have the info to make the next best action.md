@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - ![[Pasted image 20251107101624.png]]
 - Feelings
 	- [[Feelings are signal]]

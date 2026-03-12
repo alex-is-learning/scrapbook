@@ -1,5 +1,8 @@
 ---
 permalink: my-dads-birthday-today
+tags:
+  - personal-growth
+  - personal-history
 ---
 
 - 2025-07-22

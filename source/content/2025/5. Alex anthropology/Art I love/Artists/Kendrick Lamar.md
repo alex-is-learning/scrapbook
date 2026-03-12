@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 - Oh man, what to write, daunting
 - He's my favourite artist of all time, no question. I love him with all my heart. Absolutely insane man, role model, just an absolute one of a kind, generational artist. Best artist of all time, etc
 - More to be said at a later date

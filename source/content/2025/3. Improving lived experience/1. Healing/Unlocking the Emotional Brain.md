@@ -1,3 +1,8 @@
+---
+tags:
+  - healing
+  - personal-growth
+---
 - See Kaj's book summary [here](https://www.lesswrong.com/posts/i9xyZBS3qzA8nFXNQ/book-summary-unlocking-the-emotional-brain)
 - See Scott Alexander's [Mental Mountains](https://www.lesswrong.com/posts/JJFphYfMsdFMuprBy/mental-mountains), where he shouts out the above as a more worth link
 - [[Memory Reconsolidation]]

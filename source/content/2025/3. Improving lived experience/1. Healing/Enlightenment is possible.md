@@ -1,3 +1,8 @@
+---
+tags:
+  - healing
+  - personal-growth
+---
 - I had a [[Kensho]] experience happen to me, which I believe is the same as stream entry, the first of the 4 stages of enlightenment (according to the oldest model, the Therevadan "4 Path Model". Check out Daniel Ingram's "Mastering the Core Teachings of the Buddha" for more info)
 	- I've written about this here → https://alexislearning.me/consensusism/
 	- And also on my substack → [Consensus-ism part 2: Something like Deep Okayness has happened to me and I like it](https://alexislearning.substack.com/p/consensus-ism-part-2)

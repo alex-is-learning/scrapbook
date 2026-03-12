@@ -1,3 +1,10 @@
+---
+tags:
+  - meditation
+  - contemplative-practice
+  - healing
+  - personal-growth
+---
 - 2025-08-10
 - https://michaelstroe.com/
 - https://www.simplytheseen.com/

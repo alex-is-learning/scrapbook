@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - [[Archiving older things]]
 
 I just got an email that my Effective Altruism Global application has been approved. It’s uhhhh in 3 days lol

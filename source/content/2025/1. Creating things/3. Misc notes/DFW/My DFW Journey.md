@@ -1,6 +1,8 @@
 ---
 permalink: my-dfw-journey
 created: 2025-08-04
+tags:
+  - creative
 ---
 - 2025-08-04
 - Parent page - [[David Foster Wallace (parent page)]]

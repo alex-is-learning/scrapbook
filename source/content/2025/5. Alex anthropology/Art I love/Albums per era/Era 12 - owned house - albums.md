@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 - Previous - [[Era 11 - Rented house w girlfriend → COVID - albums]]
 # S tier
 - [[The Strokes]] - The New Abnormal

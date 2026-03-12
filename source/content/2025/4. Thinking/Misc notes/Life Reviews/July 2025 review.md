@@ -1,6 +1,9 @@
 ---
 permalink: july-2025-review
 created: 2025-08-03
+tags:
+  - thinking
+  - epistemology
 ---
 - [[Life Reviews]]
 - Porting my Intend.do review to here

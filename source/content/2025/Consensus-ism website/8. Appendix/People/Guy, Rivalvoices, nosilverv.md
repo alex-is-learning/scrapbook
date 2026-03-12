@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - https://x.com/nosilverv
 - Many great tweets on this topic, e.g.:
 	- [[Guy (@nosilverv) - sensations vs imaginations model]]

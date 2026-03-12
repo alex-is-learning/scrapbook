@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 # 1. Creating new notes
 ## 1a. Press control + N to make a new page  
 - Pretty self-explanatory 

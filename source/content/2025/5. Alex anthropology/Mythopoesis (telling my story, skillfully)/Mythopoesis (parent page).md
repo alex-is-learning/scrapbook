@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - 2025-10-26
 - [[Mythopoesis - what and why]]
 - [[Mythopoesis 1 - same life story, different conclusions]]

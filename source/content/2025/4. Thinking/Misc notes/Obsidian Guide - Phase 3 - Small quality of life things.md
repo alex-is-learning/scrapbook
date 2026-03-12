@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 ## 1. Essential keyboard shortcuts/features
 - Command/control + N = new note
 - Command/control + O = open/search file name

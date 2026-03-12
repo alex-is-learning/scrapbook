@@ -1,5 +1,8 @@
 ---
 permalink: the-tyranny-of-the-propositional
+tags:
+  - thinking
+  - epistemology
 ---
 
 - 2025-07-21

@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - There's a sense in which I'm done with my "it feels great to make things for the sake of making things" arc
 - Actually no, that's not quite it, more like "it feels good to hit publish on stuff even if it's kinda shitty or first draft, just because it feels so great to finally be making stuff"
 - I'm excited to enter a new era where I maybe spend a whole week on a video or essay before publishing it, rather than pretty much always making & publishing in a single session

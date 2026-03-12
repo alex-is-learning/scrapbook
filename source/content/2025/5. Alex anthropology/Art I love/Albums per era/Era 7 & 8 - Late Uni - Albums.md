@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 - Previous - [[Era 6 - Early Uni (1st year) - Albums]]
 - [[2016 albums]]
 - I definitely listened to way more music in my non-uni housing (2nd & 3rd year)

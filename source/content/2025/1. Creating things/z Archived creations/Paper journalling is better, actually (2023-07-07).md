@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - [[Archiving older things]]
 
 Quick thing on the generalisability of these reflections: _**I**_ **have discovered that paper journaling fixes some key failure modes of mine, but it’s very likely that you don’t have these failure modes, in which case this won’t resonate, and that’s ok**!

@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 - The White Stripes - my first musical love, thanks Dad!!!
 	1. **The White Stripes – The White Stripes**
 	2. **The White Stripes – De Stijl**

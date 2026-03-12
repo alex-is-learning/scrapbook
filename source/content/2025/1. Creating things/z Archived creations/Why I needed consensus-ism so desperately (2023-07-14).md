@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - consensus-ism
+---
 - [[Archiving older things]]
 
 On feeling like you need to constantly justify your actions/choices/existence to some imagined third party.

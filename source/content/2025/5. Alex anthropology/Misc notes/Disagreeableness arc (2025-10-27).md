@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - Note - this may have ended?? [[Kegan journey (3 to 4.5) 2025-11-16]]
 - Just collecting things I've already said, but also, I've just stumbled across this old Sasha Chapin post that I haven't read before which looks very exciting and relevant:
 	- ![[Disagreeableness arc (2025-10-27)-1761576434554.webp]]

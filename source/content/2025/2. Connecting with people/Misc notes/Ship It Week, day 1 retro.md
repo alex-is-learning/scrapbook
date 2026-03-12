@@ -1,3 +1,8 @@
+---
+tags:
+  - community
+  - relationships
+---
 - [[Ship It Week log]]
 - Previous - [[What is Ship It Week? (2025-08-20)]]
 

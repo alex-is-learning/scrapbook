@@ -1,5 +1,8 @@
 ---
 permalink: model-of-fri
+tags:
+  - thinking
+  - personal-growth
 ---
 
 - 21st June 2025

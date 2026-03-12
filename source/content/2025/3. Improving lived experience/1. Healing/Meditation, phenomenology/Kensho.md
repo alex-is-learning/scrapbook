@@ -1,3 +1,10 @@
+---
+tags:
+  - meditation
+  - contemplative-practice
+  - healing
+  - personal-growth
+---
 - I wrote about the experience here
 	- [Consensus-ism part 2](https://alexislearning.substack.com/p/consensus-ism-part-2) (Something like Deep Okayness has happened to me and I like it) → 18th Feb 2024
 

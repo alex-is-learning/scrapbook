@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - We’re going to try to teach a skill
 - Strongly recommend you take this not as “I need to read this and get all the information”, but as a toolkit for potential resources you may need. If you have some brilliant insight from reading this, drop this book immediately and go and do the things
 - It’s not that you need to thoroughly understand everything in order to do it; any tool in here could be the tool that you need. Not a book to read in order. It’s written down in the order that we think is mostly likely people would go through it, but no one is 100% going to be the average

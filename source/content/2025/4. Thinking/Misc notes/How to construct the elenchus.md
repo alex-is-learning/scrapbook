@@ -1,5 +1,8 @@
 ---
 permalink: how-to-construct-the-elenchus
+tags:
+  - thinking
+  - epistemology
 ---
 
 - Parent page - [[The elenchus]]

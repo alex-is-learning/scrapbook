@@ -1,6 +1,8 @@
 ---
 permalink: 
 created:
+tags:
+  - creative
 ---
 - Thur 2025-08-07
 	- [[I never got why DFW wanted to be a fiction writer]]

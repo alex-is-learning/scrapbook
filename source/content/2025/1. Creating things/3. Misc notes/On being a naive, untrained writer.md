@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - 2025-08-22
 - I imagine I make grammatical mistakes all the time. I'm essentially completely untrained... "English Grammar" was an optional GCSE, and I did not take it. 
 - I don't feel confident about punctuation like ; vs : vs -, as one simple but kind of chilling example, lol

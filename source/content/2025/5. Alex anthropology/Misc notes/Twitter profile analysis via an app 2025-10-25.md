@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[Should I intentionally tweet better? 2025-10-24]]
 - Saw this tweet and thought I'd try out the app:
 	- ![[Twitter profile analysis via an app 2025-10-25-1761394654913.webp]]

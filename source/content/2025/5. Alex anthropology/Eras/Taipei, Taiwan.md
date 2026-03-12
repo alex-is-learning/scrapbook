@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 [[Era 15 - Asia]]
 
 Me and Simmo worked on our dumb youtube channel and I lived in various Airbnbs and explored 

@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 
 - [[Feelings are signal]]
 - [[Feelings don't contain false info]]

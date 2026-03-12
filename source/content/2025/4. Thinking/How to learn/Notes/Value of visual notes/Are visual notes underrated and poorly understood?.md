@@ -1,5 +1,9 @@
 ---
 permalink: are-visual-notes-underrated-and-poorly-understood
+tags:
+  - thinking
+  - learning
+  - epistemology
 ---
 - [[🟣 Project - "Are visual notes underrated and poorly understood?"]]
 # 1. Am I cutting edge? Dumb? Bit of both?

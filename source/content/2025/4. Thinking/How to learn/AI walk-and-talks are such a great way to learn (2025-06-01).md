@@ -1,3 +1,9 @@
+---
+tags:
+  - thinking
+  - learning
+  - epistemology
+---
 https://www.alexislearning.me/blog/2025-06-01-ai-walks/
 _(Putting aside the fact that AI may lead to our demise fairly soon)_
 

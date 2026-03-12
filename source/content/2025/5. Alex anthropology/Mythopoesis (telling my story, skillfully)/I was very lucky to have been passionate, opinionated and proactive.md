@@ -1,3 +1,7 @@
+---
+tags:
+  - personal-history
+---
 - [[Mythopoesis 1 - same life story, different conclusions]]
 - I am agentic as fuck (as was my dad)
 - I like this framing - "tried and crossed out" → https://x.com/christineist/status/1983306506109104452

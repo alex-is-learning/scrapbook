@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 - Wed 2025-08-20
 - I'm feeling fairly overwhelmed right now!
 ## 1. In Spain, helping my Dad in hospital

@@ -1,3 +1,9 @@
+---
+tags:
+  - thinking
+  - learning
+  - epistemology
+---
 - 2025-08-13
 - [[🟣 Project - "Are visual notes underrated and poorly understood?"]]
 ## Talking to myself/reassuring myself at work re: "can't you just read the meeting notes, you weirdo?"  

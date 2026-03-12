@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 ## Useful pages to make (IMO)
 - I recommend making a page like 
 	- [[Log per day - 2026]], 

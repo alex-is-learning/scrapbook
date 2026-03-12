@@ -1,3 +1,7 @@
+---
+tags:
+  - creative
+---
 - Mon 2025-08-25
 # My *ahem* "creative journey"
 

@@ -1,6 +1,9 @@
 ---
 permalink: dealing-with-overwhelm-at-work
 created: 2025-08-05
+tags:
+  - thinking
+  - epistemology
 ---
 As a lazy first pass, I’m just gonna ask Gemini for a prompt to give it whenever I’m feeling overwhelmed, and add it to my text expander tool (Espanso) with the shortcut `:overwhelm`
 

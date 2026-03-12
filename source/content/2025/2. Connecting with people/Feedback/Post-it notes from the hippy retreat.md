@@ -1,3 +1,8 @@
+---
+tags:
+  - community
+  - relationships
+---
 ## 1 
 To Alex, 
 Thanks for leading our sharing circles with calm, peaceful, and authentic energy! I really enjoyed our interactions. I also really like your smile and necklace :) and thanks for sharing the info of the meditation program you're starting soon. Our convo inspired me to bring meditation back to my life!

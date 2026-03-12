@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 - WIP, unfinished, written whilst waiting for a tram in Spain
 - Fri 2025-08-15 
 - I've just arrived in Spain to visit my Dad, who's in the hospital (all under control now)

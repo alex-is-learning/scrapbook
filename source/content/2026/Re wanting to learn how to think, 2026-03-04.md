@@ -1,3 +1,9 @@
+---
+tags:
+  - ori
+  - post-rationalism
+date: 2026-03-04
+---
 - [[Log per day - 2026]]
 - 2026-03-04
 - Note that this is a mess, a brain-dump

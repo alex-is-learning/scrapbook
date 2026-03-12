@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - It's essentially streamlined Buddhism 
 - It's very inspired by the Four Path Model of Enlightenment, which I first came across in [[Mastering the Core Teachings of the Buddha]]
 - It's kind of like... *acting as if you're enlightened*m, in an asymptotic way, where occasionally it really clicks for you and becomes notably easier to do. You don't even have to meditate. It's essentially this:

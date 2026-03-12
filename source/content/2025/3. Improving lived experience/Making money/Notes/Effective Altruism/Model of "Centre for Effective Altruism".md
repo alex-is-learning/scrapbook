@@ -1,5 +1,8 @@
 ---
 permalink: model-of-centre-for-effective-altruism
+tags:
+  - thinking
+  - personal-growth
 ---
 
 - 2025-06-16

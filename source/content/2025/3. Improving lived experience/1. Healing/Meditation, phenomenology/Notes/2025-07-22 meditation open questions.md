@@ -1,5 +1,10 @@
 ---
 permalink: 2025-07-22-meditation-open-questions
+tags:
+  - meditation
+  - contemplative-practice
+  - healing
+  - personal-growth
 ---
 # Sit duration
 - Why do I struggle to sit for more than 20 mins?

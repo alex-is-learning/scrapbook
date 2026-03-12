@@ -1,3 +1,8 @@
+---
+tags:
+  - community
+  - relationships
+---
 - Note that the below are Alex's memos
 
 - Thur 2025-09-04

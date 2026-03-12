@@ -1,5 +1,8 @@
 ---
 permalink: why-work-for-fri
+tags:
+  - thinking
+  - personal-growth
 ---
 
 - 2025-06-23 

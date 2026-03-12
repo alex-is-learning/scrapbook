@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
 
 
 ![[care guy nosilver rival voices.webp]]

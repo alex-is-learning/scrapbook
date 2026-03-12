@@ -1,5 +1,8 @@
 ---
 permalink: dialectic-and-dialogue---plato's-practice-of-philosophical-inquiry-(gonzalez)
+tags:
+  - thinking
+  - epistemology
 ---
 
 ![[Pasted image 20250714134144.webp|300]]

@@ -1,5 +1,9 @@
 ---
 permalink: the-consume-create-ratio
+tags:
+  - thinking
+  - learning
+  - epistemology
 ---
 
 - 2025-07-18 

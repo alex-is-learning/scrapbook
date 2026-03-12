@@ -1,2 +1,6 @@
+---
+tags:
+  - creative
+---
 - Sat 2025-10-25
 	- [[Morning pages 1 - on writing more]]

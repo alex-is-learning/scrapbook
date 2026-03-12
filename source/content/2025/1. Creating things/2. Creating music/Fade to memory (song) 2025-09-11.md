@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - music
+---
 - [[Music making log (era 2)]]
 - ![[fade-to-memory.m4a]]
 

@@ -4,24 +4,32 @@ aliases:
   - Home Page
 permalink: home-page
 ---
-- Hi! I'm Alex, this is my digital scrapbook
-- **Word count:** 309,219 words (AKA The Order of the Phoenix x 1.20).
+Hi! I'm Alex. This is my digital scrapbook — 314,585 words of notes, reflections, and explorations since June 2025 (AKA Infinite Jest × 0.54, or Order of the Phoenix × 1.22).
 
-- 😎 **Chronological posts** → [[Log per day - 2026]] 
-# Appendix
-- [[The key themes of this site in 2025]] (2026-01-31, looking at all the 2025 stuff I wrote)
-- My [Substack](https://alexislearning.substack.com/). 
-- A work-in-progress guide to the thing I've dubbed "==consensus-ism==" which changed my life:
-	- https://alexislearning.me/consensusism/
-- A chronological view of my life → [[My Eras (index)]]
-- My landing page website is https://alexislearning.me/
-- I had a short phase of writing [[Writing - vignettes|vignettes]] and they were quite good
-	- My favourites so far are [[01. To be a boomer|to be a boomer]], [[02. Don't be overwhelmed!|don't be overwhelmed]], [[06. Cornflakes|cornflakes]] and [[07. Travel day|travel day]]
+## New here? Start with these
+
+- [[01. To be a boomer|To be a boomer]] — a vignette, probably my best piece of writing
+- [[The key themes of this site in 2025]] — a guided tour of everything in 2025
+- [[My Eras (index)]] — a chronological view of my life
+- [[How to make a website like this]] — if you want your own
+
+## Browse by topic
+
+- [[Topics/Meditation & Contemplative Practice|Meditation & Contemplative Practice]] — sit reports, jhanas, MCTB, phenomenology
+- [[Topics/Healing & Personal Growth|Healing & Personal Growth]] — trauma, family systems, fetters, adoption research
+- [[Topics/ORI & Post-Rationalism|ORI & Post-Rationalism]] — the community I'm part of, A/B/U, Socratic dialogues
+- [[Topics/Thinking & Epistemology|Thinking & Epistemology]] — how to learn, reasoning well, avoiding bias
+- [[Topics/Creative Works|Creative Works]] — vignettes, music, writing, YouTube era
+- [Consensus-ism](https://alexislearning.me/consensusism/) — the framework that changed my life *(external site)*
+
+## Browse chronologically
+
+- [[Log per day - 2026]] — 2026 posts (ongoing)
+- [2025 folder](/2025) — everything from 2025
+
+## Appendix
+
+- My [Substack](https://alexislearning.substack.com/)
 - [[Feedback, references]]
-- I am a part of the [[Tpot, post-rationalism]] community and I love it
-- I'm probably an [[Enneagram 3w4 (The Expert, The Professional)]]
-- I made goofy low-stakes youtube videos from Oct 2024 to Jan 2025 and it was fun as hell
-- A highlight is when I [said I'd make a song + video every day for 2025](https://www.youtube.com/watch?v=2zgnkjOvDEo&t=76s) and quit on like day 27 lol RIP. 
-	- Also, the song in this video is legit good?? Good for me dude 😎 
-# Make your own scrapbook
-- [[How to make a website like this]]
+- [[Tpot, post-rationalism|The post-rationalism community]]
+- [[Enneagram 3w4 (The Expert, The Professional)|I'm probably an Enneagram 3w4]]

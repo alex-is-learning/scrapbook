@@ -1,3 +1,8 @@
+---
+tags:
+  - creative
+  - personal-history
+---
 - Previous - [[Era 16 - Albania, Barcelona, xmas at home - albums]]
 
 # S tier

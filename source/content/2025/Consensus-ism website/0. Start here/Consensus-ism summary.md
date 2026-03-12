@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 - 2025-11-04
 - For kind of like "field reports", it's probably worth reading:
 	- "[Consensus-ism (part 1)](http://alexislearning.substack.com/p/consensus-ism-part-1)" → Substack post

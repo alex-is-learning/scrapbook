@@ -1,3 +1,8 @@
+---
+tags:
+  - healing
+  - personal-growth
+---
 - MR was coined (I think?) by Dr Bruce Ecker, who came up with Coherence Therapy
 	- There's a really good lecture by him on youtube about it
 	- He talks about how things like CBT lead to incremental change where you leave the limiting belief/habit in place, and try to install a new one to counteract it. Vs with memory reconsolidation, you update the limiting belief, and boom, it's updated, no need to try to install a new behaviour, you just update. See the time-series graphs in the diagram below

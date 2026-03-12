@@ -1,3 +1,7 @@
+---
+tags:
+  - consensus-ism
+---
 # Feelings we disown
 - The ultimate banger 👇
 - "The steelman of 'everyone has trauma'..."

@@ -1,3 +1,8 @@
+---
+tags:
+  - thinking
+  - epistemology
+---
  - See also [[Setting up Quartz if you already have an Obsidian setup]]
 # 1. Folder structure
 - ![[How does a Quartz + Obsidian vault differ from a normal Obsidian vault?.webp]]
