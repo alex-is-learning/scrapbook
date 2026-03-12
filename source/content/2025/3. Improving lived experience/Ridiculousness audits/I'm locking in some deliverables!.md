@@ -1,6 +1,6 @@
 ---
 tags:
-  - personal-growth
+  - growth
 ---
 - 2025-08-23
 - **Family**? → just do Fetters work & daily face deconstruction meditation

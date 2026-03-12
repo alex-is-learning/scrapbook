@@ -3,7 +3,7 @@ permalink: how-do-i-get-fit
 created: 2025-07-30
 tags:
   - fitness
-  - personal-growth
+  - growth
 ---
 - 2025-07-30
 - Ok look so maybe I haven't solved this to the point where I'm super fit and lean and etc

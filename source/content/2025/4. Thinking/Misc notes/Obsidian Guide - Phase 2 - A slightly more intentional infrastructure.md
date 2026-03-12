@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 ## Useful pages to make (IMO)
 - I recommend making a page like 

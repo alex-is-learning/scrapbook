@@ -2,7 +2,7 @@
 tags:
   - creative
   - personal-history
-  - music
+  - creative/writing
 ---
 - Previous - [[Era 19 & 20 - Toronto - albums]]
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 ## (Probably these screenshots are from Sasha's "what maximum productivity looks like to me")
 - ![[what if my energy flows to the bars.png]]

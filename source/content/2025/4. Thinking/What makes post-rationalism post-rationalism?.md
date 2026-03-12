@@ -1,9 +1,9 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
   - ori
-  - post-rationalism
+  - growth/post-rationalism
 ---
 - [[Tpot, post-rationalism]]
 2025-12-21

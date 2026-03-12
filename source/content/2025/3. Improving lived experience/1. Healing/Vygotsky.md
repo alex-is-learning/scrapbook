@@ -1,6 +1,6 @@
 ---
 tags:
-  - healing
-  - personal-growth
+  - growth/healing
+  - growth
 ---
 - ![[1763477047824.webp]]

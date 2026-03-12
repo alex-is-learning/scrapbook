@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - From my Superprof ethics/philosophy tutor
 - See also [[ILC (Implicitly Leaving to Chance)]]

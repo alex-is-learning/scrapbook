@@ -1,7 +1,7 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 - Note that the below are Alex's memos
 

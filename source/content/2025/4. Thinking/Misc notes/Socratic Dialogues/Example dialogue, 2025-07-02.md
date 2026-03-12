@@ -2,7 +2,7 @@
 permalink: example-dialogue-2025-07-02
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 
 - I'm really enjoying doing these! 

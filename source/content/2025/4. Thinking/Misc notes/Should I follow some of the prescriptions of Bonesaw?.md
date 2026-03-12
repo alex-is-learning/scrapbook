@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - 2025-08-10
 - I read this really great Substack post yesterday:

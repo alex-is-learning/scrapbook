@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - He's the one who got [[Guy, Rivalvoices, nosilverv]] to stream entry which led to many great useful tweets by Guy
 - https://michaelstroe.com/

@@ -1,7 +1,7 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 # Client 1 coaching feedback
 - Note - this is from 10 mins of voice notes they sent today → we'll now be doing a weekly call

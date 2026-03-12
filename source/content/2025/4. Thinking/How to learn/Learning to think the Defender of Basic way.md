@@ -1,8 +1,8 @@
 ---
 tags:
   - thinking
-  - learning
-  - epistemology
+  - thinking/learning
+  - thinking/epistemology
 ---
 - https://www.alexislearning.me/learning-how-to-think/
 - 11th June 2025

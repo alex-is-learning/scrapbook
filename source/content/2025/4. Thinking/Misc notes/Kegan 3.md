@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 # Gemini summary
 

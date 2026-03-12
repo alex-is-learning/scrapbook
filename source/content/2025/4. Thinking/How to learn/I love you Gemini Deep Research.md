@@ -1,8 +1,8 @@
 ---
 tags:
   - thinking
-  - learning
-  - epistemology
+  - thinking/learning
+  - thinking/epistemology
 ---
 https://www.alexislearning.me/blog/2025-06-02-deep-research/
 

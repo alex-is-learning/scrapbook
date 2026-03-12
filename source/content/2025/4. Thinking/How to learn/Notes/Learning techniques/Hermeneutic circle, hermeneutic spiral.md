@@ -2,8 +2,8 @@
 permalink: hermeneutic-circle-hermeneutic-spiral
 tags:
   - thinking
-  - learning
-  - epistemology
+  - thinking/learning
+  - thinking/epistemology
 ---
 
 - From [[Are visual notes underrated and poorly understood?]]

@@ -1,7 +1,7 @@
 ---
 tags:
   - creative
-  - music
+  - creative/writing
 ---
 # Wed 2025-08-06
 - Super addicted to this, watched it a bunch of times today (I think the music video adds a lot to the song)

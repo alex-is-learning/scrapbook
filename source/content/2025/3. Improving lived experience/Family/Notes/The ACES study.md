@@ -1,6 +1,6 @@
 ---
 tags:
-  - personal-growth
+  - growth
   - personal-history
 ---
 - 2025-07-22

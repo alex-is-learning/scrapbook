@@ -2,10 +2,10 @@
 permalink: 
 created:
 tags:
-  - meditation
-  - contemplative-practice
-  - healing
-  - personal-growth
+  - growth/meditation
+  - growth/contemplative-practice
+  - growth/healing
+  - growth
 ---
 - From "[What I wish someone had told me about starting a meditation practice](https://sashachapin.substack.com/p/what-i-wish-someone-had-told-me-about)"
 

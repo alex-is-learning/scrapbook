@@ -2,7 +2,7 @@
 permalink: old-website-intro
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 
 - *(Deprecated on 2025-07-17)*:

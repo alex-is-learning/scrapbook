@@ -1,7 +1,7 @@
 ---
 tags:
   - personal-history
-  - writing
+  - creative/writing
   - creative
 ---
 actually i really like being alone lol

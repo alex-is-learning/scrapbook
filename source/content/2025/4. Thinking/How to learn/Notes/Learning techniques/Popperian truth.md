@@ -2,8 +2,8 @@
 permalink: popperian-truth
 tags:
   - thinking
-  - learning
-  - epistemology
+  - thinking/learning
+  - thinking/epistemology
 ---
 
 - I first learned about Karl Popper via Frans Osinga's book on John Boyd

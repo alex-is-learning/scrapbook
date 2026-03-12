@@ -1,9 +1,9 @@
 ---
 permalink: what-i-currently-know-about-bowen-family-systems-theory
 tags:
-  - personal-growth
+  - growth
   - personal-history
-  - healing
+  - growth/healing
 ---
 
 - 2025-07-18

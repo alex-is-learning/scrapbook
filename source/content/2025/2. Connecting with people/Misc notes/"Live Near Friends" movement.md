@@ -1,7 +1,7 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 - 5 minutes after writing [[Alex & Simmo group house in London, kick-off page]], I saw this tweet:
 	- https://x.com/chrisbarber/status/1955283736565780582

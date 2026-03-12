@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - [[Writing public-facing manifestos, slash showing your thought process, seems powerful]]
 - E.g. 

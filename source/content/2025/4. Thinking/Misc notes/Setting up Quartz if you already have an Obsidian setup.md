@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - When you follow the Quartz guide:
 	- [[Why an Obsidian-based website?]]

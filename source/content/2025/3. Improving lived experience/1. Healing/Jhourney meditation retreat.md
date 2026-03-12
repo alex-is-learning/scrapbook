@@ -1,9 +1,9 @@
 ---
 tags:
-  - healing
-  - personal-growth
-  - meditation
-  - contemplative-practice
+  - growth/healing
+  - growth
+  - growth/meditation
+  - growth/contemplative-practice
 ---
 - https://www.jhourney.io/
 - [[Jhanas]]

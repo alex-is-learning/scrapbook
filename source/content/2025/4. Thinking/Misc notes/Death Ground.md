@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - 2025-09-10 → I'm using this to refer to the fact that I don't want to make money via non-alive avenues anymore. I'd rather have rapidly depleting savings and be wholeheartedly focused on making things, with the incentive of "gotta make this shit good", vs spending 3+ hours of energy a day on a non-alive, non-aligned job
 

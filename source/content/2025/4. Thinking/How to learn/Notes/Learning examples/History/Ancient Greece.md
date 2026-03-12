@@ -2,8 +2,8 @@
 permalink: ancient-greece
 tags:
   - thinking
-  - learning
-  - epistemology
+  - thinking/learning
+  - thinking/epistemology
 ---
 
 - I'm halfway through "How to Think Like Socrates" and lovingggg it

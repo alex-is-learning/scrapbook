@@ -36,9 +36,9 @@ const ij = (total / INFINITE_JEST).toFixed(2)
 const ootp = (total / ORDER_OF_PHOENIX).toFixed(2)
 const formatted = total.toLocaleString("en-GB")
 
-const newLine = `Hi! I'm Alex. This is my digital scrapbook — ${formatted} words of notes, reflections, and explorations since June 2025 (AKA Infinite Jest × ${ij}, or Order of the Phoenix × ${ootp}).`
+const newLine = `Hi, I'm Alex! This is my digital scrapbook - currently at ${formatted} words (AKA Infinite Jest x ${ij} or Order of the Phoenix x ${ootp}).`
 
-const PATTERN = /Hi! I'm Alex\. This is my digital scrapbook[^\n]*/
+const PATTERN = /Hi, I'm Alex! This is my digital scrapbook[^\n]*/
 
 const index = fs.readFileSync(INDEX_FILE, "utf-8")
 

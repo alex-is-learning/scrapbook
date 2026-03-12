@@ -2,7 +2,7 @@
 permalink: global-health-flashcards-from-day-4
 tags:
   - thinking
-  - personal-growth
+  - growth
 ---
 
 - See also - [[Twitch stream 2025-06-27 - reviewing WHO and COVID response flashcards]]

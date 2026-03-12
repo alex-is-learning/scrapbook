@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 # Feelings we disown
 - The ultimate banger 👇

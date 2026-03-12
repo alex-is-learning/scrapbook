@@ -1,7 +1,7 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 - Circling/authentic relating language
 

@@ -1,7 +1,7 @@
 ---
 tags:
-  - healing
-  - personal-growth
+  - growth/healing
+  - growth
 ---
 - [[Ideal Parent Figure Protocol is clearly the thing actually]]
 - [[Ideal parent figure protocol session 2]]

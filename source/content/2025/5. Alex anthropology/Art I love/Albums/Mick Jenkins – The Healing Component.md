@@ -2,8 +2,8 @@
 tags:
   - creative
   - personal-history
-  - healing
-  - personal-growth
+  - growth/healing
+  - growth
 ---
 - 2016, the frickin year for music (according to James Acaster, and tbf yes, he's right)
 # I hate these skits holy shit

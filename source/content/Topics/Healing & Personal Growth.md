@@ -1,43 +1,50 @@
 ---
 title: Healing & Personal Growth
 tags:
-  - healing
-  - personal-growth
+  - growth/healing
+  - growth
 ---
+
 Notes on trauma healing, family systems, therapeutic modalities, and personal development. Lots of overlap with meditation and ORI.
 
-## The healing space — an orientation
+## 2026-02
 
-- [[So you want to learn about the post-rationalist "healing" space? (2025-11-10)]]
-- [[Phase 1 of "healing" is complete]]
-- [[Doing stuff in order to Figure It Out and Arrive and Be OK]]
-- [[Deep Okayness]]
+- [[Poor education, and my decade of tanha, 2026-02-19]]
 - [[Getting back to Deep Okayness (vs Out-There-ism) (2026-02-14)]]
 
-## Therapeutic modalities I've explored
+## 2026-01
 
-- [[Internal Family Systems therapy]]
-- [[Ideal Parent Figure Protocol]]
-- [[Ideal Parent Figure Protocol is clearly the thing actually]]
-- [[Memory Reconsolidation]]
-- [[Unlocking the Emotional Brain]]
-- [[TRE (Trauma Release Exercises)]]
-- [[Gendlin's Focusing]]
-- [[Lefkoe Belief Updating]]
+- [[Doing stuff in order to Figure It Out and Arrive and Be OK]]
 
-## Family & origins
+## 2025-12
 
-- [[Learning about adoption in the UK]]
-- [[Going to family therapy with my mum!]]
 - [[Who am I to criticise my parents?]]
-- [[What I currently know about Bowen family systems theory]]
-- [[Poor education, and my decade of tanha, 2026-02-19]]
 
-## Development & growth
+## 2025-11
 
 - [[Kegan journey (3 to 4.5) 2025-11-16]]
+- [[TRE (Trauma Release Exercises)]]
+- [[Deep Okayness]]
+- [[Lefkoe Belief Updating]]
+- [[Unlocking the Emotional Brain]]
+- [[Memory Reconsolidation]]
+- [[Internal Family Systems therapy]]
+- [[So you want to learn about the post-rationalist "healing" space? (2025-11-10)]]
+- [[Gendlin's Focusing]]
+
+## 2025-10
+
+- [[Ideal Parent Figure Protocol]]
+- [[Ideal Parent Figure Protocol is clearly the thing actually]]
+
+## 2025-09
+
+- [[Phase 1 of "healing" is complete]]
 - [[The fetters model]]
 - [[Weakening fetters 4 and 5]]
+- [[What I currently know about Bowen family systems theory]]
+- [[Learning about adoption in the UK]]
+- [[Going to family therapy with my mum!]]
 
 ## Related
 

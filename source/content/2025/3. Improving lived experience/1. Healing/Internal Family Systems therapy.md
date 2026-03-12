@@ -1,7 +1,7 @@
 ---
 tags:
-  - healing
-  - personal-growth
+  - growth/healing
+  - growth
 ---
 - I recommend Theo! 
 	- https://untanglingself.com/

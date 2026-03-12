@@ -2,10 +2,10 @@
 permalink: theory-of-change-for-how-writing-your-own-socratic-dialogues-works
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
   - ori
-  - post-rationalism
-  - writing
+  - growth/post-rationalism
+  - creative/writing
   - creative
 ---
 

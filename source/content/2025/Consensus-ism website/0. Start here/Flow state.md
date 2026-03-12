@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - **Doing the things which satisfy all the current internal cues results in feeling really satisfied, clear-headed; as happy as we can feel**
 	- [[One unitary preference (no parts)]]

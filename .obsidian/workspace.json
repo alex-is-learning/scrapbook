@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/2026/What do you learn at private school that you don't learn at a public school?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "What do you learn at private school that you don't learn at a public school?"
+            }
+          },
+          {
+            "id": "aad51309663c45fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/Topics/Meditation & Contemplative Practice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meditation & Contemplative Practice"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +102,7 @@
       {
         "id": "ff06d4799611b364",
         "type": "tabs",
-        "dimension": 29.399141630901287,
+        "dimension": 75.42997542997543,
         "children": [
           {
             "id": "f652713c1c3012d0",
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Topics/Meditation & Contemplative Practice.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Meditation & Contemplative Practice"
             }
           },
           {
@@ -137,12 +152,13 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "4165194f5f4e75d9",
         "type": "tabs",
-        "dimension": 70.60085836909872,
+        "dimension": 24.57002457002457,
         "children": [
           {
             "id": "ff960971c9fd279f",
@@ -150,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/Topics/Meditation & Contemplative Practice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Meditation & Contemplative Practice"
             }
           }
         ]
@@ -178,10 +194,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "099647bc7db764a1",
+  "active": "98f1756b6bcfc34f",
   "lastOpenFiles": [
-    "source/scripts/update-wordcount.mjs",
+    "source/content/YAML tags.md",
+    "source/content/Topics/Meditation & Contemplative Practice.md",
+    "source/content/index.md",
+    "source/content/2025/1. Creating things/1. Writings/01. To be a boomer.md",
+    "source/scripts/merge-tags.mjs",
     "source/content/2026/What do you learn at private school that you don't learn at a public school?.md",
+    "source/content/2026/Log per day - 2026.md",
+    "source/content/Topics/Healing & Personal Growth.md",
+    "source/content/2026/Poor education, and my decade of tanha, 2026-02-19.md",
+    "source/content/Topics/Thinking & Epistemology.md",
+    "source/scripts/sort-topic-pages.mjs",
+    "source/content/2025/4. Thinking/\"How can I improve my ability to think?\" (Parent Page).md",
+    "source/content/2025/4. Thinking/Misc notes/How to make a website like this.md",
+    "source/content/2025/4. Thinking/Misc notes/The key themes of this site in 2025.md",
+    "source/scripts/update-wordcount.mjs",
     "source/public/404.html",
     "source/public/static/og-image.jpg",
     "source/public/static/icon.png",
@@ -199,9 +228,6 @@
     "source/public/📎-Files/Files-2---Audio/Voice-notes/signal-2025-09-10-200428.mp3",
     "source/public/📎-Files/Files-2---Audio/Voice-notes/signal-2025-08-26-230430.mp3",
     "source/public/📎-Files/Files-2---Audio/Voice-notes/signal-2025-08-08-223440.mp3",
-    "source/public/📎-Files/Files-2---Audio/Voice-notes/signal-2025-07-31-133412.mp3",
-    "source/public/📎-Files/Files-2---Audio/Voice-notes/sabbath.mp3",
-    "source/public/📎-Files/Files-2---Audio/Voice-notes/return-to-10-poms.mp3",
     "source/node_modules/tsx/node_modules/@esbuild/darwin-arm64/README.md",
     "source/node_modules/@citation-js/core/README.md",
     "source/node_modules/@citation-js/core/LICENSE.md",
@@ -215,16 +241,6 @@
     "source/node_modules/fetch-ponyfill/node_modules/node-fetch/README.md",
     "source/node_modules/fetch-ponyfill/node_modules/node-fetch/LICENSE.md",
     "source/node_modules/fetch-ponyfill/node_modules/webidl-conversions/README.md",
-    "source/node_modules/fetch-ponyfill/node_modules/webidl-conversions/LICENSE.md",
-    "source/node_modules/gray-matter/node_modules/argparse/README.md",
-    "source/node_modules/cliui/node_modules/wrap-ansi/readme.md",
-    "source/node_modules/gray-matter/node_modules/argparse/CHANGELOG.md",
-    "source/node_modules/hast-util-from-html/node_modules/@types/unist/README.md",
-    "source/node_modules/fetch-ponyfill/node_modules/whatwg-url/README.md",
-    "source/node_modules/hast-util-to-jsx-runtime/node_modules/@types/unist/README.md",
-    "source/node_modules/hast-util-from-parse5/node_modules/@types/unist/README.md",
-    "source/node_modules/hast-util-from-html/node_modules/vfile-message/readme.md",
-    "source/node_modules/hast-util-to-html/node_modules/@types/unist/README.md",
-    "source/node_modules/hast-util-raw/node_modules/@types/unist/README.md"
+    "source/node_modules/fetch-ponyfill/node_modules/webidl-conversions/LICENSE.md"
   ]
 }

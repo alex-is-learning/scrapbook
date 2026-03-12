@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
  - See also [[Setting up Quartz if you already have an Obsidian setup]]
 # 1. Folder structure

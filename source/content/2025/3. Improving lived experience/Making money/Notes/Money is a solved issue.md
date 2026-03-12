@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - personal-growth
+  - growth
 ---
 https://x.com/alexislearning/status/1967910257579135483
 

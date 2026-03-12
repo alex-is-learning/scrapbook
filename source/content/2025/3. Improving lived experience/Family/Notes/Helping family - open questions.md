@@ -1,7 +1,7 @@
 ---
 permalink: helping-family---open-questions
 tags:
-  - personal-growth
+  - growth
   - personal-history
 ---
 

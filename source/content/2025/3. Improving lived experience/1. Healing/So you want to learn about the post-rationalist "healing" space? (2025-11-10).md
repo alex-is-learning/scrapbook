@@ -1,9 +1,9 @@
 ---
 tags:
-  - healing
-  - personal-growth
+  - growth/healing
+  - growth
   - ori
-  - post-rationalism
+  - growth/post-rationalism
 ---
 - 2025-11-10
 - *Note that I did this in around 90 mins of work, and I have way more in my head, and way more useful links/people I could connect you with, if you have an interest in any of this (E.g. "do you know a therapist/coach who could do x modality with me?". Email me at alexiscreatingthings@gmail.com if you don't have my contact details!*

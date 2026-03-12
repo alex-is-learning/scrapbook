@@ -1,8 +1,8 @@
 ---
 tags:
   - thinking
-  - epistemology
-  - writing
+  - thinking/epistemology
+  - creative/writing
   - creative
 ---
 - 2025-08-07

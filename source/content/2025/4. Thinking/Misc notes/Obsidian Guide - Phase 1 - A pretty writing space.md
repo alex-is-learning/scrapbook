@@ -1,8 +1,8 @@
 ---
 tags:
   - thinking
-  - epistemology
-  - writing
+  - thinking/epistemology
+  - creative/writing
   - creative
 ---
 ## 01. Installing Obsidian

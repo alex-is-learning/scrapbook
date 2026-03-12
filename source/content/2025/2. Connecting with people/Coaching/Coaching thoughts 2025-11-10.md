@@ -1,7 +1,7 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 - I think it makes sense for me to experiment with coaching again
 - I did some coaching when I worked at Refract → something like 6 sessions with 3 people, not a crazy amount, but absolutely a proof of concept

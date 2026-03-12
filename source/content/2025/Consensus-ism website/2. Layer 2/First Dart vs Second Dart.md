@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - Corresponds exactly to "[[Layer 1 (perceptions, ultimate reality)]]" vs "[[Layer 2 (imaginations)]]"
 

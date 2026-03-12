@@ -2,8 +2,8 @@
 permalink: aoc-tweet-re-andrew-cuomo
 tags:
   - thinking
-  - learning
-  - epistemology
+  - thinking/learning
+  - thinking/epistemology
 ---
 
 - 2025-06-14

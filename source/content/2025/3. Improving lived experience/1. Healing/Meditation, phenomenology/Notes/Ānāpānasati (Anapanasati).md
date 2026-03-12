@@ -1,10 +1,10 @@
 ---
 permalink: npnasati
 tags:
-  - meditation
-  - contemplative-practice
-  - healing
-  - personal-growth
+  - growth/meditation
+  - growth/contemplative-practice
+  - growth/healing
+  - growth
 ---
 
 - 2025-07-20

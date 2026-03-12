@@ -1,7 +1,7 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 - [[Ship It Week log]]
 - Previous - [[What is Ship It Week? (2025-08-20)]]

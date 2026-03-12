@@ -1,7 +1,7 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 - [[Alex and Simmo group house, parent page]]
 - 2025-08-13

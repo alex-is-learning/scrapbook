@@ -2,7 +2,7 @@
 permalink: how-much-better-at-thinking-2025-07-27
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - 2025-07-27
 - Placeholder page → I've been wondering like... "is my ability to think really my bottleneck?" - it almost certainly isn't... or maybe it is... thinking, thinking...

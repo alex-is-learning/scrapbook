@@ -2,10 +2,10 @@
 permalink: sit-003-report
 created: 2025-07-29
 tags:
-  - meditation
-  - contemplative-practice
-  - healing
-  - personal-growth
+  - growth/meditation
+  - growth/contemplative-practice
+  - growth/healing
+  - growth
 ---
 - [[Increasing the skillfulness of my mind, log (2025)]]
 - **Date & Time:** 2025-07-29 11:30

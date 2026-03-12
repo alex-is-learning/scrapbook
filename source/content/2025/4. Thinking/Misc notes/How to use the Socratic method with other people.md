@@ -2,9 +2,9 @@
 permalink: how-to-use-the-socratic-method-with-other-people
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
   - ori
-  - post-rationalism
+  - growth/post-rationalism
 ---
 
 This is not my priority at all, but I still think it's important to note

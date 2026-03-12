@@ -1,7 +1,7 @@
 ---
 tags:
   - personal-history
-  - writing
+  - creative/writing
   - creative
 ---
 - 2025-10-25

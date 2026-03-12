@@ -2,7 +2,7 @@
 permalink: pandemic-action-network
 tags:
   - thinking
-  - personal-growth
+  - growth
 ---
 
 - 2025-06-29 

@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 # 1. Creating new notes
 ## 1a. Press control + N to make a new page  

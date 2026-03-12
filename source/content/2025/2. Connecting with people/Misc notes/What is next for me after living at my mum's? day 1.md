@@ -1,8 +1,8 @@
 ---
 permalink:
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 - 2025-07-26
 # 1. Intro

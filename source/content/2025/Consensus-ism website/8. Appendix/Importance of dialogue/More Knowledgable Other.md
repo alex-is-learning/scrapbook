@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 
 - From https://monistowl.substack.com/p/beyond-the-ladder:

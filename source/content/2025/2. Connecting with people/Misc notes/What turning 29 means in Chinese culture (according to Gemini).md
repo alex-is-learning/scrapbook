@@ -1,7 +1,7 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 The family therapist I've seen twice in the last ~1 month said something like "ooh, you're 28, about to turn 29, that's exciting because the Chinese would say...", something about your cells regenerating every 8 years?
 # Gemini re: "meeting the nine" & 30 as true adulthood

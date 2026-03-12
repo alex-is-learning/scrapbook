@@ -1,10 +1,10 @@
 ---
 tags:
-  - meditation
-  - contemplative-practice
-  - healing
-  - personal-growth
-  - consensus-ism
+  - growth/meditation
+  - growth/contemplative-practice
+  - growth/healing
+  - growth
+  - growth/consensus-ism
 ---
 
 - ![[Going with the flow, consensus-ism, jesus take the wheel-1757351975660.webp]]

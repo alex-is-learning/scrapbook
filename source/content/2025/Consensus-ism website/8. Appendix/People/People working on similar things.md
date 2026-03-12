@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - [[Michael Stroe]] 
 - Guy/Rivalvoices/@nosilverv

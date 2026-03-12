@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - https://x.com/nosilverv
 - Many great tweets on this topic, e.g.:

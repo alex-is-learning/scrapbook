@@ -2,8 +2,8 @@
 permalink: fluency
 tags:
   - thinking
-  - learning
-  - epistemology
+  - thinking/learning
+  - thinking/epistemology
 ---
 
 ![[Pasted image 20250627171937.webp]]

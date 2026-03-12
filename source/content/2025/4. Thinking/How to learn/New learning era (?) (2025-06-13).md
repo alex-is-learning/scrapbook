@@ -1,8 +1,8 @@
 ---
 tags:
   - thinking
-  - learning
-  - epistemology
+  - thinking/learning
+  - thinking/epistemology
   - personal-history
 ---
 - https://www.alexislearning.me/blog/2025-06-13-new-learning-era/

@@ -3,7 +3,7 @@ permalink:
 created: 2025-08-06
 tags:
   - thinking
-  - personal-growth
+  - growth
 ---
 - [[FRI (Parent Page)]]
 # Visual notes

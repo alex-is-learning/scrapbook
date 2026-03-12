@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - 2025-11-04
 - For kind of like "field reports", it's probably worth reading:

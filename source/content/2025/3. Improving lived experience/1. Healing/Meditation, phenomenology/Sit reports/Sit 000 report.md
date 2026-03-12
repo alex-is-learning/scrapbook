@@ -1,10 +1,10 @@
 ---
 permalink: sit-000-report
 tags:
-  - meditation
-  - contemplative-practice
-  - healing
-  - personal-growth
+  - growth/meditation
+  - growth/contemplative-practice
+  - growth/healing
+  - growth
 ---
 
 - [[Meditation log]]

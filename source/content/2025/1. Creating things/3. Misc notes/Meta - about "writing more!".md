@@ -1,7 +1,7 @@
 ---
 tags:
   - creative
-  - writing
+  - creative/writing
 ---
 - Friday 2025-08-22
 

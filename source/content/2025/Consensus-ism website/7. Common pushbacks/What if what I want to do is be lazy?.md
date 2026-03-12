@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - Ok to do until you feel sated, like you're ready to move onto something else. Constant course corrections make this not a big deal.
 

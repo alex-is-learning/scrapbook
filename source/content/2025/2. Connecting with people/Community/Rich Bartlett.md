@@ -1,7 +1,7 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 - https://x.com/RichDecibels
 - https://richdecibels.com/

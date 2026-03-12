@@ -1,8 +1,8 @@
 ---
 tags:
   - thinking
-  - epistemology
-  - writing
+  - thinking/epistemology
+  - creative/writing
   - creative
 ---
 - [[How to make a website like this]]

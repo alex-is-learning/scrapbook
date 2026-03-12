@@ -1,7 +1,7 @@
 ---
 permalink: my-dads-birthday-today
 tags:
-  - personal-growth
+  - growth
   - personal-history
 ---
 

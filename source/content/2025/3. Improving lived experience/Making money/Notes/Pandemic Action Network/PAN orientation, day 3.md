@@ -2,7 +2,7 @@
 permalink: pan-orientation-day-3
 tags:
   - thinking
-  - personal-growth
+  - growth
 ---
 
 # Day 3 → answering open questions

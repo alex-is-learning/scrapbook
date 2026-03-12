@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - https://sashachapin.substack.com/p/disagreeableness-is-a-part-of-sincerity
 - Copy-pasting, it's a short one

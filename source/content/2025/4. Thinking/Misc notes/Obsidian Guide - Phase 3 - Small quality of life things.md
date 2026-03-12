@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 ## 1. Essential keyboard shortcuts/features
 - Command/control + N = new note

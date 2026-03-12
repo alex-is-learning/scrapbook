@@ -3,7 +3,7 @@ permalink:
 created:
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - [[Circumstantial luck]]
 - [[Constitutive luck]]

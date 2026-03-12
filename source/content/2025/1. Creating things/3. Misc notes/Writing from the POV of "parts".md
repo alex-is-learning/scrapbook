@@ -3,7 +3,7 @@ permalink:
 created:
 tags:
   - creative
-  - writing
+  - creative/writing
 ---
 - (When I say "parts", I'm vaguely thinking of internal family systems. The idea that there are parts of us that we can "blend" with, fully merge with, and forget that they're just one facet of experience)
 - This is something that I didn't "get" when I was doing my "making songs and videos and posting on youtube era":

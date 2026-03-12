@@ -1,7 +1,7 @@
 ---
 tags:
-  - healing
-  - personal-growth
+  - growth/healing
+  - growth
 ---
 - Very simple and a prerequisite to a bunch of other things. Basically the ability to notice feelings in your body, give them labels that fit, and notice a shift/update/insight. Gendlin describes Focusing as the thing that differentiates people who have success in talk therapy vs those that don't (as some will notice when something feels off in their body, investigate and update, and others just remain in narrative land for the entire session and never update)
 # From the intro section of the book by Gendlin

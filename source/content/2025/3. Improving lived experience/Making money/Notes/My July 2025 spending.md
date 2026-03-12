@@ -3,7 +3,7 @@ permalink: july-2025-spending
 created: 2025-08-03
 tags:
   - thinking
-  - personal-growth
+  - growth
 ---
 - 2025-08-03
 - Your total spending for July 2025 was **£669.39**.

@@ -1,8 +1,8 @@
 ---
 tags:
   - thinking
-  - learning
-  - epistemology
+  - thinking/learning
+  - thinking/epistemology
 ---
 - *Quick and profoundly incomplete writeup:*
 ## "Oh, I suck at learning"

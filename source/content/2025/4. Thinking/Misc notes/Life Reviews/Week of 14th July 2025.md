@@ -2,7 +2,7 @@
 permalink: week-of-14th-july-2025
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 
 - [[Life Reviews]]

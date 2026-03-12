@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - https://www.simplytheseen.com/
 - https://www.simplytheseen.com/what-is-awakening.html

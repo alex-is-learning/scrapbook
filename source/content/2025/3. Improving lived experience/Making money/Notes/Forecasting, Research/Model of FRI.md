@@ -2,7 +2,7 @@
 permalink: model-of-fri
 tags:
   - thinking
-  - personal-growth
+  - growth
 ---
 
 - 21st June 2025

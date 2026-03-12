@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - It's common to be somewhat [[Alexithymia|alexithymic]]
 - Learning [[Gendlin's Focusing]] is a useful prerequisite

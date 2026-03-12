@@ -2,8 +2,8 @@
 permalink: collection-of-voice-notes
 tags:
   - thinking
-  - learning
-  - epistemology
+  - thinking/learning
+  - thinking/epistemology
 ---
 
 > *I send multiple voice notes per day to my friends and sometimes there's kinda interesting stuff in there (if I do say so myself) so thought I'd try putting some of them here for posterity!*

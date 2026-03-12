@@ -2,7 +2,7 @@
 permalink: setting-a-contractor-fee-for-outcapped
 tags:
   - thinking
-  - personal-growth
+  - growth
 ---
 
 - Am I trying to have the best of both worlds?

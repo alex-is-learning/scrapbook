@@ -2,8 +2,8 @@
 permalink: my-make-flashcards-for-me-prompt-for-ai
 tags:
   - thinking
-  - learning
-  - epistemology
+  - thinking/learning
+  - thinking/epistemology
 ---
 
 - I use the open-source text expander app "[Espanso](https://espanso.org/)"

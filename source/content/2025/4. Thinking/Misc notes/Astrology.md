@@ -1,5 +1,5 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---

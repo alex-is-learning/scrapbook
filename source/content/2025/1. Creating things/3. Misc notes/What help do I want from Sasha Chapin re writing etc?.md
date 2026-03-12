@@ -1,7 +1,7 @@
 ---
 tags:
   - creative
-  - writing
+  - creative/writing
 ---
 - [[Creating things (parent page)]]
 - Wed 2025-09-10

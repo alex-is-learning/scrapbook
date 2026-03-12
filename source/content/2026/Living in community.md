@@ -1,5 +1,5 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---

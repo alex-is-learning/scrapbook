@@ -1,7 +1,7 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 - https://www.microsolidarity.cc/
 - [[Rich Bartlett]]

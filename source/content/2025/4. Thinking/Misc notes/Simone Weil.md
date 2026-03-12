@@ -1,6 +1,6 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - [[Simone Weil, David Foster Wallace, the Buddha]]

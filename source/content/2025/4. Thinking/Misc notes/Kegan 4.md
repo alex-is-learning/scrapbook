@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - [[The Kegan 3 to Kegan 4 transition]]
 # Gemini summary

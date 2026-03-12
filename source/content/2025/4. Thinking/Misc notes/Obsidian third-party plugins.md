@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 I don't think any third party plugins are essential
 - There are many third-party plugins available via the settings menu

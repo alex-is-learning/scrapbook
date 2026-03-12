@@ -2,7 +2,7 @@
 permalink: gemini-socrates---outcapped
 tags:
   - thinking
-  - personal-growth
+  - growth
 ---
 
 - 2025-07-16

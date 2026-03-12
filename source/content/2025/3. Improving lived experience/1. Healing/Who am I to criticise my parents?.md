@@ -1,7 +1,7 @@
 ---
 tags:
-  - healing
-  - personal-growth
+  - growth/healing
+  - growth
 ---
 - 2025-12-21
 - A sad thing about getting older is the way my family is deteriorated, and I have played a part in this

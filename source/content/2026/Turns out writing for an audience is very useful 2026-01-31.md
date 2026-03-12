@@ -1,6 +1,6 @@
 ---
 tags:
-  - writing
+  - creative/writing
   - creative
 date: 2026-01-31
 ---

@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - Say you set up an Obsidian vault to have a few hotkeys for ease of use, maybe a third-party plugin or two, maybe a nice theme
 - When you make a new vault (e.g., if you start a new job and want a fresh space that only contains work stuff, with a different theme so there's a different vibe), the new vault will have only the "default" settings

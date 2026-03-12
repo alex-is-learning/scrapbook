@@ -1,7 +1,7 @@
 ---
 permalink: nvc-flashcards
 tags:
-  - personal-growth
+  - growth
   - personal-history
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 > “Moreover, the listening society is necessary as a competitive edge in the global economy. The regions that will be able to create the most fertile soil for the blooming of human relations and wellbeing, are also likely to have much higher productivity in the postindustrial economy. It is well established that things such as flow state and intrinsic motivation are conductive to creativity and performance of complex tasks. Confident, happy people, who can manage more abstract and long-term goals, and who are more self-secure and thus better at taking in negative feedback (and adjusting to new information), will simply outcompete other people in the scramble for capital and central positions in the new world economy.”
 

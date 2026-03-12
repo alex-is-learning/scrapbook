@@ -2,7 +2,7 @@
 permalink: red-teaming-working-for-outcapped
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 
 - Part time role, ~8 poms a day, new company started by the head of internal ops from Alvea, who managed me for ~5 months

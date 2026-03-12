@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - Book
 - https://en.wikipedia.org/wiki/Descartes%27_Error

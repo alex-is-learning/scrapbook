@@ -1,8 +1,8 @@
 ---
 permalink: should-i-value-in-person-connection-highly
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 - 2025-07-27
 - It's a Sunday, I'm emerging from a low energy few days, I'm timeboxing this to a single pomodoro for now 🍅

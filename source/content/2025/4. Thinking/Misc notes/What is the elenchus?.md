@@ -2,7 +2,7 @@
 permalink: what-is-the-elenchus
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 
 - Parent page - [[The elenchus]]

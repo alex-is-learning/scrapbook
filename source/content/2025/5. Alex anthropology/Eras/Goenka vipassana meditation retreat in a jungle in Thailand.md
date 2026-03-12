@@ -1,8 +1,8 @@
 ---
 tags:
   - personal-history
-  - meditation
-  - contemplative-practice
+  - growth/meditation
+  - growth/contemplative-practice
 ---
 - [[Era 15 - Asia]]
 

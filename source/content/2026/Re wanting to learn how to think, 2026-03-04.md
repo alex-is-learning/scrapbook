@@ -1,7 +1,7 @@
 ---
 tags:
   - ori
-  - post-rationalism
+  - growth/post-rationalism
 date: 2026-03-04
 ---
 - [[Log per day - 2026]]

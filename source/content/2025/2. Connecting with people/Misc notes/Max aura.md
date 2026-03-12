@@ -2,7 +2,7 @@
 permalink: 
 created:
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 ![[max-aura.webp]]

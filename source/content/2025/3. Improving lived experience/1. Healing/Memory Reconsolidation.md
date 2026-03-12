@@ -1,7 +1,7 @@
 ---
 tags:
-  - healing
-  - personal-growth
+  - growth/healing
+  - growth
 ---
 - MR was coined (I think?) by Dr Bruce Ecker, who came up with Coherence Therapy
 	- There's a really good lecture by him on youtube about it

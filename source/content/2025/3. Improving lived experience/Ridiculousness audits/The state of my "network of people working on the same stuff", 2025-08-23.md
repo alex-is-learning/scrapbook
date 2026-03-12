@@ -1,4 +1,4 @@
 ---
 tags:
-  - personal-growth
+  - growth
 ---

@@ -2,9 +2,9 @@
 permalink: the-terrible-pedagogy-of-michael-kerrs-version-of-bowen-family-systems-theory
 tags:
   - thinking
-  - epistemology
-  - healing
-  - personal-growth
+  - thinking/epistemology
+  - growth/healing
+  - growth
 ---
 
 - 2025-07-17

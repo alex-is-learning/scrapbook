@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - Wed 2025-08-20
 - I'm feeling fairly overwhelmed right now!

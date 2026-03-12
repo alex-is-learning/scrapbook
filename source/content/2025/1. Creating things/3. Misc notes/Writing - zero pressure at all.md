@@ -1,7 +1,7 @@
 ---
 tags:
   - creative
-  - writing
+  - creative/writing
 ---
 - [[Writing more! (Parent page)]]
 

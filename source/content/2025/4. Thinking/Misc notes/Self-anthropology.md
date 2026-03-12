@@ -2,7 +2,7 @@
 permalink: self-anthropology
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 
 - 2025-07-21

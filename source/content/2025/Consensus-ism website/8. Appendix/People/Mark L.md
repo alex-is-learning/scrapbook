@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - AKA [@meditationstuff](https://x.com/meditationstuff), writer of [meditationbook.page](https://meditationbook.page/)
 	- I've not been able to read this (it's so long and meta) but I like [Sasha's review of it](https://sashachapin.substack.com/p/review-meditation-from-cold-start)

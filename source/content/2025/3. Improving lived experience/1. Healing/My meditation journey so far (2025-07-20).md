@@ -1,9 +1,9 @@
 ---
 tags:
-  - healing
-  - personal-growth
-  - meditation
-  - contemplative-practice
+  - growth/healing
+  - growth
+  - growth/meditation
+  - growth/contemplative-practice
 ---
 ## 1ST EXPOSURE - Headspace - 2013
 - I remember being maybe 17 and first hearing about Headspace - this was my first 

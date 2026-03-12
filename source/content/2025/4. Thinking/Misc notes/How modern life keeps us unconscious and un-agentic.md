@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - This David Foster Wallace clip speaks to this well 
 	- https://www.youtube.com/watch?v=P1PC1sArw70

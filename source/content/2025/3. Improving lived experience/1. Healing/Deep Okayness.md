@@ -1,7 +1,7 @@
 ---
 tags:
-  - healing
-  - personal-growth
+  - growth/healing
+  - growth
 ---
 - The term was coined, I believe, by [[Sasha Chapin]]
 - Sasha posts

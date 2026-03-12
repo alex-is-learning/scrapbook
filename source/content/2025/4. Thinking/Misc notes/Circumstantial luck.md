@@ -3,7 +3,7 @@ permalink: circumstantial-luck
 created: 2025-08-04
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - One of [[Thomas Nagel's 4 types of moral luck]]
 # Circumstantial

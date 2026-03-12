@@ -1,8 +1,8 @@
 ---
 tags:
   - personal-history
-  - community
-  - relationships
+  - social
+  - social
 ---
 > *Parent page - [[My Eras (index)]]*
 

@@ -2,7 +2,7 @@
 permalink: why-am-i-publishing-stuff-semi-privately
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 
 - 2025-07-21

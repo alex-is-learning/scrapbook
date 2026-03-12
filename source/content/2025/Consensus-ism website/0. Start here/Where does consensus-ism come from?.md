@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - It's essentially streamlined Buddhism 
 - It's very inspired by the Four Path Model of Enlightenment, which I first came across in [[Mastering the Core Teachings of the Buddha]]

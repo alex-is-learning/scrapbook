@@ -2,7 +2,7 @@
 permalink: anticipatio-mentis
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 
 - Francis Bacon

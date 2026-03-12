@@ -1,7 +1,7 @@
 ---
 tags:
   - creative
-  - music
+  - creative/writing
   - personal-history
 ---
 - [[Creating things (parent page)]]

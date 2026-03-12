@@ -2,9 +2,9 @@
 permalink: going-to-family-therapy-2025-07-29
 created: 2025-07-29
 tags:
-  - personal-growth
+  - growth
   - personal-history
-  - healing
+  - growth/healing
 ---
 - 2025-07-29
 - In a total shocking turn of events, I'm going to family therapy with my mum this week! 

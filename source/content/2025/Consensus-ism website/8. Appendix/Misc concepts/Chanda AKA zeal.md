@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 ## Tyler Alterman tweet
 - https://x.com/TylerAlterman/status/1977008477701566510

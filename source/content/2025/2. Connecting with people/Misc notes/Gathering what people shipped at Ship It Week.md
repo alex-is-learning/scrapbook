@@ -1,7 +1,7 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 - [[Ship It Week log]]
 # [Agi](https://x.com/AgotaDubi)

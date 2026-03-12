@@ -2,8 +2,8 @@
 permalink: israel
 tags:
   - thinking
-  - learning
-  - epistemology
+  - thinking/learning
+  - thinking/epistemology
 ---
 
 # Session 1

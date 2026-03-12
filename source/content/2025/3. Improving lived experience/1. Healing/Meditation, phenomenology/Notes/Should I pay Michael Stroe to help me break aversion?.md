@@ -1,9 +1,9 @@
 ---
 tags:
-  - meditation
-  - contemplative-practice
-  - healing
-  - personal-growth
+  - growth/meditation
+  - growth/contemplative-practice
+  - growth/healing
+  - growth
 ---
 - 2025-08-10
 - https://michaelstroe.com/

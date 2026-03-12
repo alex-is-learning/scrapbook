@@ -1,7 +1,7 @@
 ---
 permalink: learning-about-ozempic
 tags:
-  - personal-growth
+  - growth
   - personal-history
 ---
 

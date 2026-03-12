@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - Feelings are indicator lights of "X is going well/badly"
 - Whenever we're feeling things, they're raw indicators of how things are going

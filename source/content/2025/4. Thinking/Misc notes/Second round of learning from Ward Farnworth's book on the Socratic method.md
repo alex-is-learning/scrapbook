@@ -2,9 +2,9 @@
 permalink: second-round-of-learning-from-ward-farnworths-book-on-the-socratic-method
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
   - ori
-  - post-rationalism
+  - growth/post-rationalism
 ---
 
 - 2025-07-09

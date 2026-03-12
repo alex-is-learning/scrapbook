@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - personal-growth
+  - growth
 ---
 ## Week of 18th August
 - Mon 2025-08-18

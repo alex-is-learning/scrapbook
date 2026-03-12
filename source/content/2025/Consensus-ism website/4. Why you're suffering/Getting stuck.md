@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - The reason people don’t make massive progress on every dimension of life is that **they get stuck** by hang-ups/traumas/memes/blind-spots/coping strategies that narrow behaviour (including thought) **to avoid pain or fear.**
 - These hang-ups/copes typically target creative thought, since that can take you—unpredictably—into the situations you fear. **Predictable pain can be managed.** Unpredictable pain requires new coping strategies to deal with. If you don’t create them, the suffering may be endless.

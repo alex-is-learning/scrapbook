@@ -1,7 +1,7 @@
 ---
 tags:
-  - meditation
-  - contemplative-practice
+  - growth/meditation
+  - growth/contemplative-practice
 ---
 - *Putting MCTB and Right Concentration into NotebookLM*
 # What Daniel Ingram says in [[MCTB]]

@@ -1,12 +1,12 @@
 ---
 permalink: tpot-post-rationalism
 tags:
-  - meditation
-  - contemplative-practice
-  - healing
-  - personal-growth
+  - growth/meditation
+  - growth/contemplative-practice
+  - growth/healing
+  - growth
   - ori
-  - post-rationalism
+  - growth/post-rationalism
 ---
 
 - Guides

@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - By William "Bill" Hamilton
 - Bill was Daniel Ingram's teacher (?) → [[Mastering the Core Teachings of the Buddha]] is dedicated to him

@@ -2,7 +2,7 @@
 permalink: working-with-rob-at-outcapped-parent-page
 tags:
   - thinking
-  - personal-growth
+  - growth
 ---
 
 1. [[Gemini Socrates - Outcapped]]

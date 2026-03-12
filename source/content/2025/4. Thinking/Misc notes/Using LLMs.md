@@ -3,7 +3,7 @@ permalink:
 created:
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - Maggie Appleton's "[A Treatise on AI Chatbots Undermining the Enlightenment](https://maggieappleton.com/ai-enlightenment)", re: LLM sycophancy & critical thinking
 	- Got this prompt from her article, added it to my text expander ([[Espanso]]) via the shortcut `:crit` and `:prof`

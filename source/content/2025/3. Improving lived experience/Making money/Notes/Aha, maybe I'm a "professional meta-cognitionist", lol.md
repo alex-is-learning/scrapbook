@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - personal-growth
+  - growth
 ---
 - 2025-08-13
 - This (tongue-in-cheek) title just came to me as I was wondering how I could explain what they hell it is I do to a family member, but also to myself

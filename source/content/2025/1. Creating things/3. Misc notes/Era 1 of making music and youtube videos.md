@@ -1,7 +1,7 @@
 ---
 tags:
   - creative
-  - music
+  - creative/writing
   - personal-history
 ---
 - From October 2024 to January 2025 I made something like 40 Youtube videos

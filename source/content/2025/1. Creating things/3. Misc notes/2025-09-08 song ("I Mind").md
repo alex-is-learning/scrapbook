@@ -1,7 +1,7 @@
 ---
 tags:
   - creative
-  - music
+  - creative/writing
 ---
 - [[Music making log (era 2)]]
 - Really struggling to sing well lol RIP 

@@ -2,7 +2,7 @@
 tags:
   - creative
   - personal-history
-  - music
+  - creative/writing
 ---
 - 2025-11-11
 - Ok so making [[Albums I loved per era]] has really highlighted how I listen to so much less new music than I used to 

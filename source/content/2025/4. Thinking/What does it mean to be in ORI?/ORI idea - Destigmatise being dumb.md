@@ -1,9 +1,9 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
   - ori
-  - post-rationalism
+  - growth/post-rationalism
 ---
 - https://defenderofthebasic.substack.com/p/destigmatize-being-dumb
 - ![[ORI idea - Destigmatise being dumb.webp]]

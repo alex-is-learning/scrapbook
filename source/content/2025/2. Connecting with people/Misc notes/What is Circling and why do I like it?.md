@@ -1,7 +1,7 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 - 2025-10-23
 - See also [[Authentic Relating organisations]]

@@ -1,7 +1,7 @@
 ---
 tags:
-  - meditation
-  - contemplative-practice
+  - growth/meditation
+  - growth/contemplative-practice
 ---
 - See also [[Jhana 2]]
 # What Jhourney say about Jhana 1

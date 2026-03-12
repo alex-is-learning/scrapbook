@@ -1,9 +1,9 @@
 ---
 tags:
-  - meditation
-  - contemplative-practice
-  - healing
-  - personal-growth
+  - growth/meditation
+  - growth/contemplative-practice
+  - growth/healing
+  - growth
 ---
 - A week or so I put the "Simply The Seen" guide into Gemini and had it guide me through the steps
 	- https://www.simplytheseen.com/fetters-45-guide.html

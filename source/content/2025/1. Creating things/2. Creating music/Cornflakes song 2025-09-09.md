@@ -1,7 +1,7 @@
 ---
 tags:
   - creative
-  - music
+  - creative/writing
 ---
 - [[Music making log (era 2)]]
 - Experimenting with turning a vignette into a song

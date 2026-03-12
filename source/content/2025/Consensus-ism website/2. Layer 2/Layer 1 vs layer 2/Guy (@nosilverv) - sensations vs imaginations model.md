@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - See also [[Guy, Rivalvoices, nosilverv]] for more relevant tweets
 

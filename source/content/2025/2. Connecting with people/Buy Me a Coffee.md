@@ -1,6 +1,6 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 https://buymeacoffee.com/alexislearning_

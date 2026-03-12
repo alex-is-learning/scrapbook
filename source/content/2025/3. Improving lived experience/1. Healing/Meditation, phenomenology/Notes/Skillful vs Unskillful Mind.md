@@ -1,9 +1,9 @@
 ---
 tags:
-  - meditation
-  - contemplative-practice
-  - healing
-  - personal-growth
+  - growth/meditation
+  - growth/contemplative-practice
+  - growth/healing
+  - growth
 ---
 - 2025-08-23
 - I want to get more serious about meditation, specifically fetters work, to improve my daily lived experience! 

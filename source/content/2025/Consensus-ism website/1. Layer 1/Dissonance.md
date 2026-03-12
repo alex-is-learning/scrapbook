@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 
 > In any moment, you have access to all the information you need in order to make "the next right action"

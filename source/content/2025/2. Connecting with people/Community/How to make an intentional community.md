@@ -1,7 +1,7 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 - 2025-11-10
 - So I've only lived in one intentional community ([[Era 17 - "Life Itself" intentional community -> Kensho]]), and this was during the off-season when there wasn't *that much* going on

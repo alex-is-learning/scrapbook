@@ -1,7 +1,7 @@
 ---
 tags:
-  - healing
-  - personal-growth
+  - growth/healing
+  - growth
   - fitness
 ---
 - ![[1762801658945.webp]]

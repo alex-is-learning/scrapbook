@@ -2,8 +2,8 @@
 permalink: day-1-of-trying-to-engage-people-on-twitter-via-alt-account
 tags:
   - thinking
-  - learning
-  - epistemology
+  - thinking/learning
+  - thinking/epistemology
 ---
 
 - Yesterday was day 1, and absolutely nobody replied to me, lol

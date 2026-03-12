@@ -1,7 +1,7 @@
 ---
 tags:
-  - meditation
-  - contemplative-practice
+  - growth/meditation
+  - growth/contemplative-practice
 ---
 - Mastering the Core Teachings of the Buddha by Daniel Ingram
 	- [Link](https://www.integrateddaniel.info/book)

@@ -1,6 +1,6 @@
 ---
 tags:
-  - personal-growth
+  - growth
 ---
 ## On ridiculousness audits
 - I have this idea after reading the "The Mundanity of Excellence" paper

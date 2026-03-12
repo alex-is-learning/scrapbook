@@ -1,6 +1,6 @@
 ---
 tags:
   - personal-history
-  - healing
-  - personal-growth
+  - growth/healing
+  - growth
 ---

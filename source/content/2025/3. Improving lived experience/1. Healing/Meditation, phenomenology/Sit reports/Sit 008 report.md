@@ -2,10 +2,10 @@
 permalink: 
 created:
 tags:
-  - meditation
-  - contemplative-practice
-  - healing
-  - personal-growth
+  - growth/meditation
+  - growth/contemplative-practice
+  - growth/healing
+  - growth
 ---
 - [[Increasing the skillfulness of my mind, log (2025)]]
 # Pre-Meditation Preparation

@@ -1,5 +1,8 @@
 ---
 date: 2026-03-12
+tags:
+  - thinking/learning
+  - thinking/epistemology
 ---
 - [[Log per day - 2026]]
 - Following on from [[Re wanting to learn how to think, 2026-03-04]]

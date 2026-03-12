@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - WIP, unfinished, written whilst waiting for a tram in Spain
 - Fri 2025-08-15 

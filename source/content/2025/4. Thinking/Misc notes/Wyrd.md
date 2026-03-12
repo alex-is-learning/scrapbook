@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 First came across this term in this awesome twitter thread [about attraction](https://x.com/BIMBOSATTVA_/status/1935812993528599012):
 

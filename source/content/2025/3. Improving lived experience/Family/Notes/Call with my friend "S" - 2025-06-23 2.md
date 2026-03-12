@@ -1,5 +1,5 @@
 ---
 tags:
-  - personal-growth
+  - growth
   - personal-history
 ---

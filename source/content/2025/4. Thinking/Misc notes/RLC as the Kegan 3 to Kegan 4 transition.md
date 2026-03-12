@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - [[Superprof tutor lesson 1 (The Fundamental Decision)]]
 - RLC is rejecting leaving your life, worldview, beliefs etc to chance

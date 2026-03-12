@@ -3,7 +3,7 @@ permalink: superprof-philosophy-ethics-tutor
 created: 2025-08-01
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - 2025-08-01
 - I signed up for https://www.superprof.co.uk/ to see if I could find a "learning to think" tutor

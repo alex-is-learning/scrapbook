@@ -1,7 +1,7 @@
 ---
 tags:
   - creative
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - [[Archiving older things]]
 

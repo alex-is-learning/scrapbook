@@ -1,9 +1,9 @@
 ---
 tags:
   - creative
-  - consensus-ism
-  - community
-  - relationships
+  - growth/consensus-ism
+  - social
+  - social
 ---
 - [[Archiving older things]]
 

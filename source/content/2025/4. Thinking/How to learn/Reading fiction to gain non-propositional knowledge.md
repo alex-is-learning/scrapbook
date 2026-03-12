@@ -1,8 +1,8 @@
 ---
 tags:
   - thinking
-  - learning
-  - epistemology
+  - thinking/learning
+  - thinking/epistemology
 ---
 - 2025-08-07
 - Oooohhhh, this is a good insight!!!

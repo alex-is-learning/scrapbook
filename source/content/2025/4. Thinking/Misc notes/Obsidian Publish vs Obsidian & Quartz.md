@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - [[How to make a website like this]]
 - [[Why an Obsidian-based website?]]

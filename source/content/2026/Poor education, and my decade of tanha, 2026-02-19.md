@@ -1,5 +1,9 @@
 ---
 date: 2026-02-19
+tags:
+  - thinking/epistemology
+  - thinking/learning
+  - growth
 ---
 - [[Log per day - 2026]]
 ## Ramblings on being poorly educated 

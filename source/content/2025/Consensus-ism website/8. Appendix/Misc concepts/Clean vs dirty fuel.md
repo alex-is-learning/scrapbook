@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - Kinda the same as extrinsic vs intrinsic motivation?
 - Kinda the same as self-coercion vs non-coercion?

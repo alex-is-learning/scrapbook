@@ -3,7 +3,7 @@ created: 2025-06-24 19:50:13
 updated: 2025-06-24 19:57:50
 permalink: visual-metaphors-for-the-how-can-i-help-my-family-project
 tags:
-  - personal-growth
+  - growth
   - personal-history
 ---
 

@@ -3,7 +3,7 @@ permalink:
 created:
 tags:
   - thinking
-  - personal-growth
+  - growth
 ---
 - 2025-08-06
 	- [[Handling my feelings about doing an FRI work test]]

@@ -2,8 +2,8 @@
 permalink: top-down-learning
 tags:
   - thinking
-  - learning
-  - epistemology
+  - thinking/learning
+  - thinking/epistemology
 ---
 
 - Vs [[Bottom-up learning]]

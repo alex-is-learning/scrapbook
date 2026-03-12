@@ -1,9 +1,9 @@
 ---
 permalink: bowen-family-systems---flashcards
 tags:
-  - personal-growth
+  - growth
   - personal-history
-  - healing
+  - growth/healing
 ---
 
 - 2025-07-11 & 2025-07-12

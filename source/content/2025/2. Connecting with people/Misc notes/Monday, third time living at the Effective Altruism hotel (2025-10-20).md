@@ -1,7 +1,7 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 - 2025-10-20
 - It's funny being back at the EA Hotel, because in the past I've been a pretty grumpy bastard whilst living here

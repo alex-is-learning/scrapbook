@@ -1,7 +1,7 @@
 ---
 tags:
   - thinking
-  - personal-growth
+  - growth
 ---
 - 2025-08-07
 - I'm doing a lot of "noticing my confusions and aversions at work and speaking up about them", feels great

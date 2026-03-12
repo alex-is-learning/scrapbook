@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - [[Where does consensus-ism come from?]]
 - [[Mastering the Core Teachings of the Buddha]]

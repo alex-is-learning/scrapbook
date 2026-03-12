@@ -2,7 +2,7 @@
 permalink: model-of-centre-for-effective-altruism
 tags:
   - thinking
-  - personal-growth
+  - growth
 ---
 
 - 2025-06-16

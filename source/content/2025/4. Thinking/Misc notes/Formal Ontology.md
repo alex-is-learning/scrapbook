@@ -2,7 +2,7 @@
 permalink: formal-ontology
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 
 [[Formal Ontology - books]]

@@ -1,7 +1,7 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 - See also [[Monday, third time living at the Effective Altruism hotel (2025-10-20)]]
 # On my social needs/desires

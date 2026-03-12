@@ -1,7 +1,7 @@
 ---
 tags:
   - ori
-  - post-rationalism
+  - growth/post-rationalism
 ---
 - The Open Research Institute
 - 2026-01-31 [slide deck](https://docs.google.com/presentation/d/1UScBoVfjTM7BzdQQ8S-qUMN_hKatsN6A3iJ_zqbb2lM/edit?slide=id.g3c299f788bf_0_7#slide=id.g3c299f788bf_0_7)

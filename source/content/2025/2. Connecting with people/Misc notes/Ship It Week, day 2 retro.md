@@ -1,7 +1,7 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 - Sunday morning, 2025-08-31
 - Yesterday was the first full day

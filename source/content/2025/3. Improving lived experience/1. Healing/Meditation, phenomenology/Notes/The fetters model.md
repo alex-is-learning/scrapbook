@@ -1,9 +1,9 @@
 ---
 tags:
-  - meditation
-  - contemplative-practice
-  - healing
-  - personal-growth
+  - growth/meditation
+  - growth/contemplative-practice
+  - growth/healing
+  - growth
 ---
 - [[Should I pay Michael Stroe to help me break aversion?]]
 - https://www.simplytheseen.com/

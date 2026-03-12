@@ -1,6 +1,6 @@
 ---
 tags:
   - creative
-  - writing
+  - creative/writing
 ---
 - https://alexislearning.substack.com/

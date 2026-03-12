@@ -2,8 +2,8 @@
 tags:
   - creative
   - personal-history
-  - healing
-  - personal-growth
+  - growth/healing
+  - growth
 ---
 - Previous - [[Era 22 - EA Hotel round 2 - albums]]
 

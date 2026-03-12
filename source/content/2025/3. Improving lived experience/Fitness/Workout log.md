@@ -3,7 +3,7 @@ permalink:
 created:
 tags:
   - fitness
-  - personal-growth
+  - growth
 ---
 ## Week of 28th July
 - Wed 2025-07-30

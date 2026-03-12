@@ -2,7 +2,7 @@
 permalink: interpretatio-naturae
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 
 - Francis Bacon concept

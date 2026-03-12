@@ -1,4 +1,4 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---

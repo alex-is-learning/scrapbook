@@ -1,7 +1,7 @@
 ---
 tags:
   - personal-history
-  - music
+  - creative/writing
   - creative
 ---
 > *Parent page - [[My Eras (index)]]*

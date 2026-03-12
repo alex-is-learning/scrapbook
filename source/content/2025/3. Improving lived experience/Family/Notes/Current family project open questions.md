@@ -1,7 +1,7 @@
 ---
 permalink: current-family-project-open-questions
 tags:
-  - personal-growth
+  - growth
   - personal-history
 ---
 

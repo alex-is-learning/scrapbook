@@ -1,8 +1,8 @@
 ---
 tags:
   - thinking
-  - learning
-  - epistemology
+  - thinking/learning
+  - thinking/epistemology
 ---
 - 2025-08-13
 - [[🟣 Project - "Are visual notes underrated and poorly understood?"]]

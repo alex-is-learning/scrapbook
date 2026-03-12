@@ -1,7 +1,7 @@
 ---
 permalink: how-can-i-change-how-to-orient-to-my-family-open-question
 tags:
-  - personal-growth
+  - growth
   - personal-history
 ---
 - [[source/content/index|Home Page]]

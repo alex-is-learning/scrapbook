@@ -4,7 +4,7 @@ aliases:
   - Home Page
 permalink: home-page
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 - Hi!
 - This stuff changed my life (as in, reduced my suffering by ~90%) back in Feb 2024 and I'm finally writing up my notes on it

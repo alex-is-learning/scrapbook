@@ -1,6 +1,6 @@
 ---
 tags:
-  - personal-growth
+  - growth
 ---
 - It's ridiculous that I have the video editing skills/workflow & ability to be on camera etc and got to ~440 ==youtube== subscribers, and now I haven't posted in ~6 months and my subscriber count is gradually dwindling. I think there's definitely something here like "1 good quality video a week" = >5k subscribers within 12 months, which would be great for various reasons
 #### Why have I let my Youtube channel languish?

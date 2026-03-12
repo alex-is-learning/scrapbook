@@ -1,7 +1,7 @@
 ---
 tags:
-  - healing
-  - personal-growth
+  - growth/healing
+  - growth
 ---
 - 2025-11-12
 - I totally forgot that I did this right at the beginning of my [[Tpot, post-rationalism]] journey!

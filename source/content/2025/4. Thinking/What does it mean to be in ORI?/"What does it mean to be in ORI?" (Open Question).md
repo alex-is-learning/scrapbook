@@ -1,9 +1,9 @@
 ---
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
   - ori
-  - post-rationalism
+  - growth/post-rationalism
 ---
 - [[source/content/index|Home Page]]
 - 2025-08-23

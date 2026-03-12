@@ -2,7 +2,7 @@
 permalink: personal-values-rationality-sprint-v2
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 
 - Feeling really excited and kind of like "oh shit this is so cool", how I'm kind of back to where I was in Jan/Feb, but like, the next level of depth

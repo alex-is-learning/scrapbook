@@ -4,7 +4,7 @@ permalink: 2025-07-07-gemini-socrates
 aliases: Gemini Socrates - part-time vs full-time work
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - I'm learning how to do the Socratic method
 - I'm focusing on learning the elenchus

@@ -1,7 +1,7 @@
 ---
 tags:
-  - healing
-  - personal-growth
+  - growth/healing
+  - growth
 ---
 - [[Log per day - 2026]]
 - Tuesday 2025-10-21

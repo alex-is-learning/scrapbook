@@ -2,7 +2,7 @@
 permalink: week-reviews
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - [[source/content/index|Home Page]]
 # July 2025

@@ -1,7 +1,7 @@
 ---
 tags:
-  - personal-growth
-  - writing
+  - growth
+  - creative/writing
   - creative
 ---
 - I write *loads* on this website, pretty much just for my 2 friends in our ~rationality group chat to read. I should probably be taking this stuff and making twitter threads, youtube videos, ==substack== posts, etc

@@ -3,7 +3,7 @@ permalink:
 created:
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 - [[How to make a website like this]]
 - I see this website as something like a "[digital garden](https://joelhooks.com/digital-garden)", although I've never *loved* that phrase, I think because it sounds too neat and orderly

@@ -1,7 +1,7 @@
 ---
 permalink: I-saw-a-family-therapist-yesterday
 tags:
-  - personal-growth
+  - growth
   - personal-history
 ---
 - 2025-07-22

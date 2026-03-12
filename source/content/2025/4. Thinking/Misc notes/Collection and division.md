@@ -2,7 +2,7 @@
 permalink: collection-and-division
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
 ---
 
 ### Systole

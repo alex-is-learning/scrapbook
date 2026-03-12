@@ -1,6 +1,6 @@
 ---
 tags:
-  - personal-growth
-  - community
-  - relationships
+  - growth
+  - social
+  - social
 ---

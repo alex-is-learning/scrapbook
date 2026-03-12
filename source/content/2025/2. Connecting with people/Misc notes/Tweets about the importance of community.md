@@ -1,7 +1,7 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 
 - ![[The importance of community-1757351596988.webp]]

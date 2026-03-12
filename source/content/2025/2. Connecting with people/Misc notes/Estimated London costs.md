@@ -1,7 +1,7 @@
 ---
 tags:
-  - community
-  - relationships
+  - social
+  - social
 ---
 - I would guess £1500-£2000/month to live in London
 	- *(And when I say "guess", I have lived in London for ~3 years in the past)*

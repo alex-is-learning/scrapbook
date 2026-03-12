@@ -2,7 +2,7 @@
 tags:
   - creative
   - personal-history
-  - music
+  - creative/writing
 ---
 - 2025-11-12
 

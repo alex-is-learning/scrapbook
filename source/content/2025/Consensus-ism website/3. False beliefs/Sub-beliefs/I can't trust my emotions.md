@@ -1,6 +1,6 @@
 ---
 tags:
-  - consensus-ism
+  - growth/consensus-ism
 ---
 ## "Emotions get us into trouble"
 - I think the exhortations from e.g. the Ancient Greeks, the Stoics re: "don't let your emotions control you" are totally valid, because they'll be talking about what are essentially emotional spirals, when an emotion has grown and is now this big uncontrollable mess, like when e.g. you've brooded on a resentment which has grown wilder the more you've brooded

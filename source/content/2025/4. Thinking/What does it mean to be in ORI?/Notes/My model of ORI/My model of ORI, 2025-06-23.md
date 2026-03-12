@@ -2,9 +2,9 @@
 permalink: my-model-of-ori-2025-06-23
 tags:
   - thinking
-  - epistemology
+  - thinking/epistemology
   - ori
-  - post-rationalism
+  - growth/post-rationalism
 ---
 - [["What does it mean to be in ORI?" (Open Question)]]
 - Below are from conversations with Defender
