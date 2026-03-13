@@ -31,8 +31,8 @@ export const defaultContentPageLayout: PageLayout = {
       title: "Recent notes",
       limit: 3,
       showTags: false,
-      // Only show files with an explicit date: field in YAML frontmatter
-      filter: (f) => !!f.frontmatter?.date,
+      // Only show files with an explicit date or created field in YAML frontmatter
+      filter: (f) => !!(f.frontmatter?.date ?? f.frontmatter?.created),
       sort: (f1, f2) => {
         const d1 = f1.dates?.created
         const d2 = f2.dates?.created
