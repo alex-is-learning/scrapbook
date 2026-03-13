@@ -4,11 +4,11 @@ aliases:
   - Home Page
 permalink: home-page
 ---
-Hi, I'm Alex! This is my digital scrapbook - currently at 314,488 words (AKA Infinite Jest x 0.54 or Order of the Phoenix x 1.22).
-## New here? Start with these
+Hi, I'm Alex! This is my digital scrapbook - currently at 314,775 words (AKA Infinite Jest x 0.54 or Order of the Phoenix x 1.22).
+## Start with these
 - [[Log per day - 2026]]
 	- I prefer navigating in this way because a lot of older notes represent kinda abandoned threads, vs the stuff I'm thinking about *right now* is the most fresh and alive
-- [[01. To be a boomer|To be a boomer]] — my first vignette, one of my favourite bits of writing
+- [[01. To be a boomer|To be a boomer]] & then [[03. To be a tpot zoomer|To be a tpot zoomer]] - two vignettes that I like
 - [[The key themes of this site in 2025]] — a guided tour of everything in 2025
 - [[My Eras (index)]] — a chronological view of my life
 - [[How to make a website like this]] — if you want your own

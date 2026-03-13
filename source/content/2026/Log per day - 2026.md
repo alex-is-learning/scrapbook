@@ -4,6 +4,8 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 
 # Mar 2026
+- 2026-03-13
+	- [[Recommended readings from one of my mentors, 2026-03-13]]
 - 2026-03-12
 	- [[What do you learn at private school that you don't learn at a public school?]]
 - 2026-03-05
