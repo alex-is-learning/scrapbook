@@ -31,11 +31,23 @@ export const defaultContentPageLayout: PageLayout = {
       title: "Recent notes",
       limit: 3,
       showTags: false,
-      // Only show files with an explicit date or created field in YAML frontmatter
-      filter: (f) => !!(f.frontmatter?.date ?? f.frontmatter?.created),
+      // Read dates purely from YAML frontmatter — never from filesystem.
+      // The plugin reads `date:` but not `created:`, so we parse both ourselves.
+      filter: (f) => {
+        const raw = f.frontmatter?.date ?? f.frontmatter?.created
+        if (!raw) return false
+        const d = new Date(raw as string)
+        return !isNaN(d.getTime())
+      },
       sort: (f1, f2) => {
-        const d1 = f1.dates?.created
-        const d2 = f2.dates?.created
+        const parseDate = (f: typeof f1) => {
+          const raw = f.frontmatter?.date ?? f.frontmatter?.created
+          if (!raw) return null
+          const d = new Date(raw as string)
+          return isNaN(d.getTime()) ? null : d
+        }
+        const d1 = parseDate(f1)
+        const d2 = parseDate(f2)
         if (d1 && d2) return d2.getTime() - d1.getTime()
         if (d1) return -1
         if (d2) return 1
