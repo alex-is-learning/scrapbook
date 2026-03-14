@@ -5,10 +5,10 @@ tags:
   - thinking/epistemology
 ---
 ## 2026-03
-
+- [[Alex and Simmo doing first principles thinking, 2026-03-14]]
+- [[Recommended readings from one of my mentors, 2026-03-13]]
 - [[Errors in thinking at work, 2026-03-05]]
 - [[Re wanting to learn how to think, 2026-03-04]]
-
 ## 2025-09
 
 - [[Why doesn't transmissionism work?]]

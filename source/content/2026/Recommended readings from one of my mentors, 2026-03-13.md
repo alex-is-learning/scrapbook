@@ -28,6 +28,7 @@ date: 2026-03-13
 ## MIT Press - Logic Primer
 - ![[1773398644548.webp|200]]
 # Three things that are way beyond me right now
+- Shit looks scary as hell, excited to have mastered this. Soon I will lock in 🙏
 ## Introductory logic - review of the rules
 ![[Introductory logic - review of the rules.pdf]]
 ## Is Justified True Belief Knowledge

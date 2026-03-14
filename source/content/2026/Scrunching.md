@@ -25,3 +25,12 @@ date: 2026-02-01
 - E.g., you have an idea for something that a coworker could do, you scrunch with how important this thing is for them to do, how useful it'd be for the team, so you write a message from that headspace
 	- Vs, unscrunching, stepping back and seeing it from other POVs, wondering if it can wait, be batched into a synchronous IRL conversation with other topics, whether maybe it's not worth sharing it all
 - You scrunch into the annoyance of the first aid course taking 7 hours because the facilitator tells stories and jokes rather than being efficient. You scrunch with annoyance at how silly it is that passing a 15-question do-it-as-many-times-as-you-need multiple choice quiz qualifies you for 3 years. You scrunch with the recognition that it's ultimately just a legal/compliance thing. Etc
+# 2026-03-14 - abbreviated history of my scrunching
+- Quick braindump of things I've scrunched with:
+	- "Eeee, clearly what I care about most is music, therefore I should learn how to make music, and make youtube videos about the process"
+		- Really fun, and I'm happy and proud that I did it, but I totally stopped ~23 days into a "I will make a song every day this year" project, and totally didn't miss it at all. So like, clearly not a first principle that I Must Make Music
+	- "Eeee, effective altruism"
+	- "Eeee, learning"
+	- Having a great job (e.g., Alvea, Longview)
+- And really, there was a long period of no scrunching at all. Just being kinda passive, not aiming for anything ambitious. And then there was the period of "oh shit, I've been so mid, I need to Find My Thing That Will Make Me Exceptional"
+- And now, more of an era of: "there's no specific *thing*, like music or whatever. But there are probably some simple unifying things". Honestly, this is where astrology feels really useful. Leo sun Taurus moon Scorpio rising with venus in Gemini and a Pisces mars. Really feels like it points at some useful stuff for me 
