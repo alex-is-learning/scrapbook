@@ -6,6 +6,7 @@ permalink: log-per-day
 # Mar 2026
 - 2026-03-14
 	- [[Alex and Simmo doing first principles thinking, 2026-03-14]]
+	- [[What my astrology sheds light on, 2026-03-14]]
 - 2026-03-13
 	- [[Recommended readings from one of my mentors, 2026-03-13]]
 - 2026-03-12

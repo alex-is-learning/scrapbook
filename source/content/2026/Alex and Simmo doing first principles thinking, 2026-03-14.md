@@ -38,3 +38,4 @@ This isn't a session, it's just... ==using them for a month or two== and seeing 
 
 The main thing I'd want you to avoid is treating this as another learning project where you accumulate inputs forever. The goal is to get to a usable draft quickly and then refine through living, not through more thinking.
 # 2. Ok cool, let's do it then!
+- [[First principles 1 - what have survived my pivots?]]

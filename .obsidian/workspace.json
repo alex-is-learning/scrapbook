@@ -8,31 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "099647bc7db764a1",
+            "id": "ffbcaf7b22308e83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/2026/Recommended readings from one of my mentors, 2026-03-13.md",
+                "file": "source/content/2026/First principles 1 - what have survived my pivots?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recommended readings from one of my mentors, 2026-03-13"
+              "title": "First principles 1 - what have survived my pivots?"
             }
           },
           {
-            "id": "35e81b15f7e42d76",
+            "id": "87c63356878f78ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/2026/Log per day - 2026.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Log per day - 2026"
+              "title": "index"
+            }
+          },
+          {
+            "id": "2a072db986c88c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/2026/Misc Alvea feedback, 2023.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Misc Alvea feedback, 2023"
             }
           }
         ]
@@ -101,7 +115,7 @@
       {
         "id": "ff06d4799611b364",
         "type": "tabs",
-        "dimension": 75.42997542997543,
+        "dimension": 36.73218673218673,
         "children": [
           {
             "id": "f652713c1c3012d0",
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/2026/Recommended readings from one of my mentors, 2026-03-13.md",
+                "file": "source/content/2026/First principles 1 - what have survived my pivots?.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Recommended readings from one of my mentors, 2026-03-13"
+              "title": "Backlinks for First principles 1 - what have survived my pivots?"
             }
           },
           {
@@ -128,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/2026/Recommended readings from one of my mentors, 2026-03-13.md",
+                "file": "source/content/2026/First principles 1 - what have survived my pivots?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Recommended readings from one of my mentors, 2026-03-13"
+              "title": "Outgoing links from First principles 1 - what have survived my pivots?"
             }
           },
           {
@@ -156,7 +170,7 @@
       {
         "id": "4165194f5f4e75d9",
         "type": "tabs",
-        "dimension": 24.57002457002457,
+        "dimension": 63.26781326781327,
         "children": [
           {
             "id": "ff960971c9fd279f",
@@ -164,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/2026/Recommended readings from one of my mentors, 2026-03-13.md",
+                "file": "source/content/2026/First principles 1 - what have survived my pivots?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Recommended readings from one of my mentors, 2026-03-13"
+              "title": "Outline of First principles 1 - what have survived my pivots?"
             }
           }
         ]
@@ -192,10 +206,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "099647bc7db764a1",
+  "active": "ffbcaf7b22308e83",
   "lastOpenFiles": [
-    "source/content/📎 Files/Files 0 - 2026/1773398717137.webp",
+    "source/content/2026/Alex and Simmo doing first principles thinking, 2026-03-14.md",
+    "source/content/2026/What my astrology sheds light on, 2026-03-14.md",
+    "source/content/2026/Misc Alvea feedback, 2023.md",
+    "source/content/index.md",
+    "source/content/2025/2. Connecting with people/Feedback/Feedback, references.md",
+    "source/content/2025/4. Thinking/How to learn/Notes/Value of visual notes/Are visual notes underrated and poorly understood?.md",
+    "source/content/2025/4. Thinking/How to learn/Notes/Value of visual notes/🟣 Project - \"Are visual notes underrated and poorly understood?\".md",
+    "source/content/2026/Log per day - 2025.md",
+    "Post-rationalist journey.md",
+    "source/content/2026/First principles 1 - what have survived my pivots?.md",
+    "source/content/Topics/Healing & Personal Growth.md",
+    "source/content/2026/Log per day - 2026.md",
+    "source/content/Topics/Thinking & Epistemology.md",
+    "Untitled.md",
+    "source/content/2026/Scrunching.md",
     "source/content/2026/Recommended readings from one of my mentors, 2026-03-13.md",
+    "source/content/2026/Errors in thinking at work, 2026-03-05.md",
+    "source/content/📎 Files/Files 0 - 2026/1773398717137.webp",
     "source/content/📎 Files/Files 0 - 2026/Is Justified True Belief Knowledge_.pdf",
     "source/content/📎 Files/Files 0 - 2026/Introductory logic - review of the rules.pdf",
     "source/content/📎 Files/Files 0 - 2026/1773398724918.webp",
@@ -204,29 +234,14 @@
     "source/content/2026/What do you learn at private school that you don't learn at a public school?.md",
     "source/content/2026/Poor education, and my decade of tanha, 2026-02-19.md",
     "source/content/2026/Re wanting to learn how to think, 2026-03-04.md",
-    "source/content/2026/Log per day - 2026.md",
-    "source/content/index.md",
     "source/content/2025/1. Creating things/1. Writings/01. To be a boomer.md",
     "source/content/2025/1. Creating things/1. Writings/Writing - vignettes.md",
     "source/content/2025/1. Creating things/1. Writings/03. To be a tpot zoomer.md",
     "source/content/2025/1. Creating things/1. Writings/05. Hospital cafe.md",
     "source/content/2025/1. Creating things/1. Writings/06. Cornflakes.md",
     "source/content/2025/1. Creating things/1. Writings/08. Morning by the pool.md",
-    "source/content/2026/What's stopping me from connecting, from talking? 2026-02-21.md",
-    "source/content/Topics/Creative Works.md",
-    "source/content/Topics/ORI & Post-Rationalism.md",
-    "source/content/Topics/Healing & Personal Growth.md",
-    "source/content/Topics/Meditation & Contemplative Practice.md",
-    "source/content/Topics/Thinking & Epistemology.md",
-    "source/content/2026/\"A\" ceiling.md",
-    "source/content/2026/ORI.md",
-    "source/content/2026/Nosilverv.md",
-    "source/content/2026/Errors in thinking at work, 2026-03-05.md",
-    "source/content/YAML tags.md",
     "source/scripts/merge-tags.mjs",
     "source/scripts/sort-topic-pages.mjs",
-    "source/content/2025/4. Thinking/\"How can I improve my ability to think?\" (Parent Page).md",
-    "source/content/2025/4. Thinking/Misc notes/How to make a website like this.md",
     "source/scripts/update-wordcount.mjs",
     "source/public/404.html",
     "source/public/static/og-image.jpg",

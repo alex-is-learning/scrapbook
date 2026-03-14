@@ -4,7 +4,9 @@ tags:
   - thinking
   - thinking/learning
   - thinking/epistemology
+date: 2025-06-24
 ---
+- 2025-06-24
 - [[🟣 Project - "Are visual notes underrated and poorly understood?"]]
 # 1. Am I cutting edge? Dumb? Bit of both?
 - A thing which I feel like I'm on the cutting edge of, and that doesn't have a clear name yet/a clear codified skillset, and I oscillate between "I think this is incredibly powerful and underrated" and "maybe I'm literally just stupid and have a learning disability of some kind" is - making visual notes

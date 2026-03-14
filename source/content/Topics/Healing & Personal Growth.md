@@ -5,7 +5,8 @@ tags:
   - growth
 ---
 Notes on trauma healing, family systems, therapeutic modalities, and personal development. Lots of overlap with meditation and ORI.
-
+## 2026-03
+- [[What my astrology sheds light on, 2026-03-14]]
 ## 2026-02
 
 - [[Poor education, and my decade of tanha, 2026-02-19]]

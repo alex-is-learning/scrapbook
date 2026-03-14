@@ -9,6 +9,7 @@ tags:
 - [Brent Baumgartner, founder of Refract, March 2025](https://docs.google.com/document/d/167F1KqTOYolQXr6eVGlFZMv9yrNxJHaLsoQ3Js8VJtI/edit?tab=t.0)
 - [Ethan Alley, co-founder of Alvea, Jan 2023](https://docs.google.com/document/d/1mBN-iWSwoYM8zUMU25iPGs9Glgzzq3Ps1DRWEivRiFg/edit?tab=t.0)
 - [Robert Bölkow, Head of Operations at Alvea, Jan 2023](https://docs.google.com/document/d/10dW1QWqK-GtL1IY1VjoSEpV0MOqHaScsPNIONNcmy6E/edit?tab=t.0)
+- [[Misc Alvea feedback, 2023]]
 ## From friends that I've worked with 
 - [Simmo, October 2025](https://docs.google.com/document/d/1h2r2g2GtjooFZo8bHzak9QzbEMPY2TaqOFpLHYXam9I/edit?tab=t.0#heading=h.duh2sqfz26gh)
 - [Conor, April 2025](https://docs.google.com/document/d/1gy_Ns0tWPehuJ9NZ6LoVjIwMyLOSBT7C_dhpKnIjIFQ/edit?tab=t.0)
