@@ -1,3 +1,4 @@
+
 - [[Alex and Simmo doing first principles thinking, 2026-03-14]]
 
 > **What has survived your pivots?** You could give me a chronological list of your major life phases and what you cared about in each, and I could help you spot what threads persist across all of them. The things that show up in every phase are your most reliable signal.

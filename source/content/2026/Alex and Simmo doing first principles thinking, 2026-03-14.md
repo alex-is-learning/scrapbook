@@ -43,7 +43,14 @@ This isn't a session, it's just... ==using them for a month or two== and seeing 
 
 The main thing I'd want you to avoid is treating this as another learning project where you accumulate inputs forever. The goal is to get to a usable draft quickly and then refine through living, not through more thinking.
 # 2. Ok cool, let's do it then!
+## Phase 1 - gather data
 - [[First principles 1 - what have survived my pivots?]]
 - [[First principles 2 - revealed preferences]]
 - [[First principles 3 - what to say "no" to]]
 - [[First principles 4 - people you admire, and what they do differently?]]
+## Phase 2 - draft principles
+- [[Draft of first principles, 2026-03-14]]
+## Phase 3 - stress test
+- [[Do my first principles help me to stress test? 2026-03-14]]
+## Phase 4 - living my first principles
+- [[Living my first principles, 2026-03-14]]

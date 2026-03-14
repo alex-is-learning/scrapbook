@@ -4,9 +4,8 @@ tags:
   - growth
   - personal-history
 ---
-
 - Currently working on [[Alex and Simmo doing first principles thinking, 2026-03-14]]
-- "*Wahhh astrology isn't real!*" - shut up nerd, it sheds light on genuine patterns of mine
+- "*Wahhh astrology isn't real!*" - shut up nerd, it sheds light on genuine patterns of mine ♌️♉️♏️
 ## Sun in Leo
 - I love attention
 - I love to lead (?) 
