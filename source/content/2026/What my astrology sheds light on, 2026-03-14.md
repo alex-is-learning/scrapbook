@@ -1,3 +1,10 @@
+---
+date: 2026-03-14
+tags:
+  - growth
+  - personal-history
+---
+
 - Currently working on [[Alex and Simmo doing first principles thinking, 2026-03-14]]
 - "*Wahhh astrology isn't real!*" - shut up nerd, it sheds light on genuine patterns of mine
 ## Sun in Leo
@@ -20,3 +27,22 @@
 - Feedback from managers is relevant here!
 	- See e.g. [[Misc Alvea feedback, 2023]], 
 	- [[Feedback, references]]
+
+# Ugly art
+Made by Nano Banana 2.0
+
+![[1773496843711.webp]]
+
+Here's the breakdown of what each element in the artwork symbolises:
+
+**The Solar Lion (centre)** — The blazing Leo Sun sits at the heart of everything: a crowned lion's face within a radiant golden sun, surrounded by eight corona rays. Gold and deep amber dominate. Leo rules the self, the stage, the sovereign heart — nothing hides here.
+
+**The Taurus Moon (left crescent)** — A warm, earthy crescent in deep gold with bull's horns subtly etched into its surface. Roses bloom from the dark soil below it. Taurus Moon anchors all that Leo fire in the body: sensory pleasure, loyalty, a fierce need for peace and beauty.
+
+**The Scorpio Rising mask (right)** — A dark violet ceremonial mask with glowing crimson eyes, a coiling scorpion tail above it, and phoenix feathers below — because Scorpio Rising is the face others see first: intense, magnetic, slightly unknowable. The rebirth feathers speak to Scorpio's transformative core.
+
+**Venus in Gemini — twin butterflies** — Two butterflies in contrasting palettes (teal-violet and rose-pink) mirror each other across the canvas, light and mercurial. Venus in Gemini loves through words, wit, and duality — always two stories running at once.
+
+**Pisces Mars — deep-swimming fish** — In the misty water below, two fish swim in opposite directions, bound by a dotted thread. Pisces Mars acts from intuition rather than aggression — its drive dissolves into currents, dreams, and compassion.
+
+The faint zodiac wheel and constellation lines tie it all together, while the dark earth base and starry sky hold the whole cosmic scene.

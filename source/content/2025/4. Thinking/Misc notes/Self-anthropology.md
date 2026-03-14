@@ -3,6 +3,7 @@ permalink: self-anthropology
 tags:
   - thinking
   - thinking/epistemology
+  - personal-history
 ---
 
 - 2025-07-21

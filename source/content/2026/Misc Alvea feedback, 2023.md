@@ -1,3 +1,8 @@
+---
+tags:
+  - personal-history
+---
+
 - From a manager
 # 1. Warmth
 ## A+ teammate vibes

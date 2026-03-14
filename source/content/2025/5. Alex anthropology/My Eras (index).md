@@ -1,6 +1,7 @@
 ---
 tags:
   - personal-history
+  - personal-history
 ---
 - [[Alex anthropology (parent page)]]
 - [[Why all the Alex anthropology bro?]]

@@ -3,8 +3,13 @@ title: Healing & Personal Growth
 tags:
   - growth/healing
   - growth
+  - personal-history
 ---
 Notes on trauma healing, family systems, therapeutic modalities, and personal development. Lots of overlap with meditation and ORI.
+- [[My Eras (index)]]
+- [[Alex anthropology (parent page)]]
+- [[What my astrology sheds light on, 2026-03-14]]
+- [[Feedback, references]]
 ## 2026-03
 - [[What my astrology sheds light on, 2026-03-14]]
 ## 2026-02

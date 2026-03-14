@@ -1,7 +1,7 @@
 ---
 tags:
   - social
-  - social
+  - personal-history
 ---
 ## 1 
 To Alex, 

@@ -1,3 +1,11 @@
+---
+date: 2026-03-14
+tags:
+  - growth
+  - thinking
+  - thinking/epistemology
+---
+
 - [[Log per day - 2026]]
 - Simmo is now at the EA Hotel, yay! 
 - We're both doing life planning stuff, and it feels like a good place to start (which also nicely maps onto my "learning how to think" project) is arriving at some unifying ground truths for our lives. Some key principles that are evident from our last n years, and that make it easier to prioritise and also to say no to things
@@ -13,13 +21,10 @@ How should we approach arriving at some durable first principles?
 
 "I'd honestly steer you away from anything that looks like "sit down and enumerate your values from first principles." You've tried something adjacent to that (the Schmachtenberger personal dharma questions) and you called it quixotic yourself. The risk is that you produce a beautiful-sounding list that doesn't actually constrain your behaviour, and then feel disillusioned when you pivot again."
 ## 4 angles
-**What has survived your pivots?** You could give me a chronological list of your major life phases and what you cared about in each, and I could help you spot what threads persist across all of them. The things that show up in every phase are your most reliable signal.
-
-**What do you actually do, vs what do you say you value?** Revealed preferences are more honest than stated preferences. We could look at how you actually spend your time and energy and reverse-engineer what that implies about what you care about.
-
-**What would you need to say no to right now?** You mentioned wanting principles partly to be able to say no. That's really practical. If you told me what's currently on your plate and what you're considering, we could work backwards from the decisions you're facing rather than forward from abstract values.
-
-**What does the person you admired actually do differently?** Not their stated principles, but their behaviour — how do they make decisions, what do they say no to, how do they carry themselves? That might tell you more about what you're actually attracted to than trying to derive principles from scratch.
+1. **What has survived your pivots?** You could give me a chronological list of your major life phases and what you cared about in each, and I could help you spot what threads persist across all of them. The things that show up in every phase are your most reliable signal.
+2. **What do you actually do, vs what do you say you value?** Revealed preferences are more honest than stated preferences. We could look at how you actually spend your time and energy and reverse-engineer what that implies about what you care about.
+3. **What would you need to say no to right now?** You mentioned wanting principles partly to be able to say no. That's really practical. If you told me what's currently on your plate and what you're considering, we could work backwards from the decisions you're facing rather than forward from abstract values.
+4. **What does the person you admired actually do differently?** Not their stated principles, but their behaviour — how do they make decisions, what do they say no to, how do they carry themselves? That might tell you more about what you're actually attracted to than trying to derive principles from scratch.
 ## Plan
 ### Phase 1 - Gather data (1-2 hours)
 Go through the ==four angles== I mentioned. You don't need to do all four — probably ==two or three== will be enough to triangulate. The "what has survived your pivots" one is highest signal-to-noise, I think. You write up your answers, we discuss them, and I help you spot patterns you might not see yourself.
@@ -39,3 +44,6 @@ This isn't a session, it's just... ==using them for a month or two== and seeing 
 The main thing I'd want you to avoid is treating this as another learning project where you accumulate inputs forever. The goal is to get to a usable draft quickly and then refine through living, not through more thinking.
 # 2. Ok cool, let's do it then!
 - [[First principles 1 - what have survived my pivots?]]
+- [[First principles 2 - revealed preferences]]
+- [[First principles 3 - what to say "no" to]]
+- [[First principles 4 - people you admire, and what they do differently?]]
