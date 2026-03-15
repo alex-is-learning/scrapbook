@@ -2,8 +2,8 @@
 tags:
   - growth/consensus-ism
 ---
-
-- From my substack post "[consensus-ism part 2](https://alexislearning.substack.com/p/consensus-ism-part-2)"
+# From my substack post "[consensus-ism part 2](https://alexislearning.substack.com/p/consensus-ism-part-2)"
+> Describing stuff that I *experienced*
 
 **Layer 1** is the core, **foundational layer of experience**. It’s made up of your senses, your vision, sounds etc, and also your bodily awareness, the feelings of excitement or fear or nervousness etc, and also of “primary thoughts”, as it’s not that I’ve stopped thinking, but I feel like I only have genuine thoughts rather than the self-referential, like, “thinking about thinking” thoughts in reaction to my core thoughts. 
 
