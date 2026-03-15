@@ -1,6 +1,7 @@
 ---
 date: 2026-03-15
 ---
+- [[Log per day - 2026]]
 - 2026-03-15
 - Just had the thought of, "normally I just say 'oh, I've been writing on my website this morning'", but that's not the like, *terminal* thing that I'm doing. It's not just writing for the sake of writing. So what is it?
 - Is it "doing philosophy"? That feels clunky
@@ -31,3 +32,4 @@ The 80 minutes is the tell. That's chanda, not tanha. You're not grinding throug
 - I think for me it's lacking the action component. It should be making sense of things, and then taking better actions. 
 	- "Improving my epistemics"? That might be the best phrase... sensemaking sounds too, "making sense of stuff, and then stopping", IMO
 	- Improving my epistemics (and then, better actions follow naturally)
+
