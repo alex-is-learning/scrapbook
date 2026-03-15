@@ -8,8 +8,12 @@ tags:
 
 - [[Log per day - 2026]]
 - Outcome of the below
-	- [[My first principles to live by for 3 months]]
-	- [[Stop, start, continue, optimise, based on my first principles, 2026-03-14]]
+	- [[Why I won't trust an LLM to tell me my first principles]]
+	- [[Drafting my first principles to live by for 3 months]]
+	- [[Claude first principles and "stop start continue optimise"]]
+
+
+---
 
 - Simmo is now at the EA Hotel, yay! 
 - We're both doing life planning stuff, and it feels like a good place to start (which also nicely maps onto my "learning how to think" project) is arriving at some unifying ground truths for our lives. Some key principles that are evident from our last n years, and that make it easier to prioritise and also to say no to things
@@ -57,5 +61,5 @@ The main thing I'd want you to avoid is treating this as another learning projec
 ## Phase 3 - stress test
 - [[Do my first principles help me to stress test? 2026-03-14]]
 ## Phase 4 - living my first principles
-- [[Stop, start, continue, optimise, based on my first principles, 2026-03-14]]
-- [[My first principles to live by for 3 months]]
+- [[Claude first principles and "stop start continue optimise"]]
+- [[Drafting my first principles to live by for 3 months]]
