@@ -7,6 +7,8 @@ permalink: log-per-day
 - 2026-03-15
 	- [[Chanda (wholesome desire, zeal)]]
 	- [[Disclaimer - The consensus-ism model is a work in progress]]
+	- [[Heidegger, ready-at-hand vs present-at-hand]]
+	- [[What am I doing on this website? 2026-03-15]]
 - 2026-03-14
 	- [[Alex and Simmo doing first principles thinking, 2026-03-14]]
 	- [[What my astrology sheds light on, 2026-03-14]]

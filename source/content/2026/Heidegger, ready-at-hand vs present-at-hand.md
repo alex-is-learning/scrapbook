@@ -1,14 +1,17 @@
+---
+date: 2026-03-15
+---
+
 - 2026-03-15
 - Writing about [[Chanda (wholesome desire, zeal)]]
 - And reminded of the Heidegger thing
 
 > The core claim from Guy below, that I agree with wholeheartedly, is that "What happened is that ==a long time ago something went wrong with your deep models of how to be in the world==."
 
-
 - 👆 this relates to left hemisphere capture, living from tanha despite it being objectively wrong (which Sasha calls "one of the most important things he knows", and also "*the* most interesting finding in psychology)
 - You're second-guessing your lived experience, experiencing life through [[Layer 2 (imaginations)]] and abstractions. Experiencing a tangle of thorns ([[The two thorns analogy of Advaita Vedanta]])
 
-> What matters is that there is a solution: you must once again become an embodied *being* (not object) among other embodied *beings*.
+> "What matters is that there is a solution: you must once again become an embodied *being* (not object) among other embodied *beings*."
 # Gemini summary:
 
 ### 1. Ready-at-hand (_Zuhandenheit_)
@@ -34,6 +37,7 @@ Heidegger argued the opposite: **Ready-at-hand** is our primary reality. We are 
 # Inner Game of Tennis ([[Nosilverv]] tweet)
 - ![[1773564931638.webp]]
 ## Guy's first twitter thread about this
+- https://x.com/nosilverv/status/1978051451474657536
 - Full post version is here:
 	
 	- ![[Vorhandenheit und Zuhandenheit - The Autistic Mercury.pdf]]
@@ -56,3 +60,6 @@ Heidegger argued the opposite: **Ready-at-hand** is our primary reality. We are 
 - It's unlikely that it's genetics. It also doesn't matter what caused it. That's narcissistic masturbation archeology. What matters is that there is a solution: you must once again become an embodied *being* (not object) among other embodied *beings*.
 
 ## Guy's second twitter thread about this
+- ![[1773565921741.webp]]
+- Thinking about how in The Inner Game of Tennis he suggests ==bricking your opponent== by asking him to think about what he's doing, making the racket go from ready-to-hand to present-at-hand Anyways, who thought you about looking at your life as if from a third-person perspective?
+- https://x.com/nosilverv/status/1978051451474657536

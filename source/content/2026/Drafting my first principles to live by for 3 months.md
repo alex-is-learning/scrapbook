@@ -10,6 +10,9 @@ date: 2026-03-14
 - Or e.g., remembering being a young kid and really liking attention in a very Leo way. Something that made me somewhat unusual, somewhere else on the bell curve for that trait
 - So really, it's mapping "for what traits am I n standard distributions away from the middle of the bell curve?"
 
+Sasha Chapin, from [[Chanda (wholesome desire, zeal)]]
+
+> We also tend towards poor intuitions about chanda. Perhaps we say to ourselves: “my intuition is telling me that I need to become a CEO to be happy.” But it would be weird if that were the case, because the ==intuition mechanisms in your mind are much older than job titles==. What’s likelier is that there are ==certain _configurations of experience_ that will make you happy==. Like “leading a group of people,” or “slowly turning something over in your mind,” or “transmuting reality into an artistic representation.”
 
 # 1. Understand 
 - As a kid, I was good at school, good at maths, one of the smartest in the class, etc
