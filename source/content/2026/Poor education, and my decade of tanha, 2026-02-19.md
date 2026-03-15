@@ -6,10 +6,12 @@ tags:
   - growth
 ---
 - [[Log per day - 2026]]
+- This is quite a self-indulgent, lyrical, purple prose-y bit of writing! I was enjoying myself
+
 ## Ramblings on being poorly educated 
 > *Mostly not interesting!*
 
-I literally cannot write without the imagined panopticon; it must be witnessed or else it does not exist; I do not count as a witness: the third literally from the first.
+I literally cannot write without the imagined panopticon; it must be witnessed or else it does not exist; I do not count as a witness: the third literally from the first.[^11]
 
 I am, literally[^1], too unschooled to be published. Errors of ignorance, literally imperceptible to myself, loudly announce my meagre education. An English state school in the early 21st century, a perfunctory study of the English language, grammar, prose and poetry, metre, many other words that I cannot invoke (probably using that word wrong[^2] too), due to my ignorance, a lack of signifiers, despite a vague awareness of the signifieds, you'd assume, as a 29 year who has read a few serious books.
 
@@ -24,6 +26,8 @@ My fellow unschooled call me a great writer (when I share my minuscule fragments
 ![[1771538854602.webp]]
 - 👆 This is what going to a private school would be. Imagine, to be a child who from 5 to 18, went to private schools, the best in the country, and then to an elite university. These are the people who become geniuses. Almost every celebrity, almost every person of note, comes from the upper class, 95% at least. So difficult to find artistic role models who came from humble or deprived beginnings. (Rappers like Kendrick Lamar are rare exceptions, but even he has a English teacher who encouraged his poetry, saw a Biggie and Tupac video as a child (making it family lore that these people were real and could be experienced in the flesh, that their path could be followed)). This a real preoccupation of mine, and not a useful one - pontificating on how I ended up non-extraordinary. And this is a key theme below, and here I am doing it again, focusing on the lack, not the abundance. A ten year habit, forgive me, I'm getting much better at spotting it.
 ## Tanha, my decade of folly
+- [[Tanha]]
+- This turned into a [substack post](https://alexislearning.substack.com/p/that-i-am-enough-is-undeniable) btw
 - ![[rich-b-group-splits-in-two.webp]]
 
 I will not become extraordinary in the way that I've been seeking to become extraordinary. I believed I could will it with hard work and determination. But I have not been determined, and I have not worked hard. I have flitted from idea to idea, dozens (perhaps hundreds) of seeds abandoned after a few weeks, months, the occasional year. Guitar the rare example of something I stuck with long enough for something to emerge from the soil, never sprouting petals, but still further along than most others reach here. 
@@ -49,7 +53,8 @@ Of course I am extraordinary. How am I extraordinary? Let me count the ways[^8].
 And then of course, this idea, this path of discovery, such a common part of the human experience, of what we come to learn and try desperately to communicate to others who we see ensnared in their ignorance (and this just once example of a no-doubt enormous variety, it took Jed 2 years of solid writing to cut through all his bullshit).
 
 That previous paragraph because the moment I went to write the phrases that did come to me and feel true, the moment I heard the cliched clang, their slippery hollow unreal resonance, worn smooth by constant use, use on deaf ears. They finally fall upon receiving ears, the receiver is stunned, and joins the chorus of attempting to convert the deaf to the genuine profundity. (Imagine how much more sophisticated David Foster Wallace's thoughts must have been compared to mine; literally impossible for me to do. I would not have passed the entrance exam to attend Pomona where he taught, he taught bright well-educated kids, my lack of grammar would have been beyond him). 
-	### Pontificate on the lack, devalue what I have
+
+### Pontificate on the lack, devalue what I have
 But anyway, back to the matter at hand. That previous paragraph is also representative of my mistake here. I pontificate on what I lack, rather than facing and embracing what I have. It's as simple as that, and as foolish. Those who love me are endlessly frustrated and saddened (gently, tenderly) to see me doing this, and hold out hope that one day this will change, and I am pleasant enough despite my misapprehension (sometimes very pleasant indeed, charming and funny and warm, sometimes tense and miserable and harried).
 
 And this why women have loved me (well, one deeply, and a few have been interested at first before my immaturity caused various collapses). Baffling to myself, something that to this day does not fit into my paradigm. And this is why. People see my strengths, the good in me. I face away and look anxiously to an imagined horizon, squinting, taking various paths that lead nowhere, as the "out there" that I'm stumbling into is actually an illusion. I'm stumbling in place, ignoring my luck, my bounty, ones who love me, ones I could love, if I would only turn around.
@@ -61,6 +66,7 @@ And it's not easy, because it involves dropping your gaze from that distant summ
 And this hints at the fact that neither stance is complete. Sometimes, we must think of our imagined future: goals, dreams, possible paths. Hyperstition a better life. And sometimes (far more often, it seems to me[^9], we must honour the now. It's as simple as remembering to abide in the real, not the imagined, because the imagined is far more likely to lead you astray (for example, 10 years on a ~wild goose chase, all due to bad philosophy, a piece of ignorance atop which a life was built).
 
 ![[rich-hyperstitioning.webp]]
+
 ---
 ## Kensho is more profound if you rejected layer 1
 Becoming slightly less lyrical, it's funny* how I keep re-stumbling across that stream entry/kensho experience of [[Layer 2 being foregrounded to layer 1 being foregrounded]], and e.g. [[Guy (@nosilverv) - sensations vs imaginations model]]
@@ -110,3 +116,5 @@ But how could someone with more proof of love that can be counted, need saving? 
 [^9]: This where we should abide from? Is this me retelling "left-hemisphere capture", the emissary stealing the throne from the master?).
 
 [^10]: Also, it's not like, a gradual change, as much as it is a gradual returning to the "I'm ok" state, and then falling out of it for ages, and then returning to it, and falling out again, and gradually you return more frequently, fall out less often, and your time existing in that state grows, until it's where you abide from. I think that's the progression here. It's a binary, "am I in the state, or not", and there's a measure of how long you remain in the state.
+
+[^11]: It's tempting to add after-the-fact footnotes to this whole note to explain what I was on about (it's a month later now). This is basically "isn't it mad that I don't write for myself, I have to publish my writings on this website in order to make thinking happen in a rigourous way".

@@ -1,0 +1,2 @@
+- See [[Chanda]], that page outlines both
+- See also [[Poor education, and my decade of tanha, 2026-02-19]]

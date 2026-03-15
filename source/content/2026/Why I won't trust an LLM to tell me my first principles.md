@@ -42,3 +42,9 @@ date: 2026-03-14
 So, I'm looking within to make my own 
 
 - [[Drafting my first principles to live by for 3 months]]
+
+# Appendix - what can you use LLMs for?
+- They're still great for e.g. getting prompts, questions to ask yourself, and summaries of fields, ideas, etc
+- If you're treating it as wiser than you, about *yourself*, then you're dumb
+- But if you're using it to gather external stuff to test internally, then that's ok
+- Just never substitute its external suggestions for internally-sense-checked stuff

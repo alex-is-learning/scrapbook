@@ -2,8 +2,15 @@
 date: 2026-03-14
 ---
 - After, [[Why I won't trust an LLM to tell me my first principles]]
-- Note that Brene Brown's shit might be better, but I haven't tried it on yet
-- Also note that the below is incomplete, I keep getting distracted 
+- *Note that Brene Brown's shit might be better, but I haven't tried it on yet*
+- *Also note that the below is 🚨 incomplete 🚨, I keep getting distracted* 
+# New approach to this
+- My new approach is to look at my own life and think about what I've liked, been genuinely good at, and think back to when the seed was first planted
+- E.g., let's say it's learning the guitar, something I clearly did from a chanda place - what was my motivation?
+- Or e.g., remembering being a young kid and really liking attention in a very Leo way. Something that made me somewhat unusual, somewhere else on the bell curve for that trait
+- So really, it's mapping "for what traits am I n standard distributions away from the middle of the bell curve?"
+
+
 # 1. Understand 
 - As a kid, I was good at school, good at maths, one of the smartest in the class, etc
 - I was the best at writing in my year
