@@ -10,6 +10,8 @@ permalink: log-per-day
 	- [[Heidegger, ready-at-hand vs present-at-hand]]
 	- [[What am I doing on this website? 2026-03-15]]
 	- [[Setting up a canonical website, 2026-03-15]]
+	- [[Learning how to use logic to critique my arguments, 2026-03-15]]
+	- [[Quitting instant messaging apps, 2026-03-15]]
 - 2026-03-14
 	- [[Alex and Simmo doing first principles thinking, 2026-03-14]]
 	- [[What my astrology sheds light on, 2026-03-14]]

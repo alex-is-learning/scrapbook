@@ -9,6 +9,7 @@ date: 2026-03-14
 - E.g., let's say it's learning the guitar, something I clearly did from a chanda place - what was my motivation?
 - Or e.g., remembering being a young kid and really liking attention in a very Leo way. Something that made me somewhat unusual, somewhere else on the bell curve for that trait
 - So really, it's mapping "for what traits am I n standard distributions away from the middle of the bell curve?"
+- UPDATE: I'm now thinking of this whole thing as *chanda-mapping* ([[Chanda (wholesome desire, zeal)]])
 
 Sasha Chapin, from [[Chanda (wholesome desire, zeal)]]
 
