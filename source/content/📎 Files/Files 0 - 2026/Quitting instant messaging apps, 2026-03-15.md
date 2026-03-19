@@ -13,3 +13,5 @@ date: 2026-03-15
 - There's a fallacy introduced which is like "we should keep in touch, because we can"
 - I think I'd much prefer a thing of like "ok cool, I'll call you in 6 months?", with a friend who I'm not going to see for ages
 - I no longer live in London, so my London friends are no longer in my life in a meaningful way, and IMO, that's ok. I have new in person friends. You've gotta prioritise the chanda
+## Not to mention how many frickin times I check messaging apps per day
+- Like, 50-100 times? Every time I context switch? Ridiculous dude. Nothing is ever that time-sensitive, I just want the dopamine, the feeling of connection

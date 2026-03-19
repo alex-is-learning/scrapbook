@@ -4,6 +4,8 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 
 # Mar 2026
+- 2026-03-19
+	- [[I've gotten into astrology, 2026-03-19]]
 - 2026-03-15
 	- [[Chanda (wholesome desire, zeal)]]
 	- [[Disclaimer - The consensus-ism model is a work in progress]]
@@ -12,6 +14,8 @@ permalink: log-per-day
 	- [[Setting up a canonical website, 2026-03-15]]
 	- [[Learning how to use logic to critique my arguments, 2026-03-15]]
 	- [[Quitting instant messaging apps, 2026-03-15]]
+	- [[What if I'm actually already a pretty good thinker? 2026-03-15]]
+	- [[Simmo's list of communities]]
 - 2026-03-14
 	- [[Alex and Simmo doing first principles thinking, 2026-03-14]]
 	- [[What my astrology sheds light on, 2026-03-14]]

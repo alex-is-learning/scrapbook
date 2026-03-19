@@ -131,6 +131,12 @@ I’ve been making a practice of replacing tanha with chanda by (1) noticing whe
 
 This switch to cleaner motivation is having very immediate benefits. Try it!
 
+# Appendix
+> Rough ideas/notes
+
+## Chanda and epistemics
+- does chanda precede epistemics?? yes!!? because like, it’s pure signal. don’t even need to intellectualise. all you need. And you can use thinking to find a more durable or consistent shaped thing, or way to channel chanda to a better eventual outcome or some shit, but still, no intellectualising, no epistemics needed, to find the initial chanda, boom
+
 ---
 
 Disclaimer: I AM NOT A BUDDHIST TEACHER OR SCHOLAR, I'M JUST A GUY INFORMALLY RESEARCHING HOW TO LIVE THE GOOD LIFE

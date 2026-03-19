@@ -2,8 +2,8 @@
 tags:
   - personal-history
 ---
-
-- From a manager
+- [[Feedback, references]]
+- From a manager at Alvea, 2023
 # 1. Warmth
 ## A+ teammate vibes
 - You’re easy and fun to talk to

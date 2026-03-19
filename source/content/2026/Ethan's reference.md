@@ -1,4 +1,10 @@
-**I worked with Alex Large at Alvea, a biotech company I co-founded and co-run, from Jan-Oct 2022. I knew Alex from blog posts he’d shared online about taking atomic notes, which we’d spoken about and compared strategies on. Alvea was less than two weeks old and growing extremely quickly (we were speedrunning a new covid vaccine to clinical trial and expanding the team to take that on). As you might imagine, our digital systems were disorganized and on the verge of falling apart- a major hindrance to a primarily remote company. I was wracking my brain for people to help with this and Alex, the master of structured notetaking, came to mind.
+- [[Feedback, references]]
+- [Original Google Doc](https://docs.google.com/document/d/1mBN-iWSwoYM8zUMU25iPGs9Glgzzq3Ps1DRWEivRiFg/edit?tab=t.0)
+- Ethan Alley, co-founder of Alvea, Jan 2023 
+
+---
+
+I worked with Alex Large at Alvea, a biotech company I co-founded and co-run, from Jan-Oct 2022. I knew Alex from blog posts he’d shared online about taking atomic notes, which we’d spoken about and compared strategies on. Alvea was less than two weeks old and growing extremely quickly (we were speedrunning a new covid vaccine to clinical trial and expanding the team to take that on). As you might imagine, our digital systems were disorganized and on the verge of falling apart- a major hindrance to a primarily remote company. I was wracking my brain for people to help with this and Alex, the master of structured notetaking, came to mind.
 
 Alex was originally hired to build a knowledge management system for us, but his responsibilities rapidly expanded and changed. Here are a few things he did the first few months of working with us (not exhaustive):
 
@@ -14,4 +20,4 @@ I think this gives a flavor of Alex’s adaptability. The projects Alex worked o
 Throughout the time we worked together Alex was managed by me. He had very little direction from me in what he should work on, rather deciding on the above projects based on his own sense of what would move the needle on our internal processes. I think this level of autonomy was made possible by what I might call his “metacognitive emphasis”- he spends a lot of effort and consideration thinking about how to improve and get better at reasoning about aspects of his own thinking and process beyond the object level. For instance, he’s very intentional about his own productivity and figuring out his personal failure modes. Because of this, he’s someone I expect to see growing — by redefining himself and his capabilities— more frequently than others. Just like he experimented with software systems for Alvea to use, Alex seems to take an experimental approach to his own process and approach to work. Seeing what fits, and iterating on that. 
 
 Another theme in both the projects I shared above and my experience working with him is that Alex is a good person to work with. He’s friendly, thoughtful, funny and attentive.  I think he’s particularly good at digital communication, making new folks at Alvea feel quickly welcome and connected without actually meeting them face to face. Many of Alex’s best projects involved thinking about software or internal processes and the interface they have with the people and communities using them. Software / process understanding plus community/culture-orientation.  
-Overall, I enjoyed working with Alex and would like to work with him again some day. You might like working with him too.**
+Overall, I enjoyed working with Alex and would like to work with him again some day. You might like working with him too.

@@ -1,3 +1,9 @@
+- [[Feedback, references]]
+- [Original Google Doc](https://docs.google.com/document/d/167F1KqTOYolQXr6eVGlFZMv9yrNxJHaLsoQ3Js8VJtI/edit?tab=t.0)
+- Brent Baumgartner, founder of Refract, March 2025 
+
+---
+
 Hello,
 
 As the founder & CEO of [Refract](https://refract.space) (an AI Companion for Internal Family Systems therapy) I had the pleasure of working with Alex over the period of about a year. During that year we launched a product, ran a cohort-based course, built a team, reached product-market fit in a notoriously-difficult market to crack, and consequently had a deep impact on a number of our users. Alex was an instrumental part; I don’t say “I couldn’t have done this all without him” lightly.
