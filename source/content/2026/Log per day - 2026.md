@@ -4,6 +4,8 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 
 # Mar 2026
+- 2026-03-22
+	- [[Jacobus book]]
 - 2026-03-19
 	- [[I've gotten into astrology, 2026-03-19]]
 - 2026-03-15

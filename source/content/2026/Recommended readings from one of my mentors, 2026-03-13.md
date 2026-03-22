@@ -6,7 +6,7 @@ created: 2026-03-13
 date: 2026-03-13
 ---
 - [[Log per day - 2026]]
-- I talked with one of my mentors (the executive director at the EA Hotel) about my whole "I didn't get a proper education, maybe I should go back to university, do a real undergraduate degree at a real university, like Oxford", as discussed in:
+- I talked with one of my mentors (Attila, the executive director at the EA Hotel) about my whole "I didn't get a proper education, maybe I should go back to university, do a real undergraduate degree at a real university, like Oxford", as discussed in:
 	- [[Re wanting to learn how to think, 2026-03-04]]
 	- [[Poor education, and my decade of tanha, 2026-02-19]]
 	- [[What do you learn at private school that you don't learn at a public school?]]
@@ -20,6 +20,7 @@ date: 2026-03-13
 - (But note that he's also reminded me not to do the whole seeking, "I'm-not-okay-until-I've-achieved-this-thing, thing)
 # Books
 ## Jacobus - A World of Ideas for College Writers
+- [[Jacobus book]]
 - ![[1773398608716.webp|200]]
 - "==Read pages 1-50 of the Jacobus book=="
 - "And then the sections on:"
