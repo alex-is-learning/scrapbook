@@ -1,6 +1,7 @@
 ---
 date: 2026-03-22
 ---
+- [[Log per day - 2026]]
 - From [["A World of Ideas" by Lee Jacobus]]
 - ![[1774214506809.webp]]
 - The "critical reading" section of Jacobus outlines:
@@ -21,7 +22,7 @@ date: 2026-03-22
 - From NotebookLM:
 > **Prereading** is the initial stage of the critical reading process, defined as **developing a sense of what a piece is about** and identifying its **general purposes**. In the context of the sources, this process is designed to make the task of reading "more delightful, more useful, and much easier" by providing a framework for understanding complex ideas before diving into the full text
 
-And guidance given for how to do this, but Jacobus book-specific as it has prereading questions etc:
+(And guidance given for how to do this, but Jacobus book-specific as it has prereading questions etc:)
 - **Reading Part Introductions**: Before starting a specific selection, readers are encouraged to read the introduction to the "part" (e.g., Democracy or Ethics) to understand the broader issues and questions central to all essays in that section.
 - **Reviewing Headnotes**: Each selection is preceded by a detailed headnote that supplies **historical background** on the author, sets the intellectual stage, and identifies the writer's **main points** and **rhetorical methods**.
 - **Scanning the Text**: Quickly scanning a selection for **subheadings** can provide a "map or guide" to the essay's structure and meaning.
@@ -54,6 +55,7 @@ The Ninth Edition of the text includes a **modeled example** of this process, fe
 ## 3. Questioning 
 - This was a key thing that I got from Defender of Basic & ORI. Create hypotheses, create a model, investigate, etc.
 - E.g., all the way back on June 15th 2025, when I started this website to do the ORI thing, e.g. [[Israel & Iran (session 2)]]
+- It's also just like, pretty obvious dude. Although I probably didn't do it for my first n years of trying to educate myself, instead taking whatever was said as High Wisdom To Be Ingested (honestly I've been doing this to some degree this whole time)
 ### Notes from NotebookLM
 In the context of critical reading, **questioning** is the process of raising issues that you feel need to be taken into consideration, whether you believe an author has treated those issues well or poorly. It is a key component of **active reading**, which requires moving beyond passive reception to hold an "inner dialogue" with the author.
 
@@ -73,7 +75,7 @@ To assist with challenging texts, the book provides **two or three prereading qu
 
 A Strategy for Writing
 
-Questioning is also presented as one of the most reliable ways to **generate topics for writing**. Many influential thinkers, such as James Madison, Adam Smith, and Charles Darwin, structured their landmark works by starting with a central question and then answering it. You can apply this by:
+Questioning is also presented as one of the most reliable ways to **generate topics for writing**. Many influential thinkers, such as James Madison, Adam Smith, and Charles Darwin, structured their landmark works by ==starting with a central question and then answering it==. You can apply this by:
 
 - Turning your margin annotations into formal questions for an essay (e.g., "Should a leader be armed?").
 - Asking "useful questions" of any text, such as: "What is the author's purpose?", "What claim is being made?", and "Does the author omit contradictory evidence?".
@@ -85,11 +87,15 @@ Ultimately, the sources suggest that once you begin a line of questioning, your 
 ### Notes from NotebookLM
 **Reviewing** is the critical reading stage that follows a close, active reading of a text. It involves **rereading your annotations and underlinings** to grasp the "entire picture" of the work.
 
+> This reminds me of the "Hermeneutic Circle" that I got from Heidegger. [[Hermeneutic circle, hermeneutic spiral]], throwback
+
 According to the sources, the reviewing process consists of several key elements:
 
 The Core Purpose
 
 The primary goal of reviewing is to **account for the major ideas** uncovered during your initial reading. While an initial reading focuses on the details, reviewing allows you to step back and see how those details form a cohesive argument or "raw form".
+
+> I've been doing this for ages, super obvious innit
 
 Effective Techniques
 

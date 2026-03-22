@@ -1,6 +1,7 @@
 ---
 date: 2026-03-22
 ---
+- [[Log per day - 2026]]
 - 2026-03-22
 - First written about here - [[Recommended readings from one of my mentors, 2026-03-13]]
 - ![[1773398608716.webp|200]]
