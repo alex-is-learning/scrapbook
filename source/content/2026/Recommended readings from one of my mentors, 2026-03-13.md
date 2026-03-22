@@ -20,7 +20,7 @@ date: 2026-03-13
 - (But note that he's also reminded me not to do the whole seeking, "I'm-not-okay-until-I've-achieved-this-thing, thing)
 # Books
 ## Jacobus - A World of Ideas for College Writers
-- [[Jacobus book]]
+- [["A World of Ideas" by Lee Jacobus]]
 - ![[1773398608716.webp|200]]
 - "==Read pages 1-50 of the Jacobus book=="
 - "And then the sections on:"

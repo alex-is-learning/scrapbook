@@ -5,7 +5,8 @@ permalink: log-per-day
 
 # Mar 2026
 - 2026-03-22
-	- [[Jacobus book]]
+	- [["A World of Ideas" by Lee Jacobus]]
+	- [[Critical Reading, according to Jacobus]]
 - 2026-03-19
 	- [[I've gotten into astrology, 2026-03-19]]
 - 2026-03-15
