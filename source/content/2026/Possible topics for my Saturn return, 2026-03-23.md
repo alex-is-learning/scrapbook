@@ -89,18 +89,20 @@ Here's what stands out from the chart:
 Saturn returns aren't punishments — they're more like a firm checkpoint. Whatever foundations you build now around work, health, and self-reliance will carry you through the next 29 years. It can feel heavy, but people often look back on their Saturn return as the period where they truly grew up.
 ### Ok, this is great
 - The tension I'm living in right now is the: how much Leo shiny nice-to-everyone energy should I be in, vs how much should I get my head down, value the people I value and ~drop[^1] the people I don't value, get my shit together, be more disciplined with my days, say no to far more things, go much deeper on the few things I say yes to, etc
-
+- It really does feel very discipline-coded. And like, I'm a few small turns away from a much richer life. It's like, I have all the power tools I need, I have these big jumbo diesel-powered tools that I've been building for years, I just need to throw away the dumb little manual tools I've continued to play around with, and create a more rigourous schedule of what-power-tool-to-use-when to ensure they're getting the most use-per-week 
 ## What the app "The Pattern" says, given my chart
 > Note that I trust this less than Claude Opus 4.6
 
-Your Saturn return might be about learning to trust your own worth beyond just being responsible for others. With Saturn challenging your Venus and Mars, you could be facing deep questions about whether you're truly receiving the love and emotional security you give so freely. 
+Your Saturn return might be about learning to ==trust your own worth beyond just being responsible for others==. With Saturn challenging your Venus and Mars, you could be facing deep questions about whether you're truly receiving the love and emotional security you give so freely. 
 
-This period may push you to examine whether you've been settling for relationships where you feel undervalued or where your nurturing nature gets taken for granted. You might need to confront any patterns where you overextend yourself emotionally while struggling to ask for what you need in return. 
+This period may push you to examine whether you've been ==settling for relationships where you feel undervalued or where your nurturing nature gets taken for granted==. You might need to confront any patterns where you ==overextend yourself emotionally== while struggling to ask for what you need in return. 
 
-The tension between your desire for stability and the disruptive forces in your life could come to a head now. You're being asked to build structures that honor both your need for security and your right to have passionate, fulfilling connections. 
+The tension between your desire for stability and the disruptive forces in your life could come to a head now. You're being asked to build ==structures that honor both your need for security and your right to have passionate, fulfilling connections==. 
 
-There's likely a reckoning happening around how you define strength - whether through self-sacrifice or through setting boundaries that protect your energy. This transit could reveal where you've been giving your power away in the name of being dependable. 
+There's likely a reckoning happening around how you define strength - whether through self-sacrifice or through ==setting boundaries that protect your energy==. This transit could reveal where you've been ==giving your power away== in the name of being dependable. 
 
-You might find yourself reevaluating what true emotional responsibility looks like - not just taking care of others, but creating relationships where your depth and intensity are fully welcomed and reciprocated.
+You might find yourself reevaluating what ==true emotional responsibility== looks like - not just taking care of others, but creating relationships where your ==depth and intensity are fully welcomed and reciprocated==.
+
+👆 ok, this is pretty amazing actually, feels very on point. Hell yeah 😎 
 
 [^1]: Can't find a word for this that doesn't feel harsh! But I guess maybe it is harsh, and that's ok
