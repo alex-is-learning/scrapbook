@@ -16,6 +16,9 @@ tags:
 	- [Google Doc](https://docs.google.com/document/d/10dW1QWqK-GtL1IY1VjoSEpV0MOqHaScsPNIONNcmy6E/edit?tab=t.0)
 	- [[Rob's reference]]
 - [[Misc Alvea feedback, 2023]]
+## April 2025 CV for [Longview Philanthropy](https://www.longview.org/)
+- CV for Longview Philanthropy "Executive Assistant to the Office of the CEO" role. I was one of two finalists for this role, and was very excited about it as I'd be sat with the CEO (Simran) and Chief of Staff (Gavin) every day. Gavin was an executive assistant for 2 years before becoming the CoS at Longview. I was (and remain!) very excited at the idea of working with people who existed a few rungs above me in the competence/agency ladder, to pick up their tacit knowledge and rapidise my growth. (I was inspired by Daniel Chambliss' paper ["The Mundanity of Excellence"](https://academics.hamilton.edu/documents/themundanityofexcellence.pdf))
+- ![[Longview_CV.pdf]]
 ## From friends that I've worked with 
 - Simmo, October 2025
 	- [Google Doc](https://docs.google.com/document/d/1h2r2g2GtjooFZo8bHzak9QzbEMPY2TaqOFpLHYXam9I/edit?tab=t.0#heading=h.duh2sqfz26gh)
