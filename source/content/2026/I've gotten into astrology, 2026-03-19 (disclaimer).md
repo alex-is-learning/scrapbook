@@ -3,6 +3,9 @@ date: 2026-03-19
 ---
 - 2026-03-19
 - Just writing a quick scrappy thing
+- Other relevant pages
+	- [[My Mercury is in Virgo]]
+	- [[Possible topics for my Saturn return, 2026-03-23]]
 
 Recently I've gotten into astrology, and I wanted to create a quick kind of "disclaimer" page on here that I can point to whenever I invoke an astrology concept. 
 

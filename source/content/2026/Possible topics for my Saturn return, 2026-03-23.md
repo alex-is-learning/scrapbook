@@ -15,8 +15,8 @@ date: 2026-03-23
 - ![[On feedback-1761561281536.webp]]
 - Also this
 - ![[On feedback-1761561161530.webp]]
-- Saturn is a supportive hard-ass, basically
-- From Claude:
+- Saturn is a supportive hard-ass, basically. And will criticise your plans for the skyscraper, rather than Jupiter's "hell yeah, do it!!!"
+	- I feel like I'm often in Saturn mode in conversations with people at the EA Hotel. I see a lot of people in Jupiter mode, and see how faulty their logic is, and push back a lot. I am considered very disagreeable, but someone has to do it 😅 it really feels like I've lived from the naive, super optimistic Jupiter mode for so long that I am now *really* in the cold-water-to-the-face Saturn mode. Maybe that's a part of the Saturn return too, becoming more Saturn-infused!
 ## Claude
 In astrology, Saturn is considered the planet of ==discipline, responsibility, and life lessons==.
 
@@ -54,7 +54,6 @@ In short: Saturn is the ==tough-love planet==. It's not flashy or fun, but it's 
 # Does astrology claim that my Saturn Return will be about something specific, based on my chart?
 - I imagine so! 
 - I imagine that, according to my chart, Saturn was in a particular *house* when I was born, and during the return, it returns to that same house?
-- Claude:
 ## Claude
 You've got the right idea! Here's a fuller picture:
 
