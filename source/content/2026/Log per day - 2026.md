@@ -27,7 +27,7 @@ permalink: log-per-day
 	- [[What my astrology sheds light on, 2026-03-14]]
 	- [[Why I won't trust an LLM to tell me my first principles]]
 	- [[Drafting my first principles to live by for 3 months]]
-	- [[Externalism vs internalism]]
+	- [[Externalism vs internalism 1]]
 - 2026-03-13
 	- [[Recommended readings from one of my mentors, 2026-03-13]]
 - 2026-03-12

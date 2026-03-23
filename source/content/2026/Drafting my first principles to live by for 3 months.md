@@ -53,7 +53,7 @@ What if claude is already evil and it's subtly giving us shit answers?
 # Brene Brown's 10
 From her book "Daring Greatly"
 
-This seems, plausibly, better than what I was doing (although of course, beware of [[Externalism vs internalism]] - gotta sense-check her things against my lived experience)
+This seems, plausibly, better than what I was doing (although of course, beware of [[Externalism vs internalism 1]] - gotta sense-check her things against my lived experience)
 
 1. **Cultivating Authenticity:** Letting go of what people think.
 2. **Cultivating Self-Compassion:** Letting go of perfectionism.
