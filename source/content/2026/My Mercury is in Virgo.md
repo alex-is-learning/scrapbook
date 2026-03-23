@@ -4,7 +4,7 @@ date: 2026-03-19
 - 2026-03-19
 - I've been really loving astrology recently as a language for shedding light on the self and others
 - According to astrology, my Mercury is in Virgo. This is considered the best placement for Mercury, and it feels like it provides a nice pointer/handle for my "meta-cognition" skills, which have been a key strength of mine (e.g., Ethan pointed at it here - [[Ethan's reference|Ethan's reference]])
-- Disclaimer note to soothe my part that's like "oh god, if people see my invoking astrology concepts will they think I'm super woo and have bad epistemology/metaphysics" → [[I've gotten into astrology, 2026-03-19]]
+- Disclaimer note to soothe my part that's like "oh god, if people see my invoking astrology concepts will they think I'm super woo and have bad epistemology/metaphysics" → [[I've gotten into astrology, 2026-03-19 (disclaimer)]]
 
 # Prompting an LLM - "what does it mean"
 
