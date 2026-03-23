@@ -15,5 +15,12 @@ date: 2026-03-22
 - Also really exciting to realise → I've been following genuine aliveness, [[Chanda (wholesome desire, zeal)]], consensus, etc. My natural energy has led me to do this for *years* dude. So good! It's been happening!
 # Topics
 - [[Critical Reading, according to Jacobus]]
-- [[Key Rhetorical Methods, according to Jacobus]]
+- [[Critical Writing - Key Rhetorical Methods, according to Jacobus]]
 - [[The 3 argument types, according to Jacobus]]
+
+# Screenshots
+- ![[1774251315471.webp]]
+- ![[1774251344685.webp]]
+- ![[1774251287490.webp]]
+- ![[1774251400711.webp]]
+- ![[1774251457592.webp]]

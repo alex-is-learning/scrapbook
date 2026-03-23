@@ -5,9 +5,24 @@ date: 2026-03-22
 - 2026-03-22
 - [["A World of Ideas" by Lee Jacobus]]
 - ![[1774214506809.webp]]
-# 1. Definition
+# 1. Formulating a thesis statement
+In the context of _A World of Ideas_, formulating a **thesis statement** is described as one of the most critical steps in the writing process. It is defined as an **assertion** that must be "made good" by the specifics of your writing, such as facts, expert opinions, or textual analysis.
+
+How to Formulate a Thesis
+
+The sources provide several guidelines for creating a strong thesis:
+
+- **Ask and Answer a Question:** A reliable way to generate a thesis is to turn your reading annotations into a question and then use your essay to provide the answer.
+- **Identify Your Subject and Aim:** A good thesis identifies what you are arguing or explaining. It should act as a **"signpost,"** guiding the reader and controlling the scope and focus of the essay.
+- **Keep it Dynamic:** A thesis is not "carved in stone." It is a **dynamic element** that should be recast and refined as you write and your thinking evolves.
+- **Choose an Appropriate Form:** You can state your thesis **plainly** (best for persuasive or informative writing) or **imply** it (common in expressive writing). It can be a single sentence or a group of sentences.
+- **Determine Your Category:** The sources highlight different types of theses used by great thinkers, including those that **state a position** (Rousseau), **establish a cause** (Thoreau), **state an opinion** (Carnegie), **analyze a circumstance** (Woolf), **define a condition** (Greer), or **establish a conclusion** (Jung)
+# 2. Methods of development
+- ![[1774251637942.webp]]
+- ![[1774251714107.webp]]
+## 1. Definition
 - Actually defining shit. Sometimes you can do this in a sentence, sometimes a paragraph, sometimes it takes a lot more nuance, and further things like examples and comparisons
-## NotebookLM notes
+### NotebookLM notes
 The rhetorical method of **definition** is presented in the sources as an essential tool for ensuring both the ==writer and the reader have a clear grasp of complex concepts==. Rather than relying on simple dictionary entries, which the text describes as "facile," effective definition involves **detailed explanation followed by examples**.
 
 Key aspects of this method include:
@@ -33,9 +48,9 @@ The text highlights several authors who masterfully use definition:
 - **Martin Luther King Jr.:** In "Letter from Birmingham Jail," he defines **just and unjust laws**. He clarifies that an unjust law is a code a majority compels a minority to follow but does not make binding on itself, effectively defining it as "difference made legal". He further extends this definition by explaining the circumstances, such as when a law is inflicted on a minority denied the right to vote.
 - **Germaine Greer:** In "Masculinity," she uses definition to establish her thesis, distinguishing between "maleness" as a natural biological condition and **"masculinity"** as a cultural construct or gender.
 - **Rashida G. (Student Writer):** An example provided shows a student using definition to distinguish between **"natural liberty"** (freedom in nature) and **"civil liberty"** (freedom within a societal group) based on the writings of Jean-Jacques Rousseau.
-# 2. Comparison
+## 2. Comparison
 - Comparing things. Obvious 
-## NotebookLM
+### NotebookLM
 **Comparison** is described in the sources as a "natural operation of the mind" and a fundamental component of both critical reading and effective writing. It allows readers to move beyond passive consumption of information and participate in a "universal dialogue" by ==identifying contradictions, shared qualities, or unique differences== between various thinkers.
 
 The sources detail comparison in several specific contexts:
@@ -66,9 +81,9 @@ The sources provide several models of how this method is applied by influential 
 - **Student Writing**: One student example compares ==Freud’s Oedipus complex to Jung’s archetypes==, arguing that despite their disagreements, both thinkers view these patterns of human behavior as **universal and "built in" to people**.
 
 By engaging in these comparisons, students are able to "conquer the invisible" in complex texts and develop original arguments for their own essays
-# 3. Example
+## 3. Example
 - Giving examples innit
-## NotebookLM
+### NotebookLM
 **Development by example** is a rhetorical method used to ==make abstract ideas concrete and understandable==. According to the sources, examples are essential for either convincing a reader that a proposition is true or for deepening their understanding of a complex statement.
 
 The sources outline specific strategies and ways that examples are employed by the thinkers in the text:
@@ -100,9 +115,9 @@ Notable Uses in the Text
 - **Thomas Jefferson and Elizabeth Cady Stanton:** Both use a list of "facts" or examples of "==repeated injuries and usurpations==" to prove the existence of tyranny in the Declaration of Independence and the Declaration of Sentiments, respectively.
 - **Carl Jung:** He focuses on a "single example"—a woman with a "father complex"—and develops it extensively for over two pages to illustrate the nature of the collective unconscious.
 - **Margaret Mead:** She uses examples from various societies to demonstrate that masculine and feminine temperaments are not biologically fixed but vary by culture
-# 4. Cause and Effect
+## 4. Cause and Effect
 - Examining cause and effect. Asserting that thing x is caused by thing y
-## NotebookLM
+### NotebookLM
 **Development by Analysis of Cause and Effect** is a rhetorical method used to explore ==why something happens== or to speculate on the potential outcomes of a specific action. Because the relationship between a cause and its result can be subtle and complex, the sources emphasize that this method requires careful, thoughtful examination and a strong line of reasoning.
 
 Key aspects of this method include:
@@ -133,9 +148,9 @@ The sources highlight how several influential authors rely on this method to dev
 - **Henry David Thoreau:** He establishes the specific injustices (causes) that make civil disobedience a necessary effect.
 
 Ultimately, understanding cause and effect helps a reader move beyond just identifying _what_ happened to understanding the deeper **reasoning and circumstances** behind an author's claims
-# 5. Analysis of Circumstances
+## 5. Analysis of Circumstances
 - This one felt the least clear to me. I guess like, "why is poverty a thing" ?
-## NotebookLM
+### NotebookLM
 **Analysis of circumstances** is a rhetorical method of development used to explore a situation by examining what is **possible or impossible** within it. Traditionally, this method has two primary parts: determining if a specific course of action is achievable in a given scenario and analyzing past events to predict what might be possible in the future.
 
 The sources outline specific strategies and provide examples of how influential thinkers employ this method:

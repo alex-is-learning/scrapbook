@@ -6,7 +6,7 @@ permalink: log-per-day
 - 2026-03-22
 	- [["A World of Ideas" by Lee Jacobus]]
 		- [[Critical Reading, according to Jacobus]]
-		- [[Key Rhetorical Methods, according to Jacobus]]
+		- [[Critical Writing - Key Rhetorical Methods, according to Jacobus]]
 		- [[The 3 argument types, according to Jacobus]]
 - 2026-03-19
 	- [[I've gotten into astrology, 2026-03-19]]
