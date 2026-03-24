@@ -3,6 +3,7 @@ date: 2026-03-24T15:14:00
 ---
 - 2026-03-24
 - Work-in-progress/scrappy
+- [[Role models]]
 
 Following on from the thread of [[Holding myself and other men to high standards - 2026-03-24]], Milan has been on my mind in the last week or so as a key archetype of "successful provider with lovely wife and great life".
 # Context
@@ -28,7 +29,10 @@ This brings me back to [[Recommended readings from one of my mentors, 2026-03-13
 
 *(I could email Milan (and Andrew) with a quick "hey, how do I learn how to think like you?" thing, but really, Attila is a much higher context person here. I should trust his guidance. The thing from Donna Tartt's A Secret History: “It is is better to know one book intimately than a hundred superficially.”. But you know, substitute "book" for "mentor" (?))*
 
+Another thing here is that he's American. He's presumably lived in the Bay area for 10+ years, literally at the centre of the entrepreneurial world, with all the most interesting people. He's probably middle class, plausibly (probably) has ~knowledge worker parents, etc. Exceptional people typically have relatively stable & supportive childhoods.
+
 # Appendix
 As an aside, I'm having fun conceptualising Milan as an alternative universe version of me. He has blog posts about Kendrick Lamar and D'Angelo. He's existed in the same spaces as me (Effective Altruism, post-rationalism), but in a way more leveled-up way. I'm just now learning to think, I started writing on this site in June 2025, and he's been doing it for 10+ years. Maybe I should consider him a rival (who is over a decade ahead of me and who I have barely any chance of catching up to. Kind of fun to have a Great Adversary in this way, and very humbling/clarifying).
+- [[Learning more about Milan]]
 
 [^1]: There's a pattern of people who are *above my "power"*, mentor-types, "More Knowledgable Other"-types, who engage with me for a bit, but I get into procrastination spirals re: replying to them because I think surely there's nothing in it for them. I can see through this when I think about it clearly, and engaging more with MKOs is a *clear* way for me to level up. It's the reason I wanted to work at Longview Philanthropy, and the reason that I'm now at the EA Hotel, to get mentorship from Attila 
