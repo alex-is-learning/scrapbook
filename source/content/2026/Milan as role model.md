@@ -26,5 +26,9 @@ Like, he wrote this post, "[Heuristics for evaluating performance](https://www.f
 
 This brings me back to [[Recommended readings from one of my mentors, 2026-03-13]]. Sprinting on "learning how to think". Jacobus book, logic primer, *getting feedback* (this is a huge one!). And Attila has said that he'll set my critical essays to write, and critique them. So. Onwards!
 
+*(I could email Milan (and Andrew) with a quick "hey, how do I learn how to think like you?" thing, but really, Attila is a much higher context person here. I should trust his guidance. The thing from Donna Tartt's A Secret History: “It is is better to know one book intimately than a hundred superficially.”. But you know, substitute "book" for "mentor" (?))*
+
+# Appendix
+As an aside, I'm having fun conceptualising Milan as an alternative universe version of me. He has blog posts about Kendrick Lamar and D'Angelo. He's existed in the same spaces as me (Effective Altruism, post-rationalism), but in a way more leveled-up way. I'm just now learning to think, I started writing on this site in June 2025, and he's been doing it for 10+ years. Maybe I should consider him a rival (who is over a decade ahead of me and who I have barely any chance of catching up to. Kind of fun to have a Great Adversary in this way, and very humbling/clarifying).
 
 [^1]: There's a pattern of people who are *above my "power"*, mentor-types, "More Knowledgable Other"-types, who engage with me for a bit, but I get into procrastination spirals re: replying to them because I think surely there's nothing in it for them. I can see through this when I think about it clearly, and engaging more with MKOs is a *clear* way for me to level up. It's the reason I wanted to work at Longview Philanthropy, and the reason that I'm now at the EA Hotel, to get mentorship from Attila 

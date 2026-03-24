@@ -1,4 +1,10 @@
-
+- 2026-03-24
+- [[Milan as role model]]
+- WIP
+- In my personal Obsidian, I have a copy-paste of a Claude Cowork session where I had it sort all his posts by topic
+- I also flagged some that I actually want to read
+- ![[1774377976571.webp]]
+- Below are ones that I've actually read (starting today)
 ## Tech
 * [Make email great again](https://www.flightfromperfection.com/make-email-great-again.html) — 2023-11-18
 - 👆 I've been on a "move my friendships from whatsapp to email" kick this last week and it's already *way better*, so this was cool to see

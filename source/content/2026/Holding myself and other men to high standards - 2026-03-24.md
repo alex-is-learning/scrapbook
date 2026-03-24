@@ -48,6 +48,8 @@ The way I'm currently experiencing it is this: I really like to be "in my mascul
 	- And, enact the inner circle of wise people, [[More Knowledgable Other|More Knowledgable Others]]
 3. Focus on what matters.
 	- First step → map out all the stuff I claim that I have on my plate, see how it's far too much, ruthlessly cull, and say "no" to things by default going forwards (e.g., the "negotiable" of [[INVEST]])
+	- I spent the weekend getting to clarity re: this, via the whiteboard that lives behind my desk, moving from instant messengers to email, deleting bullshit tasks, etc:
+	- ![[1774378127885.webp]]
 
 
 [^1]: The astrology thing here is that women who I am wholeheartedly excited about experience my Leo sun, and men who frustrate me experience my Scorpio rising (and then, the disclaimer → [[I've gotten into astrology, 2026-03-19 (disclaimer)]])
