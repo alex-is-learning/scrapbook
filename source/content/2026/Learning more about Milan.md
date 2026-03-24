@@ -1,4 +1,4 @@
-- [[Milan as role model]]
+- [[Milan as role model, 2026-03-24]]
 - It's worth remembering that we're not the same person. Maybe his path wouldn't suit me at all.
 - It's very humbling to learn more about him. Damn!
 - Open questions:

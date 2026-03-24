@@ -4,10 +4,10 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 # Mar 2026
 - 2026-03-24
-	- [[I've moved from Whatsapp etc to email and so far it's great, 2026-03-24]]
 	- [[Holding myself and other men to high standards - 2026-03-24]]
-	- [[Milan as role model]]
-	- [[Milan resources]]
+	- [[Milan as role model, 2026-03-24]]
+	- [[I've moved from Whatsapp etc to email and so far it's great, 2026-03-24]]
+	- [[Learning to have compassion for others (and for me), 2026-03-24]]
 - 2026-03-23
 	- [[Possible topics for my Saturn return, 2026-03-23]]
 - 2026-03-22

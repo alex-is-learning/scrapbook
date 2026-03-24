@@ -1,6 +1,7 @@
 ---
 date: 2026-03-24T14:12:00
 ---
+- [[Log per day - 2026]]
 - 2026-03-24
 
 Super interesting things afoot right now. 

@@ -1,5 +1,5 @@
 - 2026-03-24
-- [[Milan as role model]]
+- [[Milan as role model, 2026-03-24]]
 - WIP
 - In my personal Obsidian, I have a copy-paste of a Claude Cowork session where I had it sort all his posts by topic
 - I also flagged some that I actually want to read

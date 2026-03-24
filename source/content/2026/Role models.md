@@ -5,7 +5,7 @@
 	- Pascal 
 - Both ~McKinsey consultants
 - Attila
-- [[Milan as role model]]
+- [[Milan as role model, 2026-03-24]]
 - Sim & Gavin of Longview
 
 # Artistic role models 
