@@ -3,6 +3,10 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 # Mar 2026
+- 2026-03-24
+	- [[I'm in a hyper-disagreeable micro-era - 2026-03-24]]
+	- [[Milan as role model]]
+	- [[Milan resources]]
 - 2026-03-23
 	- [[Possible topics for my Saturn return, 2026-03-23]]
 - 2026-03-22

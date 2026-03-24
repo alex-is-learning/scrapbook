@@ -31,17 +31,18 @@ export const defaultContentPageLayout: PageLayout = {
       title: "Recent notes",
       limit: 3,
       showTags: false,
-      // Read dates purely from YAML frontmatter — never from filesystem.
-      // The plugin reads `date:` but not `created:`, so we parse both ourselves.
+      // Sort and filter using the `date:` YAML field only.
+      // Supports both date-only ("2026-03-24") and date+time ("2026-03-24T15:30"),
+      // so multiple notes on the same day are ordered by time descending.
       filter: (f) => {
-        const raw = f.frontmatter?.date ?? f.frontmatter?.created
+        const raw = f.frontmatter?.date
         if (!raw) return false
         const d = new Date(raw as string)
         return !isNaN(d.getTime())
       },
       sort: (f1, f2) => {
         const parseDate = (f: typeof f1) => {
-          const raw = f.frontmatter?.date ?? f.frontmatter?.created
+          const raw = f.frontmatter?.date
           if (!raw) return null
           const d = new Date(raw as string)
           return isNaN(d.getTime()) ? null : d
