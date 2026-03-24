@@ -4,7 +4,7 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 # Mar 2026
 - 2026-03-24
-	- [[I'm in a hyper-disagreeable micro-era - 2026-03-24]]
+	- [[Holding myself and other men to high standards - 2026-03-24]]
 	- [[Milan as role model]]
 	- [[Milan resources]]
 - 2026-03-23
@@ -24,7 +24,7 @@ permalink: log-per-day
 	- [[Setting up a canonical website, 2026-03-15]]
 	- [[Learning how to use logic to critique my arguments, 2026-03-15]]
 	- [[Quitting instant messaging apps, 2026-03-15]]
-	- [[What if I'm actually already a pretty good thinker? 2026-03-15]]
+	- [[What if I'm actually already close to being a pretty good thinker? 2026-03-15]]
 	- [[Simmo's list of communities]]
 - 2026-03-14
 	- [[Alex and Simmo doing first principles thinking, 2026-03-14]]

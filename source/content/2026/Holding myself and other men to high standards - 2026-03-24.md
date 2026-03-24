@@ -35,8 +35,19 @@ The way I'm currently experiencing it is this: I really like to be "in my mascul
 - But apart from the psychologising, I do just like the thing of: I want to be a provider. Having a girlfriend brings out the best in me. 
 - I do think that there's a big way in which I pedestalise women. A mentor guessed that maybe I haven't integrated much of my anima, my feminine, and as such, women feel like "water in a desert" to me, the ability to bask in a source of energy that I don't have access to on my own. This feels largely true to me. I find that feminine women are so *different* from me that I don't judge them in the way that I judge men. I don't see them as failing, I see them as inherently valuable. And of course, it'd be great to see all people this way! But I don't want to turn this into a "should", into [[Tanha]]. This is where I am right now.
 # I'm so tired (of bullshit, of tanha)
-
-
+- I've felt especially averse to being around people in community the last few days because it feels like I'm currently hyper-sensitive to bad thinking, bullshit, and tanha
+	- ![[1774255599567.webp]]
+- People who are Socratically doubly ignorance but "sharing their wisdom to others", people who are almost always talking from the agenda, the "warrant" of "I need to fix myself", etc
+- No more! Please!
+# What happens next?
+1. I want to change my inner circle so that I'm surrounded by [[Chanda (wholesome desire, zeal)|chanda]]-led, wise people. 
+	- First step → make an "ideal Dunbar chart", showing who I should spend energy on
+2. I want to increase my agency. 
+	- First step → make monthly income. 
+		- Why this? There are lots of ways to increase my agency (e.g., start working in a really great team, set up a business, etc). But I think I'm at the point where I do need some money coming in, as I don't want to lose the chance to date this woman
+	- And, enact the inner circle of wise people, [[More Knowledgable Other|More Knowledgable Others]]
+3. Focus on what matters.
+	- First step → map out all the stuff I claim that I have on my plate, see how it's far too much, ruthlessly cull, and say "no" to things by default going forwards (e.g., the "negotiable" of [[INVEST]])
 
 
 [^1]: The astrology thing here is that women who I am wholeheartedly excited about experience my Leo sun, and men who frustrate me experience my Scorpio rising (and then, the disclaimer → [[I've gotten into astrology, 2026-03-19 (disclaimer)]])

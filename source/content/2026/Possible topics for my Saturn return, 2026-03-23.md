@@ -4,7 +4,7 @@ date: 2026-03-23
 - [[Log per day - 2026]]
 - 2026-03-23
 - Again, using an astrology concept, so here's my disclaimer: [[I've gotten into astrology, 2026-03-19 (disclaimer)]]
-# Hello
+# Context 
 - I'm 29.5 right now, meaning that it's the time of my Saturn return
 - My understanding is that:
 	- Saturn is the planet of discipline. "The Great Disciplinarian".
@@ -46,7 +46,7 @@ In short: Saturn is the ==tough-love planet==. It's not flashy or fun, but it's 
 - I've already explored this a bunch on this website because it's very this-website-shaped. Whereas e.g. money and daily judgementalness and overwhelm/overcommitment are more backgrounded, not-being-actively-worked-on things (or at least, they have been up until now! Let's see what happens)
 	- E.g., [[Getting back to Deep Okayness (vs Out-There-ism) (2026-02-14)]]
 ## Tanha friendships
-- I have friends who I think are holding me back, who live in a very [[Tanha]] way, who's conversations are mostly tanha-fueled, are about trying to Improve Themselves or Figure Something Important Out, not realising that they're engaging in bullshit thinking and obsessing over [[Makyo]], who are fundamentally deluded in a haven't-experienced-kensho-type way, who are full of thorns [[The two thorns analogy of Advaita Vedanta]] without realising, etc
+- I have friends who I think are holding me back (in certain ways), who live in a very [[Tanha]] way, who's conversations are mostly tanha-fueled, are about trying to Improve Themselves or Figure Something Important Out, not realising that they're engaging in bullshit thinking and obsessing over [[Makyo]], who are fundamentally deluded in a haven't-experienced-kensho-type way, who are full of thorns [[The two thorns analogy of Advaita Vedanta]] without realising, etc
 - I can easily imagine that "discipline" could mean "be disciplined with who I talk to". There's the buddhist thing of "guarding the sense doors". If I engage with people who are tanha-led, it reinforces my own tanha-based habits and thought patterns. I have friends who are chanda-led and yet I barely talk to them (I should talk to them far more!)
 - I tweeted this yesterday, on this theme:
 	- ![[1774255599567.webp]]

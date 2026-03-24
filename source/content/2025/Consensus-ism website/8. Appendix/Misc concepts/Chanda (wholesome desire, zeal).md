@@ -3,7 +3,15 @@ tags:
   - growth/consensus-ism
 date: 2026-03-15
 ---
+- Vs [[Tanha]]
 - Also relates strongly to [[Heidegger, ready-at-hand vs present-at-hand]]
+
+
+The key quote from Sasha's post is this:
+
+> The ==most interesting finding in human psychology==, ever, is that basically all of us are ==born with the wrong intuition about how to be happy==. We think that doing enough tanha, enough grabbing, will please us. But actually, grabbing is the source of something like ==90% of our unhappiness==. It’s a basically _dissociative_ reaction to reality which creates a sense of temporary dissatisfaction, like putting on tight shoes so that later your feet will feel good again. ==Skip it altogether==, as much as possible, if you want to be at peace. It’s crazy how true, and how unintuitive, this is. 
+
+
 ## Sasha Chapin [post](https://sashachapin.substack.com/p/the-two-kinds-of-desire-and-one-of)
 > "The two kinds of desire, and one of the most important things I know"
 
