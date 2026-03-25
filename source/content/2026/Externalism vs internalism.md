@@ -5,4 +5,4 @@ date: 2026-03-14
 
 # Internalism
 - Trying ideas on, testing things against your own internal experience
-- Chanda is relevant here - [[Chanda (wholesome desire, zeal)]]
+- Chanda is relevant here - [[Chanda]]

@@ -9,9 +9,9 @@ date: 2026-03-14
 - E.g., let's say it's learning the guitar, something I clearly did from a chanda place - what was my motivation?
 - Or e.g., remembering being a young kid and really liking attention in a very Leo way. Something that made me somewhat unusual, somewhere else on the bell curve for that trait
 - So really, it's mapping "for what traits am I n standard distributions away from the middle of the bell curve?"
-- UPDATE: I'm now thinking of this whole thing as *chanda-mapping* ([[Chanda (wholesome desire, zeal)]])
+- UPDATE: I'm now thinking of this whole thing as *chanda-mapping* ([[Chanda]])
 
-Sasha Chapin, from [[Chanda (wholesome desire, zeal)]]
+Sasha Chapin, from [[Chanda]]
 
 > We also tend towards poor intuitions about chanda. Perhaps we say to ourselves: “my intuition is telling me that I need to become a CEO to be happy.” But it would be weird if that were the case, because the ==intuition mechanisms in your mind are much older than job titles==. What’s likelier is that there are ==certain _configurations of experience_ that will make you happy==. Like “leading a group of people,” or “slowly turning something over in your mind,” or “transmuting reality into an artistic representation.”
 

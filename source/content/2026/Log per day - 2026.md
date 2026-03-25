@@ -3,11 +3,12 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 # Mar 2026
+- 2026-03-25
+	- [[On not rejecting outgrown parts, and others, 2026-03-25]]
 - 2026-03-24
 	- [[Holding myself and other men to high standards - 2026-03-24]]
 	- [[Milan as role model, 2026-03-24]]
 	- [[I've moved from Whatsapp etc to email and so far it's great, 2026-03-24]]
-	- [[Learning to have compassion for others (and for me), 2026-03-24]]
 - 2026-03-23
 	- [[Possible topics for my Saturn return, 2026-03-23]]
 - 2026-03-22
@@ -18,7 +19,7 @@ permalink: log-per-day
 - 2026-03-19
 	- [[I've gotten into astrology, 2026-03-19 (disclaimer)]]
 - 2026-03-15
-	- [[Chanda (wholesome desire, zeal)]]
+	- [[Chanda]]
 	- [[Disclaimer - The consensus-ism model is a work in progress]]
 	- [[Heidegger, ready-at-hand vs present-at-hand]]
 	- [[What am I doing on this website? 2026-03-15]]

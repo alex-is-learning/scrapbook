@@ -15,4 +15,4 @@ tags:
 
 - ![[consonance vs dissonance.png]]
 
-- May be the same as [[Chanda (wholesome desire, zeal)]]
+- May be the same as [[Chanda]]

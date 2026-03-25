@@ -41,7 +41,7 @@ The way I'm currently experiencing it is this: I really like to be "in my mascul
 - People who are Socratically doubly ignorance but "sharing their wisdom to others", people who are almost always talking from the agenda, the "warrant" of "I need to fix myself", etc
 - No more! Please!
 # What happens next?
-1. I want to change my inner circle so that I'm surrounded by [[Chanda (wholesome desire, zeal)|chanda]]-led, wise people. 
+1. I want to change my inner circle so that I'm surrounded by [[Chanda|chanda]]-led, wise people. 
 	- First step → make an "ideal Dunbar chart", showing who I should spend energy on
 2. I want to increase my agency. 
 	- First step → make monthly income. 

@@ -25,7 +25,7 @@ date: 2026-03-14
 	 - Imagine if I had been alive and developing for 29.5 years and one of my 4 first principles, core values, 25% of my essence, was "walk into chaos. Make it legible". That is the most ridiculous shit. It's so incredibly imprecise, and based on such little data. 
  - I think my real core values or drives will be things where the seeds were planted when I was a child. I mean, it has to be that way, these things didn't just spring out of me at a relatively late age, they're labels given to me a "More Knowledgable Other" noticing me doing something that I've been doing from a place of intrinsic motivation, transparent motivation, for years and years, since I was a kid, probably
 
-Sasha Chapin, from [[Chanda (wholesome desire, zeal)]]
+Sasha Chapin, from [[Chanda]]
 
 > We also tend towards poor intuitions about chanda. Perhaps we say to ourselves: “my intuition is telling me that I need to become a CEO to be happy.” But it would be weird if that were the case, because the ==intuition mechanisms in your mind are much older than job titles==. What’s likelier is that there are ==certain _configurations of experience_ that will make you happy==. Like “leading a group of people,” or “slowly turning something over in your mind,” or “transmuting reality into an artistic representation.”
 

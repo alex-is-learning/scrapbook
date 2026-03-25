@@ -7,7 +7,7 @@ tags:
 - Feelings are indicator lights of "X is going well/badly"
 - Whenever we're feeling things, they're raw and *true* indicators of how things are going
 	- [[Feelings don't contain false info]]
-- A further claim: feelings are all you need to make the next optimal decision. Because you can feel if something is in consensus, in [[Consonance (AKA consensus)]], in [[Chanda (wholesome desire, zeal)]], or not. You'll always have access to this. You'll never get lost
+- A further claim: feelings are all you need to make the next optimal decision. Because you can feel if something is in consensus, in [[Consonance (AKA consensus)]], in [[Chanda]], or not. You'll always have access to this. You'll never get lost
 
 ## Sasha Chapin: "[Acting like emotions don't exist is a poor strategy](https://sashachapin.substack.com/p/acting-like-emotions-dont-exist-is)"
 

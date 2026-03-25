@@ -5,7 +5,7 @@ date: 2026-03-15
 - 2026-03-15
 - Just had the thought of, "normally I just say 'oh, I've been writing on my website this morning'", but that's not the like, *terminal* thing that I'm doing. It's not just writing for the sake of writing. So what is it?
 - Is it "doing philosophy"? That feels clunky
-- So, I gave Claude the [[Chanda (wholesome desire, zeal)]] page as an example, and this prompt
+- So, I gave Claude the [[Chanda]] page as an example, and this prompt
 ## Prompt
 > I just had this thought:
 

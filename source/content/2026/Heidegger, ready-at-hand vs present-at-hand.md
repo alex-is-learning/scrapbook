@@ -3,7 +3,7 @@ date: 2026-03-15
 ---
 
 - 2026-03-15
-- Writing about [[Chanda (wholesome desire, zeal)]]
+- Writing about [[Chanda]]
 - And reminded of the Heidegger thing
 
 > The core claim from Guy below, that I agree with wholeheartedly, is that "What happened is that ==a long time ago something went wrong with your deep models of how to be in the world==."
@@ -15,7 +15,7 @@ date: 2026-03-15
 # Gemini summary:
 
 ### 1. Ready-at-hand (_Zuhandenheit_)
-> I am arguing that this is ~the same as [[Chanda (wholesome desire, zeal)]]
+> I am arguing that this is ~the same as [[Chanda]]
 
 This is our default mode. When you are using a hammer and you’re good at it, you don’t actually "see" the hammer as a separate object. It becomes an extension of your arm.
 - **The Vibe:** ==Flow state, transparency, and involvement==.
