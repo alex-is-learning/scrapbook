@@ -3,6 +3,8 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 # Mar 2026
+- 2026-03-26
+	- [[Lao Tzu, Machiavelli, and tanha]]
 - 2026-03-25
 	- [[On not rejecting outgrown parts, and others, 2026-03-25]]
 - 2026-03-24

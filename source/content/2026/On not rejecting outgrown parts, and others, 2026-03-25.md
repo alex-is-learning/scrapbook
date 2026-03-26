@@ -1,5 +1,7 @@
 ---
 date: 2026-03-25T08:15:00
+tags:
+  - work-in-progress
 ---
 - [[Log per day - 2026]]
 - 2026-03-25
@@ -28,6 +30,7 @@ date: 2026-03-25T08:15:00
 - **What am I rejecting?**
 	- I spent years doing this without realising that there's a better way!
 	- This was literally a key failure mode that a mentor pointed out to me. "You know a lot of concepts but you don't engage with them. Invoking the concepts of others isn't the thing to do"
+- The core triggers/associations
 - **Why it's ok**
 	- It's soothing to recite stuff that you've learned. It makes you feel like you're intelligent. It feels good to say something relevant in conversation, especially if it's an intellect-flavoured conversation where the implicit framing/warrant is "we will trade facts and theories". It is a win condition, it's an endorsed behaviour in this kind of conversation (even if IMO it's often not actually leading anywhere).
 	- We are people (at the EA Hotel) who will have got some of our "pellets from the universe" (to quote DFW) from being smart kids. I remember being a teenager and reading a bit of Noam Chomsky and feeling special. I remember being good at maths as a kid and feeling special, and being rewarded for it. "Showing off what we know", "signalling that we are smart", was a strategy that worked well at some point.
@@ -37,6 +40,7 @@ date: 2026-03-25T08:15:00
 ## 3. Sharing "wisdom" unskillfully
 - I see the most inner-critic-led person I know doing a long speech from a Posture of Wisdom about the Importance of Self Love. It's the ==posture/role they're adopting of Wise Sage which is the most triggering thing to me==, as I do not see this person as successfully living the wisdom that they're sharing. They will have made progress in self love, but they still abide from a place of self judgement, and should be humble enough to recognise that they're not ready to share wisdom.[^3] (or at least, they should share it with much more humility, rather than their vocal tone of "here's a bunch of stuff that I have *figured out*. I see a traumatised person leaning forwards as if taking notes, as if this person is a wise sage to be learned from, despite the fact that the wisdom is a collection of second hand aphorisms. "Maybe if I listen closely, something in me will change"
 
+## Grasp-y [[Tanha]]-y "trying to solve something" energy
  ## 3
  If a man is disagreeable/angry/inner critic-led
 - It's ok to abide from the inner critic, god knows I did for many years, until kensho. It's essentially impossible to stop.
