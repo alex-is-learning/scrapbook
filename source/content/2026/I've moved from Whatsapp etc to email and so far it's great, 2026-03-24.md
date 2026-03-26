@@ -17,6 +17,11 @@ date: 2026-03-24T20:19:00
 - Even with the one friend who I expect to keep this up with for longer, I imagine one a day is the most that we'll do. And that's *such* a huge change from multiple itty-bitty back-and-forths a day, voice notes and quick replies etc. It's literally akin to letter writing vs tweeting. Long-form and thoughtful and spacious vs ephemeral[^1]
 ## Filter
 - There are a bunch of people in my WhatsApp where there's a feeling that I *should* reply at some point, a twinge of guilt when I see their message if I scroll, but the honest truth is that I don't want to message them. Making it clear that I'm leaving IM apps behind, and porting over a select group of people who I'm genuinely excited about over to email, is a very clarifying exercise for separating the people I actually want in my life vs the "shoulds" who I don't need to be messaging. If we're in the same city in the future, awesome, will be lovely to hang out! But get the hell out of my inbox! 
+## "It's emailin' time"
+- It feels totally fine to batch my emails. For example, I could imagine that Sunday mornings are when I reply to 2-5 friends
+- Whereas it feels like the implicit assumption/agreement with instant messengers is that you're supposed to reply relatively ASAP. I've had people get annoyed at me for not replying for a few days (e.g., sending an "oi!" or a "hello??"-type message. I would be much more surprised if this happened with email!
+- Therefore, switching to email immediately unlocks a switch from "oh god I'm failing because I haven't replied to n messages yet and I'm *supposed to have replied*", to "yep, I have 10 emails from friends to reply to, and I'll get to some of them at the weekend"
+- (This is also downstream of my making my clarity whiteboard & gantt chart and feeling much better about "I am doing these few things today, and I don't have these other things scheduled yet. Basically, turns out timeboxing is really powerful)
 # What life was like before 
 - 20+ people who I haven't replied to in days/weeks/months
 - Checking messaging apps 50+ times a day to get that hit of connection, a feeling of being cared about by someone
