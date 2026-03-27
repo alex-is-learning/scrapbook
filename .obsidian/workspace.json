@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ffbcaf7b22308e83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/2026/First principles 1 - what have survived my pivots?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "First principles 1 - what have survived my pivots?"
-            }
-          },
-          {
-            "id": "87c63356878f78ec",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "index"
-            }
-          },
-          {
-            "id": "2a072db986c88c3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/2026/Misc Alvea feedback, 2023.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Misc Alvea feedback, 2023"
             }
           }
         ]
@@ -81,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "d'ang",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/2026/First principles 1 - what have survived my pivots?.md",
+                "file": "source/content/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for First principles 1 - what have survived my pivots?"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -142,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/2026/First principles 1 - what have survived my pivots?.md",
+                "file": "source/content/2026/On not rejecting outgrown parts, and others, 2026-03-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from First principles 1 - what have survived my pivots?"
+              "title": "Outgoing links from On not rejecting outgrown parts, and others, 2026-03-25"
             }
           },
           {
@@ -170,7 +142,7 @@
       {
         "id": "4165194f5f4e75d9",
         "type": "tabs",
-        "dimension": 63.26781326781327,
+        "dimension": 63.267813267813274,
         "children": [
           {
             "id": "ff960971c9fd279f",
@@ -178,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/2026/First principles 1 - what have survived my pivots?.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of First principles 1 - what have survived my pivots?"
+              "title": "Outline of index"
             }
           }
         ]
@@ -206,53 +178,53 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ffbcaf7b22308e83",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "source/content/2026/Alex and Simmo doing first principles thinking, 2026-03-14.md",
-    "source/content/2026/What my astrology sheds light on, 2026-03-14.md",
-    "source/content/2026/Misc Alvea feedback, 2023.md",
-    "source/content/index.md",
-    "source/content/2025/2. Connecting with people/Feedback/Feedback, references.md",
-    "source/content/2025/4. Thinking/How to learn/Notes/Value of visual notes/Are visual notes underrated and poorly understood?.md",
-    "source/content/2025/4. Thinking/How to learn/Notes/Value of visual notes/🟣 Project - \"Are visual notes underrated and poorly understood?\".md",
-    "source/content/2026/Log per day - 2025.md",
-    "Post-rationalist journey.md",
-    "source/content/2026/First principles 1 - what have survived my pivots?.md",
-    "source/content/Topics/Healing & Personal Growth.md",
+    "source/content/2026/Real education, and class differences.md",
     "source/content/2026/Log per day - 2026.md",
-    "source/content/Topics/Thinking & Epistemology.md",
-    "Untitled.md",
-    "source/content/2026/Scrunching.md",
+    "source/content/2026/From porous to boundaried, radical change.md",
+    "source/content/index.md",
+    "source/content/2026/Lao Tzu, Machiavelli, and tanha.md",
     "source/content/2026/Recommended readings from one of my mentors, 2026-03-13.md",
-    "source/content/2026/Errors in thinking at work, 2026-03-05.md",
-    "source/content/📎 Files/Files 0 - 2026/1773398717137.webp",
-    "source/content/📎 Files/Files 0 - 2026/Is Justified True Belief Knowledge_.pdf",
-    "source/content/📎 Files/Files 0 - 2026/Introductory logic - review of the rules.pdf",
-    "source/content/📎 Files/Files 0 - 2026/1773398724918.webp",
-    "source/content/📎 Files/Files 0 - 2026/1773398644548.webp",
-    "source/content/📎 Files/Files 0 - 2026/1773398608716.webp",
-    "source/content/2026/What do you learn at private school that you don't learn at a public school?.md",
-    "source/content/2026/Poor education, and my decade of tanha, 2026-02-19.md",
-    "source/content/2026/Re wanting to learn how to think, 2026-03-04.md",
-    "source/content/2025/1. Creating things/1. Writings/01. To be a boomer.md",
-    "source/content/2025/1. Creating things/1. Writings/Writing - vignettes.md",
-    "source/content/2025/1. Creating things/1. Writings/03. To be a tpot zoomer.md",
-    "source/content/2025/1. Creating things/1. Writings/05. Hospital cafe.md",
-    "source/content/2025/1. Creating things/1. Writings/06. Cornflakes.md",
-    "source/content/2025/1. Creating things/1. Writings/08. Morning by the pool.md",
-    "source/scripts/merge-tags.mjs",
-    "source/scripts/sort-topic-pages.mjs",
-    "source/scripts/update-wordcount.mjs",
-    "source/public/404.html",
+    "source/content/2026/On not rejecting outgrown parts, and others, 2026-03-25.md",
+    "source/content/2026/I've moved from Whatsapp etc to email and so far it's great, 2026-03-24.md",
+    "source/content/2026/What do you learn at private school that you don't learn at a state school?.md",
+    "source/content/📎 Files/Files 0 - 2026/1774514395355.webp",
+    "source/content/2025/Consensus-ism website/8. Appendix/Misc concepts/Chanda.md",
+    "source/content/2026/Holding myself and other men to high standards - 2026-03-24.md",
+    "source/content/2026/Milan as role model, 2026-03-24.md",
+    "source/content/2026/Milan resources.md",
+    "source/content/2026/source/content/📎 Files/Files 0 - 2026/1774383713941.webp",
+    "source/content/2026/First principles 4 - people you admire, and what they do differently?.md",
+    "source/content/2026/Role models.md",
+    "source/content/2026/First principles 1 - what have survived my pivots?.md",
+    "source/content/2025/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to have been passionate, opinionated and proactive.md",
+    "source/content/2026/Learning more about Milan.md",
+    "source/content/2026/Emulating Milan Griffes' Skillset.pdf",
+    "source/content/2026/milan_griffes_profile.pdf",
+    "source/content/2026/source/content/📎 Files/Files 0 - 2026/1774378873595.webp",
+    "source/content/2026/source/content/📎 Files/Files 0 - 2026/1774378127885.webp",
+    "source/content/2026/source/content/📎 Files/Files 0 - 2026/1774377976571.webp",
+    "source/content/2026/What if I'm actually already close to being a pretty good thinker? 2026-03-15.md",
+    "source/content/2026/INVEST.md",
+    "source/content/2026/Possible topics for my Saturn return, 2026-03-23.md",
+    "source/content/2026/Tanha.md",
+    "source/content/2025/4. Thinking/Misc notes/03. Manifesto - \"Why I Should Learn the Socratic Method\".md",
+    "source/content/2025/4. Thinking/Misc notes/07. Learning the Socratic method, part 2 → the \"how\".md",
+    "source/content/2026/Socratic \"Double Ignorance\".md",
+    "source/content/2025/4. Thinking/Misc notes/06. Learning the Socratic method, part 1 → the rationale.md",
+    "source/content/📎 Files/Longview_CV.pdf",
+    "source/public/tags/writing.html",
+    "source/public/tags/relationships.html",
+    "source/public/tags/post-rationalism.html",
+    "source/public/tags/personal-growth.html",
+    "source/public/tags/music.html",
+    "source/public/tags/meditation.html",
+    "source/public/tags/learning.html",
     "source/public/static/og-image.jpg",
     "source/public/static/icon.png",
-    "source/public/2025/4.-Thinking/What-does-it-mean-to-be-in-ORI/Notes/My-model-of-ORI/Alex's-ORI-onboarding-diagrams.pdf",
-    "source/public/2025/4.-Thinking/What-does-it-mean-to-be-in-ORI/Notes/The-universe-(you're-a-cell-inside-an-organism).png",
-    "source/public/2025/3.-Improving-lived-experience/Family/Notes/What-I-currently-know-about-Bowen-family-systems-theory.png",
-    "source/public/📎-Files/Files-1---Images/misc/“'handle-your-feelings-about-the-task'-is-the-zeroth-item-on-any-todo-list\"2.webp",
-    "source/public/📎-Files/Files-1---Images/misc/“'handle-your-feelings-about-the-task'-is-the-zeroth-item-on-any-todo-list\".webp",
-    "source/public/📎-Files/Files-1---Images/misc",
-    "source/public/📎-Files/Files-2---Audio/Voice-notes/socrates-head.m4a",
-    "source/public/📎-Files/Files-2---Audio/Voice-notes/signal-2025-09-10-200428.mp3"
+    "source/public/2026/source/content/📎-Files/Files-0---2026/1774256213597.webp",
+    "source/public/2026/source/content/📎-Files/Files-0---2026/1774256399087.webp",
+    "source/public/2026/source/content/📎-Files/Files-0---2026/1774256096289.webp"
   ]
 }
