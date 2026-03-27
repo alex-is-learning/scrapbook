@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/2026/Log per day - 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Log per day - 2026"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/2026/Log per day - 2026.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Log per day - 2026"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/2026/Log per day - 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Log per day - 2026"
             }
           }
         ]
@@ -180,10 +180,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "source/content/index.md",
     "source/content/2026/Real education, and class differences.md",
     "source/content/2026/Log per day - 2026.md",
     "source/content/2026/From porous to boundaried, radical change.md",
-    "source/content/index.md",
     "source/content/2026/Lao Tzu, Machiavelli, and tanha.md",
     "source/content/2026/Recommended readings from one of my mentors, 2026-03-13.md",
     "source/content/2026/On not rejecting outgrown parts, and others, 2026-03-25.md",
