@@ -5,6 +5,9 @@ permalink: log-per-day
 # Mar 2026
 - 2026-03-26
 	- [[Lao Tzu, Machiavelli, and tanha]]
+	- [[From porous to boundaried, radical change]]
+	- "You can't even manage yourself"
+	- [[Real education, and class differences]]
 - 2026-03-25
 	- [[On not rejecting outgrown parts, and others, 2026-03-25]]
 - 2026-03-24
