@@ -3,6 +3,8 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 # Mar 2026
+- 2026-03-28
+	- [[Seeking autodidact funding (draft)]]
 - 2026-03-26
 	- [[Lao Tzu, Machiavelli, and tanha]]
 - 2026-03-25
