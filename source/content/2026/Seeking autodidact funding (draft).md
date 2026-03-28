@@ -27,13 +27,14 @@ A few things have really shifted for me recently. One is realising how bad I've 
 # I have been doing this since June 2025
 
 # I am resource-constrained and do not want to take on non-compounding work
-I was offered a 15-hour-a-week role. I would much rather spend those 15 hours learning things that compound. 
+I was offered a 15-hour-a-week role. I would much rather spend those 15 hours learning things that compound!! I don't want to have to do work that doesn't compound!! 
 
 
 # The case for me being... special and worth investing in
+- (will flesh this out properly, but a big chunk of it will be "See [[Feedback, references]]!!!")
 
 Ethan
 Brent
 Attila
 Longview
-This website, ORI
+This website, ORI. "Unfakeable signal". I am doing the thing, I have been doing it since June 2025. Funding will allow me to do it much more. 

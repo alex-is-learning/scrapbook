@@ -4,13 +4,7 @@ aliases:
   - Home Page
 permalink: home-page
 ---
-Hi, I'm Alex! This is my digital scrapbook - currently at 354,781 words (AKA Infinite Jest x 0.61 or Order of the Phoenix x 1.38).
-
-> NOTE: I am no longer updating this website! 
-
-> This was super super useful. I am now adding to a private, local version, as I reached a point of "ok, it was incredibly useful to write in public, and 9 months in, it's now a real habit that is giving me genuine benefits so I will continue doing it, and the downside of 'oversharing on the internet' is now higher than the benefit". 
-
-> I'll leave this up as a thing to send to friends who might get inspired to do something similar! Highly recommend making your own!!! Writing so much has *really* changed things for me. Cba to explain how right now, just try it out! See [[How to make a website like this]]
+Hi, I'm Alex! This is my digital scrapbook - currently at 354,707 words (AKA Infinite Jest x 0.61 or Order of the Phoenix x 1.38).
 ## Start with these
 - [[Log per day - 2026]]
 	- I prefer navigating in this way because a lot of older notes represent kinda abandoned threads, vs the stuff I'm thinking about *right now* is the most fresh and alive
