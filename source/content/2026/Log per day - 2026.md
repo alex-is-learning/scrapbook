@@ -3,6 +3,8 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 # Mar 2026
+- 2026-03-29
+	- [["System-impacted" as a nice example of an "A"]]
 - 2026-03-28
 	- [[Memo to Attila - what has changed for me recently]]
 	- [[Seeking autodidact funding (draft)]]

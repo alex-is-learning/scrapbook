@@ -1,6 +1,8 @@
 ---
 date: 2026-03-28T22:09:00
 ---
+> Note that I now see this as a foolish thing! Built on bad philosophy, of course. Have explored more in my private obsidian space.
+
 I feel like I’ve had a few really quite seismic internal shifts recently and I want to explore them here.
 
 What has changed for me?
