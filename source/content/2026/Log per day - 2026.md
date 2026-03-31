@@ -4,7 +4,7 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 # Mar 2026
 - 2026-03-31
-	- [[A B U gifs]]
+	- [[A B U gifs, maladaptive Bs, and Kegan's "Immunity to Change"]]
 - 2026-03-29
 	- [[Christopher Alexander]]
 	- [[Beware what Geoffrey Hinton says in that clip]]

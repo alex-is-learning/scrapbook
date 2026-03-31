@@ -4,7 +4,7 @@ date: 2026-01-31
 - 2026-01-31
 - See also 
 	- [[A B U]]
-	- 2026-03-31 → [[A B U gifs]]
+	- 2026-03-31 → [[A B U gifs, maladaptive Bs, and Kegan's "Immunity to Change"]]
 
 # 2026-01-31 - initial writeup
 - *Note that it's actually A/B/U, Obsidian just doesn't play nicely with / symbols in file names*
