@@ -2,7 +2,7 @@
 date: 2026-03-31T18:48:00
 ---
 - 2026-03-31
-- The A/B/U system has further clicked for me. I'm seeing how it's a really powerful tool for meta-cognition !!! For thinking about your thinking, for seeing your cognition, which empowers you to learn better, to think better
+- The A/B/U system ([link to ORI doc](https://openresearchinstitute.org/onboarding/A_B_U.html)) has further clicked for me! I'm seeing how it's a really powerful tool for meta-cognition !!! For thinking about your thinking, for seeing your cognition, which empowers you to learn better, to think better
 ## I'm excited!
 - *Screenshot from my public-facing journal in the "[Open Research Institute](https://openresearchinstitute.org/)" Discord, from today 👇*
 	- ![[A B U gifs, maladaptive Bs, and Kegan's "Immunity to Change"-1.png]]
@@ -11,7 +11,7 @@ date: 2026-03-31T18:48:00
 - And, planning on writing a short book about this! Message from Defender to the team:
 	- ![[A B U gifs, maladaptive Bs, and Kegan's "Immunity to Change"-2.png]]
 ## What is it?
-- I've written about it in the past:d
+- I've written about it in the past:
 	- [[A B U]]
 	- [[Why A B U is so useful for me]]
 - https://openresearchinstitute.org/onboarding/A_B_U.html
@@ -21,7 +21,7 @@ date: 2026-03-31T18:48:00
 	- An "A" is a new and seemingly correct belief/idea, that slots into your model
 	- A "B" is a more mature A: you've tested it and it now seems like a tested, provisional truth
 ## Key
-- In the below gifs:
+- In the below gifs (made by me, Claude Code and [BMAD](https://openresearchinstitute.org/onboarding/A_B_U.html) today, an absolute thrill, literally one of the most exciting work days of my life, lol[^1]):
 	- Red nodes are "A"s (brand new, untested, but seem true)
 	- Green nodes are "B"s (have been tested, appear to be true)
 	- Purple, "outsider" nodes are "U"s - new bits of data, new ideas that are unknown. Are they true? Are they bullshit? Currently, you're unsure
@@ -92,3 +92,5 @@ The final column identifies the **core beliefs** or mental models that sustain t
 ### **The Purpose of the Map**
 
 The goal of the Immunity Map is to help a person move a mental structure from **"subject"** (something that "has" them and controls them) to **"object"** (something they can look at, test, and control). By converting the contradiction a person _is_ into a contradiction they _have_, they can begin to disrupt the immune system through **SMART tests**—safe, modest, actionable experiments designed to gather data and challenge the validity of their Big Assumptions.
+
+[^1]: BMAD provides Claude Code with the scaffolding to act like an entire team, as if you have an entire Agile-trained team at your disposal. E.g., first you get interviewed by the product owner ("John"), who, after getting a better understanding of your problem space and desired solution, created a PRD (product requirement doc) for the next persona (a software engineer) to execute. It's soooooo much better than just asking Claude Code to make something, because when you do that, you realise after a bit that oh shit, this wasn't well thought out, I'm now realising that I want x feature, etc, and the code becomes buggy and messy and horrible. This is *way more efficient*, way more *thorough*, way cleaner, it's just an absolute miracle dude. And all I've done so far with it is make 9 gifs!! 👀
