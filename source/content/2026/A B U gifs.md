@@ -3,6 +3,8 @@ date: 2026-03-31T18:48:00
 ---
 - The A/B/U system has further clicked for me. I'm seeing how it's a really powerful tool for meta-cognition, and for memetic spread
 - Don't have the energy to write in depth about it here right now
+	- I've written about it in the past (from a more confused place, but still relevant)
+	- [[Why A B U is so useful for me]]
 - https://openresearchinstitute.org/onboarding/A_B_U.html
 - A reminder:
 	- ![[A B U gifs.png]]
