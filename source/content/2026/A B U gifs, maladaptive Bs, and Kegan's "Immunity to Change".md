@@ -3,17 +3,21 @@ date: 2026-03-31T18:48:00
 ---
 - 2026-03-31
 - The A/B/U system has further clicked for me. I'm seeing how it's a really powerful tool for meta-cognition !!! For thinking about your thinking, for seeing your cognition, which empowers you to learn better, to think better
+## I'm excited!
+- *Screenshot from my public-facing journal in the "[Open Research Institute](https://openresearchinstitute.org/)" Discord, from today 👇*
 	- ![[A B U gifs, maladaptive Bs, and Kegan's "Immunity to Change"-1.png]]
+	- And Defender's reply, re: my excitement 👇
 	- ![[A B U gifs, maladaptive Bs, and Kegan's "Immunity to Change".png]]
-- And, planning on writing a short book about this!
+- And, planning on writing a short book about this! Message from Defender to the team:
 	- ![[A B U gifs, maladaptive Bs, and Kegan's "Immunity to Change"-2.png]]
-- Don't have the energy to write in depth about it here right now
-	- I've written about it in the past (from a more confused place, but still relevant)
+## What is it?
+- I've written about it in the past:d
+	- [[A B U]]
 	- [[Why A B U is so useful for me]]
 - https://openresearchinstitute.org/onboarding/A_B_U.html
-- A reminder:
+- A reminder of the A/B/U model:
 	- ![[A B U gifs.png]]
-- But, the thing I learned a few days ago is that "A"s actually mature into "B"s when you test them and they seem to hold up. 
+- But, the thing I learned a few days ago is that "A"s actually mature into "B"s when you test them and they seem to hold up!! This is not captured in their current onboarding page!! 
 	- An "A" is a new and seemingly correct belief/idea, that slots into your model
 	- A "B" is a more mature A: you've tested it and it now seems like a tested, provisional truth
 ## Key
