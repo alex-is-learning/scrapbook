@@ -42,6 +42,7 @@ date: 2026-03-31T18:48:00
 - The U from a person remains a U and fades away
 ![gif3-u-filtering](gif3-u-filtering.gif)
 # Part 2: Maladaptive Bs
+- You can have Bs, beliefs that have been tested, that have some evidence, but are maladaptive
 ## One of your "B"s leads to an action that burns someone
 - A "B", a belief you you have, burns someone
 - The whole write-up is inspired by my relatively new "it's very very important that I say things really honestly even if it comes across as disagreeable, sugar coating is counterproductive and a waste of time!!" burning a coworker
@@ -56,11 +57,15 @@ date: 2026-03-31T18:48:00
 - You have the scaffolding/prerequisites required for their feedback to land as an "A"
 	- Maybe they deliver the feedback to you, and gently/patiently scaffold you to a place where you can get it. Or maybe it's advice that you were already *close* to getting anyway, as it's near your "A frontier"
 - And then, you consolidate it to a "B", and it counterbalances the original "B" that causes the pain/the maladaptive behaviour
-- In this version, the new B ends up around the same size/weight as the old. They're not in orbit together, counterbalancing each other
+- In this version, the new B ends up around the same size/weight as the old. They're in orbit together, counterbalancing each other
 ![mal3-feedback-integrated-equal](mal3-feedback-integrated-equal.gif)
 ## Same as above but heavier weight
-- In this version, the new B weighs much more than the old B
+- In this version, the new B weighs much more than the old B. An echo of the old belief remains, but it has been heavily outweighed by this new one. Maybe you finally realise that that old B was useful for you up until the age of like, 10, but has been super maladaptive since then, you've just never foregrounded this fact or realised that there is an alternative
 ![mal4-feedback-integrated-dominant](mal4-feedback-integrated-dominant.gif)
+
+
+---
+
 # Robert Kegan "Immunity to Change"
 Summary of the "Immunity Map", from the book (via NotebookLM)
 
