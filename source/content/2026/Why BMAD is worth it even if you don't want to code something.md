@@ -1,6 +1,9 @@
 ---
 date: 2026-04-01T22:03:00
 ---
+- 2026-04-01
+- See also → [[alex-and-dave|Alex and Dave]], [[Dave PRD (Product Requirements Document)]]
+
 - I used [BMAD](https://github.com/bmad-code-org/BMAD-METHOD)  today to make Dave ([[alex-and-dave|Alex and Dave]]) and I am just *blown the fuck away*
 - I want to make the case for why this is useful, but it's 10pm, so I asked Gemini
   
@@ -14,7 +17,8 @@ Most people start a project by jumping straight into a code editor. BMAD forces 
 
 - **The Analyst Skill:** This is usually the first stop. It performs market research and competitive analysis. ==It asks the hard questions==: _Who is this for? Why does it need to exist?_ It turns a "vibe" into a business case.
 - **The Product Manager (PRD) Skill:** BMAD guides you through creating a **Product Requirements Document (PRD)**. This is where you refine the "what" and "why." It defines the scope, so you don't end up with "feature creep" before you've even started.
-	- 👆 *I have been so impressed by this!!! The PRD document fucking rules, and it makes the next step (implementation/building) so much easier*
+	- 👆 *I have been so impressed by this!!! The PRD document fucking rules, and it makes the next step (implementation/building) so much easier* 
+	- E.g., [[Dave PRD (Product Requirements Document)]]
 ### 2. Multi-Perspective "Brainstorming"
 One of the best parts of BMAD is "Party Mode" or using specialized agents. Instead of one AI giving you a generic answer, you get a "debate":
 - **The Architect:** Looks at your idea and says, "Here is how we scale this technically."
