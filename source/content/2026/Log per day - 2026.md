@@ -5,6 +5,7 @@ permalink: log-per-day
 # Mar 2026
 - 2026-04-01
 	- [[alex-and-dave]]
+	- [[Why BMAD is worth it even if you don't want to code something]]
 - 2026-03-31
 	- [[A B U gifs, maladaptive Bs, and Kegan's "Immunity to Change"]]
 - 2026-03-29

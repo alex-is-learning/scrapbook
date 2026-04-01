@@ -1,12 +1,13 @@
 ---
-date: 01/04/2026, 18:49
-tags: [Dave]
+date: 2026-04-01T18:49:00
+tags:
+  - Dave
 ---
 ## Full Transcript
 
 **Dave:** Scaffolding is ready. Before we go further, I need to calibrate where you actually are — not where you think you are, not where you'd like to be. I'll ask three things. Answer honestly, not impressively.
 
-What do you currently know about **test-topic**? Don't tell me what you've heard of — tell me what you can actually explain or do with it right now.
+What do you currently know about **schema therapy**? Don't tell me what you've heard of — tell me what you can actually explain or do with it right now.
 
 **Alex:** I currently don't know all that much at all, I've read a few pages of a primer doc, I know that there are 18 things, I forget the name but they're like, maladaptive schemas. I think I have 12 of them! And I know there's some ontology to the theory, some directionality and groupings, but yeah, couldn't tell you much more than that right now! I know that it was developed in the 1980s by a guy with a PhD (don't know much about his background, presumably a therapist?). He saw that CBT doesn't work with people who have deeper patternings. The idea is that core wounds in childhood lead to certain patterns of behaviour to soothe these wounds, I think, but it's definitely more nuanced/high resolution than that. And it seems similar to Internal Family Systems and Coherence Therapy, insofar as the whole "you're doing stuff for adaptive, coherent but now-maladaptive reasons"
 

@@ -1,5 +1,5 @@
 ---
-date: 01/04/2026, 18:33
+date: 2026-04-01T18:33:00
 tags:
   - Dave
 title: Alex and Dave
@@ -18,6 +18,8 @@ aliases:
 A log of every learning session.
 
 - First even session, 2026-04-01 → [[init-log-schema-therapy]]
+- [[dave-log-schema-therapy]]
+- [[dave-primer-schema-therapy]]
 
 | Date | Topic | Duration | Status | Pride | A/B/U Notes |
 |------|-------|----------|--------|-------|-------------|
