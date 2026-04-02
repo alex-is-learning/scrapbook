@@ -15,6 +15,7 @@ A log of every learning session.
 - 2026-04-02
 	- [[Schema therapy notes 1]]
 	- [[Schema therapy Dave session 1]]
+	- [[Schema therapy flashcards from notes 1]]
 - 2026-04-01
 	- First even session, 2026-04-01 → [[Schema therapy Dave session 0]]
 	- [[Dave Log - Schema Therapy]]
