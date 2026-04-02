@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/2026/Log per day - 2026.md",
+                "file": "source/content/2026/learning/schema-therapy/notes/Schema therapy notes 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Log per day - 2026"
+              "title": "Schema therapy notes 1"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "d'ang",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/2026/Log per day - 2026.md",
+                "file": "source/content/2026/learning/schema-therapy/notes/Schema therapy notes 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Log per day - 2026"
+              "title": "Backlinks for Schema therapy notes 1"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/2026/On not rejecting outgrown parts, and others, 2026-03-25.md",
+                "file": "source/content/2026/learning/schema-therapy/notes/Schema therapy notes 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from On not rejecting outgrown parts, and others, 2026-03-25"
+              "title": "Outgoing links from Schema therapy notes 1"
             }
           },
           {
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/2026/Log per day - 2026.md",
+                "file": "source/content/2026/learning/schema-therapy/notes/Schema therapy notes 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Log per day - 2026"
+              "title": "Outline of Schema therapy notes 1"
             }
           }
         ]
@@ -180,51 +180,50 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "source/content/2026/Seeking autodidact funding (draft).md",
+    "source/content/2026/learning/Alex and Dave.md",
+    "source/content/2026/learning/schema-therapy/sessions/Schema therapy Dave session 0.md",
+    "source/content/2026/learning/schema-therapy/sessions/Schema therapy Dave session 1.md",
+    "source/content/2026/learning/schema-therapy/resources/dave-primer-schema-therapy-session-1-with-annotations.pdf",
+    "source/content/2026/learning/schema-therapy/Dave Log - Schema Therapy.md",
+    "source/content/2026/learning/schema-therapy/notes/Schema therapy notes 1.md",
+    "source/content/2026/learning/schema-therapy/sessions/2026-04-02-Schema Therapy.md",
+    "source/content/2026/learning/schema-therapy/resources/dave-primer-schema-therapy.md",
+    "source/content/2026/Untitled.md",
     "source/content/2026/Log per day - 2026.md",
-    "source/content/2026/Seeking autodidact funding, feedback v1.md",
+    "source/content/2026/Critical Reading, according to Jacobus.md",
+    "source/content/2026/\"A World of Ideas\" by Lee Jacobus.md",
     "source/content/index.md",
+    "source/content/2026/Why BMAD is worth it even if you don't want to code something.md",
+    "source/content/2026/learning/Dave PRD (Product Requirements Document).md",
+    "source/content/2026/learning/schema-therapy/resources/ Schema therapy_ a practitioner's guide (2007, Guilford).pdf",
+    "source/content/2026/learning/test-topic/resources/Young, Jeffrey E._Klosko, Janet S._Weishaar, Marjorie E - Schema therapy_ a practitioner's guide (2007, Guilford).pdf",
+    "source/content/2026/learning/test-topic/resources/Young, Jeffrey E._Klosko, Janet S._Weishaar, Marjorie E - Schema therapy_ a practitioner's guide (2007, Guilford) - libgen.li.pdf",
+    "source/content/2026/learning/schema-therapy/resources/schema-therapy-primer.pdf",
+    "source/content/2026/learning/schema-therapy/resources",
+    "source/content/2026/learning/test-topic/untitled folder",
+    "source/content/2026/learning/schema-therapy/notes",
+    "source/content/2026/learning/schema-therapy/sessions",
+    "source/content/2026/learning/untitled folder",
+    "source/content/2026/A B U gifs, maladaptive Bs, and Kegan's \"Immunity to Change\".md",
+    "source/content/📎 Files/Files 0 - 2026/A B U gifs, maladaptive Bs, and Kegan's \"Immunity to Change\"-2.png",
+    "source/content/📎 Files/Files 0 - 2026/A B U gifs, maladaptive Bs, and Kegan's \"Immunity to Change\"-1.png",
+    "source/content/📎 Files/Files 0 - 2026/A B U gifs, maladaptive Bs, and Kegan's \"Immunity to Change\".png",
+    "source/content/2026/A B U.md",
+    "source/content/2026/Why A B U is so useful for me.md",
+    "source/content/📎 Files/Files 0 - 2026/A B U gifs.png",
+    "source/content/📎 Files/Files 0 - 2026/mal4-feedback-integrated-dominant.gif",
+    "source/content/📎 Files/Files 0 - 2026/mal3-feedback-integrated-equal.gif",
+    "source/content/📎 Files/Files 0 - 2026/mal2-feedback-rejected.gif",
+    "source/content/📎 Files/Files 0 - 2026/mal1-maladaptive-b-fires.gif",
+    "source/content/📎 Files/Files 0 - 2026/gif3-u2-fade.gif",
+    "source/content/📎 Files/Files 0 - 2026/gif3-u1-snap.gif",
+    "source/content/2026/Christopher Alexander.md",
+    "source/content/2026/Beware what Geoffrey Hinton says in that clip.md",
+    "source/content/2026/\"System-impacted\" as a nice example of an \"A\".md",
+    "source/content/2026/Memo to Attila - what has changed for me recently.md",
+    "source/content/2026/Seeking autodidact funding (draft).md",
+    "source/content/2026/Seeking autodidact funding, feedback v1.md",
     "source/content/2026/Real education, and class differences.md",
-    "source/content/2026/From porous to boundaried, radical change.md",
-    "source/content/2026/Lao Tzu, Machiavelli, and tanha.md",
-    "source/content/2026/Recommended readings from one of my mentors, 2026-03-13.md",
-    "source/content/2026/On not rejecting outgrown parts, and others, 2026-03-25.md",
-    "source/content/2026/I've moved from Whatsapp etc to email and so far it's great, 2026-03-24.md",
-    "source/content/2026/What do you learn at private school that you don't learn at a state school?.md",
-    "source/content/📎 Files/Files 0 - 2026/1774514395355.webp",
-    "source/content/2025/Consensus-ism website/8. Appendix/Misc concepts/Chanda.md",
-    "source/content/2026/Holding myself and other men to high standards - 2026-03-24.md",
-    "source/content/2026/Milan as role model, 2026-03-24.md",
-    "source/content/2026/Milan resources.md",
-    "source/content/2026/source/content/📎 Files/Files 0 - 2026/1774383713941.webp",
-    "source/content/2026/First principles 4 - people you admire, and what they do differently?.md",
-    "source/content/2026/Role models.md",
-    "source/content/2026/First principles 1 - what have survived my pivots?.md",
-    "source/content/2025/5. Alex anthropology/Mythopoesis (telling my story, skillfully)/I was very lucky to have been passionate, opinionated and proactive.md",
-    "source/content/2026/Learning more about Milan.md",
-    "source/content/2026/Emulating Milan Griffes' Skillset.pdf",
-    "source/content/2026/milan_griffes_profile.pdf",
-    "source/content/2026/source/content/📎 Files/Files 0 - 2026/1774378873595.webp",
-    "source/content/2026/source/content/📎 Files/Files 0 - 2026/1774378127885.webp",
-    "source/content/2026/source/content/📎 Files/Files 0 - 2026/1774377976571.webp",
-    "source/content/2026/What if I'm actually already close to being a pretty good thinker? 2026-03-15.md",
-    "source/content/2026/INVEST.md",
-    "source/content/2026/Possible topics for my Saturn return, 2026-03-23.md",
-    "source/content/2026/Tanha.md",
-    "source/content/2025/4. Thinking/Misc notes/03. Manifesto - \"Why I Should Learn the Socratic Method\".md",
-    "source/content/2025/4. Thinking/Misc notes/07. Learning the Socratic method, part 2 → the \"how\".md",
-    "source/content/📎 Files/Longview_CV.pdf",
-    "source/public/tags/writing.html",
-    "source/public/tags/relationships.html",
-    "source/public/tags/post-rationalism.html",
-    "source/public/tags/personal-growth.html",
-    "source/public/tags/music.html",
-    "source/public/tags/meditation.html",
-    "source/public/tags/learning.html",
-    "source/public/static/og-image.jpg",
-    "source/public/static/icon.png",
-    "source/public/2026/source/content/📎-Files/Files-0---2026/1774256213597.webp",
-    "source/public/2026/source/content/📎-Files/Files-0---2026/1774256399087.webp",
-    "source/public/2026/source/content/📎-Files/Files-0---2026/1774256096289.webp"
+    "source/content/2026/From porous to boundaried, radical change.md"
   ]
 }

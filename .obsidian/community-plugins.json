@@ -2,7 +2,8 @@
   "obsidian-git",
   "obsidian-dialogue-plugin",
   "homepage",
-  "image-converter",
   "obsidian-paste-image-rename",
-  "tag-wrangler"
+  "tag-wrangler",
+  "image-converter",
+  "obsidian-tidy-footnotes"
 ]

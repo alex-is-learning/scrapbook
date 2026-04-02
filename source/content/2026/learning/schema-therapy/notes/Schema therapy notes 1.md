@@ -4,7 +4,7 @@ date: 2026-04-02T07:26:00
 - 2026-04-02
 - Writing up my first set of notes for Dave, re: what I'm learning!
 # What I did this morning
-- I started reading the "schema therapy primer" PDF on my reMarkable tablet, and added new blank pages where I drew little sketches to help me grok the basics. Basically, a form of active learning, turning some of the key axioms into little diagrams
+- I started reading the "schema therapy primer" PDF on my reMarkable tablet, and added new blank pages where I drew little sketches to help me grok the basics[^1]. Basically, a form of active learning, turning some of the key axioms into little diagrams
 - This was quite humbling, in that it took me 30-60 minutes just to sketch stuff from the first ~2 paragraphs! It goes to show how much effort it takes to make stuff click
 - It felt very fruitful, and much more active and immediate than e.g. just making flashcards and cramming the info into my head over a course of ~a week. I think I now could immediately talk to people about the stuff that I've diagrammed (I'd still like to make Anki flashcards to keep this stuff in my brain long-term, however. I think I'll need far fewer flashcards than if I went the "flashcards only" route)
 # What I learned this morning
@@ -17,7 +17,7 @@ date: 2026-04-02T07:26:00
 ## Why do the maladaptive thoughts happen?
 - So, if schema therapy asks "why do these maladaptive thoughts happen?", then, what is schema therapy's answer?
 ### 5 core needs
-- It says that these thoughts stem from the fact that children have 5 core needs, and if these are chronically not met during childhood, this leads to the child developing adaptive coping mechanisms to deal with the pain of these chronic deprivations[^1], which are effective in childhood (as after all, what else can the child do?), but when they are carried into adulthood, they cause suffering (maladaptive behaviours, self-beliefs, etc)[^2]
+- It says that these thoughts stem from the fact that children have 5 core needs, and if these are chronically not met during childhood, this leads to the child developing adaptive coping mechanisms to deal with the pain of these chronic deprivations[^2], which are effective in childhood (as after all, what else can the child do?), but when they are carried into adulthood, they cause suffering (maladaptive behaviours, self-beliefs, etc)[^3]
 ### Which are:
 - (*I can remember these because I made little diagrams for each. Really pleased with how well this worked! I haven't made a single flashcard yet*)
 - (*Although saying that, they're definitely not fluent yet. I probably will make some flashcards after this session*)
@@ -85,6 +85,8 @@ So, it's 8am now, that raps up this session. I probably spent 45-60 mins with my
 ![[dave-primer-schema-therapy-session-1-with-annotations.pdf]]
 
 
-[^1]: Chronic in the "1 year is not enough to develop a schema
+[^1]: See the appendix (bottom of this page) to see my terrible (but effective) drawings 😎
+[^2]: Chronic in the "1 year is not enough to develop a schema
 
-[^2]: I haven't gotten to this part yet, so I know this is currently vague. That is, I haven't learned what these coping mechanisms are: I imagine they'll be categorised into different types. I did read ahead a few days ago and saw something about the core wounded inner child state, and then an angry child state, dissociation, etc. 
+[^3]: I haven't gotten to this part yet, so I know this is currently vague. That is, I haven't learned what these coping mechanisms are: I imagine they'll be categorised into different types. I did read ahead a few days ago and saw something about the core wounded inner child state, and then an angry child state, dissociation, etc. 
+
