@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Schema therapy notes 1"
             }
+          },
+          {
+            "id": "3d84c40f955153cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/2026/Axioms are the seeds, theorems are the trees.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Axioms are the seeds, theorems are the trees"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/2026/learning/schema-therapy/notes/Schema therapy notes 1.md",
+                "file": "source/content/2026/Axioms are the seeds, theorems are the trees.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Schema therapy notes 1"
+              "title": "Backlinks for Axioms are the seeds, theorems are the trees"
             }
           },
           {
@@ -114,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/2026/learning/schema-therapy/notes/Schema therapy notes 1.md",
+                "file": "source/content/2026/Axioms are the seeds, theorems are the trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Schema therapy notes 1"
+              "title": "Outgoing links from Axioms are the seeds, theorems are the trees"
             }
           },
           {
@@ -150,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/2026/learning/schema-therapy/notes/Schema therapy notes 1.md",
+                "file": "source/content/2026/Axioms are the seeds, theorems are the trees.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Schema therapy notes 1"
+              "title": "Outline of Axioms are the seeds, theorems are the trees"
             }
           }
         ]
@@ -178,18 +193,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3d84c40f955153cd",
   "lastOpenFiles": [
+    "source/content/📎 Files/Files 0 - 2026/euclidean_vs_hyperbolic_geometry.svg",
+    "source/content/📎 Files/Files 0 - 2026/number_system_hierarchy_16x9.svg",
+    "source/content/📎 Files/Files 0 - 2026/1775119359909.webp",
+    "source/content/📎 Files/Files 0 - 2026/math_fundamentals_primer.pdf",
+    "source/content/2026/Log per day - 2026.md",
+    "source/content/2026/Axioms are the seeds, theorems are the trees.md",
+    "source/content/2026/learning/schema-therapy/notes/Schema therapy notes 1.md",
     "source/content/2026/learning/Alex and Dave.md",
     "source/content/2026/learning/schema-therapy/sessions/Schema therapy Dave session 0.md",
     "source/content/2026/learning/schema-therapy/sessions/Schema therapy Dave session 1.md",
     "source/content/2026/learning/schema-therapy/resources/dave-primer-schema-therapy-session-1-with-annotations.pdf",
     "source/content/2026/learning/schema-therapy/Dave Log - Schema Therapy.md",
-    "source/content/2026/learning/schema-therapy/notes/Schema therapy notes 1.md",
     "source/content/2026/learning/schema-therapy/sessions/2026-04-02-Schema Therapy.md",
     "source/content/2026/learning/schema-therapy/resources/dave-primer-schema-therapy.md",
     "source/content/2026/Untitled.md",
-    "source/content/2026/Log per day - 2026.md",
     "source/content/2026/Critical Reading, according to Jacobus.md",
     "source/content/2026/\"A World of Ideas\" by Lee Jacobus.md",
     "source/content/index.md",
@@ -203,7 +223,6 @@
     "source/content/2026/learning/test-topic/untitled folder",
     "source/content/2026/learning/schema-therapy/notes",
     "source/content/2026/learning/schema-therapy/sessions",
-    "source/content/2026/learning/untitled folder",
     "source/content/2026/A B U gifs, maladaptive Bs, and Kegan's \"Immunity to Change\".md",
     "source/content/📎 Files/Files 0 - 2026/A B U gifs, maladaptive Bs, and Kegan's \"Immunity to Change\"-2.png",
     "source/content/📎 Files/Files 0 - 2026/A B U gifs, maladaptive Bs, and Kegan's \"Immunity to Change\"-1.png",
@@ -215,15 +234,12 @@
     "source/content/📎 Files/Files 0 - 2026/mal3-feedback-integrated-equal.gif",
     "source/content/📎 Files/Files 0 - 2026/mal2-feedback-rejected.gif",
     "source/content/📎 Files/Files 0 - 2026/mal1-maladaptive-b-fires.gif",
-    "source/content/📎 Files/Files 0 - 2026/gif3-u2-fade.gif",
-    "source/content/📎 Files/Files 0 - 2026/gif3-u1-snap.gif",
     "source/content/2026/Christopher Alexander.md",
     "source/content/2026/Beware what Geoffrey Hinton says in that clip.md",
     "source/content/2026/\"System-impacted\" as a nice example of an \"A\".md",
     "source/content/2026/Memo to Attila - what has changed for me recently.md",
     "source/content/2026/Seeking autodidact funding (draft).md",
     "source/content/2026/Seeking autodidact funding, feedback v1.md",
-    "source/content/2026/Real education, and class differences.md",
-    "source/content/2026/From porous to boundaried, radical change.md"
+    "source/content/2026/Real education, and class differences.md"
   ]
 }

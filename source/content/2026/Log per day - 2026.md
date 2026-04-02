@@ -4,6 +4,7 @@ permalink: log-per-day
 - [[source/content/index|Home Page]]
 # Mar 2026
 - 2026-04-02
+	- [[Axioms are the seeds, theorems are the trees]]
 	- [[Schema therapy notes 1]]
 - 2026-04-01
 	- [[Alex and Dave]]
