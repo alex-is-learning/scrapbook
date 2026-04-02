@@ -10,9 +10,8 @@ date: 2026-04-02T09:39:00
 	- and also the thing of "from 5 axioms, all of Euclidean Geometry results"
 	- and also the thing of "change one of the Euclidean axioms and you get a totally different (but still totally valid) type of maths" (and this is the case for any axiomatic system, I guess??)
 # Axioms as seeds, theorems as trees
-![[number_system_hierarchy_16x9.svg]]
+![[1775121370777.webp]]
 # Change one axiom, totally different results
-![[euclidean_vs_hyperbolic_geometry.svg]]
-
+![[1775121416434.webp]]
 # Math primer PDF
 ![[math_fundamentals_primer.pdf]]

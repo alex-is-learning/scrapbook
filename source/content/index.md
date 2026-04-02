@@ -4,7 +4,7 @@ aliases:
   - Home Page
 permalink: home-page
 ---
-Hi, I'm Alex! This is my digital scrapbook - currently at 374,734 words (AKA Infinite Jest x 0.65 or Order of the Phoenix x 1.45).
+Hi, I'm Alex! This is my digital scrapbook - currently at 374,766 words (AKA Infinite Jest x 0.65 or Order of the Phoenix x 1.45).
 ## Start with these
 - [[Log per day - 2026]]
 	- I prefer navigating in this way because a lot of older notes represent kinda abandoned threads, vs the stuff I'm thinking about *right now* is the most fresh and alive
@@ -28,9 +28,9 @@ Hi, I'm Alex! This is my digital scrapbook - currently at 374,734 words (AKA Inf
 - [[Feedback, references]]
 - [[Tpot, post-rationalism|The post-rationalism community]]
 - [[Enneagram 3w4 (The Expert, The Professional)|I'm probably an Enneagram 3w4]]
-
-- 👇 as of 2026-04-02, I've added simple (and privacy-first) tracking via [GoatCounter](https://www.goatcounter.com/), just for fun! If only I did this back in June 2025 when I set this site up 😅 
-- I don't expect many visitors because I don't really publish this website anywhere - I share links to a few friends pretty often, I've occasionally tweeted a link, etc
+## Visitors
+- 👇 as of the 2nd of ==April 2026==, I've added simple (and privacy-first) tracking via [GoatCounter](https://www.goatcounter.com/), just for fun! If only I did this back in ==June 2025== when I set this site up 😅 
+- I don't expect many visitors because I don't really publish this website anywhere - I share links to a few friends pretty often, I've occasionally tweeted a link, etc. I think this site as me thinking & building in public, but quietly 😎
 
 <div id="gc-total"></div>
 <script>

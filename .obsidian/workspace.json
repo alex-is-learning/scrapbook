@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/2026/Axioms are the seeds, theorems are the trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Axioms are the seeds, theorems are the trees"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/2026/Axioms are the seeds, theorems are the trees.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Axioms are the seeds, theorems are the trees"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/2026/Axioms are the seeds, theorems are the trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Axioms are the seeds, theorems are the trees"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/2026/Axioms are the seeds, theorems are the trees.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Axioms are the seeds, theorems are the trees"
             }
           }
         ]
@@ -195,12 +195,15 @@
   },
   "active": "3d84c40f955153cd",
   "lastOpenFiles": [
+    "source/content/📎 Files/Files 0 - 2026/1775121416434.webp",
+    "source/content/📎 Files/Files 0 - 2026/1775121370777.webp",
+    "source/content/2026/Log per day - 2026.md",
+    "source/content/index.md",
     "source/content/2026/Axioms are the seeds, theorems are the trees.md",
     "source/content/📎 Files/Files 0 - 2026/euclidean_vs_hyperbolic_geometry.svg",
     "source/content/📎 Files/Files 0 - 2026/number_system_hierarchy_16x9.svg",
     "source/content/📎 Files/Files 0 - 2026/1775119359909.webp",
     "source/content/📎 Files/Files 0 - 2026/math_fundamentals_primer.pdf",
-    "source/content/2026/Log per day - 2026.md",
     "source/content/2026/learning/schema-therapy/notes/Schema therapy notes 1.md",
     "source/content/2026/learning/Alex and Dave.md",
     "source/content/2026/learning/schema-therapy/sessions/Schema therapy Dave session 0.md",
@@ -212,7 +215,6 @@
     "source/content/2026/Untitled.md",
     "source/content/2026/Critical Reading, according to Jacobus.md",
     "source/content/2026/\"A World of Ideas\" by Lee Jacobus.md",
-    "source/content/index.md",
     "source/content/2026/Why BMAD is worth it even if you don't want to code something.md",
     "source/content/2026/learning/Dave PRD (Product Requirements Document).md",
     "source/content/2026/learning/schema-therapy/resources/ Schema therapy_ a practitioner's guide (2007, Guilford).pdf",
@@ -232,7 +234,6 @@
     "source/content/📎 Files/Files 0 - 2026/A B U gifs.png",
     "source/content/📎 Files/Files 0 - 2026/mal4-feedback-integrated-dominant.gif",
     "source/content/📎 Files/Files 0 - 2026/mal3-feedback-integrated-equal.gif",
-    "source/content/📎 Files/Files 0 - 2026/mal2-feedback-rejected.gif",
     "source/content/2026/Christopher Alexander.md",
     "source/content/2026/Beware what Geoffrey Hinton says in that clip.md",
     "source/content/2026/\"System-impacted\" as a nice example of an \"A\".md",
