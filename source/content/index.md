@@ -5,16 +5,6 @@ aliases:
 permalink: home-page
 ---
 Hi, I'm Alex! This is my digital scrapbook - currently at 374,672 words (AKA Infinite Jest x 0.65 or Order of the Phoenix x 1.45).
-
-<div id="gc-total"></div>
-<script>
-  var t = setInterval(function() {
-    if (window.goatcounter && window.goatcounter.visit_count) {
-      clearInterval(t)
-      window.goatcounter.visit_count({append: '#gc-total', path: 'TOTAL', no_branding: true})
-    }
-  }, 100)
-</script>
 ## Start with these
 - [[Log per day - 2026]]
 	- I prefer navigating in this way because a lot of older notes represent kinda abandoned threads, vs the stuff I'm thinking about *right now* is the most fresh and alive
@@ -38,3 +28,13 @@ Hi, I'm Alex! This is my digital scrapbook - currently at 374,672 words (AKA Inf
 - [[Feedback, references]]
 - [[Tpot, post-rationalism|The post-rationalism community]]
 - [[Enneagram 3w4 (The Expert, The Professional)|I'm probably an Enneagram 3w4]]
+
+<div id="gc-total"></div>
+<script>
+  var t = setInterval(function() {
+    if (window.goatcounter && window.goatcounter.visit_count) {
+      clearInterval(t)
+      window.goatcounter.visit_count({append: '#gc-total', path: 'TOTAL', no_branding: true})
+    }
+  }, 100)
+</script>
