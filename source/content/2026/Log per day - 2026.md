@@ -2,15 +2,17 @@
 permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
-# Mar 2026
+# Apr 2026
 - 2026-04-02
 	- [[Axioms are the seeds, theorems are the trees]]
 	- [[Schema therapy Dave session 1]]
 	- [[Schema therapy notes 1]]
+	- [[Virgo and Fiona (schema therapy)]]
 - 2026-04-01
 	- [[Alex and Dave]]
 	- [[Schema therapy Dave session 0]]
 	- [[Why BMAD is worth it even if you don't want to code something]]
+# Mar 2026
 - 2026-03-31
 	- [[A B U gifs, maladaptive Bs, and Kegan's "Immunity to Change"]]
 - 2026-03-29
