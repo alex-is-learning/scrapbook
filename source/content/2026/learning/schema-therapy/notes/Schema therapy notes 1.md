@@ -80,6 +80,9 @@ So, it's 8am now, that raps up this session. I probably spent 45-60 mins with my
 - And my adopted sister something like
 	- -9, -8, -9, -8, -5
 - And added a note about "and then of course, if I were to plot my mum, my dad, their parents, their siblings... being working class increases your probability of being in a 'hell realm' (Buddhist parlance) where most valence skews negative, and everyone around you is in the same situation (e.g. see Blackpool, Burton-on-Trent etc). No role models, everyone is suffering/struggling, no resources to address this, etc)
+# Appendix - my drawings/annotations
+- *This is what I did in the morning to learn, before talking to Dave to see what I could remember*
+![[dave-primer-schema-therapy-session-1-with-annotations.pdf]]
 
 
 [^1]: Chronic in the "1 year is not enough to develop a schema

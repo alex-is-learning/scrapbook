@@ -23,7 +23,7 @@ A log of every learning session.
 	- [[Schema therapy Dave session 1]]
 - 2026-04-01
 	- First even session, 2026-04-01 → [[Schema therapy Dave session 0]]
-	- [[dave-log-schema-therapy]]
+	- [[Dave Log - Schema Therapy]]
 	- [[dave-primer-schema-therapy]]
 
 | Date       | Page<br>                           | Duration | Status   | Pride | A/B/U Notes                                                                                                               |
