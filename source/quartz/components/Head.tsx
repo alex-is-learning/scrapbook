@@ -46,6 +46,11 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
+        <script
+          data-goatcounter="https://alexislearning-scrapbook.goatcounter.com/count"
+          async
+          src="//gc.zgo.at/count.js"
+        />
       </head>
     )
   }
