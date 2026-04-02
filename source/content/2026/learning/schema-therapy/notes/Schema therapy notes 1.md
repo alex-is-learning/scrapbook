@@ -1,6 +1,7 @@
 ---
 date: 2026-04-02T07:26:00
 ---
+- 2026-04-02
 - Writing up my first set of notes for Dave, re: what I'm learning!
 # What I did this morning
 - I started reading the "schema therapy primer" PDF on my reMarkable tablet, and added new blank pages where I drew little sketches to help me grok the basics. Basically, a form of active learning, turning some of the key axioms into little diagrams

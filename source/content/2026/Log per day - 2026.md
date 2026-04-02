@@ -3,6 +3,8 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 # Mar 2026
+- 2026-04-02
+	- [[Schema therapy notes 1]]
 - 2026-04-01
 	- [[Alex and Dave]]
 	- [[Why BMAD is worth it even if you don't want to code something]]

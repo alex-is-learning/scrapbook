@@ -18,11 +18,14 @@ aliases:
 # Alex and Dave
 
 A log of every learning session.
+- 2026-04-02
+	- [[Schema therapy notes 1]]
+	- [[Schema therapy Dave session 1]]
+- 2026-04-01
+	- First even session, 2026-04-01 → [[Schema therapy Dave session 0]]
+	- [[dave-log-schema-therapy]]
+	- [[dave-primer-schema-therapy]]
 
-- First even session, 2026-04-01 → [[init-log-schema-therapy]]
-- [[dave-log-schema-therapy]]
-- [[dave-primer-schema-therapy]]
-
-| Date | Topic | Duration | Status | Pride | A/B/U Notes |
-|------|-------|----------|--------|-------|-------------|
-
+| Date       | Page<br>                           | Duration | Status   | Pride | A/B/U Notes                                                                                                               |
+| ---------- | ---------------------------------- | -------- | -------- | ----- | ------------------------------------------------------------------------------------------------------------------------- |
+| 2026-04-02 | [[Schema therapy Dave session 1]]] | 15 min   | complete | 5/5   | A: 5 needs + CBT/schema distinction. B: world-model therapies cluster. U: schemas operate deeper than thought production. |

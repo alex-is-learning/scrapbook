@@ -3,6 +3,7 @@ date: 2026-04-01T18:49:00
 tags:
   - Dave
 ---
+- (Initialising the project with the slash command `/dave init`)
 ## Full Transcript
 
 **Dave:** Scaffolding is ready. Before we go further, I need to calibrate where you actually are — not where you think you are, not where you'd like to be. I'll ask three things. Answer honestly, not impressively.
