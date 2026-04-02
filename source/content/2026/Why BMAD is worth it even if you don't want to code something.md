@@ -2,9 +2,9 @@
 date: 2026-04-01T22:03:00
 ---
 - 2026-04-01
-- See also → [[alex-and-dave|Alex and Dave]], [[Dave PRD (Product Requirements Document)]]
+- See also → [[Alex and Dave|Alex and Dave]], [[Dave PRD (Product Requirements Document)]]
 
-- I used [BMAD](https://github.com/bmad-code-org/BMAD-METHOD)  today to make Dave ([[alex-and-dave|Alex and Dave]]) and I am just *blown the fuck away*
+- I used [BMAD](https://github.com/bmad-code-org/BMAD-METHOD)  today to make Dave ([[Alex and Dave|Alex and Dave]]) and I am just *blown the fuck away*
 - I want to make the case for why this is useful, but it's 10pm, so I asked Gemini
   
 > based on the BMAD repo, can you write a thing about BMAD helps you with project ideas, with planning, etc? I have a friend who I'm making the case that it's really worth using even if you just want to refine your ideas etc. You should be able to see the different relevant skills
