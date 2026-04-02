@@ -1,26 +1,15 @@
 ---
 date: 2026-04-02T08:40:00
+tags: [Dave]
 ---
+
+[[Alex and Dave]]
+
 **Session:** 2026-04-02
 **Duration Aim:** 15 minutes
 **Actual Duration:** 50 minutes
 **Status:** complete
 **Pride:** 5/5
-# Summary
-- **A:** ~15 items: CBT vs schema therapy framing (depth distinction), the 5 core emotional needs, and their sub-components (what each need requires to be met)
-- **B:** Therapies like IFS, schema therapy, and coherence therapy act on the world model — more effective than surface-level thought intervention; schema therapy adds another data point to this
-- **U:** Schemas don't just lead to maladaptive thoughts — they do something prior to or deeper than thought production (exact mechanism not yet read)
-
-**Summary:** First active session. Alex covered the schema therapy vs CBT distinction and all 5 core emotional needs with sub-components via diagram-based study. One U flagged for next session: what schemas actually do beyond generating thoughts.
-
-| Type | Content                                                                                                              |
-| ---- | -------------------------------------------------------------------------------------------------------------------- |
-| A    | CBT vs schema therapy: schema therapy goes deeper, asking why maladaptive patterns persist                           |
-| A    | 5 core emotional needs (safety/attachment, autonomy, emotional expression, spontaneity/play, realistic limits)       |
-| A    | Sub-components of each need (what it requires to be met)                                                             |
-| B    | Therapies acting on world models (IFS, schema, coherence) are more effective than surface-level thought intervention |
-| U    | Schemas do something prior to/deeper than thought production — exact mechanism not yet read                          |
-
 # Transcript
 
 **Dave:** Before we begin: how long do you have today?
@@ -42,6 +31,8 @@ date: 2026-04-02T08:40:00
 What did you read this morning? Tell me what feels most solid.
 
 **Me:** Can't you just read the markdown file I just wrote? "Schema therapy session 1"
+## He reads wrote I wrote
+( [[Schema therapy notes 1]] )
 
 **Dave:** Read it. Good stuff — especially the diagrams approach.
 
@@ -163,3 +154,19 @@ Two things for you before you go:
 **Me:** Thanks Dave! Talk soon.
 
 **Dave:** See you next time.
+
+# Summary
+- **A:** ~15 items: CBT vs schema therapy framing (depth distinction), the 5 core emotional needs, and their sub-components (what each need requires to be met)
+- **B:** Therapies like IFS, schema therapy, and coherence therapy act on the world model — more effective than surface-level thought intervention; schema therapy adds another data point to this
+- **U:** Schemas don't just lead to maladaptive thoughts — they do something prior to or deeper than thought production (exact mechanism not yet read)
+
+**Summary:** First active session. Alex covered the schema therapy vs CBT distinction and all 5 core emotional needs with sub-components via diagram-based study. One U flagged for next session: what schemas actually do beyond generating thoughts.
+
+| Type | Content                                                                                                              |
+| ---- | -------------------------------------------------------------------------------------------------------------------- |
+| A    | CBT vs schema therapy: schema therapy goes deeper, asking why maladaptive patterns persist                           |
+| A    | 5 core emotional needs (safety/attachment, autonomy, emotional expression, spontaneity/play, realistic limits)       |
+| A    | Sub-components of each need (what it requires to be met)                                                             |
+| B    | Therapies acting on world models (IFS, schema, coherence) are more effective than surface-level thought intervention |
+| U    | Schemas do something prior to/deeper than thought production — exact mechanism not yet read                          |
+

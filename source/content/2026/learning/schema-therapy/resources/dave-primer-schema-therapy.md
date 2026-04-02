@@ -3,6 +3,8 @@ date: 01/04/2026, 18:49
 tags: [Dave]
 ---
 
+[[Alex and Dave]]
+
 # Dave Primer: test-topic (Schema Therapy)
 
 *Primary source: "Schema Therapy: A Primer" (personal primer doc, March 2026) and Young, Klosko & Weishaar (2003), Schema Therapy: A Practitioner's Guide. Supplemented where indicated.*

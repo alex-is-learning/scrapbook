@@ -3,6 +3,9 @@ date: 2026-04-01T18:49:00
 tags:
   - Dave
 ---
+
+[[Alex and Dave]]
+
 - (Initialising the project with the slash command `/dave init`)
 ## Full Transcript
 

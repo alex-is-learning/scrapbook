@@ -1,6 +1,10 @@
 ---
 date: 2026-04-02T07:26:00
+tags: [Dave]
 ---
+
+[[Alex and Dave]]
+
 - 2026-04-02
 - Writing up my first set of notes for Dave, re: what I'm learning!
 # What I did this morning
