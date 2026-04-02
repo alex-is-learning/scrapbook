@@ -13,7 +13,7 @@ A collection of notes, essays, and learning logs covering topics like epistemolo
 - **[Quartz v4](https://quartz.jzhao.xyz/)** — static site generator built for digital gardens, converts Obsidian markdown to a website
 - **[Obsidian](https://obsidian.md/)** — used locally for writing and editing notes
 - **GitHub Pages** — hosting, with automatic deploys via GitHub Actions on every push to `main`
-- **GoatCounter** — privacy-first, cookieless visitor analytics
+- **[GoatCounter](https://www.goatcounter.com/)** — privacy-first, cookieless visitor analytics
 
 The content lives in `source/content/` as plain markdown files. Quartz builds them into a static site in `source/public/`.
 
