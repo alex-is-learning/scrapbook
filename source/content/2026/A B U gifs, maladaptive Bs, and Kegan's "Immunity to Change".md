@@ -1,5 +1,6 @@
 ---
 date: 2026-03-31T18:48:00
+permalink:
 ---
 - 2026-03-31
 - The A/B/U system ([link to ORI doc](https://openresearchinstitute.org/onboarding/A_B_U.html)) has further clicked for me! I'm seeing how it's a really powerful tool for meta-cognition !!! For thinking about your thinking, for seeing your cognition, which empowers you to learn better, to think better
