@@ -4,7 +4,7 @@ aliases:
   - Home Page
 permalink: home-page
 ---
-Hi, I'm Alex! This is my digital scrapbook - currently at 375,127 words (AKA Infinite Jest x 0.65 or Order of the Phoenix x 1.46).
+Hi, I'm Alex! This is my digital scrapbook - currently at 378,674 words (AKA Infinite Jest x 0.66 or Order of the Phoenix x 1.47).
 ## Start with these
 - [[Log per day - 2026]]
 	- I prefer navigating in this way because a lot of older notes represent kinda abandoned threads, vs the stuff I'm thinking about *right now* is the most fresh and alive

@@ -10,6 +10,7 @@ date: 2026-03-13
 	- [[Re wanting to learn how to think, 2026-03-04]]
 	- [[Poor education, and my decade of tanha, 2026-02-19]]
 	- [[What do you learn at private school that you don't learn at a state school?]]
+	- [[Jordan Peterson's essay writing guide]]
 - His take was that I'm a pretty good thinker who is just missing a few mental moves and some unifying frameworks/knowledge bases to hang all my disparate learnings from
 - He said:
 	- "You're still framing it as 'fixing yourself', rather than 'enriching yourself'" (based on reading one of my posts about it)

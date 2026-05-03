@@ -3,6 +3,8 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 # Apr 2026
+- 2026-04-14
+	- [[A B U book (home page)]]
 - 2026-04-02
 	- [[Axioms are the seeds, theorems are the trees]]
 	- [[Schema therapy Dave session 1]]
