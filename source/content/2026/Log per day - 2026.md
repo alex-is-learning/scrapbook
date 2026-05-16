@@ -2,6 +2,9 @@
 permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
+# May 2026
+- 2026-05-16
+	- [[Learning about business, challenge, home page]]
 # Apr 2026
 - 2026-04-14
 	- [[A B U book (home page)]]

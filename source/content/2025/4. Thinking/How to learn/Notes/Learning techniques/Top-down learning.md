@@ -22,3 +22,4 @@ See also [[Top-down learning unlocks care (and ego)]] & my [this-project kickoff
 --- 
 
 - Turns out this is similar to reading to _engage_ (as opposed to reading to _understand_)
+- This website started out as me doing top-down learning, inspired by Defender, e.g. [[Israel & Iran (session 1)]]

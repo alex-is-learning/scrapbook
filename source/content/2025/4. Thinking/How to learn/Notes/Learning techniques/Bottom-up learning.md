@@ -21,6 +21,9 @@ tags:
 
 ![[left-brain-productivity-problem.webp]]
 
+## Why it's needed
+- From [[What do I know about business, on day 0 of my learning sprint? (2026-05-16)]]:
+- (The reason you also need bottom-up IMO is because of the "Concept-Shaped Holes Can Be Impossible To Notice" thing ([Slate Star Codex](https://slatestarcodex.com/2017/11/07/concept-shaped-holes-can-be-impossible-to-notice/) post) - you also need to go to the well rather than trying to invent everything from scratch)
 --- 
 
 - Turns out this is similar to reading to _understand_ (as opposed to reading to _engage_)
