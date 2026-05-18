@@ -5,6 +5,7 @@ permalink: log-per-day
 # May 2026
 - 2026-05-18
 	- [[Are my business offerings dumb? 2026-05-18]]
+	- [[Youtube series idea - doing all the A Levels]]
 - 2026-05-16
 	- [[Learning about business, challenge, home page]]
 - 2026-05-14
