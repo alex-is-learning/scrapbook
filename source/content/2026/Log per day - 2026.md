@@ -7,6 +7,8 @@ permalink: log-per-day
 	- [[Are my business offerings dumb? 2026-05-18]]
 - 2026-05-16
 	- [[Learning about business, challenge, home page]]
+- 2026-05-14
+	- [[Microeconomics sprint]]
 # Apr 2026
 - 2026-04-14
 	- [[A B U book (home page)]]

@@ -45,3 +45,9 @@ date:
 ## The problem is when you try to see the future
 - "Can I do x?" (e.g. "can I do free work for someone for a week?") = yes
 - "Can I do x, and guarantee that it will lead to y?" (e.g., "can I only offer free work to people who will be able to pay me afterwards) = stressful
+## Presence of stress means presence of stress
+- I think the causal structure goes something like this: 
+	- Thinking about making money/thinking about how to price myself etc causes stress
+	- Because, it's stressful to think about, as it triggers thoughts like "what if I don't have any skills", "what if I'll never make money again", stuff like that
+	- And it's easy to then endorse those worries, but those worries are downstream of the stress
+	- I am trying to make money & facing the fact that I have £3k in the bank, and that brings about stress. The end. No need to get stuck in thought loops or endorse downstream worries
