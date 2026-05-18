@@ -7,6 +7,7 @@ date: 2026-05-16T20:05:00
 ## Quick excursus on top-down learning
 - I really like the [[Top-down learning]] thing where instead of just learning via bottom-up internalisation of the essentials ([[Bottom-up learning]], which I of course also really like), you first write up what you currently know, to make it very clear where your knowledge gaps are most egregious
 	- (The reason you also need bottom-up IMO is because of the "Concept-Shaped Holes Can Be Impossible To Notice" thing ([Slate Star Codex](https://slatestarcodex.com/2017/11/07/concept-shaped-holes-can-be-impossible-to-notice/) post) - you also need to go to the well rather than trying to invent everything from scratch)
+	- An example here is like, I just now searched for a tutorial on how to rotoscope in DaVinci Resolve. Of course, if I didn't know the term "rotoscope", I wouldn't know to search this. I might ask Claude about it without knowing the terminology ("hey, how do I extract myself from a video, removing the background? Is there a name for this?")
 ## I don't think there's *that much point* here
 - I know that I barely know anything
 - But I guess:

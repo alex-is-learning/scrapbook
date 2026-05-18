@@ -24,6 +24,7 @@ tags:
 ## Why it's needed
 - From [[What do I know about business, on day 0 of my learning sprint? (2026-05-16)]]:
 - (The reason you also need bottom-up IMO is because of the "Concept-Shaped Holes Can Be Impossible To Notice" thing ([Slate Star Codex](https://slatestarcodex.com/2017/11/07/concept-shaped-holes-can-be-impossible-to-notice/) post) - you also need to go to the well rather than trying to invent everything from scratch)
+	- An example here is like, I just now searched for a tutorial on how to rotoscope in DaVinci Resolve. Of course, if I didn't know the term "rotoscope", I wouldn't know to search this. I might ask Claude about it without knowing the terminology ("hey, how do I extract myself from a video, removing the background? Is there a name for this?")
 --- 
 
 - Turns out this is similar to reading to _understand_ (as opposed to reading to _engage_)
