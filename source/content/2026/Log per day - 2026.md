@@ -5,6 +5,9 @@ permalink: log-per-day
 # May 2026
 - 2026-05-21
 	- [[Co-thinking notes 2026-05-21]]
+	- [["I can improve people's lives", 2026-05-21]]
+	- [[Ways I've become more myself]]
+	- [[My model of coaching]]
 - 2026-05-20
 	- ✈️ *On a flight to Turin, got [[Chanda]] to write, lfg*
 	- [[Initial planning for "Doing a Business Studies A Level" youtube video]]
@@ -13,6 +16,7 @@ permalink: log-per-day
 	- [[Entrepreneurship as a "B" factory]]
 - 2026-05-18
 	- [[Are my business offerings dumb? 2026-05-18]]
+		- [[Claude roast of my co-thinking site]]
 	- [[Youtube series idea - doing all the A Levels]]
 - 2026-05-16
 	- [[Learning about business, challenge, home page]]

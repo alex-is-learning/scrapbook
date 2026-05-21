@@ -51,6 +51,9 @@ Because this is my whole thing: I really want to be well-educated, but it's quit
 It's such an awesome win-win. Rare, cool videos — I think — and I'm getting to learn a bunch, and getting over my own sadness that I missed out on this stuff the first time around. It feels very unique. And then I can go on to do university-level stuff and be learning in public.
 
 Yeah — this is cool. This is cool shit. I think this is fucking genius. Wow.
+# Appendix
+- "**Learning sprints are one of my favourite things to do**"
+- **I even streamed my learning of PAN to twitch, lol. Maybe I should do this more**
 
 [^1]: Link to unlisted vid here - https://youtu.be/4EUuGsVSMVA
 

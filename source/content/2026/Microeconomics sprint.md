@@ -4,7 +4,6 @@ flashcards: 175
 updated: 2026-05-18 12:46
 source: Anki deck "Microeconomics"
 ---
-
 # Microeconomics sprint
 - (getting claude to populate this page retroactively)
 
