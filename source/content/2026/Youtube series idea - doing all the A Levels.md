@@ -1,8 +1,10 @@
 ---
 date: 2026-05-18T22:49:00
 ---
+- [[Log per day - 2026]]
 # Voice notes I sent to a friend
 - *(Transcribed via Superwhisper, which btw they've made this way too expensive, I asked Claude "I got superwhisper (which I think just wraps OpenAI's whisper model) for $60 lifetime, and now it's $250 lifetime, wondering if there are cheaper offerings" yesterday, it gave good options!)*
+- *Also, turns out I swear a lot in voice notes...*
 ## Voicenote 1 - A Level challenge videos
 At the gym, I had some ideas. ==You know that video I sent you== — the one I made about "I'm going to learn business in a week"[^1] or "see how much I can learn"? The problem with that framing is: *what's the outcome*? What's the output I'd share in the video after a week? It'd be "yeah, I made a bunch of flashcards and I now know XYZ that I didn't know before." Cool. Maybe I could link to my website to show the flashcards, or link to an essay where I write up what I've learned. It's fine. It kind of depends on who the video is for. If it's just signal for potential hires or clients, it could work — just to show I'm a guy who's passionate about learning stuff as an adult and is good at it. ==But still, hard to verify.==
 

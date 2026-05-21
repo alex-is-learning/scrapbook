@@ -2,3 +2,8 @@
 
 - **A** - “true & useful, AND new to me”
 - **A** - “this wasn't in my world model before, but it is now”
+
+- [["A" ceiling, "A" frontier]]
+- [["A" storm]]
+- [["A" drought]]
+- [[A maturing to a B]]

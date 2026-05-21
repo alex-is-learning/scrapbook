@@ -3,6 +3,14 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 # May 2026
+- 2026-05-21
+	- [[Co-thinking notes 2026-05-21]]
+- 2026-05-20
+	- ✈️ *On a flight to Turin, got [[Chanda]] to write, lfg*
+	- [[Initial planning for "Doing a Business Studies A Level" youtube video]]
+	- [[The non-ideal pedagogy of the A B U model]]
+	- [[Coaching as a "B" factory]]
+	- [[Entrepreneurship as a "B" factory]]
 - 2026-05-18
 	- [[Are my business offerings dumb? 2026-05-18]]
 	- [[Youtube series idea - doing all the A Levels]]

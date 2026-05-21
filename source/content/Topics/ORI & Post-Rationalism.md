@@ -10,7 +10,7 @@ tags:
 - [[After the ORI "A" storm (2026-02-03)]]
 - [["A" Drought]]
 ## 2026-01
-- [["A" ceiling]]
+- [["A" ceiling, "A" frontier]]
 - [["B"s]]
 - [["A" storm]]
 - [["U"s]]
