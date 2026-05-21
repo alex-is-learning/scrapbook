@@ -5,6 +5,7 @@ date: 2026-05-21T18:17:00
 	- [Silly website that I shared with friends](https://cothinker-website.vercel.app/)
 	- [More polished version for cold leads](https://www.alexanderlarge.com/)
 - I want to write about how it's going! So's here goes:
+	- *Also, a note that this feels like an exciting continuation of the whole Open Research Institute thing ([[ORI]]) of making your own models. Previous me would have felt the need to read about what coaches say the point of coaching is, etc, whereas I'm really liking documenting my own empirical knowledge ([["B"s]]). What Geoffrey Hinton says here, basically [[Beware what Geoffrey Hinton says in that clip]]*
 # 1. On meta-problems
 - I did a co-thinking session with someone a few days ago and it got me excited about the idea of doing coaching as a way to figure out the set of high level meta-problems that people have (and how to solve them)
 - That is:
@@ -52,6 +53,22 @@ date: 2026-05-21T18:17:00
 - Pitch it for free: opens doors, just trying to get data here, going from 0 to 1 
 - It's scary, imagining pitching stage 3 people! 
 - [[How do I find stage 3 people?]]
+
+# Appendix: is "meta-problems" the right use of the word "meta"?
+- Note, expanding on this in [[Meta-problem-solving]]
+- I asked this to Claude yesterday whilst walking around Turin (travel vlog from the day [here](https://youtu.be/xWE9stvq8xA), lol)
+
+> If I were to say, yesterday I had the thought that if I’m doing coaching with people, they’ll come with different specific problems like, one person wants to stop doing x thing. And then I was like, oh, I wonder if there were actually something like five to twenty as a guess meta problems that people have. And x is one specific example, but the kind of underlying thing is, like, wanting to implement behavior change or not knowing how to implement behavior change, and that’s, like, the meta problem. But then I thought, is meta the correct term there? Maybe not because meta is like… that would be, like, the problem about problems. Oh, I don’t know. Maybe it is correct because you have a surface level problem like I would like to do x less, and then you have the the matter problem, which is like, I seem to have conflicting desires, and I don’t know how to resolve them. And I’m kinda stuck as a result. And it’s dissatisfying. So maybe it is a meta problem after all, but I was wondering if maybe I was using the term incorrectly. Because, like, meta learning is learning how to learn, self referential in that way. So… but… so I guess, like, meta problems are kind of, like, problems you have about having problems. Like, you’re having problems because you don’t understand how to face your problems. So maybe meta problem solving is a thing, actually.
+## Claude
+You’re using “meta” correctly, and I think you actually worked it out yourself mid-thought.
+
+The distinction you’re drawing is real: “I do x too much” is the surface problem. “I have conflicting desires and don’t know how to resolve them” is structurally a different kind of problem — it’s about the pattern underlying many specific problems. That’s meta in the same sense as meta-learning. Not “a problem about problems” in the abstract philosophical sense, but “the general shape that recurs across specific instances.”
+
+For coaching, this is a useful frame. The 5–20 meta-problems you’re sensing might be things like: conflicting desires, unclear values, low self-trust from broken commitments, identity mismatch with the desired behavior, missing skills for emotional regulation, environmental design failures. X, scrolling, procrastination, overeating — all surface expressions of a smaller set of underlying patterns.
+
+One nuance: in philosophy of mind, “the meta-problem” has a specific Chalmers-y meaning (why we think there’s a hard problem of consciousness). So if you’re writing about this publicly, you might get cleaner traction with “root problem,” “underlying pattern,” or “problem archetype” — but for your own thinking, meta-problem works fine.
+## Honestly, not satisfied
+- I actually don't feel satisfied by what Claude said here. But I really like the framing I landed on (and Claude didn't touch at all, weirdly) of "having a problem about how your handle your problems". This is the meta problem, or perhaps, meta-problem-solving. "I don't know how to handle my problems" feels like very much a real thing. "I don't touch my problems because I don't know how to touch my problems". Seems very meta to me. And this is where coaching can be so useful, because it gives you capacity to actually work on your problems. It collapses the meta problem, lets you get out of the loop and just tackle the things
 
 [^1]: Although ofc I've done coaching in the past and also similar stuff in previous jobs
 
