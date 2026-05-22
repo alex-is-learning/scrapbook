@@ -3,11 +3,14 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 # May 2026
+- 2026-05-22
+	- [[Coaching prerequisites]]
+	- [[Co-thinking and revealed preferences]]
+	- [[Learning (and a learning youtube channel) and revealed preferences]]
 - 2026-05-21
 	- [[Co-thinking notes - meta-problems, 3 stages, 2026-05-21]]
 	- [["I can improve people's lives", 2026-05-21]]
-	- 🚨 to write → [[Ways I've become more myself]]
-	- 🚨 to write → [[My model of coaching]]
+	- [[My model of coaching]]
 	- [[Meta-problem-solving]]
 - 2026-05-20
 	- ✈️ *On a flight to Turin, got [[Chanda]] to write, lfg*

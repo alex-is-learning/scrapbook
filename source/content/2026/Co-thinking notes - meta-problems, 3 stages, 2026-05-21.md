@@ -7,6 +7,7 @@ date: 2026-05-21T18:17:00
 - I want to write about how it's going! So's here goes:
 	- *Also, a note that this feels like an exciting continuation of the whole Open Research Institute thing ([[ORI]]) of making your own models. Previous me would have felt the need to read about what coaches say the point of coaching is, etc, whereas I'm really liking documenting my own empirical knowledge ([["B"s]]). What Geoffrey Hinton says here, basically [[Beware what Geoffrey Hinton says in that clip]]*
 # 1. On meta-problems
+- Also going to port this to [[Meta-problem-solving]]
 - I did a co-thinking session with someone a few days ago and it got me excited about the idea of doing coaching as a way to figure out the set of high level meta-problems that people have (and how to solve them)
 - That is:
 	- "How many meta-problems are there?"
@@ -34,6 +35,9 @@ date: 2026-05-21T18:17:00
 
 - But then I thought, what about [Joe Hudson of the Art of Accomplishment](https://www.youtube.com/@ArtofAccomplishment)? He works with high level business executives and is very emotions-focused
 - And what he helps them with is their emotions, as they're dealing with emotional problems. Procrastinating on high-stakes decisions, feeling blocked again, etc
+### 4. "Things are not ok until I solve this problem"
+- This is a really key one, and actually links to the key consensusism thing of "*the key problem is that we (~insecurely-attached-to-life people) feel that "this thing that I'm currently experiencing is not ok to experience and I must stop it"*"
+- See e.g. [here](https://alexislearning.me/consensusism/3.-False-beliefs/The-core-false-belief-%E2%86%92-%22Something-I'm-feeling-is-bad-to-feel%22)
 ## From emotions to resources and back again
 - This (simple, ad-hoc) model is interesting in that it feels kinda cyclical
 - Remembering that the 5 factors of business (?)[^3] are land, capital, labour, entrepreneurship, knowledge. We could say that the first 3 are external resources, and the final 2 are internal resources
@@ -53,7 +57,8 @@ date: 2026-05-21T18:17:00
 - Pitch it for free: opens doors, just trying to get data here, going from 0 to 1 
 - It's scary, imagining pitching stage 3 people! 
 - [[How do I find stage 3 people?]]
-
+# The experiment is: "Can I help executives"
+- AKA being an executive coach
 # Appendix: is "meta-problems" the right use of the word "meta"?
 - Note, expanding on this in [[Meta-problem-solving]]
 - I asked this to Claude yesterday whilst walking around Turin (travel vlog from the day [here](https://youtu.be/xWE9stvq8xA), lol)

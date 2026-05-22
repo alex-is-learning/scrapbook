@@ -6,3 +6,7 @@
 
 - See also [["B" floor]] which has more in it
 - [[A maturing to a B]]
+
+## Learning can be about giving you language for your Bs
+- Things that are Bs to you but that you lack the language to point at precisely, to think about precisely
+- E.g. opportunity cost, A/B/U, comparative advantage - obvious concepts but language lets you think about the efficiently

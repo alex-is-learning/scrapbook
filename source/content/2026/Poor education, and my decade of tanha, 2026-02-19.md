@@ -6,6 +6,7 @@ tags:
   - growth
 ---
 - [[Log per day - 2026]]
+- [[What do you learn at private school that you don't learn at a state school?]]
 - This is quite a self-indulgent, lyrical, purple prose-y bit of writing! I was enjoying myself
 
 ## Ramblings on being poorly educated 
