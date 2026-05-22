@@ -5,8 +5,7 @@ permalink: log-per-day
 # May 2026
 - 2026-05-22
 	- [[Coaching prerequisites]]
-	- [[Co-thinking and revealed preferences]]
-	- [[Learning (and a learning youtube channel) and revealed preferences]]
+	- [[Coaching and outcomes]]
 - 2026-05-21
 	- [[Co-thinking notes - meta-problems, 3 stages, 2026-05-21]]
 	- [["I can improve people's lives", 2026-05-21]]
@@ -16,8 +15,6 @@ permalink: log-per-day
 	- ✈️ *On a flight to Turin, got [[Chanda]] to write, lfg*
 	- [[Initial planning for "Doing a Business Studies A Level" youtube video]]
 	- [[The non-ideal pedagogy of the A B U model]]
-	- [🚨 to write → [Coaching as a "B" factory]]
-	- [🚨 to write → [Entrepreneurship as a "B" factory]]
 - 2026-05-18
 	- [[Are my business offerings dumb? 2026-05-18]]
 		- [[Claude roast of my co-thinking site]]
