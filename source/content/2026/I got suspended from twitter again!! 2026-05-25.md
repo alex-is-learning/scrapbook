@@ -2,6 +2,7 @@
 date: 2026-05-25T17:37:00
 ---
 - Booooo, it's the second time this has happened
+- ![[1779724053500.webp]]
 ## Why this happens
 - My story is:
 	- Elon Musk bought twitter
