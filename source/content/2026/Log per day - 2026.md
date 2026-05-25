@@ -3,6 +3,8 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 # May 2026
+- 2026-05-25
+	- [[I got suspended from twitter again!! 2026-05-25]]
 - 2026-05-24
 	- [[Executive Assistant automation (n8n)]]
 - 2026-05-22

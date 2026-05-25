@@ -36,6 +36,8 @@ date: 2026-05-22T10:34:00
 19. **Insight pumps** — one-pagers in a different register
 ## Socratic
 - Scaffolding people along from their own [["A" ceiling, "A" frontier]], rather than giving them [["U"s]]
+- B-floor refactoring
+- *A true grokking of A/B/U is a key prerequisite, add this! Truly understanding that I can’t just install Us, that people have false Bs, that offering a possible A will provide info re: where they’re at (Jed McKenna’s “flare” thing, re: where you are in the thorns)*
 ## Insights
 24. **Making the implicit explicit — subject to object** (Kegan / DFW)
 25. **A/B/U** — the structural theory of the Socratic seat

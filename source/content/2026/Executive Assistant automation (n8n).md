@@ -4,7 +4,7 @@ date: 2026-05-24T13:45:00
 
 - Sunday 2026-05-24
 ## What is it?
-- A suite of automations I built over a weekend that does for me some of the things that an executive assistant would do: 
+- A suite of automations I[^1] built over a weekend that does for me some of the things that an executive assistant would do: 
 	- briefs me each morning
 	- captures things as they come up
 	- reconciles my day each evening
@@ -68,3 +68,5 @@ Four automations running on a schedule plus an always-on inbound assistant.
 - It probably took around 4 hours of Claude Code time to have it plan and build all these workflows, and for me to assign credentials and help with debugging
 - ![[Pasted image 20260524094416.png]]
 - I used the [BMAD](https://github.com/bmad-code-org/BMAD-METHOD) suite for initial planning, which I love
+
+[^1]: With heavy help from Claude Code, of course -- more like, I was the orchestrator and tester who provided the initial plans
