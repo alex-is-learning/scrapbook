@@ -54,23 +54,9 @@ date: 2026-05-22T15:00:00
 - Key mechanism noted in testimonial: not being credentialed/opinionated worked as a selling point — "you're not selling me your framework"
 
 # (B) Had initial call, week-long sprint to start soon
-## Client 2: Self-consciousness blocking relationship-initiation
-- `B`, intro call 2026-05-21, daily 1-hour sessions begin 2026-05-25
-- Cadence: daily 1-hour, same shape I ran with Ediya
-### Presenting symptoms
-- Live mostly in their head; suppress emotions during the day (these surface in meditation)
-- Have named specific acquaintances they want to deepen with but don't reach out
-- Don't host gatherings — blocked by "I'd want my life more together first"
-- Had a coaching breakthrough ~6 months ago that briefly opened them up, then reverted
-### Underlying problems (my hypothesis)
-- Learned young that what they were feeling wasn't OK / wasn't important — taught themselves to have no expectations to avoid disappointment
-- ==Self-consciousness + fear of rejection== is the load-bearing surface; relationship-initiation is where it's blocking them concretely
-- Confusion-as-defence: the feeling of confusion may be doing protective work rather than signalling a genuine lack of clarity — worth watching as a tell
-- Maps to the emotional-capacity meta-problem from [[Meta-problem-solving]]: resources are there, emotional capacity is the bottleneck
-### Hypothesis
-- If we make relationship-initiation the visible surface (small reach-outs, eventually hosting) while doing the emotional-awareness work underneath, the breakthrough state becomes sustainable rather than one-off
-- Observable: 2–3 acquaintance relationships visibly deepened, one self-hosted gathering, the reach-out loop no longer feels like a big deal
+## Client 2: 
 ### Outcomes
+- [redacted until get their permission to write up]
 #### 1 week (2026-05-28)
 - [TODO]
 #### 2 weeks (2026-06-04)
