@@ -1,5 +1,5 @@
 import { i18n } from "../i18n"
-import { FullSlug, joinSegments, pathToRoot } from "../util/path"
+import { FullSlug, joinSegments, pathToRoot, simplifySlug } from "../util/path"
 import { JSResourceToScriptElement } from "../util/resources"
 import { googleFontHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
@@ -18,7 +18,12 @@ export default (() => {
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
     const iconPath = joinSegments(baseDir, "static/icon.png")
-    const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
+    const ogImagePath = `https://${cfg.baseUrl}/static/og-image.jpg`
+    const canonicalUrl = fileData.slug
+      ? `https://${joinSegments(cfg.baseUrl ?? "", encodeURI(simplifySlug(fileData.slug)))}`
+      : `https://${cfg.baseUrl ?? ""}`
+    const isArticle = fileData.slug !== "index" && fileData.slug !== "404"
+    const ogType = isArticle ? "article" : "website"
 
     return (
       <head>
@@ -32,11 +37,19 @@ export default (() => {
           </>
         )}
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="canonical" href={canonicalUrl} />
+        <meta property="og:type" content={ogType} />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
+        <meta property="og:url" content={canonicalUrl} />
+        <meta property="og:site_name" content={cfg.pageTitle} />
         {cfg.baseUrl && <meta property="og:image" content={ogImagePath} />}
-        <meta property="og:width" content="1200" />
-        <meta property="og:height" content="675" />
+        {cfg.baseUrl && <meta property="og:image:width" content="1200" />}
+        {cfg.baseUrl && <meta property="og:image:height" content="675" />}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={title} />
+        <meta name="twitter:description" content={description} />
+        {cfg.baseUrl && <meta name="twitter:image" content={ogImagePath} />}
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
