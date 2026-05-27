@@ -7,6 +7,7 @@ permalink: log-per-day
 	- [[I got suspended from twitter again!! 2026-05-25]]
 - 2026-05-24
 	- [[Executive Assistant automation (n8n)]]
+	- [[My LLM usage]]
 - 2026-05-22
 	- [[Coaching prerequisites]]
 	- [[Coaching and outcomes]]

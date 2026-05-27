@@ -3779,7 +3779,10 @@ var Head_default = /* @__PURE__ */ __name(() => {
     const path12 = url.pathname;
     const baseDir = fileData.slug === "404" ? path12 : pathToRoot(fileData.slug);
     const iconPath = joinSegments(baseDir, "static/icon.png");
-    const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`;
+    const ogImagePath = `https://${cfg.baseUrl}/static/og-image.jpg`;
+    const canonicalUrl = fileData.slug ? `https://${joinSegments(cfg.baseUrl ?? "", encodeURI(simplifySlug(fileData.slug)))}` : `https://${cfg.baseUrl ?? ""}`;
+    const isArticle = fileData.slug !== "index" && fileData.slug !== "404";
+    const ogType = isArticle ? "article" : "website";
     return /* @__PURE__ */ jsxs8("head", { children: [
       /* @__PURE__ */ jsx15("title", { children: title }),
       /* @__PURE__ */ jsx15("meta", { charSet: "utf-8" }),
@@ -3789,16 +3792,32 @@ var Head_default = /* @__PURE__ */ __name(() => {
         /* @__PURE__ */ jsx15("link", { rel: "stylesheet", href: googleFontHref(cfg.theme) })
       ] }),
       /* @__PURE__ */ jsx15("meta", { name: "viewport", content: "width=device-width, initial-scale=1.0" }),
+      /* @__PURE__ */ jsx15("link", { rel: "canonical", href: canonicalUrl }),
+      /* @__PURE__ */ jsx15("meta", { property: "og:type", content: ogType }),
       /* @__PURE__ */ jsx15("meta", { property: "og:title", content: title }),
       /* @__PURE__ */ jsx15("meta", { property: "og:description", content: description }),
+      /* @__PURE__ */ jsx15("meta", { property: "og:url", content: canonicalUrl }),
+      /* @__PURE__ */ jsx15("meta", { property: "og:site_name", content: cfg.pageTitle }),
       cfg.baseUrl && /* @__PURE__ */ jsx15("meta", { property: "og:image", content: ogImagePath }),
-      /* @__PURE__ */ jsx15("meta", { property: "og:width", content: "1200" }),
-      /* @__PURE__ */ jsx15("meta", { property: "og:height", content: "675" }),
+      cfg.baseUrl && /* @__PURE__ */ jsx15("meta", { property: "og:image:width", content: "1200" }),
+      cfg.baseUrl && /* @__PURE__ */ jsx15("meta", { property: "og:image:height", content: "675" }),
+      /* @__PURE__ */ jsx15("meta", { name: "twitter:card", content: "summary_large_image" }),
+      /* @__PURE__ */ jsx15("meta", { name: "twitter:title", content: title }),
+      /* @__PURE__ */ jsx15("meta", { name: "twitter:description", content: description }),
+      cfg.baseUrl && /* @__PURE__ */ jsx15("meta", { name: "twitter:image", content: ogImagePath }),
       /* @__PURE__ */ jsx15("link", { rel: "icon", href: iconPath }),
       /* @__PURE__ */ jsx15("meta", { name: "description", content: description }),
       /* @__PURE__ */ jsx15("meta", { name: "generator", content: "Quartz" }),
       css.map((href) => /* @__PURE__ */ jsx15("link", { href, rel: "stylesheet", type: "text/css", "spa-preserve": true }, href)),
-      js.filter((resource) => resource.loadTime === "beforeDOMReady").map((res) => JSResourceToScriptElement(res, true))
+      js.filter((resource) => resource.loadTime === "beforeDOMReady").map((res) => JSResourceToScriptElement(res, true)),
+      /* @__PURE__ */ jsx15(
+        "script",
+        {
+          "data-goatcounter": "https://alexislearning-scrapbook.goatcounter.com/count",
+          async: true,
+          src: "//gc.zgo.at/count.js"
+        }
+      )
     ] });
   }, "Head");
   return Head;
@@ -3938,276 +3957,11 @@ var TableOfContents_default = /* @__PURE__ */ __name((opts) => {
   return layout === "modern" ? TableOfContents2 : LegacyTableOfContents;
 }, "default");
 
-// quartz/components/styles/explorer.scss
-var explorer_default = "";
-
-// quartz/components/scripts/explorer.inline.ts
-var explorer_inline_default = "";
-
 // quartz/components/ExplorerNode.tsx
 import { Fragment as Fragment5, jsx as jsx20, jsxs as jsxs10 } from "preact/jsx-runtime";
-function getPathSegment(fp, idx) {
-  if (!fp) {
-    return void 0;
-  }
-  return fp.split("/").at(idx);
-}
-__name(getPathSegment, "getPathSegment");
-var FileNode = class _FileNode {
-  static {
-    __name(this, "FileNode");
-  }
-  children;
-  name;
-  // this is the slug segment
-  displayName;
-  file;
-  depth;
-  constructor(slugSegment, displayName, file, depth) {
-    this.children = [];
-    this.name = slugSegment;
-    this.displayName = displayName ?? file?.frontmatter?.title ?? slugSegment;
-    this.file = file ? clone(file) : null;
-    this.depth = depth ?? 0;
-  }
-  insert(fileData) {
-    if (fileData.path.length === 0) {
-      return;
-    }
-    const nextSegment = fileData.path[0];
-    if (fileData.path.length === 1) {
-      if (nextSegment === "") {
-        const title = fileData.file.frontmatter?.title;
-        if (title && title !== "index") {
-          this.displayName = title;
-        }
-      } else {
-        this.children.push(new _FileNode(nextSegment, void 0, fileData.file, this.depth + 1));
-      }
-      return;
-    }
-    fileData.path = fileData.path.splice(1);
-    const child = this.children.find((c) => c.name === nextSegment);
-    if (child) {
-      child.insert(fileData);
-      return;
-    }
-    const newChild = new _FileNode(
-      nextSegment,
-      getPathSegment(fileData.file.relativePath, this.depth),
-      void 0,
-      this.depth + 1
-    );
-    newChild.insert(fileData);
-    this.children.push(newChild);
-  }
-  // Add new file to tree
-  add(file) {
-    this.insert({ file, path: simplifySlug(file.slug).split("/") });
-  }
-  /**
-   * Filter FileNode tree. Behaves similar to `Array.prototype.filter()`, but modifies tree in place
-   * @param filterFn function to filter tree with
-   */
-  filter(filterFn) {
-    this.children = this.children.filter(filterFn);
-    this.children.forEach((child) => child.filter(filterFn));
-  }
-  /**
-   * Filter FileNode tree. Behaves similar to `Array.prototype.map()`, but modifies tree in place
-   * @param mapFn function to use for mapping over tree
-   */
-  map(mapFn) {
-    mapFn(this);
-    this.children.forEach((child) => child.map(mapFn));
-  }
-  /**
-   * Get folder representation with state of tree.
-   * Intended to only be called on root node before changes to the tree are made
-   * @param collapsed default state of folders (collapsed by default or not)
-   * @returns array containing folder state for tree
-   */
-  getFolderPaths(collapsed) {
-    const folderPaths = [];
-    const traverse = /* @__PURE__ */ __name((node, currentPath) => {
-      if (!node.file) {
-        const folderPath = joinSegments(currentPath, node.name);
-        if (folderPath !== "") {
-          folderPaths.push({ path: folderPath, collapsed });
-        }
-        node.children.forEach((child) => traverse(child, folderPath));
-      }
-    }, "traverse");
-    traverse(this, "");
-    return folderPaths;
-  }
-  // Sort order: folders first, then files. Sort folders and files alphabetically
-  /**
-   * Sorts tree according to sort/compare function
-   * @param sortFn compare function used for `.sort()`, also used recursively for children
-   */
-  sort(sortFn) {
-    this.children = this.children.sort(sortFn);
-    this.children.forEach((e) => e.sort(sortFn));
-  }
-};
-function ExplorerNode({ node, opts, fullPath, fileData }) {
-  const folderBehavior = opts.folderClickBehavior;
-  const isDefaultOpen = opts.folderDefaultState === "open";
-  const folderPath = node.name !== "" ? joinSegments(fullPath ?? "", node.name) : "";
-  const href = resolveRelative(fileData.slug, folderPath) + "/";
-  return /* @__PURE__ */ jsx20(Fragment5, { children: node.file ? (
-    // Single file node
-    /* @__PURE__ */ jsx20("li", { children: /* @__PURE__ */ jsx20("a", { href: resolveRelative(fileData.slug, node.file.slug), "data-for": node.file.slug, children: node.displayName }) }, node.file.slug)
-  ) : /* @__PURE__ */ jsxs10("li", { children: [
-    node.name !== "" && // Node with entire folder
-    // Render svg button + folder name, then children
-    /* @__PURE__ */ jsxs10("div", { class: "folder-container", children: [
-      /* @__PURE__ */ jsx20(
-        "svg",
-        {
-          xmlns: "http://www.w3.org/2000/svg",
-          width: "12",
-          height: "12",
-          viewBox: "5 8 14 8",
-          fill: "none",
-          stroke: "currentColor",
-          "stroke-width": "2",
-          "stroke-linecap": "round",
-          "stroke-linejoin": "round",
-          class: "folder-icon",
-          children: /* @__PURE__ */ jsx20("polyline", { points: "6 9 12 15 18 9" })
-        }
-      ),
-      /* @__PURE__ */ jsx20("div", { "data-folderpath": folderPath, children: folderBehavior === "link" ? /* @__PURE__ */ jsx20("a", { href, "data-for": node.name, class: "folder-title", children: node.displayName }) : /* @__PURE__ */ jsx20("button", { class: "folder-button", children: /* @__PURE__ */ jsx20("span", { class: "folder-title", children: node.displayName }) }) }, node.name)
-    ] }),
-    /* @__PURE__ */ jsx20("div", { class: `folder-outer ${node.depth === 0 || isDefaultOpen ? "open" : ""}`, children: /* @__PURE__ */ jsx20(
-      "ul",
-      {
-        style: {
-          paddingLeft: node.name !== "" ? "1.4rem" : "0"
-        },
-        class: "content",
-        "data-folderul": folderPath,
-        children: node.children.map((childNode, i) => /* @__PURE__ */ jsx20(
-          ExplorerNode,
-          {
-            node: childNode,
-            opts,
-            fullPath: folderPath,
-            fileData
-          },
-          i
-        ))
-      }
-    ) })
-  ] }) });
-}
-__name(ExplorerNode, "ExplorerNode");
 
 // quartz/components/Explorer.tsx
 import { jsx as jsx21, jsxs as jsxs11 } from "preact/jsx-runtime";
-var defaultOptions13 = {
-  folderClickBehavior: "collapse",
-  folderDefaultState: "collapsed",
-  useSavedState: true,
-  mapFn: (node) => {
-    return node;
-  },
-  sortFn: (a, b) => {
-    if (!a.file && !b.file || a.file && b.file) {
-      return a.displayName.localeCompare(b.displayName, void 0, {
-        numeric: true,
-        sensitivity: "base"
-      });
-    }
-    if (a.file && !b.file) {
-      return 1;
-    } else {
-      return -1;
-    }
-  },
-  filterFn: (node) => node.name !== "tags",
-  order: ["filter", "map", "sort"]
-};
-var Explorer_default = /* @__PURE__ */ __name((userOpts) => {
-  const opts = { ...defaultOptions13, ...userOpts };
-  let fileTree;
-  let jsonTree;
-  let lastBuildId = "";
-  function constructFileTree(allFiles) {
-    fileTree = new FileNode("");
-    allFiles.forEach((file) => fileTree.add(file));
-    if (opts.order) {
-      for (let i = 0; i < opts.order.length; i++) {
-        const functionName = opts.order[i];
-        if (functionName === "map") {
-          fileTree.map(opts.mapFn);
-        } else if (functionName === "sort") {
-          fileTree.sort(opts.sortFn);
-        } else if (functionName === "filter") {
-          fileTree.filter(opts.filterFn);
-        }
-      }
-    }
-    const folders = fileTree.getFolderPaths(opts.folderDefaultState === "collapsed");
-    jsonTree = JSON.stringify(folders);
-  }
-  __name(constructFileTree, "constructFileTree");
-  const Explorer = /* @__PURE__ */ __name(({
-    ctx,
-    cfg,
-    allFiles,
-    displayClass,
-    fileData
-  }) => {
-    if (ctx.buildId !== lastBuildId) {
-      lastBuildId = ctx.buildId;
-      constructFileTree(allFiles);
-    }
-    return /* @__PURE__ */ jsxs11("div", { class: classNames(displayClass, "explorer"), children: [
-      /* @__PURE__ */ jsxs11(
-        "button",
-        {
-          type: "button",
-          id: "explorer",
-          "data-behavior": opts.folderClickBehavior,
-          "data-collapsed": opts.folderDefaultState,
-          "data-savestate": opts.useSavedState,
-          "data-tree": jsonTree,
-          "aria-controls": "explorer-content",
-          "aria-expanded": opts.folderDefaultState === "open",
-          children: [
-            /* @__PURE__ */ jsx21("h2", { children: opts.title ?? i18n(cfg.locale).components.explorer.title }),
-            /* @__PURE__ */ jsx21(
-              "svg",
-              {
-                xmlns: "http://www.w3.org/2000/svg",
-                width: "14",
-                height: "14",
-                viewBox: "5 8 14 8",
-                fill: "none",
-                stroke: "currentColor",
-                "stroke-width": "2",
-                "stroke-linecap": "round",
-                "stroke-linejoin": "round",
-                class: "fold",
-                children: /* @__PURE__ */ jsx21("polyline", { points: "6 9 12 15 18 9" })
-              }
-            )
-          ]
-        }
-      ),
-      /* @__PURE__ */ jsx21("div", { id: "explorer-content", children: /* @__PURE__ */ jsxs11("ul", { class: "overflow", id: "explorer-ul", children: [
-        /* @__PURE__ */ jsx21(ExplorerNode, { node: fileTree, opts, fileData }),
-        /* @__PURE__ */ jsx21("li", { id: "explorer-end" })
-      ] }) })
-    ] });
-  }, "Explorer");
-  Explorer.css = explorer_default;
-  Explorer.afterDOMLoaded = explorer_inline_default;
-  return Explorer;
-}, "default");
 
 // quartz/components/TagList.tsx
 import { jsx as jsx22 } from "preact/jsx-runtime";
@@ -4262,7 +4016,7 @@ var graph_default = "";
 
 // quartz/components/Graph.tsx
 import { jsx as jsx23, jsxs as jsxs12 } from "preact/jsx-runtime";
-var defaultOptions14 = {
+var defaultOptions13 = {
   localGraph: {
     drag: true,
     zoom: true,
@@ -4294,8 +4048,8 @@ var defaultOptions14 = {
 };
 var Graph_default = /* @__PURE__ */ __name((opts) => {
   const Graph = /* @__PURE__ */ __name(({ displayClass, cfg }) => {
-    const localGraph = { ...defaultOptions14.localGraph, ...opts?.localGraph };
-    const globalGraph = { ...defaultOptions14.globalGraph, ...opts?.globalGraph };
+    const localGraph = { ...defaultOptions13.localGraph, ...opts?.localGraph };
+    const globalGraph = { ...defaultOptions13.globalGraph, ...opts?.globalGraph };
     return /* @__PURE__ */ jsxs12("div", { class: classNames(displayClass, "graph"), children: [
       /* @__PURE__ */ jsx23("h3", { children: i18n(cfg.locale).components.graph.title }),
       /* @__PURE__ */ jsxs12("div", { class: "graph-outer", children: [
@@ -4357,12 +4111,12 @@ var search_inline_default = "";
 
 // quartz/components/Search.tsx
 import { jsx as jsx25, jsxs as jsxs14 } from "preact/jsx-runtime";
-var defaultOptions15 = {
+var defaultOptions14 = {
   enablePreview: true
 };
 var Search_default = /* @__PURE__ */ __name((userOpts) => {
   const Search = /* @__PURE__ */ __name(({ displayClass, cfg }) => {
-    const opts = { ...defaultOptions15, ...userOpts };
+    const opts = { ...defaultOptions14, ...userOpts };
     const searchPlaceholder = i18n(cfg.locale).components.search.searchBarPlaceholder;
     return /* @__PURE__ */ jsxs14("div", { class: classNames(displayClass, "search"), children: [
       /* @__PURE__ */ jsxs14("button", { class: "search-button", id: "search-button", children: [
@@ -4467,7 +4221,7 @@ var recentNotes_default = "";
 
 // quartz/components/RecentNotes.tsx
 import { jsx as jsx29, jsxs as jsxs16 } from "preact/jsx-runtime";
-var defaultOptions16 = /* @__PURE__ */ __name((cfg) => ({
+var defaultOptions15 = /* @__PURE__ */ __name((cfg) => ({
   limit: 3,
   linkToMore: false,
   showTags: true,
@@ -4481,7 +4235,7 @@ var RecentNotes_default = /* @__PURE__ */ __name((userOpts) => {
     displayClass,
     cfg
   }) => {
-    const opts = { ...defaultOptions16(cfg), ...userOpts };
+    const opts = { ...defaultOptions15(cfg), ...userOpts };
     const pages = allFiles.filter(opts.filter).sort(opts.sort);
     const remaining = Math.max(0, pages.length - opts.limit);
     return /* @__PURE__ */ jsxs16("div", { class: classNames(displayClass, "recent-notes"), children: [
@@ -4514,7 +4268,7 @@ var breadcrumbs_default = "";
 
 // quartz/components/Breadcrumbs.tsx
 import { Fragment as Fragment8, jsx as jsx30, jsxs as jsxs17 } from "preact/jsx-runtime";
-var defaultOptions17 = {
+var defaultOptions16 = {
   spacerSymbol: "\u276F",
   rootName: "Home",
   resolveFrontmatterTitle: true,
@@ -4529,7 +4283,7 @@ function formatCrumb(displayName, baseSlug, currentSlug) {
 }
 __name(formatCrumb, "formatCrumb");
 var Breadcrumbs_default = /* @__PURE__ */ __name((opts) => {
-  const options2 = { ...defaultOptions17, ...opts };
+  const options2 = { ...defaultOptions16, ...opts };
   let folderIndex;
   const Breadcrumbs = /* @__PURE__ */ __name(({
     fileData,
@@ -4615,16 +4369,30 @@ var defaultContentPageLayout = {
     MobileOnly_default(Spacer_default()),
     Search_default(),
     Darkmode_default(),
-    DesktopOnly_default(Explorer_default()),
     DesktopOnly_default(RecentNotes_default({
       title: "Recent notes",
       limit: 3,
       showTags: false,
-      // Only show logged 2026 entries (those with an explicit date from the log)
-      filter: (f) => (f.slug?.startsWith("2026/") && !!f.dates?.created) ?? false,
+      // Sort and filter using the `date:` YAML field only.
+      // Supports both date-only ("2026-03-24") and date+time ("2026-03-24T15:30"),
+      // so multiple notes on the same day are ordered by time descending.
+      filter: (f) => {
+        const raw = f.frontmatter?.date;
+        if (!raw)
+          return false;
+        const d = new Date(raw);
+        return !isNaN(d.getTime());
+      },
       sort: (f1, f2) => {
-        const d1 = f1.dates?.created;
-        const d2 = f2.dates?.created;
+        const parseDate = /* @__PURE__ */ __name((f) => {
+          const raw = f.frontmatter?.date;
+          if (!raw)
+            return null;
+          const d = new Date(raw);
+          return isNaN(d.getTime()) ? null : d;
+        }, "parseDate");
+        const d1 = parseDate(f1);
+        const d2 = parseDate(f2);
         if (d1 && d2)
           return d2.getTime() - d1.getTime();
         if (d1)
@@ -4647,8 +4415,7 @@ var defaultListPageLayout = {
     PageTitle_default(),
     MobileOnly_default(Spacer_default()),
     Search_default(),
-    Darkmode_default(),
-    DesktopOnly_default(Explorer_default())
+    Darkmode_default()
   ],
   right: []
 };
@@ -5160,7 +4927,7 @@ var FolderPage = /* @__PURE__ */ __name((userOpts) => {
 
 // quartz/plugins/emitters/contentIndex.ts
 import { toHtml as toHtml2 } from "hast-util-to-html";
-var defaultOptions18 = {
+var defaultOptions17 = {
   enableSiteMap: true,
   enableRSS: true,
   rssLimit: 10,
@@ -5211,7 +4978,7 @@ function generateRSSFeed(cfg, idx, limit) {
 }
 __name(generateRSSFeed, "generateRSSFeed");
 var ContentIndex = /* @__PURE__ */ __name((opts) => {
-  opts = { ...defaultOptions18, ...opts };
+  opts = { ...defaultOptions17, ...opts };
   return {
     name: "ContentIndex",
     async getDependencyGraph(ctx, content, _resources) {
@@ -5771,7 +5538,7 @@ var config = {
       provider: "plausible"
     },
     locale: "en-US",
-    baseUrl: "https://www.alexislearning.me",
+    baseUrl: "alexislearning.me/scrapbook",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

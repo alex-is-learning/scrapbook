@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en"><head><title>Dave PRD (Product Requirements Document)</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM Plex Mono&amp;family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;display=swap"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="canonical" href="https://alexislearning.me/scrapbook/2026/Dave-PRD-(Product-Requirements-Document)"/><meta property="og:type" content="article"/><meta property="og:title" content="Dave PRD (Product Requirements Document)"/><meta property="og:description" content="Product Requirements Document - Dave Author: Alex Date: 2026-04-01 Executive Summary Dave is a personal AI tutor implemented as a Claude Code skill, BMAD-pattern inspired but requiring ..."/><meta property="og:url" content="https://alexislearning.me/scrapbook/2026/Dave-PRD-(Product-Requirements-Document)"/><meta property="og:site_name" content="📝 Alex's scrapbook"/><meta property="og:image" content="https://alexislearning.me/scrapbook/static/og-image.jpg"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="675"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Dave PRD (Product Requirements Document)"/><meta name="twitter:description" content="Product Requirements Document - Dave Author: Alex Date: 2026-04-01 Executive Summary Dave is a personal AI tutor implemented as a Claude Code skill, BMAD-pattern inspired but requiring ..."/><meta name="twitter:image" content="https://alexislearning.me/scrapbook/static/og-image.jpg"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Product Requirements Document - Dave Author: Alex Date: 2026-04-01 Executive Summary Dave is a personal AI tutor implemented as a Claude Code skill, BMAD-pattern inspired but requiring ..."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" spa-preserve/><link href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script><script data-goatcounter="https://alexislearning-scrapbook.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script></head><body data-slug="2026/Dave-PRD-(Product-Requirements-Document)"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">📝 Alex's scrapbook</a></h2><div class="spacer mobile-only"></div><div class="search"><button class="search-button" id="search-button"><p>Search</p><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg></button><div id="search-container"><div id="search-space"><input autocomplete="off" id="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div id="search-layout" data-preview="true"></div></div></div></div><button class="darkmode" id="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button><div class="recent-notes desktop-only"><h3>Recent notes</h3><ul class="recent-ul"><li class="recent-li"><div class="section"><div class="desc"><h3><a href="../2026/I-got-suspended-from-twitter-again!!-2026-05-25" class="internal">I got suspended from twitter again!! 2026-05-25</a></h3></div><p class="meta">May 25, 2026</p></div></li><li class="recent-li"><div class="section"><div class="desc"><h3><a href="../2026/Executive-Assistant-automation-(n8n)" class="internal">Executive Assistant automation (n8n)</a></h3></div><p class="meta">May 24, 2026</p></div></li><li class="recent-li"><div class="section"><div class="desc"><h3><a href="../2026/Coaching-and-outcomes" class="internal">Coaching and outcomes</a></h3></div><p class="meta">May 22, 2026</p></div></li></ul></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../2026/">2026</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Dave PRD (Product Requirements Document)</a></div></nav><h1 class="article-title">Dave PRD (Product Requirements Document)</h1><p show-comma="true" class="content-meta"><span>Apr 01, 2026</span><span>20 min read</span></p><ul class="tags"><li><a href="../tags/Dave" class="internal tag-link">Dave</a></li></ul></div></div><article class="popover-hint"><h1 id="product-requirements-document---dave">Product Requirements Document - Dave<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#product-requirements-document---dave" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p><strong>Author:</strong> Alex<br/>
+<strong>Date:</strong> 2026-04-01</p>
+<h2 id="executive-summary">Executive Summary<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#executive-summary" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Dave is a personal AI tutor implemented as a Claude Code skill, BMAD-pattern inspired but requiring no BMAD infrastructure. It lives inside an existing Obsidian + Quartz scrapbook repository and is invoked from the terminal. Dave’s primary function is to surface double ignorance — the false closure that comes from reading about a topic without genuinely understanding it. Dave operates on a single learning topic at a time, using Socratic interrogation, A/B/U knowledge mapping, and session contracts to force genuine grappling rather than comfortable review.</p>
+<p><strong>Target user:</strong> Alex (personal-first, single user). No multi-user support until the method has months of lived evidence.</p>
+<p><strong>Problem:</strong> Most AI tools accelerate the fluency illusion — you ask, you receive an answer, you feel like you know it. Dave inverts this. The session contract, the Feynman-Russell persona, and the deliberate refusal to give answers are all in service of one thing: making the gap visible and staying there until the user has genuinely crossed it.</p>
+<h3 id="what-makes-this-special">What Makes This Special<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#what-makes-this-special" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Dave’s differentiator is its refusal to optimise for user satisfaction. Every AI tool smooths friction; Dave generates it at exactly the right moment. The session contract (“We’re not here to rehearse what you know. We’re here to find what you don’t. Confusion is the signal.”) transforms a tool interaction into intentional grappling. The A/B/U framework makes the distinction between genuine understanding and believed understanding operational — and Dave presses hardest on B’s (confidently held beliefs), because that’s where double ignorance hides.</p>
+<p>The architecture is equally deliberate: no new tools, no new subscriptions. Git diff is Dave’s memory of what’s changed between sessions. The scrapbook’s Quartz publishing means every session transcript is publicly visible — not as a curated demo, but as evidence of the method working in practice.</p>
+<h2 id="project-classification">Project Classification<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#project-classification" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><strong>Project Type:</strong> CLI Tool (Claude Code skill, BMAD-pattern inspired)</li>
+<li><strong>Domain:</strong> EdTech — personal learning, AI tutoring, active recall, Socratic method</li>
+<li><strong>Complexity:</strong> Medium — no regulatory constraints; complexity comes from novel AI session mechanics, Socratic interaction design, and persistent state management across sessions</li>
+<li><strong>Project Context:</strong> Greenfield</li>
+</ul>
+<h2 id="success-criteria">Success Criteria<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#success-criteria" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="user-success">User Success<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#user-success" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>At least one B is challenged per session — held, collapsed, or sharpened. A session where no B was pressed is a failed session.</li>
+<li>End-of-session A/B/U reflection is completed honestly: Dave prompts each category in turn (“Tell me about your A’s this session…”), and the responses are substantive, not perfunctory.</li>
+<li>Pride score (1–5, self-rated: did you grapple?) is logged per session and trends upward over the first 10 sessions as the format becomes familiar.</li>
+<li>Schema therapy: Alex can explain it plainly, under Socratic pressure, without hedging. This is the first proof-of-concept milestone.</li>
+</ul>
+<h3 id="personalproject-success">Personal/Project Success<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#personalproject-success" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>Dave becomes a natural part of Alex’s existing workflow — as embedded as the scrapbook itself, not a separate tool that requires activation.</li>
+<li>Session transcripts are publicly readable on the Quartz site. Visitors see real sessions, not demos. The method proves itself by being visible.</li>
+<li>After months of real sessions, Alex has enough evidence to make a considered decision about whether Dave is worth sharing. The bar is lived experience, not aspiration.</li>
+</ul>
+<h3 id="technical-success">Technical Success<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#technical-success" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>Session transcript is written incrementally as the session runs — never lost on early exit, always readable mid-session from Quartz.</li>
+<li><code>dave-log-&lt;topic>.md</code> and <code>alex-and-dave.md</code> are reliably maintained after every session without manual intervention.</li>
+<li>Git diff review at <code>/tutor hello</code> is accurate and useful — Dave reads what’s actually changed, not a summary.</li>
+<li>Context scoping (<code>/learning/&lt;topic>/**</code> only) keeps sessions fast and token-efficient.</li>
+</ul>
+<h3 id="measurable-outcomes">Measurable Outcomes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#measurable-outcomes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>Every session produces: a transcript, a log entry, a pride score, and an A/B/U reflection.</li>
+<li>Zero lost sessions due to implementation failure (transcript write, log append, or file creation errors).</li>
+<li><code>/tutor init</code> + <code>/tutor hello</code> are working and useful within the first build.</li>
+</ul>
+<h2 id="product-scope">Product Scope<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#product-scope" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="mvp--minimum-viable-product">MVP — Minimum Viable Product<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#mvp--minimum-viable-product" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><code>/tutor init</code>: onboarding interview, ZPD calibration, optional primer ingestion</li>
+<li><code>/tutor hello</code>: git diff review, A/B/U state summary, session contract, action menu</li>
+<li>End-of-session A/B/U reflection prompts</li>
+<li>Incremental session transcript export to <code>sessions/YYYY-MM-DD-&lt;topic>.md</code></li>
+<li><code>dave-log-&lt;topic>.md</code> auto-append after every session</li>
+<li><code>alex-and-dave.md</code> auto-update (date, topic, duration, completion, pride score, A/B/U reflection summary)</li>
+<li>Standard frontmatter on all Dave-created files</li>
+<li>Schema therapy as first live test topic</li>
+</ul>
+<h3 id="growth-features-post-mvp">Growth Features (Post-MVP)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#growth-features-post-mvp" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><code>/tutor test-me</code> — Socratic interrogation of B’s</li>
+<li><code>/tutor find-gaps</code> — U mapping and missing ontology</li>
+<li><code>/tutor feynman</code> — user explains plainly, Dave presses on vagueness</li>
+<li><code>/tutor teach-me</code> — Dave plays confused student, user writes rigorous essay</li>
+<li><code>/tutor since-last</code> — explicit before/after session review</li>
+<li>ZPD calibration mechanics (explicit state, session-to-session adaptation)</li>
+<li>Hermeneutic spiral tracking (depth increases as concepts consolidate)</li>
+</ul>
+<h3 id="vision-future--maybe-never">Vision (Future / Maybe Never)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#vision-future--maybe-never" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>Dave as a shareable open-source BMAD skill</li>
+<li>Multi-topic dashboard (cross-topic A/B/U state, session history)</li>
+<li><code>/tutor teach-me</code> multi-session essay draft tracking</li>
+</ul>
+<h2 id="user-journeys">User Journeys<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#user-journeys" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="journey-1-the-first-encounter-alex--tutor-init-new-topic">Journey 1: The First Encounter (Alex — <code>/tutor init</code>, new topic)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#journey-1-the-first-encounter-alex--tutor-init-new-topic" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Alex has been reading about schema therapy for three weeks. The notes are accumulating. He types <code>/tutor init</code>. Dave opens with an interview: <em>“Before we start — what do you already believe you know about schema therapy? Don’t hedge.”</em> Alex writes three paragraphs. Dave reads them. <em>“You’ve named Early Maladaptive Schemas and the coping modes, but I notice you haven’t mentioned what the schemas are actually defending against. Is that a gap or did you choose to skip it?”</em> Alex pauses. That’s a gap he hadn’t seen.</p>
+<p>Dave asks about goal and timeline. Then: <em>“I’m going to generate a primer so I have a solid knowledge source for this topic. You can read and correct it — it’s not a black box. Give me a moment.”</em> <code>dave-primer-schema-therapy.md</code> is written to <code>/learning/schema-therapy/</code>. Dave confirms ZPD: <em>“We’ll start at the level of the coping mode taxonomy — you seem confident on schemas themselves, but the modes feel underspecified. Agreed?”</em></p>
+<p><strong>Capability requirements revealed:</strong> Interview flow, ZPD calibration logic, primer generation, <code>dave-primer-&lt;topic>.md</code> creation, frontmatter application, file scaffolding under <code>/learning/&lt;topic>/</code>.</p>
+<hr/>
+<h3 id="journey-2-a-good-session-alex--tutor-hello-recurring">Journey 2: A Good Session (Alex — <code>/tutor hello</code>, recurring)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#journey-2-a-good-session-alex--tutor-hello-recurring" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Three days later. Alex has written two notes in <code>notes/</code> since the last session. He types <code>/tutor hello</code>. Dave reads the git diff: <em>“You’ve added a note on schema perpetuation mechanisms and revised your description of the detached protector mode. The detached protector note is more precise than last time — what changed in your understanding?”</em></p>
+<p>Alex explains. Dave: <em>“That’s in the B pile now. Let’s press on it.”</em> A 30-minute session follows. At the end, Dave prompts the A/B/U reflection: <em>“Tell me about your A’s this session — what’s genuinely new?”</em> Alex writes. Then B’s: <em>“What held up under pressure today?”</em> Then U’s: <em>“What’s still fog?”</em> Dave appends to <code>dave-log-schema-therapy.md</code>. Session transcript has been building incrementally throughout. Alex rates his pride score: 4. <code>alex-and-dave.md</code> is updated.</p>
+<p><strong>Capability requirements revealed:</strong> Git diff reading, A/B/U state tracking, Socratic interrogation of B’s, end-of-session reflection prompts, incremental transcript write, log append, homepage update, pride score logging.</p>
+<hr/>
+<h3 id="journey-3-the-early-exit-alex--session-interrupted">Journey 3: The Early Exit (Alex — session interrupted)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#journey-3-the-early-exit-alex--session-interrupted" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Halfway through a session. Something comes up. Alex types <code>/tutor end</code> or simply closes the terminal. Dave has been writing the transcript incrementally — nothing is lost. Before exit, if Dave catches the signal: <em>“We’re 18 minutes in. You committed to 30. Leaving now is fine — but I’m logging it. Not as punishment. As the record.”</em> <code>alex-and-dave.md</code> gets: <code>2026-04-15 | schema therapy | 18 min | incomplete | —</code>. The pride score is omitted; the A/B/U reflection is partial.</p>
+<p>Next session: <code>/tutor hello</code> surfaces it. <em>“Last time you left early. What was happening?”</em> Not an accusation. An opening.</p>
+<p><strong>Capability requirements revealed:</strong> Graceful early exit handling, partial session logging, incomplete status flag on homepage, continuity reference at next session start.</p>
+<hr/>
+<h3 id="journey-4-the-public-reader-secondary--quartz-visitor">Journey 4: The Public Reader (secondary — Quartz visitor)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#journey-4-the-public-reader-secondary--quartz-visitor" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Someone finds Alex’s scrapbook via a link. They navigate to the learning section. They see <code>alex-and-dave.md</code> — a table of sessions, dates, topics, pride scores. They click a session transcript. They read a real exchange: Dave pressing on a vague definition, Alex pushing back, then reconsidering. They see the A/B/U reflection at the end.</p>
+<p>They are either: (a) intrigued — this is a real method, not a pitch; or (b) indifferent. Either is fine. The point is the transcript is legible, dated, and unedited. The method proves itself by being visible.</p>
+<p><strong>Capability requirements revealed:</strong> Clean transcript markdown format (readable without context), meaningful session headers, Quartz-compatible frontmatter, <code>alex-and-dave.md</code> as navigable index.</p>
+<hr/>
+<h3 id="journey-requirements-summary">Journey Requirements Summary<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#journey-requirements-summary" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Capability</th><th>Journeys that reveal it</th></tr></thead><tbody><tr><td>Onboarding interview + ZPD calibration</td><td>J1</td></tr><tr><td>Primer generation (<code>dave-primer-&lt;topic>.md</code>)</td><td>J1</td></tr><tr><td>File scaffolding under <code>/learning/&lt;topic>/</code></td><td>J1</td></tr><tr><td>Git diff reading at session start</td><td>J2</td></tr><tr><td>Socratic interrogation of B’s</td><td>J2</td></tr><tr><td>End-of-session A/B/U reflection prompts</td><td>J2</td></tr><tr><td>Incremental transcript write</td><td>J2, J3</td></tr><tr><td>Session log append (<code>dave-log-&lt;topic>.md</code>)</td><td>J2</td></tr><tr><td>Homepage auto-update (<code>alex-and-dave.md</code>)</td><td>J2, J3</td></tr><tr><td>Pride score capture</td><td>J2</td></tr><tr><td>Graceful early exit + incomplete status flag</td><td>J3</td></tr><tr><td>Continuity reference at next session start</td><td>J3</td></tr><tr><td>Clean, legible transcript markdown</td><td>J4</td></tr></tbody></table></div>
+<h2 id="domain-specific-requirements">Domain-Specific Requirements<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#domain-specific-requirements" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="learning-science-constraints">Learning Science Constraints<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#learning-science-constraints" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>ZPD calibration must be responsive to demonstrated understanding, not self-report alone. Dave should probe stated knowledge during init rather than accepting it at face value — miscalibrating high is worse than miscalibrating low.</li>
+<li>A/B/U framework definitions must be stable and consistently applied session-to-session. Drift in how Dave uses these categories undermines longitudinal tracking and the validity of the log.</li>
+</ul>
+<h3 id="ai-interaction-constraints">AI Interaction Constraints<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ai-interaction-constraints" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>Dave must never give the answer, even when Alex asks directly. This is a hard behavioural constraint, not a stylistic preference. It must be enforced at the persona level in the skill prompt.</li>
+<li>Dave’s epistemic uncertainty about niche topics must be surfaced explicitly. If <code>dave-primer-&lt;topic>.md</code> contains gaps or uncertain knowledge, Dave must name that uncertainty rather than present false confidence. An honest “I’m not sure about this — check the primer” is better than a plausible-sounding error.</li>
+</ul>
+<h3 id="data-integrity-constraints">Data Integrity Constraints<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#data-integrity-constraints" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>Session transcript writes must be append-only. A mid-session crash or early exit should leave a partial but intact transcript — never a corrupted or overwritten one.</li>
+<li><code>dave-log-&lt;topic>.md</code> and <code>alex-and-dave.md</code> updates should be structured so a failed write does not corrupt previous entries. Each session’s append is a discrete, self-contained block.</li>
+</ul>
+<h2 id="innovation--novel-patterns">Innovation &amp; Novel Patterns<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#innovation--novel-patterns" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="detected-innovation-areas">Detected Innovation Areas<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#detected-innovation-areas" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><strong>1. Anti-satisfaction AI design</strong><br/>
+Every AI assistant on the market optimises for user satisfaction: answer the question, resolve the confusion, smooth the friction. Dave inverts this deliberately. The core innovation is an AI tool whose success metric is <em>not</em> whether the user feels good at the end of the interaction — it’s whether the user genuinely grappled. No existing AI tutoring tool has made this inversion structurally explicit (session contract, refusal to answer, B-first interrogation). Most claim Socratic method but default to explanation when pressed.</p>
+<p><strong>2. Git as epistemological memory</strong><br/>
+Using <code>git diff</code> as the primary session context mechanism — Dave knows what changed in your understanding because it knows what changed in your files. Commit history becomes the intellectual development record. This is a novel use of existing infrastructure that requires no new tooling and produces a verifiable, public audit trail of learning.</p>
+<p><strong>3. Simultaneous session + publication</strong><br/>
+The learning session and its public artifact are the same thing. The incremental transcript write means the Quartz-published session is not a post-processed summary — it’s the actual exchange, as it happened. This makes the method self-proving in a way that “here’s a blog post about my learning tool” cannot be.</p>
+<p><strong>4. Natural language CLI with enforced behavioural constraints</strong><br/>
+<code>/tutor init</code>, <code>/tutor hello</code> etc. trigger full AI-driven conversational interactions, but with a structural constraint that most LLM interactions lack: Dave has a hard behavioural rule (never give the answer) enforced at the skill prompt level. This follows the BMAD-pattern approach — using the skill architecture to enforce persona constraints that the model would otherwise be likely to violate under user pressure.</p>
+<h3 id="market-context--competitive-landscape">Market Context &amp; Competitive Landscape<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#market-context--competitive-landscape" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Existing AI tutoring tools (Khan Academy’s Khanmigo, Socratic by Google, various GPT tutors) all share the same failure mode: they give the answer when asked, they summarise content rather than interrogate understanding, and they measure engagement rather than learning. The closest conceptual precedent is Anki (spaced repetition) — but Anki tests recall, not understanding, and requires the user to generate the cards. Dave tests understanding directly and uses git history as the card generation mechanism.</p>
+<p>Dave is not competing with these tools. It’s filling a gap they structurally cannot fill without abandoning their satisfaction-first design.</p>
+<h3 id="validation-approach">Validation Approach<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#validation-approach" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>First milestone:</strong> Alex can explain schema therapy coherently under Socratic pressure from Dave after 10 sessions. Self-assessed but honest — the A/B/U reflection makes the standard legible.</li>
+<li><strong>Second milestone:</strong> Session transcripts are publicly readable and a third-party reader can follow the progression of understanding across sessions.</li>
+<li><strong>Invalidation condition:</strong> If Alex finds himself routinely bypassing Dave’s constraints (rewording questions to get answers, low pride scores every session), the design has failed and needs rethinking.</li>
+</ul>
+<h3 id="risk-mitigation">Risk Mitigation<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#risk-mitigation" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Risk</th><th>Mitigation</th></tr></thead><tbody><tr><td>Dave gives the answer under pressure</td><td>Hard constraint in skill prompt; persona must hold even when Alex asks directly</td></tr><tr><td>ZPD miscalibration makes sessions frustrating</td><td>Calibrate low rather than high; Dave can always push harder, harder to recover from demoralisation</td></tr><tr><td>Incremental write creates noisy transcripts</td><td>Clear session header and turn markers in transcript format; retrospective readability tested early</td></tr><tr><td>Method only works for schema therapy (topic-specific fluke)</td><td>Second topic test (to be chosen) after schema therapy proves the pattern</td></tr></tbody></table></div>
+<h2 id="cli-tool-specific-requirements">CLI Tool Specific Requirements<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#cli-tool-specific-requirements" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="project-type-overview">Project-Type Overview<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#project-type-overview" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Dave is a standalone Claude Code skill — a set of markdown instruction files installed at <code>~/.claude/skills/dave/</code>. It is invoked via Claude Code slash commands (<code>/tutor init</code>, <code>/tutor hello</code>, etc.) from the terminal. Claude Code is started in the topic subfolder (<code>/learning/schema-therapy/</code>), giving Dave a clean, scoped working directory. No BMAD infrastructure required.</p>
+<h3 id="command-structure">Command Structure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#command-structure" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Command</th><th>Trigger</th><th>MVP</th></tr></thead><tbody><tr><td><code>/tutor init</code></td><td>One-time per topic. Onboarding interview, ZPD calibration, primer generation.</td><td>✅</td></tr><tr><td><code>/tutor hello</code></td><td>Session entry. Git diff review, A/B/U state, session contract, action menu.</td><td>✅</td></tr><tr><td><code>/tutor test-me</code></td><td>Socratic interrogation of B’s.</td><td>Post-MVP</td></tr><tr><td><code>/tutor find-gaps</code></td><td>U mapping and missing ontology.</td><td>Post-MVP</td></tr><tr><td><code>/tutor feynman</code></td><td>User explains plainly, Dave presses on vagueness.</td><td>Post-MVP</td></tr><tr><td><code>/tutor teach-me</code></td><td>Dave plays confused student, user writes rigorous essay.</td><td>Post-MVP</td></tr><tr><td><code>/tutor since-last</code></td><td>Before/after review since last session.</td><td>Post-MVP</td></tr></tbody></table></div>
+<p>All commands are interactive (full conversational AI sessions). None are scriptable or piped. No shell completion — invocation is via Claude Code’s <code>/</code> prefix.</p>
+<h3 id="output-formats">Output Formats<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#output-formats" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>All Dave output is markdown written to the topic subfolder. No other output formats.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>File</th><th>Location</th><th>Write pattern</th></tr></thead><tbody><tr><td><code>dave-primer-&lt;topic>.md</code></td><td><code>/learning/&lt;topic>/</code></td><td>Written once at init; user-editable</td></tr><tr><td><code>dave-log-&lt;topic>.md</code></td><td><code>/learning/&lt;topic>/</code></td><td>Appended after each session (discrete blocks)</td></tr><tr><td><code>sessions/YYYY-MM-DD-&lt;topic>.md</code></td><td><code>/learning/&lt;topic>/sessions/</code></td><td>Written incrementally during session</td></tr><tr><td><code>alex-and-dave.md</code></td><td><code>/learning/</code></td><td>Updated after each session (cross-topic homepage)</td></tr></tbody></table></div>
+<p>Standard frontmatter on every Dave-created file:</p>
+<figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="yaml" data-theme="github-light github-dark"><code data-language="yaml" data-theme="github-light github-dark" style="display:grid;"><span data-line><span style="--shiki-light:#22863A;--shiki-dark:#85E89D;">date</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">dd/mm/yyyy, --:--</span></span>
+<span data-line><span style="--shiki-light:#22863A;--shiki-dark:#85E89D;">tags</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">:</span></span>
+<span data-line><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">    - </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">Dave</span></span></code></pre></figure>
+<h3 id="config-schema">Config Schema<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#config-schema" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>No global config file. Dave’s configuration is two-layer:</p>
+<ul>
+<li><strong>Skill files</strong> (<code>~/.claude/skills/dave/</code>) — Dave’s fixed behaviour, persona, session flow, and constraint enforcement. Static. Updated only when Dave is upgraded.</li>
+<li><strong>Per-topic state</strong> (<code>/learning/&lt;topic>/</code>) — <code>dave-primer-&lt;topic>.md</code> (knowledge source) and <code>dave-log-&lt;topic>.md</code> (session history). Dynamic. Dave reads these at the start of each session.</li>
+</ul>
+<p>Topic slug is derived from the folder name at <code>/tutor init</code> (e.g. folder <code>schema-therapy</code> → slug <code>schema-therapy</code> → used in all filenames for that topic).</p>
+<h3 id="file-structure">File Structure<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#file-structure" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>~/.claude/skills/dave/        ← Skill files (behaviour)
+    workflow.md
+    steps/...
+
+/learning/                    ← Scrapbook repo
+    alex-and-dave.md          ← Cross-topic homepage (Quartz-published, [[Alex and Dave]] alias)
+    schema-therapy/           ← CWD when running Dave on this topic
+        dave-primer-schema-therapy.md
+        dave-log-schema-therapy.md
+        sessions/
+            2026-04-01-schema-therapy.md
+        notes/
+</code></pre>
+<h3 id="git-diff-scoping">Git Diff Scoping<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#git-diff-scoping" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Dave runs <code>git diff -- .</code> at session start (scoped to CWD). This surfaces only changes in the current topic folder, ignoring the rest of the 330k-word scrapbook. Commit history for the topic folder is the intellectual development record.</p>
+<h3 id="implementation-considerations">Implementation Considerations<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#implementation-considerations" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>Dave derives the topic slug from the folder name at init — no manual topic entry needed.</li>
+<li><code>alex-and-dave.md</code> lives at <code>/learning/</code> level and is updated by Dave after each session regardless of which topic folder Claude Code was started in. Dave must resolve the relative path <code>../alex-and-dave.md</code> from the topic CWD.</li>
+<li>Session transcript is written incrementally as turns occur — append-only, never overwritten. A partial transcript from an early exit is valid and complete up to the point of exit.</li>
+<li>Obsidian vault-wide filename uniqueness is maintained by topic-scoped filenames (<code>dave-log-schema-therapy.md</code> not <code>dave-log.md</code>).</li>
+</ul>
+<h2 id="project-scoping--phased-development">Project Scoping &amp; Phased Development<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#project-scoping--phased-development" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="mvp-strategy--philosophy">MVP Strategy &amp; Philosophy<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#mvp-strategy--philosophy" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><strong>MVP Approach:</strong> Personal proof-of-concept. The minimum that makes this “useful” is a single completed session where Alex genuinely grapples — not a comfortable review — and the transcript, log, and reflection are all written correctly. That’s the bar. No feature is in MVP unless its absence makes that session impossible.</p>
+<p><strong>Resource requirements:</strong> Solo build. Alex + Claude Code. No team, no dependencies, no external services.</p>
+<h3 id="post-mvp-features">Post-MVP Features<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#post-mvp-features" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><strong>Phase 2 (Growth):</strong> Full command set (<code>/tutor test-me</code>, <code>/tutor find-gaps</code>, <code>/tutor feynman</code>, <code>/tutor teach-me</code>, <code>/tutor since-last</code>), ZPD calibration mechanics (explicit state tracking, session-to-session adaptation), hermeneutic spiral depth progression.</p>
+<p><strong>Phase 3 (Expansion / Maybe Never):</strong> Dave as a shareable Claude Code skill, multi-topic dashboard, <code>/tutor teach-me</code> multi-session essay draft tracking.</p>
+<h3 id="risk-mitigation-strategy">Risk Mitigation Strategy<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#risk-mitigation-strategy" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><strong>Technical risks:</strong></p>
+<ul>
+<li><em>Incremental transcript write</em> — Claude Code doesn’t natively export terminal history. Dave must write to the transcript file explicitly at each turn. Mitigation: implement this at the very start of build and test it before any other feature. If it doesn’t work cleanly, nothing else matters.</li>
+<li><em>Persona constraint enforcement</em> — Dave may give answers under pressure if the skill prompt is underspecified. Mitigation: explicit hard constraint in skill prompt, tested adversarially before first real session.</li>
+</ul>
+<p><strong>Personal/method risks:</strong></p>
+<ul>
+<li><em>ZPD miscalibration</em> — Dave starts sessions at wrong depth. Mitigation: calibrate low (easier to push harder than recover from frustration), and make recalibration possible via <code>dave-log</code> review at each <code>/tutor hello</code>.</li>
+<li><em>Method doesn’t generalise</em> — schema therapy works but a second topic doesn’t. Mitigation: test a second topic after 10 schema therapy sessions before investing in Phase 2.</li>
+</ul>
+<p><strong>Resource risks:</strong> Solo build with no external dependencies. The only resource constraint is Alex’s time — and the MVP is deliberately minimal enough to be buildable in a day.</p>
+<h2 id="functional-requirements">Functional Requirements<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#functional-requirements" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="topic-initialisation">Topic Initialisation<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#topic-initialisation" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>FR1:</strong> Dave can conduct a structured onboarding interview to assess the learner’s current knowledge, goals, and timeline for a new topic.</li>
+<li><strong>FR2:</strong> Dave can calibrate ZPD (Zone of Proximal Development) based on demonstrated knowledge from the interview, defaulting to a lower calibration when uncertain.</li>
+<li><strong>FR3:</strong> Dave can generate a topic primer (<code>dave-primer-&lt;topic>.md</code>) via deep research when no source material is provided.</li>
+<li><strong>FR4:</strong> Dave can ingest user-provided source material as the basis for a topic primer when supplied at init.</li>
+<li><strong>FR5:</strong> Dave can surface his own epistemic uncertainty about niche topics explicitly, rather than presenting potentially incorrect content with false confidence.</li>
+<li><strong>FR6:</strong> Dave can scaffold the full topic folder structure (<code>sessions/</code>, <code>notes/</code>, all required files) at init.</li>
+<li><strong>FR7:</strong> Dave can derive the topic slug from the CWD folder name without requiring manual input.</li>
+</ul>
+<h3 id="session-entry--contract">Session Entry &amp; Contract<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#session-entry--contract" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>FR8:</strong> Dave can read <code>git diff -- .</code> scoped to the topic CWD and present a meaningful summary of what has changed since the last session.</li>
+<li><strong>FR9:</strong> Dave can read and summarise the current A/B/U state from <code>dave-log-&lt;topic>.md</code>.</li>
+<li><strong>FR10:</strong> Dave can open every session with an explicit session contract: duration commitment from the learner, followed by the session frame statement.</li>
+<li><strong>FR11:</strong> Dave can present an action menu at session start, based on the current A/B/U state and session history.</li>
+<li><strong>FR12:</strong> Dave can surface the fact that the previous session ended early, as a continuity reference at the next session start.</li>
+</ul>
+<h3 id="socratic-interaction">Socratic Interaction<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#socratic-interaction" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>FR13:</strong> Dave can probe confidently held beliefs (B’s) with targeted Socratic questions, prioritising B’s over recognised gaps (U’s).</li>
+<li><strong>FR14:</strong> Dave can withhold direct answers when the learner asks for them, redirecting to the gap instead.</li>
+<li><strong>FR15:</strong> Dave can identify vagueness or hedging in learner explanations and name the specific imprecision.</li>
+<li><strong>FR16:</strong> Dave can map recognised gaps (U’s) and missing ontology — concepts the learner has flagged as unclear or undefined.</li>
+<li><strong>FR17:</strong> Dave can conduct a Feynman-style session where the learner explains a concept in plain language and Dave presses on every vague point.</li>
+<li><strong>FR18:</strong> Dave can play a confused student, prompting the learner to write a rigorous explanatory essay including “why does this matter at all?”</li>
+<li><strong>FR19:</strong> Dave can conduct an explicit before/after review of what has changed in understanding since the last session.</li>
+<li><strong>FR36:</strong> Dave can prompt the learner to sketch concept relationships on paper at appropriate moments during a session — typically early, for spatial orientation of the topic ontology. Dave does not generate diagrams; the physical act of sketching is the pedagogical mechanism.</li>
+</ul>
+<h3 id="session-transcript">Session Transcript<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#session-transcript" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>FR20:</strong> Dave can write session content to a transcript file incrementally as the session progresses (append-only, never overwrites).</li>
+<li><strong>FR21:</strong> Dave can create a new transcript file per session with a dated filename (<code>sessions/YYYY-MM-DD-&lt;topic>.md</code>).</li>
+<li><strong>FR22:</strong> Dave can produce transcript files in clean, legible markdown with session headers and clearly marked turns, readable without additional context.</li>
+<li><strong>FR23:</strong> Dave can leave a partial transcript intact and valid when a session ends early — no data loss on early exit.</li>
+</ul>
+<h3 id="post-session-reflection--logging">Post-Session Reflection &amp; Logging<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#post-session-reflection--logging" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>FR24:</strong> Dave can prompt the learner through an end-of-session A/B/U reflection, asking about each category in turn with open text input.</li>
+<li><strong>FR25:</strong> Dave can capture a self-rated pride score (1–5) at session end.</li>
+<li><strong>FR26:</strong> Dave can append a structured session block to <code>dave-log-&lt;topic>.md</code> after every session, including A/B/U reflection content, pride score, and session summary.</li>
+<li><strong>FR27:</strong> Dave can update <code>alex-and-dave.md</code> after every session with: date, topic, duration, completion status, pride score, and A/B/U reflection summary.</li>
+<li><strong>FR28:</strong> Dave can log early exits with incomplete status and omit pride score when session ends without reflection.</li>
+</ul>
+<h3 id="knowledge--state-access">Knowledge &amp; State Access<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#knowledge--state-access" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>FR29:</strong> Dave can read <code>dave-primer-&lt;topic>.md</code> as the primary knowledge source for session content.</li>
+<li><strong>FR30:</strong> Dave can read <code>dave-log-&lt;topic>.md</code> to retrieve A/B/U history and prior session summaries.</li>
+<li><strong>FR31:</strong> Dave can read files in the <code>notes/</code> subfolder as the learner’s written work and incorporate it into session context. Notes are dialogical — written to Dave as a rigorous reader, not personal brain dumps. Dave may prompt the learner to frame notes this way and may reference their quality (coherence, completeness, precision) during sessions.</li>
+<li><strong>FR37:</strong> Dave can surface the dialogical note-writing standard when introducing the <code>notes/</code> subfolder at init — explaining that notes written to an imagined rigorous reader produce more useful material for session work than private shorthand.</li>
+</ul>
+<h3 id="file--repo-management">File &amp; Repo Management<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#file--repo-management" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>FR32:</strong> Dave can create all files with standard frontmatter (<code>date</code>, <code>tags: [Dave]</code>).</li>
+<li><strong>FR33:</strong> Dave can resolve and write to <code>alex-and-dave.md</code> at the <code>/learning/</code> level from within any topic CWD.</li>
+<li><strong>FR34:</strong> Dave can create <code>sessions/</code> and <code>notes/</code> subdirectories if they do not exist.</li>
+<li><strong>FR35:</strong> Dave can name all topic-scoped files using the topic slug to ensure Obsidian vault-wide filename uniqueness.</li>
+</ul>
+<h2 id="non-functional-requirements">Non-Functional Requirements<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#non-functional-requirements" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="performance">Performance<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#performance" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>NFR1:</strong> Session startup (<code>/tutor hello</code>) completes its git diff read and log parse within a time that doesn’t interrupt the session opening flow. Dave should not require the learner to wait noticeably before the session contract is presented.</li>
+<li><strong>NFR2:</strong> Context loading is scoped to <code>/learning/&lt;topic>/</code> only. Dave must not load the full scrapbook vault (~330k words) at any point during a session. Token efficiency is a first-class constraint.</li>
+<li><strong>NFR3:</strong> Incremental transcript writes must not interrupt conversational flow — each write is a background file append, not a blocking operation.</li>
+</ul>
+<h3 id="reliability--data-integrity">Reliability &amp; Data Integrity<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#reliability--data-integrity" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>NFR4:</strong> Session transcripts are append-only. No write operation may overwrite or truncate an existing transcript. A failed or interrupted write leaves the previous content intact.</li>
+<li><strong>NFR5:</strong> <code>dave-log-&lt;topic>.md</code> entries are discrete, self-contained blocks. A failed append must not corrupt previously written entries.</li>
+<li><strong>NFR6:</strong> <code>alex-and-dave.md</code> updates are structured so a failed write does not corrupt the existing session table.</li>
+<li><strong>NFR7:</strong> Dave must never silently fail on a file write. If a write fails, Dave surfaces the error to the learner immediately rather than continuing as if the session was logged.</li>
+</ul>
+<h3 id="integration-compatibility">Integration Compatibility<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#integration-compatibility" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><strong>NFR8:</strong> All Dave-created markdown files must be valid Obsidian markdown — correct frontmatter format, no syntax that breaks Obsidian rendering.</li>
+<li><strong>NFR9:</strong> All Dave-created filenames must be unique across the Obsidian vault. Topic-scoped naming (<code>dave-log-&lt;topic>.md</code>) is the enforced mechanism.</li>
+<li><strong>NFR10:</strong> Session transcripts and <code>alex-and-dave.md</code> must render correctly in Quartz without additional post-processing. Standard markdown only — no Obsidian-specific syntax (callouts, dataview queries) in Quartz-published files.</li>
+<li><strong>NFR11:</strong> <code>git diff -- .</code> must reliably scope to the topic CWD. Dave must not rely on global git state that could expose unrelated changes from the rest of the scrapbook.</li>
+</ul></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div id="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false}"></div><button id="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div id="global-graph-outer"><div id="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" id="toc" class aria-controls="toc-content" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="toc-content" class><ul class="overflow"><li class="depth-0"><a href="#product-requirements-document---dave" data-for="product-requirements-document---dave">Product Requirements Document - Dave</a></li><li class="depth-1"><a href="#executive-summary" data-for="executive-summary">Executive Summary</a></li><li class="depth-2"><a href="#what-makes-this-special" data-for="what-makes-this-special">What Makes This Special</a></li><li class="depth-1"><a href="#project-classification" data-for="project-classification">Project Classification</a></li><li class="depth-1"><a href="#success-criteria" data-for="success-criteria">Success Criteria</a></li><li class="depth-2"><a href="#user-success" data-for="user-success">User Success</a></li><li class="depth-2"><a href="#personalproject-success" data-for="personalproject-success">Personal/Project Success</a></li><li class="depth-2"><a href="#technical-success" data-for="technical-success">Technical Success</a></li><li class="depth-2"><a href="#measurable-outcomes" data-for="measurable-outcomes">Measurable Outcomes</a></li><li class="depth-1"><a href="#product-scope" data-for="product-scope">Product Scope</a></li><li class="depth-2"><a href="#mvp--minimum-viable-product" data-for="mvp--minimum-viable-product">MVP — Minimum Viable Product</a></li><li class="depth-2"><a href="#growth-features-post-mvp" data-for="growth-features-post-mvp">Growth Features (Post-MVP)</a></li><li class="depth-2"><a href="#vision-future--maybe-never" data-for="vision-future--maybe-never">Vision (Future / Maybe Never)</a></li><li class="depth-1"><a href="#user-journeys" data-for="user-journeys">User Journeys</a></li><li class="depth-2"><a href="#journey-1-the-first-encounter-alex--tutor-init-new-topic" data-for="journey-1-the-first-encounter-alex--tutor-init-new-topic">Journey 1: The First Encounter (Alex — /tutor init, new topic)</a></li><li class="depth-2"><a href="#journey-2-a-good-session-alex--tutor-hello-recurring" data-for="journey-2-a-good-session-alex--tutor-hello-recurring">Journey 2: A Good Session (Alex — /tutor hello, recurring)</a></li><li class="depth-2"><a href="#journey-3-the-early-exit-alex--session-interrupted" data-for="journey-3-the-early-exit-alex--session-interrupted">Journey 3: The Early Exit (Alex — session interrupted)</a></li><li class="depth-2"><a href="#journey-4-the-public-reader-secondary--quartz-visitor" data-for="journey-4-the-public-reader-secondary--quartz-visitor">Journey 4: The Public Reader (secondary — Quartz visitor)</a></li><li class="depth-2"><a href="#journey-requirements-summary" data-for="journey-requirements-summary">Journey Requirements Summary</a></li><li class="depth-1"><a href="#domain-specific-requirements" data-for="domain-specific-requirements">Domain-Specific Requirements</a></li><li class="depth-2"><a href="#learning-science-constraints" data-for="learning-science-constraints">Learning Science Constraints</a></li><li class="depth-2"><a href="#ai-interaction-constraints" data-for="ai-interaction-constraints">AI Interaction Constraints</a></li><li class="depth-2"><a href="#data-integrity-constraints" data-for="data-integrity-constraints">Data Integrity Constraints</a></li><li class="depth-1"><a href="#innovation--novel-patterns" data-for="innovation--novel-patterns">Innovation &amp; Novel Patterns</a></li><li class="depth-2"><a href="#detected-innovation-areas" data-for="detected-innovation-areas">Detected Innovation Areas</a></li><li class="depth-2"><a href="#market-context--competitive-landscape" data-for="market-context--competitive-landscape">Market Context &amp; Competitive Landscape</a></li><li class="depth-2"><a href="#validation-approach" data-for="validation-approach">Validation Approach</a></li><li class="depth-2"><a href="#risk-mitigation" data-for="risk-mitigation">Risk Mitigation</a></li><li class="depth-1"><a href="#cli-tool-specific-requirements" data-for="cli-tool-specific-requirements">CLI Tool Specific Requirements</a></li><li class="depth-2"><a href="#project-type-overview" data-for="project-type-overview">Project-Type Overview</a></li><li class="depth-2"><a href="#command-structure" data-for="command-structure">Command Structure</a></li><li class="depth-2"><a href="#output-formats" data-for="output-formats">Output Formats</a></li><li class="depth-2"><a href="#config-schema" data-for="config-schema">Config Schema</a></li><li class="depth-2"><a href="#file-structure" data-for="file-structure">File Structure</a></li><li class="depth-2"><a href="#git-diff-scoping" data-for="git-diff-scoping">Git Diff Scoping</a></li><li class="depth-2"><a href="#implementation-considerations" data-for="implementation-considerations">Implementation Considerations</a></li><li class="depth-1"><a href="#project-scoping--phased-development" data-for="project-scoping--phased-development">Project Scoping &amp; Phased Development</a></li><li class="depth-2"><a href="#mvp-strategy--philosophy" data-for="mvp-strategy--philosophy">MVP Strategy &amp; Philosophy</a></li><li class="depth-2"><a href="#post-mvp-features" data-for="post-mvp-features">Post-MVP Features</a></li><li class="depth-2"><a href="#risk-mitigation-strategy" data-for="risk-mitigation-strategy">Risk Mitigation Strategy</a></li><li class="depth-1"><a href="#functional-requirements" data-for="functional-requirements">Functional Requirements</a></li><li class="depth-2"><a href="#topic-initialisation" data-for="topic-initialisation">Topic Initialisation</a></li><li class="depth-2"><a href="#session-entry--contract" data-for="session-entry--contract">Session Entry &amp; Contract</a></li><li class="depth-2"><a href="#socratic-interaction" data-for="socratic-interaction">Socratic Interaction</a></li><li class="depth-2"><a href="#session-transcript" data-for="session-transcript">Session Transcript</a></li><li class="depth-2"><a href="#post-session-reflection--logging" data-for="post-session-reflection--logging">Post-Session Reflection &amp; Logging</a></li><li class="depth-2"><a href="#knowledge--state-access" data-for="knowledge--state-access">Knowledge &amp; State Access</a></li><li class="depth-2"><a href="#file--repo-management" data-for="file--repo-management">File &amp; Repo Management</a></li><li class="depth-1"><a href="#non-functional-requirements" data-for="non-functional-requirements">Non-Functional Requirements</a></li><li class="depth-2"><a href="#performance" data-for="performance">Performance</a></li><li class="depth-2"><a href="#reliability--data-integrity" data-for="reliability--data-integrity">Reliability &amp; Data Integrity</a></li><li class="depth-2"><a href="#integration-compatibility" data-for="integration-compatibility">Integration Compatibility</a></li></ul></div></div><div class="backlinks"><h3>Backlinks</h3><ul class="overflow"><li><a href="../2026/Why-BMAD-is-worth-it-even-if-you-don't-want-to-code-something" class="internal">Why BMAD is worth it even if you don't want to code something</a></li><li><a href="../2026/learning/Alex-and-Dave" class="internal">Alex and Dave</a></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.4.0</a> © 2026</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript">function c(){let t=this.parentElement;t.classList.toggle("is-collapsed");let l=t.classList.contains("is-collapsed")?this.scrollHeight:t.scrollHeight;t.style.maxHeight=l+"px";let o=t,e=t.parentElement;for(;e;){if(!e.classList.contains("callout"))return;let n=e.classList.contains("is-collapsed")?e.scrollHeight:e.scrollHeight+o.scrollHeight;e.style.maxHeight=n+"px",o=e,e=e.parentElement}}function i(){let t=document.getElementsByClassName("callout is-collapsible");for(let s of t){let l=s.firstElementChild;if(l){l.addEventListener("click",c),window.addCleanup(()=>l.removeEventListener("click",c));let e=s.classList.contains("is-collapsed")?l.scrollHeight:s.scrollHeight;s.style.maxHeight=e+"px"}}}document.addEventListener("nav",i);window.addEventListener("resize",i);
+</script><script type="module">
+          let mermaidImport = undefined
+          document.addEventListener('nav', async () => {
+            if (document.querySelector("code.mermaid")) {
+              mermaidImport ||= await import('https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.7.0/mermaid.esm.min.mjs')
+              const mermaid = mermaidImport.default
+              const darkMode = document.documentElement.getAttribute('saved-theme') === 'dark'
+              mermaid.initialize({
+                startOnLoad: false,
+                securityLevel: 'loose',
+                theme: darkMode ? 'dark' : 'default'
+              })
+
+              await mermaid.run({
+                querySelector: '.mermaid'
+              })
+            }
+          });
+          </script><script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/copy-tex.min.js" type="application/javascript"></script><script src="../postscript.js" type="module"></script></html>

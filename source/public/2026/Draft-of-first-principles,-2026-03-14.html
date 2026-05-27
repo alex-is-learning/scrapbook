@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en"><head><title>Draft of first principles, 2026-03-14</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM Plex Mono&amp;family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;display=swap"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><link rel="canonical" href="https://alexislearning.me/scrapbook/2026/Draft-of-first-principles,-2026-03-14"/><meta property="og:type" content="article"/><meta property="og:title" content="Draft of first principles, 2026-03-14"/><meta property="og:description" content="..."/><meta property="og:url" content="https://alexislearning.me/scrapbook/2026/Draft-of-first-principles,-2026-03-14"/><meta property="og:site_name" content="📝 Alex's scrapbook"/><meta property="og:image" content="https://alexislearning.me/scrapbook/static/og-image.jpg"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="675"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Draft of first principles, 2026-03-14"/><meta name="twitter:description" content="..."/><meta name="twitter:image" content="https://alexislearning.me/scrapbook/static/og-image.jpg"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="..."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" spa-preserve/><link href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script><script data-goatcounter="https://alexislearning-scrapbook.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script></head><body data-slug="2026/Draft-of-first-principles,-2026-03-14"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">📝 Alex's scrapbook</a></h2><div class="spacer mobile-only"></div><div class="search"><button class="search-button" id="search-button"><p>Search</p><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg></button><div id="search-container"><div id="search-space"><input autocomplete="off" id="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div id="search-layout" data-preview="true"></div></div></div></div><button class="darkmode" id="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button><div class="recent-notes desktop-only"><h3>Recent notes</h3><ul class="recent-ul"><li class="recent-li"><div class="section"><div class="desc"><h3><a href="../2026/I-got-suspended-from-twitter-again!!-2026-05-25" class="internal">I got suspended from twitter again!! 2026-05-25</a></h3></div><p class="meta">May 25, 2026</p></div></li><li class="recent-li"><div class="section"><div class="desc"><h3><a href="../2026/Executive-Assistant-automation-(n8n)" class="internal">Executive Assistant automation (n8n)</a></h3></div><p class="meta">May 24, 2026</p></div></li><li class="recent-li"><div class="section"><div class="desc"><h3><a href="../2026/Coaching-and-outcomes" class="internal">Coaching and outcomes</a></h3></div><p class="meta">May 22, 2026</p></div></li></ul></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../2026/">2026</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Draft of first principles, 2026-03-14</a></div></nav><h1 class="article-title">Draft of first principles, 2026-03-14</h1><p show-comma="true" class="content-meta"><span>Mar 14, 2026</span><span>11 min read</span></p></div></div><article class="popover-hint"><ul>
+<li><a href="../2026/Alex-and-Simmo-doing-first-principles-thinking,-2026-03-14" class="internal alias" data-slug="2026/Alex-and-Simmo-doing-first-principles-thinking,-2026-03-14">Alex and Simmo doing first principles thinking, 2026-03-14</a></li>
+</ul>
+<p>Based on the patterns, we try to articulate maybe <span class="text-highlight">3-5 things that seem genuinely stable and action-relevant</span>. Not a grand philosophical system. More like: ”<span class="text-highlight">here's what I actually care about</span>, stated plainly enough that it could help me make a decision next week.”</p>
+<h1 id="what-claude-came-up-with-from-reading-all-the-website">What Claude came up with, from reading all the website<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#what-claude-came-up-with-from-reading-all-the-website" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h2 id="what-the-four-angles-converge-on">What the four angles converge on<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#what-the-four-angles-converge-on" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Before drafting principles, here’s what I see when I lay the data side by side:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Signal</th><th>Angle 1 (Pivots)</th><th>Angle 2 (Revealed prefs)</th><th>Angle 3 (Say no to)</th><th>Angle 4 (Admire)</th></tr></thead><tbody><tr><td><strong>Make the invisible visible</strong></td><td>Every job, every reference</td><td>Working/studying all the time, always a new project</td><td>—</td><td>Carmen (high-skill), Attila (cognitive complexity)</td></tr><tr><td><strong>Perform, entertain, be seen</strong></td><td>YouTube era, vignettes, presentations</td><td>7 years of daily comedy podcasts, “getting attention”, voice notes, silly presentations</td><td>—</td><td>Tyler, Gambino, Conan, Shayne Topp, NakeyJakey, BDG — literally ALL heroes are performers</td></tr><tr><td><strong>Deep few over shallow many</strong></td><td>One intense friendship > 20 acquaintances, across every era</td><td>1hr/day voice notes with 2 close friends; ignoring everyone else</td><td>No to: shallow team meals, nightclubs, drowning in messages, aversive family messages</td><td>Person 1 (integrity = selectivity), Person 2 (one great partner, not playing the field)</td></tr><tr><td><strong>Follow the energy, leave when it’s dead</strong></td><td>Every pivot. Consensus-ism as philosophy</td><td>Not exercising (no energy for it), not reading fiction anymore</td><td>No to: VIEW conversations done because “it seems cool”, events bought tickets to then skipping</td><td>Person 1 (lives by principles even when inconvenient)</td></tr><tr><td><strong>Leo fire grounded in Taurus earth</strong></td><td>Kensho → the Divine Period → now</td><td>Exact same cheerful mood every day, emotionally stable, “I don’t do long talks about feelings”</td><td>No to: excessive emotional work he doesn’t need</td><td>Person 2 (intellectual stimulation + stability + great partnership)</td></tr></tbody></table></div>
+<p>The thing I notice that’s different from my earlier analysis: <strong>the performance/entertainment thread was massively underweighted</strong>. It barely appears in the scrapbook because the scrapbook is intellectual. But the revealed preferences are screaming it. Seven years of daily comedy podcasts. Every single famous person you admire is a performer or creative. The YouTube era wasn’t a phase — it was the Leo sun finally getting oxygen.</p>
+<blockquote>
+<p>This is so good!</p>
+</blockquote>
+<h2 id="draft-principles">Draft principles<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#draft-principles" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Here are four. I think four is right — three loses too much, five starts to blur.</p>
+<blockquote>
+<p>I expect this is gonna be cheesy LLM-speak, bracing myself</p>
+</blockquote>
+<h3 id="1-walk-into-chaos-make-it-legible">1. Walk into chaos. Make it legible.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1-walk-into-chaos-make-it-legible" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>This is what you do. It’s what every manager described. It’s what the scrapbook is. It’s what consensus-ism is. It’s what you’re doing right now with first principles.</p>
+<p><strong>The decision test:</strong> <em>Does this situation need someone to walk into a mess and make it structured, clear, and visible?</em> If yes, it’s probably for you. If the structure already exists and you’d be maintaining it, you’ll leave within 6 months.</p>
+<p><strong>What it helps you say no to:</strong> Defined roles with clear playbooks. Jobs where the org chart is settled and the processes already work. Maintenance. You’ll be bored and you’ll scrunching your way through it.<sup><a href="#user-content-fn-1" id="user-content-fnref-1" data-footnote-ref aria-describedby="footnote-label" class="internal alias">1</a></sup></p>
+<p><strong>What it helps you say yes to:</strong> Early-stage companies. Undefined mandates. Anything where someone says “we don’t really know what this role is yet.” The thing Ethan described: <em>“Very little specificity in what he was supposed to do. Time after time, found increasingly critical areas to own.”</em></p>
+<p><strong>The tension to watch:</strong> This principle can become an excuse to never persist past the exciting early phase. Person 2 (the VC you admire) presumably stuck with venture capital long enough to actually get wealthy. There’s a version of this principle that reads “leave the moment it’s hard” rather than “leave when the crystallisation work is genuinely done.” The honest check: <em>Am I leaving because the real work here is finished, or because the dopamine of novelty has worn off?</em></p>
+<h3 id="2-perform-make-people-laugh-be-visible">2. Perform. Make people laugh. Be visible.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2-perform-make-people-laugh-be-visible" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>This is the one you’d never have put on a values list because it sounds vain. But the data is overwhelming:</p>
+<ul>
+<li>7+ years of daily comedy podcasts</li>
+<li>Every hero on your wall is a performer, comedian, or charismatic creative</li>
+<li>The YouTube era felt the most alive of any recent period</li>
+<li>“Getting attention” is a revealed preference you only admitted because the prompt forced honesty</li>
+<li>Leo sun, and you know it</li>
+<li>The silly weekly EA Hotel presentations — you do this <em>for free, voluntarily, every week</em></li>
+</ul>
+<blockquote>
+<p>So good, lmao</p>
+</blockquote>
+<p>This isn’t vanity. It’s a drive. Treating it as vanity is what kept it underground for years while Scorpio rising ran the show.</p>
+<blockquote>
+<p>Banger!!!!!!</p>
+</blockquote>
+<p><strong>The decision test:</strong> <em>Does this let me be entertaining, charismatic, and visible — at least some of the time?</em> A job that’s pure back-office with no presentation element will drain you. A relationship where you can’t be playful and silly will go flat. A community where you can’t do bits will bore you.</p>
+<p><strong>What it helps you say no to:</strong> Roles where you’re invisible. Social contexts where performance is unwelcome. Anything that requires you to be permanently serious.</p>
+<p><strong>What it helps you say yes to:</strong> Presentations, teaching, facilitation with personality. Creative projects. Communities where humour is valued. The YouTube thing, or the next version of it.</p>
+<p><strong>The tension to watch:</strong> Performance can become people-pleasing. The Leo wants to shine; the Enneagram 3 wants to be valued. The check: <em>Am I performing because it’s alive, or because I need the approval?</em> When it’s alive, it’s effortless and fun. When it’s approval-seeking, it’s anxious and calculating.</p>
+<h3 id="3-go-deep-with-the-few-release-the-rest">3. Go deep with the few. Release the rest.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#3-go-deep-with-the-few-release-the-rest" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Your revealed preferences here are crystal clear. You have two close friends you voice-note with for an hour a day. You ignore most other messages. You want to declare message bankruptcy. You skip events you bought tickets to. You hide in your room — and then have incredibly deep, high-context conversations with chosen people.</p>
+<p>This isn’t introversion. It’s selectivity. The Taurus moon wants depth and loyalty, not breadth.</p>
+<p><strong>The decision test:</strong> <em>Is this a deep investment in someone I’ve chosen, or a shallow obligation to someone I haven’t?</em></p>
+<p><strong>What it helps you say no to:</strong> The specific things on your Angle 3 list: shallow team meals, nightclubs, drowning in messages from people you don’t want to talk to, aversive family messages answered out of guilt, emotional work practices done because “it seems cool” rather than because you need them.</p>
+<p><strong>What it helps you say yes to:</strong> The group chat. Family therapy (chosen, deep, ongoing<sup><a href="#user-content-fn-2" id="user-content-fnref-2" data-footnote-ref aria-describedby="footnote-label" class="internal alias">2</a></sup>). Circling when it’s real. The Person 2 aspiration: one great partnership, deeply invested.</p>
+<p><strong>What it helps you actually do:</strong> Declare message bankruptcy. Communicate to the shallow-message tier: “I don’t do messages anymore, let’s email but we probably won’t.” You already wrote that you want to do this. This principle says: yes, do it, it’s aligned, stop feeling guilty.</p>
+<p><strong>The tension to watch:</strong> “Deep with the few” can become “isolated with an excuse.” You spent October 2025 to January 2026 at the EA Hotel barely connecting with anyone and rationalising it as introversion. The check: <em>Am I choosing depth, or am I avoiding the discomfort of opening up?</em> If you’re sitting in your room feeling lonely but not going downstairs, that’s not this principle — that’s the old pattern.</p>
+<h3 id="4-follow-the-energy-not-the-should">4. Follow the energy. Not the “should.”<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#4-follow-the-energy-not-the-should" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Consensus-ism, restated as a decision-making rule. The biography is the evidence: when you followed energy (Asia, Kensho, music, the scrapbook), things were alive. When you followed “should” (nightclubs, VIEW conversations, replying to messages out of obligation, spending time with family), things were dead and you knew it immediately.</p>
+<p><strong>The decision test:</strong> <em>Am I doing this because there’s genuine energy here, or because I think I should?</em> The body knows before the mind does. If you’re buying a ticket and already dreading it, that’s data.</p>
+<p><strong>What it helps you say no to:</strong> VIEW conversations done because “Joe Hudson is cool.” Events bought out of FOMO. Gym sessions done alone out of obligation (you said it yourself: you need social accountability or it doesn’t happen — so either find gym buddies or stop pretending solo gym is going to work). Replying to messages from obligation.</p>
+<p><strong>What it helps you say yes to:</strong> The thing that’s pulling you. The project you can’t stop thinking about. The person you actually want to talk to. The study session you’d do on a Saturday for fun.</p>
+<p><strong>The tension to watch:</strong> This is the most dangerous principle to misuse. “Follow the energy” can become “never do anything hard or boring.” Some important things don’t feel alive at first — they become alive through commitment. Person 2 didn’t become a successful VC by following moment-to-moment energy; they stuck with something through the boring middle. The check: <em>Is the energy absent because this is genuinely dead, or because I haven’t given it enough runway to come alive?</em> Scrunching is forcing yourself to stay in something dead. But not everything that’s temporarily boring is dead.</p>
+<hr/>
+<h2 id="what-about-i-dont-need-to-earn-my-existence">What about “I don’t need to earn my existence”?<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#what-about-i-dont-need-to-earn-my-existence" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>I considered making this principle 5. It’s real — it’s the background project of your adult life, and when you lose hold of it, the other four principles all contort into striving.</p>
+<p>But I don’t think it’s the same <em>kind</em> of thing as the other four. The other four are decision-making tools: they help you choose between options on a Tuesday. “I don’t need to earn my existence” is more like the ground they stand on. It’s the difference between:</p>
+<ul>
+<li><em>“I walk into chaos and make it legible <strong>because that’s my gift</strong>”</em> (healthy)</li>
+<li><em>“I walk into chaos and make it legible <strong>to prove I’m valuable</strong>”</em> (striving)</li>
+</ul>
+<p>So I’d frame it not as principle 5, but as the <strong>meta-check</strong> you run on all four principles: <em>Am I doing this from aliveness, or from the need to justify myself?</em></p>
+<hr/>
+<h2 id="the-short-version">The short version<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#the-short-version" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>If you need this on an index card:</p>
+<ol>
+<li><strong>Walk into chaos. Make it legible.</strong> <em>(Seek undefined spaces. Leave when the structure is built.)</em></li>
+<li><strong>Perform. Make people laugh. Be visible.</strong> <em>(This isn’t vanity. Honour the Leo.)</em></li>
+<li><strong>Go deep with the few. Release the rest.</strong> <em>(Message bankruptcy is not a moral failing.)</em></li>
+<li><strong>Follow the energy. Not the “should.”</strong> <em>(If you’re dreading it, that’s your answer.)</em></li>
+</ol>
+<p>Meta-check: <em>Am I doing this from aliveness, or from the need to prove I’m enough?</em></p>
+<h1 id="more-context">More context<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#more-context" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h3 id="1-walk-into-chaos-make-it-legible-1">1. Walk into chaos. Make it legible.<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1-walk-into-chaos-make-it-legible-1" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>This is what you do. It’s what every manager described, independently, without coordinating:</p>
+<ul>
+<li>The Alvea manager: <em>“Impressive ability to crystallise, structure and organise information… you blew my mind.”</em></li>
+<li>Ethan: <em>“Conducted interviews with every person in the company and synthesised video snippets clustered by theme — one of the most information dense and informative things I watched while leading the company.”</em></li>
+<li>Brent: <em>“I feel force-amplified.”</em></li>
+<li>The Alvea manager again: <em>“Telling people about how internal ops is changing &amp; improving, realising this is pretty much a story about Alex.”</em></li>
+</ul>
+<p>It’s also what you do outside work. The scrapbook is 315,000 words of making your inner life legible. Consensus-ism is making an intuitive orientation legible enough to teach. A/B/U, scrunching, the fetters model — you encounter something fuzzy and you can’t rest until it’s crystallised into a framework with a name. This first principles exercise is the same impulse, pointed at yourself.</p>
+<p>The Alvea manager said something important: <em>“Historically you haven’t celebrated this enough. Sounds like you think it’s easy to do this and therefore replaceable, not valuable.”</em> And then immediately contradicted that: a guy with 25 years of experience was working on the same kind of task and couldn’t produce what you produce. This isn’t a common skill. It’s a genuine superpower that you systematically undervalue because it comes naturally to you.</p>
+<p><strong>The decision test:</strong> <em>Does this situation need someone to walk into a mess and make it structured, clear, and visible?</em> If yes, it’s probably for you. If you’d be maintaining someone else’s existing structure rather than building legibility from scratch, it’s probably not.</p>
+<p><strong>What it helps you say yes to:</strong> Early-stage companies. Undefined mandates. Anything where someone says “we don’t really know what this role is yet.” Anything where the problem is “we have all this information/complexity but can’t see it clearly.”</p>
+<hr/>
+<p>Ready for Phase 3 (stress-testing against real past and future decisions) whenever you are.</p>
+<section data-footnotes class="footnotes"><h2 class="sr-only" id="footnote-label">Footnotes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#footnote-label" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ol>
+<li id="user-content-fn-1">
+<p>Misusing my concept of scrunching, smh. Guess it’s not an AGI yet! <a href="#user-content-fnref-1" data-footnote-backref aria-label="Back to reference 1" class="data-footnote-backref internal alias">↩</a></p>
+</li>
+<li id="user-content-fn-2">
+<p>Nope, hallucination, I went twice and gave up! <a href="#user-content-fnref-2" data-footnote-backref aria-label="Back to reference 2" class="data-footnote-backref internal alias">↩</a></p>
+</li>
+</ol>
+</section></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div id="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false}"></div><button id="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div id="global-graph-outer"><div id="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" id="toc" class aria-controls="toc-content" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="toc-content" class><ul class="overflow"><li class="depth-0"><a href="#what-claude-came-up-with-from-reading-all-the-website" data-for="what-claude-came-up-with-from-reading-all-the-website">What Claude came up with, from reading all the website</a></li><li class="depth-1"><a href="#what-the-four-angles-converge-on" data-for="what-the-four-angles-converge-on">What the four angles converge on</a></li><li class="depth-1"><a href="#draft-principles" data-for="draft-principles">Draft principles</a></li><li class="depth-2"><a href="#1-walk-into-chaos-make-it-legible" data-for="1-walk-into-chaos-make-it-legible">1. Walk into chaos. Make it legible.</a></li><li class="depth-2"><a href="#2-perform-make-people-laugh-be-visible" data-for="2-perform-make-people-laugh-be-visible">2. Perform. Make people laugh. Be visible.</a></li><li class="depth-2"><a href="#3-go-deep-with-the-few-release-the-rest" data-for="3-go-deep-with-the-few-release-the-rest">3. Go deep with the few. Release the rest.</a></li><li class="depth-2"><a href="#4-follow-the-energy-not-the-should" data-for="4-follow-the-energy-not-the-should">4. Follow the energy. Not the “should.”</a></li><li class="depth-1"><a href="#what-about-i-dont-need-to-earn-my-existence" data-for="what-about-i-dont-need-to-earn-my-existence">What about “I don’t need to earn my existence”?</a></li><li class="depth-1"><a href="#the-short-version" data-for="the-short-version">The short version</a></li><li class="depth-0"><a href="#more-context" data-for="more-context">More context</a></li><li class="depth-2"><a href="#1-walk-into-chaos-make-it-legible-1" data-for="1-walk-into-chaos-make-it-legible-1">1. Walk into chaos. Make it legible.</a></li></ul></div></div><div class="backlinks"><h3>Backlinks</h3><ul class="overflow"><li><a href="../2026/Alex-and-Simmo-doing-first-principles-thinking,-2026-03-14" class="internal">Alex and Simmo doing first principles thinking, 2026-03-14</a></li><li><a href="../2026/Do-my-first-principles-help-me-to-stress-test-2026-03-14" class="internal">Do my first principles help me to stress test? 2026-03-14</a></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.4.0</a> © 2026</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript">function c(){let t=this.parentElement;t.classList.toggle("is-collapsed");let l=t.classList.contains("is-collapsed")?this.scrollHeight:t.scrollHeight;t.style.maxHeight=l+"px";let o=t,e=t.parentElement;for(;e;){if(!e.classList.contains("callout"))return;let n=e.classList.contains("is-collapsed")?e.scrollHeight:e.scrollHeight+o.scrollHeight;e.style.maxHeight=n+"px",o=e,e=e.parentElement}}function i(){let t=document.getElementsByClassName("callout is-collapsible");for(let s of t){let l=s.firstElementChild;if(l){l.addEventListener("click",c),window.addCleanup(()=>l.removeEventListener("click",c));let e=s.classList.contains("is-collapsed")?l.scrollHeight:s.scrollHeight;s.style.maxHeight=e+"px"}}}document.addEventListener("nav",i);window.addEventListener("resize",i);
+</script><script type="module">
+          let mermaidImport = undefined
+          document.addEventListener('nav', async () => {
+            if (document.querySelector("code.mermaid")) {
+              mermaidImport ||= await import('https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.7.0/mermaid.esm.min.mjs')
+              const mermaid = mermaidImport.default
+              const darkMode = document.documentElement.getAttribute('saved-theme') === 'dark'
+              mermaid.initialize({
+                startOnLoad: false,
+                securityLevel: 'loose',
+                theme: darkMode ? 'dark' : 'default'
+              })
+
+              await mermaid.run({
+                querySelector: '.mermaid'
+              })
+            }
+          });
+          </script><script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/copy-tex.min.js" type="application/javascript"></script><script src="../postscript.js" type="module"></script></html>
