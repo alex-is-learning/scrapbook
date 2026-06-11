@@ -2,9 +2,13 @@
 permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
+# June 2026
+- 2026-06-03
+	- [[Paying a client acquisition specialist? 2026-06-03]]
 # May 2026
 - 2026-05-25
 	- [[I got suspended from twitter again!! 2026-05-25]]
+		- 👆 edit, I'm back 😎
 - 2026-05-24
 	- [[Executive Assistant automation (n8n)]]
 	- [[My LLM usage]]

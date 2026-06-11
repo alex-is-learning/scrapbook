@@ -12,6 +12,9 @@
 - **Flow** — open-loops task manager (session mode, loop graph, plain JSON)
 - **Ithaca** — personal work + income tracker (static HTML, File System Access API)
 - **Schemagotchi** — schema therapy tracker, tamagotchi-style progression across 18 schemas
+- Quick thing → web-scraping to find job listings
+	- This cost ~$2 in tokens and saved me a bunch of time, & surfaced what job listing sites are scrape-able (e.g. LinkedIn) and which aren't
+	- ![[1779895635209.webp]]
 - **Gymnasiarch** — daily practice tool (fitness + philosophy, ancient Greek model, local-first)
 ## How I build
 - [BMAD](bmad-code-org/BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development) — agile framework + skill suite for AI-driven development; used for all of the above

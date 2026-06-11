@@ -14,6 +14,7 @@ tags:
 - Pretty much "make predictions, grapple with reality, make a model, face the fact that your model is terrible, get your ego involved, cash out the predictions and see what you got wrong"
 - Super powerful because the learnings are incredibly salient - "omg I can't believe I thought x, how embarrassing, now I know y" → leads to very durable updates
 - Also just super fun 
+- Pretty sure this is what the book "[Accelerated Expertise: Training for High Proficiency in a Complex World](https://commoncog.com/accelerated-expertise/)" is about
 
 See also [[Top-down learning unlocks care (and ego)]] & my [this-project kickoff post](https://www.alexislearning.me/learning-how-to-think/)
 
