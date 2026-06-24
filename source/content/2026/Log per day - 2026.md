@@ -3,6 +3,10 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 # June 2026
+- 2026-06-20
+	- [[Script - "Who am I to start a business?"]]
+- 2026-06-17
+	- [[Return to youtube, and dropping @alexislearning]]
 - 2026-06-03
 	- [[Paying a client acquisition specialist? 2026-06-03]]
 # May 2026
