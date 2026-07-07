@@ -2,6 +2,9 @@
 permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
+# July 2026
+- 2026-07-04
+	- [[2026-07-04]]
 # June 2026
 - 2026-06-20
 	- [[Script - "Who am I to start a business?"]]
