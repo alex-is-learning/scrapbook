@@ -3,6 +3,8 @@ permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
 # July 2026
+- 2026-07-20
+	- [[Letter to shareholders 001]]
 - 2026-07-04
 	- [[2026-07-04]]
 # June 2026
