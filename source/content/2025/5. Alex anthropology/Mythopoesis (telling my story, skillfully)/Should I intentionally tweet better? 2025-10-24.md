@@ -4,7 +4,7 @@ tags:
 ---
 - 2025-10-24
 - My profile:
-	- I currently have 363 twitter followers (https://x.com/alexislearning)
+	- I currently have 363 twitter followers (https://x.com/alexanderlarge_)
 	- I used to have ~750 until I got suspended (because they thought I was a bot)
 	- [[Twitter profile analysis via an app 2025-10-25]]
 - I've been on a like, "becoming a main character" arc (e.g. [Simon Ohler](https://x.com/simon_ohler) did a speech at his birthday party about this that he said was largely directed at me, lol)

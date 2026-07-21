@@ -12,6 +12,6 @@ I actually set up “self expression & authorship” as an Intend.do goal (I’m
 
 All this to say - I’m counting the fact that I don’t write on here anymore to be a win - I’m following my consensus and noticing that I have no need to express myself anymore, because I’m doing it a bunch on twitter. Yay!
 
-So I guess I’m just quickly writing this to close the loop for myself. See you on Twitter! [https://twitter.com/alexislearning](https://twitter.com/alexislearning)
+So I guess I’m just quickly writing this to close the loop for myself. See you on Twitter! [https://twitter.com/alexanderlarge_](https://twitter.com/alexanderlarge_)
 
 ![[No consensus to write anymore! (2023-11-02)-1757874565026.webp]]

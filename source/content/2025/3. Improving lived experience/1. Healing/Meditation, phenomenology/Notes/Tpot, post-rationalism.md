@@ -17,7 +17,7 @@ tags:
 	- https://tpot.website/library/
 	- [[What makes post-rationalism post-rationalism?]]
 - About me on twitter
-	- My twitter → https://x.com/alexislearning
+	- My twitter → https://x.com/alexanderlarge_
 	- [[Should I intentionally tweet better? 2025-10-24]]
 	- [[Twitter profile analysis via an app 2025-10-25]]
 - Zeitgeist (if I do say so myself, lol)

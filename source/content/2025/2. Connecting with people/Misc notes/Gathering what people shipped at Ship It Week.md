@@ -11,7 +11,7 @@ tags:
 	- [friend in the air](https://awarenessplay.substack.com/p/friend-in-the-air?r=z803&utm_campaign=post&utm_medium=web&triedRedirect=true)
 # [Alice](https://x.com/aliceisplaying)
 - Has a real job so you know, shipped non-public-facing stuff 
-# [Alex](https://x.com/alexislearning)
+# [Alex](https://x.com/alexanderlarge_)
 ## Writings
 - Saturday August 30th
 	- [I know what "my thing" is](https://alexislearning.substack.com/p/ship-it-week) - Substack
