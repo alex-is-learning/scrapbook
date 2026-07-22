@@ -19,6 +19,6 @@ I could write a much longer letter than this - I haven’t even touched on his w
 
 I met Alex in a period of transition for both Refract and himself. He was a huge asset to our company in that period, and it was personally inspiring to watch him meaning-making and discovering his zone of genius. I believe he would be a uniquely great asset in any rapidly-shifting, operations-focused context. 
 
-Please feel welcome to contact me at [REDACTED](mailto:REDACTED) or +REDACTED for any further information. 
+Please feel welcome to contact me for any further information. 
 
 Brent Baumgartner
