@@ -5,11 +5,16 @@ tags:
 ---
 - [[On feedback]]
 # Work references
-Full letters are held privately — available on request.
 ## References from Managers
 - Brent Baumgartner, founder of Refract, March 2025 
+	- [Google doc](https://docs.google.com/document/d/167F1KqTOYolQXr6eVGlFZMv9yrNxJHaLsoQ3Js8VJtI/edit?tab=t.0)
+	- [[Brent's reference]]
 - Ethan Alley, co-founder of Alvea, Jan 2023 
+	- [Google Doc](https://docs.google.com/document/d/1mBN-iWSwoYM8zUMU25iPGs9Glgzzq3Ps1DRWEivRiFg/edit?tab=t.0)
+	- [[Ethan's reference]]
 - Robert Bölkow, Head of Operations at Alvea, Jan 2023
+	- [Google Doc](https://docs.google.com/document/d/10dW1QWqK-GtL1IY1VjoSEpV0MOqHaScsPNIONNcmy6E/edit?tab=t.0)
+	- [[Rob's reference]]
 - [[Misc Alvea feedback, 2023]]
 ## Co-thinking clients
 - [[Ediya testimonial interview 2026-04-28]]
@@ -19,7 +24,11 @@ Full letters are held privately — available on request.
 - ![[Longview_CV.pdf]]
 ## From friends that I've worked with 
 - Simmo, October 2025
+	- [Google Doc](https://docs.google.com/document/d/1h2r2g2GtjooFZo8bHzak9QzbEMPY2TaqOFpLHYXam9I/edit?tab=t.0#heading=h.duh2sqfz26gh)
+	- [[Simmo's October 2025 reference]]
 - Conor, April 2025
+	- [Google Doc](https://docs.google.com/document/d/1gy_Ns0tWPehuJ9NZ6LoVjIwMyLOSBT7C_dhpKnIjIFQ/edit?tab=t.0)
+	- [[Conor's April 2025 reference]]
 # References from Friends
 At the start of 2025, I wrangled with all my info and hazy memories re: previous jobs and ended up with a CV that I was really pleased with, and a much stronger sense of “oh yeah, I can totally apply for great jobs, I've done some really good stuff.”
 
