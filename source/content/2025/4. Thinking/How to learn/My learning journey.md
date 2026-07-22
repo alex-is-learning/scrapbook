@@ -22,7 +22,7 @@ tags:
 	- I think Obsidian/Roam/second brains are very... honestly, kinda dangerous - easy to become a profound waste of time
 		- I love Sasha's [Notes Against Note-Taking Systems](https://sashachapin.substack.com/p/notes-against-note-taking-systems) post for this
 ## Reference/legitimacy signal
-> "**Alex is unusually good at figuring out new things. A related strength is in organizing and communicating complex information. Not only can Alex learn things quickly, but he can distill the important bits in an intuitive and user friendly way**" - [reference from Ethan](https://docs.google.com/document/d/1mBN-iWSwoYM8zUMU25iPGs9Glgzzq3Ps1DRWEivRiFg/edit?tab=t.0)
+> "**Alex is unusually good at figuring out new things. A related strength is in organizing and communicating complex information. Not only can Alex learn things quickly, but he can distill the important bits in an intuitive and user friendly way**" - reference from Ethan Alley
 ## Recent little writeups on the topic of learning
 - Some recent scrappy posts
 	- [[My learning funnel (2025-05-27)]]

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Pre-commit hook to update content word count before committing
+# Pre-commit hook: block contact-detail leaks, then update content word count
 set -euo pipefail
 
 # Run from the repository root
@@ -7,6 +7,9 @@ ROOT=$(git rev-parse --show-toplevel 2>/dev/null || true)
 if [ -n "$ROOT" ]; then
   cd "$ROOT"
 fi
+
+# Refuse the commit if it would publish someone's phone/email
+bash scripts/pii-guard.sh
 
 # Run the update script
 bash scripts/update-wordcount.sh
