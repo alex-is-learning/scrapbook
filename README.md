@@ -2,7 +2,7 @@
 
 # Alex's Scrapbook
 
-A personal digital scrapbook/notebook/garden — live at **https://www.alexislearning.me/scrapbook**
+A personal digital scrapbook/notebook/garden — live at **https://alexanderlarge.com/scrapbook** (reverse-proxied there via the alexanderlarge.com Next.js site; this repo still deploys to GitHub Pages at alexislearning.me/scrapbook, which old links auto-forward from — see the redirect script in `quartz/components/Head.tsx`)
 
 ## What it is
 

@@ -64,6 +64,9 @@ export default (() => {
           async
           src="//gc.zgo.at/count.js"
         />
+        <script>
+          {`if (location.hostname === 'alexislearning.me') { location.replace('https://alexanderlarge.com' + location.pathname + location.search + location.hash) }`}
+        </script>
       </head>
     )
   }
