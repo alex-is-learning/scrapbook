@@ -1,6 +1,10 @@
+---
+date:
+---
+
 - [[Log per day - 2026]]
 - 2026-07-20
-
+- Published this as a [substack](https://alexanderklarge.substack.com/p/1-month-anniversary-of-a-large-company)
 # My version
 
 Hello!
