@@ -17,6 +17,9 @@ tags:
 	- [[Rob's reference]]
 - [[Misc Alvea feedback, 2023]]
 ## Co-thinking clients
+- Huw, team lead at 80,000 Hours, July 2026
+	- [Google Doc](https://docs.google.com/document/d/1MwzcKwK41O0xfsjX2eDHtqsEX6UIozVR3Mg8744BTeo/edit)
+	- [[Huw's case study]]
 - [[Ediya testimonial interview 2026-04-28]]
 
 ## April 2025 CV for [Longview Philanthropy](https://www.longview.org/)
