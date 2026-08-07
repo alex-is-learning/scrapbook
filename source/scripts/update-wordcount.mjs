@@ -36,9 +36,11 @@ const ij = (total / INFINITE_JEST).toFixed(2)
 const ootp = (total / ORDER_OF_PHOENIX).toFixed(2)
 const formatted = total.toLocaleString("en-GB")
 
-const newLine = `Hi, I'm Alex! This is my digital scrapbook - currently at ${formatted} words (AKA Infinite Jest x ${ij} or Order of the Phoenix x ${ootp}).`
+// Keeps whatever form the greeting is in (e.g. a markdown link on the name)
+// and rewrites only the count that follows.
+const newTail = ` - currently at ${formatted} words (AKA Infinite Jest x ${ij} or Order of the Phoenix x ${ootp}).`
 
-const PATTERN = /Hi, I'm Alex! This is my digital scrapbook[^\n]*/
+const PATTERN = /(Hi, I'm [^\n]*?This is my digital scrapbook)[^\n]*/
 
 const index = fs.readFileSync(INDEX_FILE, "utf-8")
 
@@ -47,5 +49,5 @@ if (!PATTERN.test(index)) {
   process.exit(1)
 }
 
-fs.writeFileSync(INDEX_FILE, index.replace(PATTERN, newLine), "utf-8")
+fs.writeFileSync(INDEX_FILE, index.replace(PATTERN, `$1${newTail}`), "utf-8")
 console.log(`Updated: ${formatted} words (IJ × ${ij}, OotP × ${ootp})`)

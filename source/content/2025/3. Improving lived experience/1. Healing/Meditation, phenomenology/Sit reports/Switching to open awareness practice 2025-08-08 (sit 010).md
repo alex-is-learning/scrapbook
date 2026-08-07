@@ -5,7 +5,7 @@ tags:
   - growth/healing
   - growth
 ---
-- [[Meditation log]]
+- [[source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Meditation log (2025)]]
 - 2025-08-08
 - 👇 sent this to my friends
 - ![[signal-2025-08-08-223440.mp3]]
@@ -21,7 +21,7 @@ tags:
 	- "[A Non-Definitive Non-Guide to Non-Duality](https://sashachapin.substack.com/p/a-non-definitive-non-guide-to-non)"
 
 ---
-- [[Meditation log]]
+- [[source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Meditation log (2025)]]
 - **Date & Time:** 
 - **Duration:** 
 - **Technique:** 

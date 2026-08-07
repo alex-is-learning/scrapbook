@@ -1,0 +1,3 @@
+- https://www.erichgrunewald.com/posts/why-i-think-you-should-almost-never-use-ai-to-write-anything-substantive/
+- ![[1786107000929.webp]]
+- Keen to think about this more - I've definitely gotten into the habit of having Claude e.g. draft emails for me and I think it's a pretty bad idea really. I think it's often subtly wrong, and doesn't even really save time (because of the need to correct it)

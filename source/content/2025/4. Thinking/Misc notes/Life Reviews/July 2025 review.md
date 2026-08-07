@@ -104,4 +104,4 @@ tags:
 2. So that I can do things like metta and not be 99% distracted
 3. So that I can enjoy things like daily metta practice
 ### "What can you do in August to really make headway on that?"
-- Keep going with my hour-long daily sit! [[Meditation log]]
+- Keep going with my hour-long daily sit! [[source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Meditation log (2025)]]

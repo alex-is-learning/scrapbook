@@ -2,6 +2,13 @@
 permalink: log-per-day
 ---
 - [[source/content/index|Home Page]]
+# August 2026
+- 2026-08-07
+	- [[1 Home Page 🏠 (meditation with Roger Thisdell)]]
+	- [[Not using AI to write (blog post by Erich)]]
+- 2026-08-05
+	- [[Ways in which I'm lucky (30th birthday edition)]]
+	- [[Vibes wall]]
 # July 2026
 - 2026-07-20
 	- [[Letter to shareholders 001]]

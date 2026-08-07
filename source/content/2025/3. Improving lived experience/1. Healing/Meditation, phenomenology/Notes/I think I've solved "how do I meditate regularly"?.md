@@ -21,4 +21,4 @@ tags:
 - This seems to solve problem 1, which is like "I know 1 hour sits are kind of the ideal length, and I can do them when on a retreat or in a cohort, but I can't do them solo"
 - Now I can! 
 - Now it's just a case of doing them daily. Because I wrote [[Should I meditate regularly? (2025-07-20)]], I still feel consensus to meditate → I have internal alignment re: the profundity. So, this currently feels like a solved thing → I want to do it daily, I have a good accountability mechanism, boom
-- I also have [[Meditation log]] to show that I've meditated daily
+- I also have [[source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Meditation log (2025)]] to show that I've meditated daily

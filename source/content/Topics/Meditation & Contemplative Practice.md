@@ -39,7 +39,7 @@ tags:
 - [[Skillful vs Unskillful Mind]]
 - [[The fetters model]]
 - [[Weakening fetters 4 and 5]]
-- [[Increasing the skillfulness of my mind, log (2025)]]
+- [[source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Meditation log (2025)]]
 - [[Kensho]]
 
 ## 2025-08

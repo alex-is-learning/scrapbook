@@ -15,5 +15,5 @@ tags:
 - [[Skillful vs Unskillful Mind]]
 - [[Ridiculousness audits]]
 ## 2. Take actions
-- [[Increasing the skillfulness of my mind, log (2025)]]
+- [[source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Meditation log (2025)]]
 - [["How do I look after my body?"]]

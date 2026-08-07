@@ -7,7 +7,7 @@ tags:
   - growth/healing
   - growth
 ---
-- [[Increasing the skillfulness of my mind, log (2025)]]
+- [[source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Meditation log (2025)]]
 - **Date & Time:** Sat 2025-08-02 21:30 
 - **Duration:** 1 hour
 - **Technique:** [[Ānāpānasati (Anapanasati)]]

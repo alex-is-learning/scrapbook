@@ -6,6 +6,6 @@ tags:
   - thinking/learning
   - thinking/epistemology
 ---
-- 2025-08-06 just saw this (6 minute old, lol) tweet → so true! I really like having e.g. [[Meditation log]] and [[Log per day - 2026]]
+- 2025-08-06 just saw this (6 minute old, lol) tweet → so true! I really like having e.g. [[source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Meditation log (2025)]] and [[Log per day - 2026]]
 - ![[Daily progress updates, streaks.webp]]
 - ☝️ https://x.com/justinskycak/status/1953078615043915980

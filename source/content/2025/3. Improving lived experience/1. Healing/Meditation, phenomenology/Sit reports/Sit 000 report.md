@@ -7,7 +7,7 @@ tags:
   - growth
 ---
 
-- [[Meditation log]]
+- [[source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Meditation log (2025)]]
 - Calling this sit 0 because it's pre-me locking in a proper routine
 - **Date & Time:** Monday 2025-07-21, 08:15
 - **Duration:** 20 minutes 

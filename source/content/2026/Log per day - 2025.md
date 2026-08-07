@@ -194,7 +194,7 @@ date: 2026-01-29
 	- [[NVC flashcards]]
 	- [[Should I meditate regularly? (2025-07-20)]]
 	- [[Gilman Equation]]
-	- [[Meditation log]]
+	- [[source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Notes/Meditation log (2025)]]
 - Fri 2025-07-18
 	- [[Setting a contractor fee for Outcapped]]
 	- [[Current family project open questions]]

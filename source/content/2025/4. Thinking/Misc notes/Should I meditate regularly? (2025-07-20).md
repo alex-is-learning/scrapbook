@@ -6,7 +6,7 @@ tags:
 ---
 - 2025-07-20
 - Outcome of writing this → I've convinced myself to give it a proper go! 
-	- [[Increasing the skillfulness of my mind, log (2025)]]
+	- [[source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Meditation log (2025)]]
 # 1. My meditation journey so far
 - [[My meditation journey so far (2025-07-20)]]
 

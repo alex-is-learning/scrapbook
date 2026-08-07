@@ -5,7 +5,7 @@ tags:
   - growth/healing
   - growth
 ---
-- [[Increasing the skillfulness of my mind, log (2025)]]
+- [[source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Meditation log (2025)]]
 - **Date & Time:** 22:20
 - **Duration:** 20 mins
 - **Technique:** [[Visual deconstruction via eye gazing and verbal debugging]]

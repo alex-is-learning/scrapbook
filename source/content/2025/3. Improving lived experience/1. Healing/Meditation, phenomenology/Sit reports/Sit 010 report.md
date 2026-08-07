@@ -5,7 +5,7 @@ tags:
   - growth/healing
   - growth
 ---
-- [[Increasing the skillfulness of my mind, log (2025)]]
+- [[source/content/2025/3. Improving lived experience/1. Healing/Meditation, phenomenology/Meditation log (2025)]]
 - Eye gazing in the mirror leading to visual deconstruction, hell yeah
 - 30 mins
 - Technique - [[Visual deconstruction via eye gazing and verbal debugging]]
