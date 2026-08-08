@@ -1,12 +1,26 @@
-# Benefits from our intro call
+# Week of 2026-08-03
+## Sit 03 - 30 mins, day 3
+1. Date: Sat 8th August
+2. Time: 11am (calendar slot w/ gf)
+3. Length: 30 mins
+4. Technique: open awareness, Charlie Awbery/Sashin Chapin style
+5. Why this technique? 
+	- I like it
+6. What happened?
+	- Had some good moments of letting things go
+	- Had a lot of mind wandering, especially thinking about my various ~entrepreneurial endeavours atm, mind-wandering trying to figure out xyz ("oh shit i need to email x, maybe I should change my approach re: y" etc)
+	- Lots of forearm tension
+	- Some visual deconstruction
+	- 30 mins flew by and I definitely could have done more
+## Benefits from our intro call
 - Thanks to our intro call:
 	- I now have a 30 min daily slot in calendar to meditate daily w/ gf
 	- Doubt named as main hindrance, which totally resonates
 	- Saying my reasons for not meditating out loud to an expert helped see just how silly they are. When they're semi-unconsciously just running the show (like, being blended with a part), they feel very valid and lead to aversion to meditating, but when you shine a light on them with another person present, it's clear how silly they are
 		- E.g. fear of wasting time → but look at all the time I've wasted watching e.g. parasocial kpop videos recently
-# Sit 02 - 30 mins, day 2
+## Sit 02 - 30 mins, day 2
 1. Date: Fri 7th August
-2. Time: 11am
+2. Time: 11am (calendar slot w/ gf)
 3. Length: 30 mins (but got pretty sleepy for last 10)
 4. Technique: anapanasati 
 5. Why this technique? 
@@ -22,9 +36,9 @@
 10. What I want to try next
 11. Questions for Roger
 12. Doubt / churn (if you're keeping it public)
-# Sit 01 - 30 mins, day 1
+## Sit 01 - 30 mins, day 1
 - Date: Thursday 6th August
-- Time: 11am
+- Time: 11am (calendar slot w/ gf)
 - Length: 30 mins
 - Technique: Eyes-open open awareness (~Charlie Awbery "[Opening Awareness](https://www.amazon.com/dp/B0CL5QH5DV?lv=shuf&channelId=500&plpRedirect=mhFallback)" style)
 - What happened:
@@ -42,9 +56,8 @@
 4. Technique:
 5. Why this technique? 
 6. What happened?
-7. Where it stuck
+7. Where it got stuck
 8. Learned since last entry
 9. Assume I'm making a mistake — what is it?
 10. What I want to try next
 11. Questions for Roger
-12. Doubt / churn (if you're keeping it public)
