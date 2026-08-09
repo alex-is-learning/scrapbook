@@ -26,3 +26,10 @@ date:
 5. Meditate 5 days/week w/ Roger
 6. Meditate daily w/ gf
 7. Tweet about the experience as I go to get more positive feedback
+# 05 - What do I want from the year? 
+- My framing is something like this: 
+- I was recommended the book "Saints & Psychopaths" by Bill Hamilton (Daniel Ingram's mentor), with a name that the Saints section describes what enlightened people are like
+- I like the idea of Psychopath → Saint as a continuum of ~goodness
+- And I feel like I'm pretty saint-like with my gf, in large part thanks to Kensho
+- BUT I'm still a little shit to my family, who I find wildly frustrating. If you asked them if it seems like I've been on a "post-rationalist healing arc" they'd be like "idk if anything he's more rude and impatient now than before"
+- My Dad is now 70, my Mum is 66. I'd like to be able to be nicer to them! And the rest of my family too

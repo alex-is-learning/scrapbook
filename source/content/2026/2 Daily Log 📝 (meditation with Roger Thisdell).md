@@ -1,4 +1,26 @@
 # Week of 2026-08-03
+## Sit 04 - 30 mins, day 4
+1. Date: Sunday 9th August
+2. Time: 09:00
+3. Length: 30 mins
+4. Technique: Anapanasati 
+5. Why this technique?
+	- Working on my concentration (which is dreadful)
+6. What happened?
+	- Brought attention back to nostrils a few times, but was mind-wandering a lot
+## Frickin float tank
+- Me and gf went to a float tank spa in Lisbon 😎 
+- This kinda vibe
+	- ![[1786265027018.webp]]
+- It was cool! My mistaken impression from hearing second hand about how Joe Rogan explained it like 10 years ago (lol) was that you end up just like, astral projecting b/c it's total sensory deprivation... this seems dumb in retrospect b/c I was ofc still aware that I had a body etc
+- I'd love to return once I have better shamatha (samadhi? never know the difference)
+- I did some open awareness practice, and I managed like 10 seconds of quite nice "I'm so lucky!" practice before getting distracted (RIP)
+## Misc thoughts
+### Time neuroticism
+- W/r/t my time neuroticism, I noticed this morning feeling a lot of constriction at the idea of needing to trim my beard
+- This also happens when I think about stretching
+- There's a genuine ~catastrophising feeling of "oh god oh god oh god no time waste of time", it feels doomy/panicky
+- Have been this way for years but I think being low on money & stability makes it worse
 ## Sit 03 - 30 mins, day 3
 1. Date: Sat 8th August
 2. Time: 11am (calendar slot w/ gf)
