@@ -1,4 +1,15 @@
-# Week of 2026-08-03
+# 2 - Week of 2026-08-10
+- *First real week!*
+## Monday morning call 
+- 7am 
+- *Details to come*
+- 
+## Sit 01 - before call
+- Woke up at 5am because god knows why
+- Did 45 min yoga with Kassandra vid (so good), then forearm stretches, then 15 mins open awareness w/ eyes open
+- *Details to come*
+# 1 - Week of 2026-08-03
+- *Started on Thursday, intro call & some sits*
 ## Sit 04 - 30 mins, day 4
 1. Date: Sunday 9th August
 2. Time: 09:00
