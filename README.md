@@ -36,6 +36,8 @@ npx quartz build --serve
 
 `RecentNotes` in `source/quartz.layout.ts` filters and sorts on the `date:` frontmatter field **only** — Quartz's own created/modified dates are useless here, because CI clones the repo fresh and every file's filesystem date is the clone time. So **an undated note can never appear in the sidebar**, and it fails silently: the build stays green, the rest of the page keeps updating, and the sidebar just stops moving.
 
+A bare `date:` with no value counts as undated too — it parses to null, which the filter drops exactly like a missing field. The stamper fills such a key in place rather than appending a second one.
+
 Two things keep it honest: the `pre-commit` hook stamps notes as they are added, and the deploy job re-runs the stamper from git history before building, so a `--no-verify` commit cannot publish an undated note. `content/2025/` is deliberately left unstamped — its git history only records the bulk import, so any date it produced would be wrong.
 
 Before believing the site is stale, read the word count on the home page. It changes on nearly every commit, so it dates the page you are looking at; GitHub Pages sends `max-age=600` and Quartz is an SPA, so a long-open tab can be many hours behind.
