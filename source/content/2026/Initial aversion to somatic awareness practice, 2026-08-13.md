@@ -54,11 +54,13 @@ date: 2026-08-13
 # 22:44 update → I did it and it was good! 
 *Dictated to Claude, transcribed and organised below.*
 
+- Below is therefore not super super trustworthy → I dislike how Claude writes and it may make stronger claims than intended. But probably 80% right, definitely "directionally correct"
 ## The turn: "maybe I just have alexithymia"
-- Going in, I was half-drafting a message to Roger in my head: *I think I just need to come out as having alexithymia.* Like I genuinely don't have sensations in my body.
-- I was reaching for other maps that say the same thing — Taurus moon, an Enduro/Endura archetype, human design saying I have an empty heart space. All made-up, but I think the maps point at a territory, and the territory looked empty.
+- Going in, for the first 5-10 mins of the meditation, I was half-drafting a message to Roger in my head: *I think I just need to come out as having alexithymia.* Like I genuinely don't have many sensations in my body.
+- I was reaching for other maps that say the same thing — Taurus moon, an endurer archetype, human design saying I have an empty heart space. All made-up, but I think the maps point at a territory, and the territory looked empty.
 - Then: **well, let's just look a bit closer. Maybe what I'm doing is expecting it to be really big and obvious.**
 - That was the move. Once I dropped the size requirement, there was a bunch of subtle stuff.
+	- *Alex sidebar, man I hate how Claude writes*
 
 ## What I actually found (and it wasn't just sounds)
 Yesterday I only caught it for sounds. Tonight, across several sense doors:
