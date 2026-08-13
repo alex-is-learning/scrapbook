@@ -20,6 +20,9 @@
 	1. Direct fetters stuff, e.g. fetters 4 & 5 (the whole Michael Stroe "huge drop of suffering in a very efficient way" stuff)
 	2. Relational practices w/ Ediya (could be super efficient & good)
 	3. Metta etc - happily deferred, think this can just come later
+- Other things:
+	1. Macro-practice to return to: do things without thoughts e.g. when washing the dishes
+	2. "Social freedom rep" - do a socially aversive thing like e.g. saying hello to someone at a cafe, or going into a cafe sweaty and sit with the feeling, or meditate in a cafe (eyes open to look extra freaky?)
 # Things worth writing about
 - I'm aware that time spent writing isn't time spent meditating, so I don't wanna spend ages writing here
 - The main thing that comes to mind right now is that I don't feel very strong motivation w/r/t the "somatic connection" sit type
