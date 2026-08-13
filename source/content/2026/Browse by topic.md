@@ -1,3 +1,6 @@
+---
+date: 2026-08-07
+---
 - *Not updated, I had claude populate these once based on stuff I've written, so will be out of date*
 - 😎 [Consensus-ism](https://alexislearning.me/consensusism/) — the framework that changed my life *(external site)*
 - 🧠 [[Topics/Thinking & Epistemology|Thinking & Epistemology]] 

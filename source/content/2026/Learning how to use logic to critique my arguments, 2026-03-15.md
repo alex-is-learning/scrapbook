@@ -1,3 +1,6 @@
+---
+date: 2026-03-15
+---
 - I just attempted to make a logically valid/sound argument in my new "canonical" website, and realised that I just *can't* yet, I'm way off, I'm absolutely brand new
 - I need to learn the nuts and bolts, and get reps in the basics, before I can use this to critique my own thinking in a rigorous way
 

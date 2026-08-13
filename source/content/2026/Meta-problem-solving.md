@@ -1,3 +1,6 @@
+---
+date: 2026-05-21
+---
 - 2026-05-22
 - I really like the framing I landed on below of "==having a problem about how your handle your problems==". 
 - This is the meta problem, or perhaps, meta-problem-solving. 

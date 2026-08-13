@@ -1,3 +1,6 @@
+---
+date: 2026-03-29
+---
 <https://dorian.substack.com/p/at-any-given-moment-in-a-process>
 
 # Nuggets

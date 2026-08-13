@@ -1,3 +1,6 @@
+---
+date: 2026-08-07
+---
 - https://www.rogerthisdell.com/
 - https://x.com/RogerThisdell
 - [[1 Home Page 🏠 (meditation with Roger Thisdell)]]

@@ -2,6 +2,7 @@
 tags:
   - social
   - social
+date: 2026-03-12
 ---
 - 2026-03-12
 - A friend just shared this Google Doc

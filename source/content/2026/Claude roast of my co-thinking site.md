@@ -1,3 +1,6 @@
+---
+date: 2026-05-18
+---
 - See [[Are my business offerings dumb? 2026-05-18]]
 
 Mr. Large. Sit down. Close the door.

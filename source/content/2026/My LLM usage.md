@@ -1,3 +1,6 @@
+---
+date: 2026-05-24
+---
 - ![[1779884638053.webp]]
 # What I've built
 ## Software

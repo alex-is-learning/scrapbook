@@ -1,3 +1,6 @@
+---
+date: 2026-07-22
+---
 - [[Feedback, references]]
 - [Original Google Doc](https://docs.google.com/document/d/10dW1QWqK-GtL1IY1VjoSEpV0MOqHaScsPNIONNcmy6E/edit?tab=t.0)
 - Robert Bölkow, Head of Operations at Alvea, Jan 2023

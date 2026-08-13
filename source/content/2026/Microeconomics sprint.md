@@ -3,6 +3,7 @@ title: Microeconomics sprint
 flashcards: 175
 updated: 2026-05-18 12:46
 source: Anki deck "Microeconomics"
+date: 2026-05-14
 ---
 # Microeconomics sprint
 - (getting claude to populate this page retroactively)

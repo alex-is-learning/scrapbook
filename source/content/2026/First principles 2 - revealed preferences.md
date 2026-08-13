@@ -1,3 +1,6 @@
+---
+date: 2026-03-14
+---
 - From [[Alex and Simmo doing first principles thinking, 2026-03-14]] 
  
 > **What do you actually do, vs what do you say you value?** Revealed preferences are more honest than stated preferences. We could look at how you actually spend your time and energy and reverse-engineer what that implies about what you care about.

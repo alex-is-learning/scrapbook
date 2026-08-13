@@ -2,6 +2,7 @@
 tags:
   - growth/meditation
   - growth/contemplative-practice
+date: 2026-02-03
 ---
 - See also [[Jhana 2]]
 # What Jhourney say about Jhana 1

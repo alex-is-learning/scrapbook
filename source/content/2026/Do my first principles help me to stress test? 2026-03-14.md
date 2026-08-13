@@ -1,3 +1,6 @@
+---
+date: 2026-03-14
+---
 - [[Alex and Simmo doing first principles thinking, 2026-03-14]]
 - Also [[Draft of first principles, 2026-03-14]]
 

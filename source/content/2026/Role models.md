@@ -1,3 +1,6 @@
+---
+date: 2026-03-24
+---
 - Similar to [[First principles 4 - people you admire, and what they do differently?]]
 # Career role models
 - People from Alvea who were great:

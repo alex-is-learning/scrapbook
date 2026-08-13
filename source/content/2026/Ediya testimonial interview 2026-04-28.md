@@ -1,3 +1,6 @@
+---
+date: 2026-04-28
+---
 - After a 2-week co-thinking sprint
 # 1 - what were you stuck in?
 - I've been struggling with my brand philosophy and that's the main thing that's held me back

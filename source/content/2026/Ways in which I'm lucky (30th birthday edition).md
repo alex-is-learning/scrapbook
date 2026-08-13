@@ -1,5 +1,6 @@
 ---
 created: 2026-08-05
+date: 2026-08-05
 ---
 - [[Log per day - 2026]]
 - It's my 30th birthday today 😎

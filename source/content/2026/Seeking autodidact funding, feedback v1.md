@@ -1,3 +1,6 @@
+---
+date: 2026-03-28
+---
 This is a good raw starting point — you've got the core ingredients, they just need reorganising and filling out. Here are my thoughts.
 
 **Suggested structure**

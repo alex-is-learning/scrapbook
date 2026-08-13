@@ -28,4 +28,6 @@ npx quartz build --serve
 ## Scripts
 
 - `scripts/update-wordcount.sh` — updates the word count displayed on the homepage
-- `scripts/install-git-hooks.sh` — installs git hooks (runs word count update pre-commit)
+- `scripts/stamp-dates.sh` — adds `date:` frontmatter to notes added in the current commit (the Recent notes sidebar shows dated notes only)
+- `scripts/install-git-hooks.sh` — installs git hooks (pre-commit: PII guard, date stamp, word count)
+- `source/scripts/stamp-dates.mjs` — the date stamper. `--staged` for the hook, no flag to backfill `content/2026`, `--all` for all of `content/`, `--dry-run` to preview. Date comes from a date in the filename, else the day the note is listed under in `Log per day - <year>.md`, else the day git first saw the file (today, for a new file).

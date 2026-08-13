@@ -2,6 +2,7 @@
 tags:
   - growth/meditation
   - growth/contemplative-practice
+date: 2026-02-03
 ---
 # What Jhourney say about Jhana 2
 - The second jhana is defined by a shift from the physical "explosiveness" of the first jhana to a state where the practitioner approaches experience with deep gratitude and love. It is described as one of the four "flavours of friendliness" brought to meditation.

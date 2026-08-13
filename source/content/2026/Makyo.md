@@ -1,3 +1,6 @@
+---
+date: 2026-03-23
+---
 - [[Jed McKenna]]
 - Excerpt from Jed McKenna's *AMAZING (!!!)* book [Spiritual Enlightenment, the Damnedest Thing](https://www.amazon.co.uk/Spiritual-Enlightenment-Damnedest-Thing-Trilogy/dp/0980184843/ref=sr_1_1?adgrpid=187478381898&dib=eyJ2IjoiMSJ9.ApDpynHoyJSbXsoJWoO412buM4TrDS1xE2Yfhjhb-5OlbMS4BP0zIjfB4549-7v2PwifPQXnO3xuI8-yoLaI4okcXXCEp4eZe4aNXQvsqFCM9mxc0hRVM86jnefHvHYjfjhVXfWPX83H0LLpqJDlg2HMyGM3R_KITuSlrIcbpim41LLKRg7mLJVeqJ4fbdkxJRaMu34KVAkd7o-2k77V3Ksw2e1ylhXMhpqxHVClz7A.5R57--YAd2oRf6ljUi9WxODP6vd0JbCzbv3Uo4LlsOE&dib_tag=se&gad_source=1&hvadid=793401954456&hvdev=c&hvexpln=0&hvlocphy=1006532&hvnetw=g&hvocijid=1767887941341385655--&hvqmt=e&hvrand=1767887941341385655&hvtargid=kwd-920476360940&hydadcr=24405_2435396_1610&keywords=the+damnedest+thing&mcid=b204ade7a9593d52b598c04b08c7498d&qid=1774256181&sr=8-1)
 - I love the book covers. When I was first recommended Jed, I was so baffled by the website, now I love it, lol

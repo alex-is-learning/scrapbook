@@ -1,3 +1,6 @@
+---
+date: 2026-05-21
+---
 - From [[A B U]]
 
 - The "A ceiling" is your frontier

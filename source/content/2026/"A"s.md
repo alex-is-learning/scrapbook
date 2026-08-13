@@ -1,3 +1,6 @@
+---
+date: 2026-01-31
+---
 - From [[A B U]]
 
 - **A** - “true & useful, AND new to me”

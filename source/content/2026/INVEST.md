@@ -1,3 +1,6 @@
+---
+date: 2026-03-24
+---
 ## INVEST Criteria
 
 INVEST is a checklist for writing good **tasks** in Agile project management. Each letter describes a quality that a well-defined task should have.

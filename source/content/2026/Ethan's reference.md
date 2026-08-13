@@ -1,3 +1,6 @@
+---
+date: 2026-07-22
+---
 - [[Feedback, references]]
 - [Original Google Doc](https://docs.google.com/document/d/1mBN-iWSwoYM8zUMU25iPGs9Glgzzq3Ps1DRWEivRiFg/edit?tab=t.0)
 - Ethan Alley, co-founder of Alvea, Jan 2023 

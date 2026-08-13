@@ -1,3 +1,6 @@
+---
+date: 2026-02-21
+---
 - Copy-pasted from [[Getting back to Deep Okayness (vs Out-There-ism) (2026-02-14)]]
 
 - A mentor told me about this a few days ago

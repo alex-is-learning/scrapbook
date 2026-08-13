@@ -1,3 +1,6 @@
+---
+date: 2026-03-14
+---
 > **What would you need to say no to right now?** You mentioned wanting principles partly to be able to say no. That's really practical. If you told me what's currently on your plate and what you're considering, we could work backwards from the decisions you're facing rather than forward from abstract values.
 
 ## Initial brain dump - what to say "no" to

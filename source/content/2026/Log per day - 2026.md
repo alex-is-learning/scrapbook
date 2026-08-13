@@ -1,5 +1,6 @@
 ---
 permalink: log-per-day
+date: 2026-03-12
 ---
 - [[source/content/index|Home Page]]
 # August 2026

@@ -1,3 +1,6 @@
+---
+date: 2026-05-03
+---
 # Meeting Her Kazakh Mother: A Practical Cultural Guide
 
 ---

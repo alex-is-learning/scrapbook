@@ -1,3 +1,6 @@
+---
+date: 2026-08-10
+---
 [[2 Daily Log 📝 (meditation with Roger Thisdell)]]
 
 - Ok it's Thursday morning, I haven't been populating this

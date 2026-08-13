@@ -1,3 +1,6 @@
+---
+date: 2026-03-23
+---
 - I love his enlightenment trilogy so much!!!
 - Concepts (ironic)
 	- [[Makyo]]

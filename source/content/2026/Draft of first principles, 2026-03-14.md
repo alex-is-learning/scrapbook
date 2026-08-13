@@ -1,3 +1,6 @@
+---
+date: 2026-03-14
+---
 - [[Alex and Simmo doing first principles thinking, 2026-03-14]]
 
 Based on the patterns, we try to articulate maybe ==3-5 things that seem genuinely stable and action-relevant==. Not a grand philosophical system. More like: "==here's what I actually care about==, stated plainly enough that it could help me make a decision next week."

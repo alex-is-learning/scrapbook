@@ -1,3 +1,6 @@
+---
+date: 2026-07-22
+---
 Reference for Alexander Large 10 April 2025.
 
 I previously worked as Head of Coaching at Effective Thesis (an EA organisation). I’ve been a part of a productivity group that Alex set up for 7 weeks now. This group has led to significant increases in focus, strategic thinking, and prioritisation for myself and other team members. For example, having accountability structures, spaces for strategic thinking, group prediction markets, and divisions of planning and action have helped us focus on our highest priorities. 

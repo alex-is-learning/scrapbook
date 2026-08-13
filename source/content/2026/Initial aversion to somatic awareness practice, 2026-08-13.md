@@ -1,4 +1,9 @@
+---
+date: 2026-08-13
+---
 - [[Meditation week 1 log (week of 2026-08-10)]]
+
+> Update - Roger read this and replied with some useful stuff → I'm not gonna publish his messages to me here ofc, just note to self
 # The practice
 0. Settle in, some deeper regulating breaths (waking up + relaxing). Set intention to do the meditation well.
 1. Body scan — become familiar with sensations throughout the body (look for blind spots, hover on those, try to fill them in)

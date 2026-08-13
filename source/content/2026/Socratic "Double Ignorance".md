@@ -1,3 +1,6 @@
+---
+date: 2026-03-24
+---
 ## Excerpts from Ward Farnsworth's (amazing) book "The Socratic Method: A Practitioner's Handbook"
 > Plato comes back to this idea repeatedly. "Ignorance … may be conveniently divided by the legislator into two sorts: there is simple ignorance, which is the source of lighter offences, and double ignorance, which is accompanied by a conceit of wisdom; and he who is under the influence of the latter fancies that he knows all about matters of which he knows nothing. This second kind of ignorance, when possessed of power and strength, will be held by the legislator to be the source of great and monstrous crimes, but when attended with weakness, will only result in the errors of children and old men.”
 

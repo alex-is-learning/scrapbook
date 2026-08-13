@@ -11,6 +11,9 @@ fi
 # Refuse the commit if it would publish someone's phone/email
 bash scripts/pii-guard.sh
 
+# Stamp `date:` frontmatter on notes added in this commit
+bash scripts/stamp-dates.sh
+
 # Run the update script
 bash scripts/update-wordcount.sh
 

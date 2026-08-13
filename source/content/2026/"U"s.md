@@ -1,3 +1,6 @@
+---
+date: 2026-01-31
+---
 - [[A B U]]
 
 - **U** - “unclear, undefined, unknowable, or untrue”

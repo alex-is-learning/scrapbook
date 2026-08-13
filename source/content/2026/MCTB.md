@@ -2,6 +2,7 @@
 tags:
   - growth/meditation
   - growth/contemplative-practice
+date: 2026-02-03
 ---
 - Mastering the Core Teachings of the Buddha by Daniel Ingram
 	- [Link](https://www.integrateddaniel.info/book)

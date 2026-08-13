@@ -1,3 +1,6 @@
+---
+date: 2026-05-21
+---
 - *From [[A B U gifs, maladaptive Bs, and Kegan's "Immunity to Change"]]*
 
 ## An A maturing to be B

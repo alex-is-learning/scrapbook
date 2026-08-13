@@ -1,3 +1,6 @@
+---
+date: 2026-06-17
+---
 - [[Log per day - 2026]]
 - 2026-06-17
 - This stuff has been percolating in my brain for a while now! 

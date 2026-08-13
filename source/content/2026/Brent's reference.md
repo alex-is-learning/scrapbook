@@ -1,3 +1,6 @@
+---
+date: 2026-07-22
+---
 - [[Feedback, references]]
 - [Original Google Doc](https://docs.google.com/document/d/167F1KqTOYolQXr6eVGlFZMv9yrNxJHaLsoQ3Js8VJtI/edit?tab=t.0)
 - Brent Baumgartner, founder of Refract, March 2025 

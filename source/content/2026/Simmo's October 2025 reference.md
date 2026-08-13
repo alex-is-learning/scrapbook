@@ -1,3 +1,6 @@
+---
+date: 2026-07-22
+---
 # Why I Like Alex Large
 
 Wrote these notes to leave a voice note but I think this is probably as good:

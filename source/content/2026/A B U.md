@@ -1,5 +1,6 @@
 ---
 title: The A/B/U framework
+date: 2026-01-31
 ---
 - Simple-but-profound framework[^1] that I really like! From [[ORI]], the Open Research Institute (really from DefenderofBasic, the main guy)
 ## My writings about A/B/U

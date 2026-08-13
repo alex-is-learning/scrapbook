@@ -1,3 +1,6 @@
+---
+date: 2026-08-03
+---
 - [[2 Daily Log 📝 (meditation with Roger Thisdell)]]
 - *Started on Thursday, intro call & some sits*
 ## Sit 01 - 30 mins, day 1

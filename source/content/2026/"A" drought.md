@@ -1,3 +1,6 @@
+---
+date: 2026-08-13
+---
 - [[A B U]]
 - ![[1769958997530.webp]]
 # From 2026-01-31 [[Why A B U is so useful for me]]:
