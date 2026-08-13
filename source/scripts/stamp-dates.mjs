@@ -61,18 +61,27 @@ function buildLogMap() {
   return map
 }
 
+// A bare `date:` with no value parses to null, which the sidebar filters out
+// exactly like a missing field, so it does not count as dated.
+const EMPTY_DATE = /^date:[ \t]*$/m
+
 function hasDate(raw) {
   if (!raw.startsWith("---")) return false
   const end = raw.indexOf("\n---", 3)
   if (end === -1) return false
-  return /^date:/m.test(raw.slice(4, end))
+  const fm = raw.slice(4, end)
+  return /^date:/m.test(fm) && !EMPTY_DATE.test(fm)
 }
 
 function injectDate(raw, dateStr) {
   if (!raw.startsWith("---")) return `---\ndate: ${dateStr}\n---\n${raw}`
   const end = raw.indexOf("\n---", 3)
   if (end === -1) return `---\ndate: ${dateStr}\n---\n${raw}`
-  return `---\n${raw.slice(4, end)}\ndate: ${dateStr}${raw.slice(end)}`
+  const fm = raw.slice(4, end)
+  if (EMPTY_DATE.test(fm)) {
+    return `---\n${fm.replace(EMPTY_DATE, `date: ${dateStr}`)}${raw.slice(end)}`
+  }
+  return `---\n${fm}\ndate: ${dateStr}${raw.slice(end)}`
 }
 
 // macOS is case-insensitive, so a file on disk can differ in case from the path

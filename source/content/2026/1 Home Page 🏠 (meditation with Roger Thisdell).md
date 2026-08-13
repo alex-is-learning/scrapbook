@@ -1,5 +1,5 @@
 ---
-date:
+date: 2026-08-07
 ---
 - [[Log per day - 2026]]
 - Ok here we go! 
