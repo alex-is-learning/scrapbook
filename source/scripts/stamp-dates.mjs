@@ -75,9 +75,26 @@ function injectDate(raw, dateStr) {
   return `---\n${raw.slice(4, end)}\ndate: ${dateStr}${raw.slice(end)}`
 }
 
-function gitAddDate(file) {
+// macOS is case-insensitive, so a file on disk can differ in case from the path
+// git tracks. git log against the disk spelling then finds nothing.
+let trackedByLower = null
+function gitPath(file) {
   const rel = path.relative(REPO_ROOT, file)
-  const out = git("log", "--diff-filter=A", "--format=%ad", "--date=short", "-1", "--", rel).trim()
+  if (!trackedByLower) {
+    trackedByLower = new Map(
+      git("ls-files", "-z")
+        .split("\0")
+        .filter(Boolean)
+        .map((p) => [p.toLowerCase(), p]),
+    )
+  }
+  return trackedByLower.get(rel.toLowerCase()) ?? rel
+}
+
+function gitAddDate(file) {
+  const out = git(
+    "log", "--diff-filter=A", "--format=%ad", "--date=short", "-1", "--", gitPath(file),
+  ).trim()
   return out.split("\n").pop() || null
 }
 
