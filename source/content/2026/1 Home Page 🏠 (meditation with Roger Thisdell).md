@@ -3,7 +3,7 @@ date:
 ---
 - [[Log per day - 2026]]
 - Ok here we go! 
-- I'm planning on doing an intensive £850 month w/ [[Roger Thisdell]] 
+	- I'm planning on doing an intensive £850 month w/ [[Roger Thisdell]] 
 - Other main pages:
 	- [[2 Daily Log 📝 (meditation with Roger Thisdell)]]
 	- [[3 Standing Context Note 🫡 (meditation with Roger Thisdell)]]
