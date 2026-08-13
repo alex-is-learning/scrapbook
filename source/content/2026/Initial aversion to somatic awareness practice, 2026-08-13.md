@@ -48,3 +48,8 @@ date: 2026-08-13
 ![[1786603962604.webp]]
 - I guess it doesn't feel like Roger's open awareness practice does anything about this yet, it's just noticing somatics, which feels less direct/satisfying. But I guess he will have recommended this over more direct stuff for a reason? Or can we skip ahead? That's my open question right now
 	- " [Romeo Stevens](https://neuroticgradientdescent.blogspot.com/2020/01/mistranslating-buddha.html?m=1) suggests translating the original Pali term as “fused to,” “grasping,” or “clenching,” and that the mind is trying to make sensations feel [stable, satisfactory, and controllable](https://twitter.com/RomeoStevens76/status/1640981262751121408?s=20)." - I guess the somatic meditation is noticing how e.g. I'm "fused to" the sound of the AC?
+
+---
+
+# 22:44 update → I did it and it was good! 
+- Gonna dictate to Claude as it's late and I cba to type
