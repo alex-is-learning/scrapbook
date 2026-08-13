@@ -30,4 +30,12 @@ npx quartz build --serve
 - `scripts/update-wordcount.sh` — updates the word count displayed on the homepage
 - `scripts/stamp-dates.sh` — adds `date:` frontmatter to notes added in the current commit (the Recent notes sidebar shows dated notes only)
 - `scripts/install-git-hooks.sh` — installs git hooks (pre-commit: PII guard, date stamp, word count)
-- `source/scripts/stamp-dates.mjs` — the date stamper. `--staged` for the hook, no flag to backfill `content/2026`, `--all` for all of `content/`, `--dry-run` to preview. Date comes from a date in the filename, else the day the note is listed under in `Log per day - <year>.md`, else the day git first saw the file (today, for a new file).
+- `source/scripts/stamp-dates.mjs` — the date stamper. `--staged` for the hook, no flag to backfill the current year's folder, `--all` for all of `content/`, `--dry-run` to preview. Date comes from a date in the filename, else the day the note is listed under in `Log per day - <year>.md`, else the day git first saw the file (today, for a new file).
+
+## Gotcha: the Recent notes sidebar
+
+`RecentNotes` in `source/quartz.layout.ts` filters and sorts on the `date:` frontmatter field **only** — Quartz's own created/modified dates are useless here, because CI clones the repo fresh and every file's filesystem date is the clone time. So **an undated note can never appear in the sidebar**, and it fails silently: the build stays green, the rest of the page keeps updating, and the sidebar just stops moving.
+
+Two things keep it honest: the `pre-commit` hook stamps notes as they are added, and the deploy job re-runs the stamper from git history before building, so a `--no-verify` commit cannot publish an undated note. `content/2025/` is deliberately left unstamped — its git history only records the bulk import, so any date it produced would be wrong.
+
+Before believing the site is stale, read the word count on the home page. It changes on nearly every commit, so it dates the page you are looking at; GitHub Pages sends `max-age=600` and Quartz is an SPA, so a long-open tab can be many hours behind.
