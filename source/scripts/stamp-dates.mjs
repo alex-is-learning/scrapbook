@@ -116,8 +116,11 @@ function targets() {
       .map((f) => path.join(REPO_ROOT, f))
       .filter((f) => fs.existsSync(f))
   }
-  const root = ALL ? CONTENT_DIR : path.join(CONTENT_DIR, "2026")
-  return walk(root)
+  // The archive folders were written before this script existed and their git
+  // history only records the import, so only the current year is backfilled.
+  if (ALL) return walk(CONTENT_DIR)
+  const currentYear = path.join(CONTENT_DIR, String(new Date().getFullYear()))
+  return fs.existsSync(currentYear) ? walk(currentYear) : []
 }
 
 const logMap = buildLogMap()

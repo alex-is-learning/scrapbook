@@ -59,6 +59,14 @@ jobs:
         with:
           node-version: 20
 
+      # The pre-commit hook stamps `date:` on new notes, but a commit made with
+      # --no-verify (or by a tool that skips hooks) would ship an undated note,
+      # and an undated note never shows in the Recent notes sidebar. Stamping
+      # here from git history makes the published site right either way.
+      - name: Stamp missing note dates
+        run: node scripts/stamp-dates.mjs
+        working-directory: ./source
+
       - name: Build Quartz
         run: |
           npm install
