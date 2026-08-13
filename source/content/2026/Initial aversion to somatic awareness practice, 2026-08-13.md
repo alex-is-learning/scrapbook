@@ -52,4 +52,38 @@ date: 2026-08-13
 ---
 
 # 22:44 update → I did it and it was good! 
-- Gonna dictate to Claude as it's late and I cba to type
+*Dictated to Claude, transcribed and organised below.*
+
+## The turn: "maybe I just have alexithymia"
+- Going in, I was half-drafting a message to Roger in my head: *I think I just need to come out as having alexithymia.* Like I genuinely don't have sensations in my body.
+- I was reaching for other maps that say the same thing — Taurus moon, an Enduro/Endura archetype, human design saying I have an empty heart space. All made-up, but I think the maps point at a territory, and the territory looked empty.
+- Then: **well, let's just look a bit closer. Maybe what I'm doing is expecting it to be really big and obvious.**
+- That was the move. Once I dropped the size requirement, there was a bunch of subtle stuff.
+
+## What I actually found (and it wasn't just sounds)
+Yesterday I only caught it for sounds. Tonight, across several sense doors:
+
+- **Worry** → a squirmy feeling in my stomach. Really looked at it, maybe for the first time. Somatically quite different from worry in my chest — definitely different sensations, not one blurry "worry".
+- **Daydreaming** → the visual of the daydream migrated across my visual field, like its x/y coordinates changed, and there was **facial tension tracking that movement**.
+- **Annoyance** → an angry expression on my face.
+- **Trying to figure something out** → a frowning, effortful expression.
+- **Relief** (at remembering something) → an actual somatic event, not just a mental one.
+
+So: not empty. Just quiet.
+
+## The key thing: I can't hold thought and soma at the same time
+- I don't foreground thoughts or daydreams — I treat them as *bad*, as distraction, rather than as things to take seriously as objects.
+- When I think or visualise, I **fully collapse into it**. Left-hemisphere capture, collapsed awareness. I don't notice bodily sensations concurrently.
+- What actually happens is: I spot that I'm doing it → become mindful/awake again → drop it → and then notice what somatics are **still residually present** from that time.
+- So my access to the somatic layer of thought is retrospective, not simultaneous. That's the actual mechanism, and it's why it felt like nothing was there.
+
+## Did it touch tanha? → yes, for the first time
+- Getting lost in a work thought, coming back, and seeing that I'd been **frowning and tensing** — that's the vasocomputation thing, live.
+- **It felt like I was seeing active inference.** A grabby, willing-things-to-be-different thing, directly observed.
+- Same with a smaller one: the desire to sink further into my seat, showing up as a somatic downward pull, like gravity. *Oh — that's active inference too.*
+- So the morning's open question ("does this practice do anything about tanha, or can I skip ahead?") got a partial answer: **it does, and I don't need to skip ahead yet.**
+
+## Verdict on this morning's three complaints
+1. **"A lot to remember"** — still stands, but I routed around it. I ran it **solo** and **dropped the sequence entirely**, just doing open awareness rather than deliberately touring each sense door. Without Roger guiding or the list in front of me, the full protocol still feels daunting. When he guided me on a call, I got things I'd never reach alone (inner vs outer vision, senses I'd never think to check). → *Open: I want the list in front of me, or his guidance, to get the full version.*
+2. **"It felt mundane"** — **gone.** It took about 10 minutes to get through the doubt and scepticism, and then I got engaged and found it fruitful and interesting. That's a pretty big win.
+3. **"I prefer Awbery/Chapin open awareness"** — partly stands. This was **less concentrated and more lost in thought** than my eyes-open version. But it was doing different work, and the work was worth it.

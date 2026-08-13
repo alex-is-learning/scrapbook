@@ -34,4 +34,9 @@ date: 2026-08-10
 ## Evening
 - Woo, I did the open awareness sit that I was feeling doubt about (as explored in [[Initial aversion to somatic awareness practice, 2026-08-13]])
 - It was good actually!! 
-- I'll add an update at the bottom of that doc
+- Full write-up at the bottom of that doc. Headlines:
+	- The "maybe I just have alexithymia" story broke once I stopped requiring sensations to be big and obvious
+	- Caught somatics for worry, daydreaming, annoyance, effort, relief — not just sounds
+	- **Key finding:** I can't hold a thought and its soma at the same time — I collapse into the thought, then catch the *residual* somatics on waking up
+	- First time I've seen active inference / vasocomputation directly (frowning + tensing while lost in a work thought)
+	- Ran it solo and dropped Roger's sequence — the full protocol still needs the list or his guidance
