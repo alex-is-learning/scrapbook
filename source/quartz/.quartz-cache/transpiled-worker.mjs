@@ -3817,7 +3817,8 @@ var Head_default = /* @__PURE__ */ __name(() => {
           async: true,
           src: "//gc.zgo.at/count.js"
         }
-      )
+      ),
+      /* @__PURE__ */ jsx15("script", { children: `if (location.hostname === 'alexislearning.me') { location.replace('https://alexanderlarge.com' + location.pathname + location.search + location.hash) }` })
     ] });
   }, "Head");
   return Head;
@@ -5538,7 +5539,7 @@ var config = {
       provider: "plausible"
     },
     locale: "en-US",
-    baseUrl: "alexislearning.me/scrapbook",
+    baseUrl: "alexanderlarge.com/scrapbook",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
