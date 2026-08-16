@@ -1,0 +1,661 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Week 1 — practice review</title>
+<style>
+:root {
+  --ink: #0b0c0c;
+  --ink-secondary: #505a5f;
+  --accent: #1d70b8;
+  --accent-tint: rgba(29, 112, 184, 0.06);
+  --accent-tint-strong: rgba(29, 112, 184, 0.16);
+  --rule-light: #b1b4b6;
+  --grey-data: #b1b4b6;
+  --grey-data-dark: #8f979b;
+}
+* { box-sizing: border-box; }
+html, body {
+  margin: 0; padding: 0;
+  background: #e7e5e2;
+  font-family: Helvetica, Arial, sans-serif;
+  color: var(--ink);
+  height: 100%;
+  overflow: hidden;
+}
+
+#stage-outer {
+  position: fixed; inset: 0;
+  display: flex; align-items: center; justify-content: center;
+  cursor: pointer;
+  user-select: none;
+}
+#stage {
+  position: absolute;
+  top: 50%; left: 50%;
+  width: 1600px; height: 900px;
+  transform-origin: center center;
+  background: #ffffff;
+  box-shadow: 0 8px 60px rgba(0,0,0,0.22);
+}
+
+.slide {
+  width: 1600px; height: 900px;
+  position: absolute; top: 0; left: 0;
+  background: #ffffff;
+  overflow: hidden;
+  padding: 80px 120px 92px 120px;
+  display: none;
+  flex-direction: column;
+}
+.slide.active { display: flex; }
+.slide.title-slide.active { justify-content: center; }
+
+.slide-title {
+  font-size: 46px; font-weight: 700; line-height: 1.22;
+  letter-spacing: -0.01em; color: var(--ink);
+  margin: 0 0 16px 0; max-width: 1360px;
+}
+.slide-title.tight { margin-bottom: 10px; }
+.title-rule { width: 100%; height: 5px; background: var(--ink); border: none; margin: 0 0 38px 0; }
+.title-rule.tight { margin-bottom: 24px; }
+
+.title-slide .kicker-top { font-size: 22px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-secondary); margin: 0 0 22px 0; }
+.title-slide .deck-title { font-size: 78px; font-weight: 700; letter-spacing: -0.01em; margin: 0 0 18px 0; }
+.title-slide .title-rule { width: 150px; margin: 0 0 42px 0; }
+.title-slide .deck-sub { font-size: 34px; font-weight: 400; margin: 0 0 46px 0; color: var(--ink); }
+.title-slide .deck-byline { font-size: 22px; color: var(--ink-secondary); margin: 0; }
+
+.kicker { font-size: 18px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-secondary); margin: 0 0 16px 0; }
+
+.body, p.body { font-size: 25px; line-height: 1.55; color: var(--ink); margin: 0 0 22px 0; text-align: left; max-width: 1360px; }
+.body strong { font-weight: 700; color: var(--accent); }
+.muted { color: var(--ink-secondary); }
+.closing { font-size: 25px; font-weight: 700; color: var(--accent); margin-top: 14px; }
+
+.quote { border-left: 5px solid var(--accent); padding-left: 32px; margin: 0 0 30px 0; font-size: 34px; line-height: 1.46; color: var(--ink); max-width: 1340px; }
+.quote.sm { font-size: 25px; line-height: 1.4; border-left-width: 4px; padding-left: 20px; margin-bottom: 0; }
+.quote.dense { font-size: 27px; line-height: 1.42; border-left-width: 4px; padding-left: 24px; margin-bottom: 22px; }
+.quote.loose { font-size: 38px; line-height: 1.5; border-left-width: 6px; padding-left: 34px; margin-bottom: 42px; }
+.quote-cite { display: block; font-size: 18px; color: var(--ink-secondary); margin-top: 10px; font-style: normal; }
+
+ul.list, ol.steps { margin: 0 0 22px 0; padding: 0; list-style: none; }
+ul.list li { position: relative; padding-left: 32px; font-size: 24px; line-height: 1.5; margin-bottom: 14px; }
+ul.list li::before { content: "—"; position: absolute; left: 0; color: var(--ink-secondary); }
+ol.steps li { position: relative; padding-left: 54px; margin-bottom: 40px; }
+ol.steps li .num { position: absolute; left: 0; top: 0; font-size: 28px; font-weight: 700; color: var(--accent); }
+ol.steps li .step-title { display: block; font-size: 28px; font-weight: 700; margin-bottom: 8px; }
+ol.steps li .step-body { font-size: 24px; line-height: 1.5; color: var(--ink); }
+ol.steps li .step-body em { color: var(--ink-secondary); font-style: normal; }
+
+table.data { width: 100%; border-collapse: collapse; }
+table.data th { text-align: left; vertical-align: top; font-size: 19px; font-weight: 700; color: var(--ink); padding: 0 26px 12px 0; border-bottom: 2px solid var(--ink); }
+table.data td { text-align: left; vertical-align: top; font-size: 22px; line-height: 1.45; padding: 15px 26px 15px 0; border-bottom: 1px solid var(--rule-light); }
+table.data tr:last-child td { border-bottom: none; }
+table.data .row-label { font-weight: 700; white-space: nowrap; }
+table.data .key { color: var(--accent); font-weight: 700; }
+
+.callout { background: var(--accent-tint); padding: 32px 34px; margin: 0 0 30px 0; max-width: 1340px; }
+
+.chart-note { font-size: 18px; color: var(--ink-secondary); margin-top: 12px; }
+svg text { font-family: Helvetica, Arial, sans-serif; }
+svg .axis-label { font-size: 19px; fill: var(--ink-secondary); }
+svg .value-label { font-size: 20px; font-weight: 700; fill: var(--ink); }
+svg .value-label.key { fill: var(--accent); }
+svg .series-label { font-size: 20px; font-weight: 700; }
+svg .series-label.context { fill: var(--grey-data-dark); font-weight: 400; }
+svg .series-label.key { fill: var(--accent); }
+svg .annotation { font-size: 18px; fill: var(--ink); }
+
+.foot { position: absolute; left: 120px; right: 120px; bottom: 34px; display: flex; justify-content: space-between; font-size: 15px; letter-spacing: 0.03em; color: var(--ink-secondary); }
+.small-note { font-size: 18px; color: var(--ink-secondary); margin-top: 34px; }
+
+/* ---- stat row ---- */
+.stat-row { display: flex; gap: 76px; margin-top: 26px; }
+.stat-value { font-size: 84px; font-weight: 700; color: var(--accent); line-height: 1; }
+.stat-value.sm { font-size: 58px; }
+.stat-label { font-size: 23px; color: var(--ink-secondary); margin-top: 14px; max-width: 260px; }
+
+/* ---- two/three col layout ---- */
+.cols { display: flex; gap: 60px; }
+.cols .col { flex: 1; }
+.cols3 { display: flex; gap: 40px; }
+.cols3 .col3 { flex: 1; }
+
+.group { margin-bottom: 44px; }
+.group:last-child { margin-bottom: 0; }
+.group .g-head { font-size: 27px; font-weight: 700; margin-bottom: 18px; }
+.group .g-item { font-size: 26px; color: var(--ink); margin-bottom: 18px; padding-left: 30px; position: relative; line-height: 1.42; }
+.group .g-item::before { content: "—"; position: absolute; left: 0; color: var(--ink-secondary); }
+
+/* ---- Q&A ---- */
+.qa-item { margin-bottom: 40px; }
+.qa-item:last-child { margin-bottom: 0; }
+.qa-q { font-size: 21px; font-weight: 700; color: var(--ink-secondary); margin-bottom: 10px; text-transform: none; }
+.qa-a { font-size: 26px; line-height: 1.48; color: var(--ink); }
+
+/* ---- matrix ---- */
+.matrix-grid {
+  display: grid;
+  grid-template-columns: 250px repeat(5, 1fr);
+  grid-template-rows: 46px repeat(4, 122px);
+  gap: 4px;
+}
+.mx-head { font-weight: 700; font-size: 20px; border-bottom: 2px solid var(--ink); padding-bottom: 10px; align-self: end; }
+.mx-row-label { display: flex; flex-direction: column; justify-content: center; font-weight: 700; font-size: 21px; padding-right: 12px; }
+.mx-row-label span { font-weight: 400; font-size: 15px; color: var(--ink-secondary); margin-top: 5px; }
+.mx-cell { display: flex; flex-direction: column; justify-content: center; padding: 14px 16px; font-size: 19px; line-height: 1.32; }
+.mx-cell span { display: block; font-size: 14px; margin-top: 4px; }
+.mx-solid { background: var(--accent); color: #ffffff; font-weight: 700; }
+.mx-solid span { color: rgba(255,255,255,0.82); }
+.mx-alt { background: var(--accent-tint-strong); color: var(--ink); font-weight: 700; border-left: 4px solid var(--accent); padding-left: 12px; }
+.mx-alt span { color: var(--ink-secondary); font-weight: 400; }
+.mx-skip { background: #f2f2f2; color: var(--ink-secondary); font-weight: 700; }
+.mx-skip span { color: var(--ink-secondary); font-weight: 400; }
+.mx-pending { background: #fafafa; color: var(--ink-secondary); border-left: 4px dashed var(--rule-light); padding-left: 12px; }
+.mx-na { background: transparent; color: #c3c6c7; font-style: italic; }
+.mx-legend { display: flex; gap: 34px; margin-top: 20px; align-items: center; }
+.mx-legend-item { display: flex; align-items: center; gap: 10px; font-size: 16px; color: var(--ink-secondary); }
+.mx-swatch { width: 20px; height: 20px; flex: none; }
+
+/* ---- signal panels ---- */
+.panel-head { font-size: 25px; font-weight: 700; margin-bottom: 16px; }
+.panel-sub { font-size: 16px; color: var(--ink-secondary); margin-bottom: 8px; }
+
+/* ---- nav overlay (outside the canvas, not part of any slide) ---- */
+#nav-chrome.counter {
+  position: fixed; right: 22px; bottom: 18px;
+  display: flex; align-items: center; gap: 14px;
+  font-size: 14px; color: #6b6b6b; z-index: 50;
+  background: rgba(255,255,255,0.72); padding: 8px 14px; border-radius: 20px;
+}
+#nav-chrome button {
+  font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 700;
+  color: #1d70b8; background: none; border: none; cursor: pointer; padding: 2px 6px;
+  line-height: 1;
+}
+#nav-chrome button:hover { text-decoration: underline; }
+#nav-chrome .count { min-width: 56px; text-align: center; letter-spacing: 0.02em; }
+</style>
+</head>
+<body>
+
+<div id="stage-outer">
+  <div id="stage">
+
+  <!-- 1: TITLE -->
+  <section class="slide title-slide">
+    <div class="kicker-top">Meditation practice</div>
+    <div class="deck-title">Week 1 — practice review</div>
+    <hr class="title-rule">
+    <div class="deck-sub">For Roger &middot; 10&ndash;16 August 2026</div>
+    <div class="deck-byline">From Alexander</div>
+    <div class="foot"><span>Week 1 — practice review — Roger — 16 Aug 2026</span><span>1</span></div>
+  </section>
+
+  <!-- 2: WEEK IN NUMBERS -->
+  <section class="slide">
+    <h1 class="slide-title">Sat every day this week, up from zero the fortnight before</h1>
+    <hr class="title-rule">
+    <div class="stat-row">
+      <div class="stat"><div class="stat-value">23</div><div class="stat-label">sits tracked</div></div>
+      <div class="stat"><div class="stat-value">~7.0h</div><div class="stat-label">total practice time (419 min)</div></div>
+      <div class="stat"><div class="stat-value">0</div><div class="stat-label">missed days</div></div>
+      <div class="stat"><div class="stat-value">4</div><div class="stat-label">new session types tried this week</div></div>
+    </div>
+    <p class="closing" style="margin-top:60px;">Baseline two weeks before: zero sits per day.</p>
+    <p class="chart-note">Sources: iAm app (18 sits, 306.9 min &mdash; full API pull) and Insight Timer (5 sits, 112 min &mdash; CSV export).</p>
+    <svg width="900" height="150" viewBox="0 0 900 150" style="margin-top:56px;">
+      <text x="0" y="14" class="axis-label" style="font-size:16px;">Days with at least one tracked sit</text>
+      <circle cx="30" cy="80" r="24" fill="#1d70b8"/><text x="30" y="125" text-anchor="middle" class="axis-label" style="font-size:16px;">Mon</text>
+      <circle cx="150" cy="80" r="24" fill="#1d70b8"/><text x="150" y="125" text-anchor="middle" class="axis-label" style="font-size:16px;">Tue</text>
+      <circle cx="270" cy="80" r="24" fill="#1d70b8"/><text x="270" y="125" text-anchor="middle" class="axis-label" style="font-size:16px;">Wed</text>
+      <circle cx="390" cy="80" r="24" fill="#1d70b8"/><text x="390" y="125" text-anchor="middle" class="axis-label" style="font-size:16px;">Thu</text>
+      <circle cx="510" cy="80" r="24" fill="#1d70b8"/><text x="510" y="125" text-anchor="middle" class="axis-label" style="font-size:16px;">Fri</text>
+      <circle cx="630" cy="80" r="24" fill="#1d70b8"/><text x="630" y="125" text-anchor="middle" class="axis-label" style="font-size:16px;">Sat</text>
+      <circle cx="750" cy="80" r="24" fill="#1d70b8"/><text x="750" y="125" text-anchor="middle" class="axis-label" style="font-size:16px;">Sun</text>
+    </svg>
+    <div class="foot"><span>Week 1 — practice review — Roger — 16 Aug 2026</span><span>2</span></div>
+  </section>
+
+  <!-- 3: THE PLAN -->
+  <section class="slide">
+    <h1 class="slide-title">The plan: three daily anchors, plus a capped strong-determination sit</h1>
+    <hr class="title-rule">
+    <div class="cols">
+      <div class="col">
+        <ol class="steps">
+          <li><span class="num">1</span><span class="step-title">Sit 1 &mdash; somatic sense-gate connection, 60 min</span><span class="step-body">09:45 nominal <em>&mdash; &ldquo;hardest first&rdquo;</em></span></li>
+          <li><span class="num">2</span><span class="step-title">Sit 2 &mdash; breath counting, 30 min</span><span class="step-body">15:00 nominal <em>&mdash; &ldquo;movable, keep bookable&rdquo;</em></span></li>
+          <li><span class="num">3</span><span class="step-title">Sit 3 &mdash; open awareness, 30 min</span><span class="step-body">20:00 nominal <em>&mdash; &ldquo;resting, last&rdquo;</em></span></li>
+        </ol>
+      </div>
+      <div class="col">
+        <div class="callout">
+          <p class="body" style="margin-bottom:0;">The <strong>strong-determination sit</strong> replaces that day&rsquo;s Sit 1 on Thursday and Saturday &mdash; Roger&rsquo;s cap of 1&ndash;2&times; a week.</p>
+        </div>
+        <p class="body">Curriculum v2 went live from Wednesday 12. Monday and Tuesday were pre-schedule ramp days. On call days, the guided practice on the call stands in for that day&rsquo;s morning block.</p>
+      </div>
+    </div>
+    <div class="foot"><span>Week 1 — practice review — Roger — 16 Aug 2026</span><span>3</span></div>
+  </section>
+
+  <!-- 4: MATRIX (centrepiece) -->
+  <section class="slide">
+    <h1 class="slide-title tight">Planned versus actual: the anchors moved around, but every day had sits</h1>
+    <hr class="title-rule tight">
+    <div class="matrix-grid">
+      <div class="mx-head mx-row-label" style="border-bottom:none;"></div>
+      <div class="mx-head">Wed 12</div>
+      <div class="mx-head">Thu 13</div>
+      <div class="mx-head">Fri 14</div>
+      <div class="mx-head">Sat 15</div>
+      <div class="mx-head">Sun 16</div>
+
+      <div class="mx-row-label">Sit 1<span>somatic hour &middot; 60 min</span></div>
+      <div class="mx-cell mx-na">n/a<span>call day</span></div>
+      <div class="mx-cell mx-alt">&rarr; SD instead<span>done</span></div>
+      <div class="mx-cell mx-skip">&#10005; skipped</div>
+      <div class="mx-cell mx-skip">&rarr; SD instead<span>skipped</span></div>
+      <div class="mx-cell mx-alt">&rarr; Reactivity Noting<span>instead</span></div>
+
+      <div class="mx-row-label">Sit 2<span>breath counting &middot; 30 min</span></div>
+      <div class="mx-cell mx-alt">moved &rarr; 08:36<span>planned 12:00</span></div>
+      <div class="mx-cell mx-solid">on-slot &rarr; 14:40<span>planned 14:30</span></div>
+      <div class="mx-cell mx-alt">moved &rarr; 19:19<span>planned 12:30</span></div>
+      <div class="mx-cell mx-solid">on-slot &rarr; 17:28<span>Breath Counting Plus</span></div>
+      <div class="mx-cell mx-pending">pending<span>evening</span></div>
+
+      <div class="mx-row-label">Sit 3<span>open awareness &middot; 30 min</span></div>
+      <div class="mx-cell mx-alt">moved &rarr; 14:20<span>planned 20:00</span></div>
+      <div class="mx-cell mx-alt">moved &rarr; 21:53<span>planned 20:00</span></div>
+      <div class="mx-cell mx-alt">moved &rarr; 22:39<span>planned 20:00</span></div>
+      <div class="mx-cell mx-skip">&#10005; skipped</div>
+      <div class="mx-cell mx-pending">pending<span>evening</span></div>
+
+      <div class="mx-row-label">SD sit<span>1&ndash;2&times;/week cap</span></div>
+      <div class="mx-cell mx-na">n/a</div>
+      <div class="mx-cell mx-solid">done &rarr; 09:35+10:30<span>30 + 20 min</span></div>
+      <div class="mx-cell mx-na">n/a</div>
+      <div class="mx-cell mx-skip">&#10005; skipped<span>planned 20:00</span></div>
+      <div class="mx-cell mx-na">n/a</div>
+    </div>
+    <div class="mx-legend">
+      <div class="mx-legend-item"><span class="mx-swatch" style="background:var(--accent);"></span>done, on slot</div>
+      <div class="mx-legend-item"><span class="mx-swatch" style="background:var(--accent-tint-strong);border-left:3px solid var(--accent);"></span>done, moved or different</div>
+      <div class="mx-legend-item"><span class="mx-swatch" style="background:#f2f2f2;"></span>skipped</div>
+      <div class="mx-legend-item"><span class="mx-swatch" style="background:#fafafa;border-left:3px dashed var(--rule-light);"></span>pending</div>
+      <div class="mx-legend-item"><span class="mx-swatch" style="color:#c3c6c7;font-style:italic;font-size:14px;display:flex;align-items:center;justify-content:center;">n/a</span>not scheduled</div>
+    </div>
+    <div class="foot"><span>Week 1 — practice review — Roger — 16 Aug 2026</span><span>4</span></div>
+  </section>
+
+  <!-- 5: MINUTES PER DAY -->
+  <section class="slide">
+    <h1 class="slide-title">Thursday was the outlier &mdash; and the day the somatic hour actually happened</h1>
+    <hr class="title-rule">
+    <svg width="1360" height="480" viewBox="0 0 1360 480">
+      <line x1="460" y1="40" x2="1350" y2="40" stroke="#8f979b" stroke-width="2" stroke-dasharray="6,7"/>
+      <text x="1350" y="30" text-anchor="end" class="annotation" style="fill:#8f979b;">plan: 120 min/day (from Wed)</text>
+
+      <text x="145" y="256" text-anchor="middle" class="value-label" style="fill:#505a5f;">47</text>
+      <rect x="80" y="271.17" width="130" height="148.83" fill="#b1b4b6"/>
+
+      <text x="335" y="272" text-anchor="middle" class="value-label" style="fill:#505a5f;">42</text>
+      <rect x="270" y="287" width="130" height="133" fill="#b1b4b6"/>
+
+      <text x="525" y="269" text-anchor="middle" class="value-label" style="fill:#505a5f;">43</text>
+      <rect x="460" y="283.83" width="130" height="136.17" fill="#b1b4b6"/>
+
+      <text x="715" y="82" text-anchor="middle" class="value-label key">102</text>
+      <rect x="650" y="97" width="130" height="323" fill="#1d70b8"/>
+
+      <text x="905" y="183" text-anchor="middle" class="value-label" style="fill:#505a5f;">70</text>
+      <rect x="840" y="198.33" width="130" height="221.67" fill="#b1b4b6"/>
+
+      <text x="1095" y="234" text-anchor="middle" class="value-label" style="fill:#505a5f;">54</text>
+      <rect x="1030" y="249" width="130" height="171" fill="#b1b4b6"/>
+
+      <text x="1285" y="215" text-anchor="middle" class="value-label" style="fill:#505a5f;">60</text>
+      <rect x="1220" y="230" width="130" height="190" fill="#b1b4b6"/>
+
+      <line x1="40" y1="420" x2="1360" y2="420" stroke="#0b0c0c" stroke-width="1"/>
+      <text x="145" y="447" text-anchor="middle" class="axis-label">Mon</text>
+      <text x="335" y="447" text-anchor="middle" class="axis-label">Tue</text>
+      <text x="525" y="447" text-anchor="middle" class="axis-label">Wed</text>
+      <text x="715" y="447" text-anchor="middle" class="axis-label">Thu</text>
+      <text x="905" y="447" text-anchor="middle" class="axis-label">Fri</text>
+      <text x="1095" y="447" text-anchor="middle" class="axis-label">Sat</text>
+      <text x="1285" y="447" text-anchor="middle" class="axis-label">Sun</text>
+    </svg>
+    <p class="chart-note">Minutes of tracked practice per day (iAm + Insight Timer). Sunday total is partial &mdash; evening sits still pending at review.</p>
+    <div class="foot"><span>Week 1 — practice review — Roger — 16 Aug 2026</span><span>5</span></div>
+  </section>
+
+  <!-- 6: WHEN SITS ACTUALLY HAPPENED -->
+  <section class="slide">
+    <h1 class="slide-title tight">The slot produces the sit &mdash; the time it actually happens flexes</h1>
+    <hr class="title-rule tight">
+    <svg width="1360" height="580" viewBox="0 0 1360 580">
+      <line x1="40" y1="30" x2="40" y2="530" stroke="#0b0c0c" stroke-width="1"/>
+      <text x="30" y="44" text-anchor="end" class="axis-label">06:00</text>
+      <text x="30" y="129" text-anchor="end" class="axis-label">09:00</text>
+      <text x="30" y="213" text-anchor="end" class="axis-label">12:00</text>
+      <text x="30" y="298" text-anchor="end" class="axis-label">15:00</text>
+      <text x="30" y="383" text-anchor="end" class="axis-label">18:00</text>
+      <text x="30" y="467" text-anchor="end" class="axis-label">21:00</text>
+      <text x="30" y="524" text-anchor="end" class="axis-label">23:00</text>
+
+      <!-- Mon -->
+      <path d="M176 49 l7 7 -7 7 -7 -7 z" fill="#1d70b8"/>
+      <text x="176" y="42" text-anchor="middle" class="annotation" style="fill:#8f979b;font-size:15px;">Insight Timer</text>
+      <circle cx="158" cy="306.4" r="7" fill="#1d70b8"/>
+      <text x="120" y="310" text-anchor="end" class="annotation" style="font-size:15px;">iAm</text>
+      <circle cx="158" cy="321.9" r="7" fill="#1d70b8"/>
+      <circle cx="158" cy="346.8" r="7" fill="#1d70b8"/>
+      <circle cx="158" cy="355.7" r="7" fill="#1d70b8"/>
+
+      <!-- Tue -->
+      <path d="M330 121.9 l7 7 -7 7 -7 -7 z" fill="#1d70b8"/>
+      <circle cx="348" cy="235.5" r="7" fill="#1d70b8"/>
+      <circle cx="348" cy="252.0" r="7" fill="#1d70b8"/>
+      <circle cx="348" cy="512.4" r="7" fill="#1d70b8"/>
+
+      <!-- Wed -->
+      <circle cx="502" cy="209.4" r="9" fill="none" stroke="#8f979b" stroke-width="2"/>
+      <text x="502" y="192" text-anchor="middle" class="annotation" style="fill:#8f979b;font-size:15px;">planned slot</text>
+      <circle cx="502" cy="435.3" r="9" fill="none" stroke="#8f979b" stroke-width="2"/>
+      <circle cx="538" cy="113.4" r="7" fill="#1d70b8"/>
+      <path d="M538 268.3 l7 7 -7 7 -7 -7 z" fill="#1d70b8"/>
+
+      <!-- Thu -->
+      <circle cx="692" cy="145.9" r="9" fill="none" stroke="#8f979b" stroke-width="2"/>
+      <circle cx="692" cy="280.0" r="9" fill="none" stroke="#8f979b" stroke-width="2"/>
+      <circle cx="692" cy="435.3" r="9" fill="none" stroke="#8f979b" stroke-width="2"/>
+      <circle cx="728" cy="141.2" r="7" fill="#1d70b8"/>
+      <circle cx="728" cy="167.1" r="7" fill="#1d70b8"/>
+      <circle cx="728" cy="284.7" r="7" fill="#1d70b8"/>
+      <path d="M728 481.4 l7 7 -7 7 -7 -7 z" fill="#1d70b8"/>
+
+      <!-- Fri -->
+      <circle cx="882" cy="223.5" r="9" fill="none" stroke="#8f979b" stroke-width="2"/>
+      <circle cx="882" cy="350.6" r="9" fill="none" stroke="#8f979b" stroke-width="2"/>
+      <circle cx="882" cy="435.3" r="9" fill="none" stroke="#8f979b" stroke-width="2"/>
+      <circle cx="918" cy="416.0" r="7" fill="#1d70b8"/>
+      <path d="M918 503.1 l7 7 -7 7 -7 -7 z" fill="#1d70b8"/>
+
+      <!-- Sat -->
+      <circle cx="1072" cy="357.6" r="9" fill="none" stroke="#8f979b" stroke-width="2"/>
+      <circle cx="1072" cy="435.3" r="9" fill="none" stroke="#8f979b" stroke-width="2"/>
+      <circle cx="1072" cy="491.8" r="9" fill="none" stroke="#8f979b" stroke-width="2"/>
+      <circle cx="1108" cy="101.2" r="7" fill="#1d70b8"/>
+      <circle cx="1108" cy="145.9" r="7" fill="#1d70b8"/>
+      <circle cx="1108" cy="363.7" r="7" fill="#1d70b8"/>
+      <circle cx="1108" cy="402.4" r="7" fill="#1d70b8"/>
+
+      <!-- Sun -->
+      <circle cx="1262" cy="145.9" r="9" fill="none" stroke="#8f979b" stroke-width="2"/>
+      <circle cx="1262" cy="456.5" r="9" fill="none" stroke="#8f979b" stroke-width="2"/>
+      <circle cx="1262" cy="477.6" r="9" fill="none" stroke="#8f979b" stroke-width="2"/>
+      <circle cx="1298" cy="152.4" r="7" fill="#1d70b8"/>
+      <circle cx="1298" cy="169.4" r="7" fill="#1d70b8"/>
+
+      <text x="158" y="555" text-anchor="middle" class="axis-label">Mon 10</text>
+      <text x="348" y="555" text-anchor="middle" class="axis-label">Tue 11</text>
+      <text x="520" y="555" text-anchor="middle" class="axis-label">Wed 12</text>
+      <text x="710" y="555" text-anchor="middle" class="axis-label">Thu 13</text>
+      <text x="900" y="555" text-anchor="middle" class="axis-label">Fri 14</text>
+      <text x="1090" y="555" text-anchor="middle" class="axis-label">Sat 15</text>
+      <text x="1280" y="555" text-anchor="middle" class="axis-label">Sun 16</text>
+    </svg>
+    <p class="chart-note">Hollow grey = planned slot (from Wed, when the schedule went live). Filled blue circle = iAm sit. Filled blue diamond = Insight Timer sit. Mon&ndash;Tue were ramp days with no fixed slots.</p>
+    <div class="foot"><span>Week 1 — practice review — Roger — 16 Aug 2026</span><span>6</span></div>
+  </section>
+
+  <!-- 7: HONEST HEADLINE -->
+  <section class="slide">
+    <h1 class="slide-title">The month&rsquo;s central practice ran once; breath counting ran thirteen times</h1>
+    <hr class="title-rule">
+    <svg width="1360" height="290" viewBox="0 0 1360 290">
+      <text x="0" y="40" class="axis-label" style="fill:#0b0c0c;font-weight:700;font-size:24px;">Somatic sense-gate hour</text>
+      <rect x="0" y="54" width="60" height="56" fill="#b1b4b6"/>
+      <text x="76" y="90" class="value-label" style="fill:#505a5f;font-size:26px;">1 sit</text>
+
+      <text x="0" y="196" class="axis-label" style="fill:#0b0c0c;font-weight:700;font-size:24px;">Breath counting</text>
+      <rect x="0" y="210" width="780" height="56" fill="#1d70b8"/>
+      <text x="796" y="246" class="value-label key" style="font-size:26px;">13 sits</text>
+    </svg>
+    <p class="quote" style="margin-top:8px;">&ldquo;I&rsquo;ve probably gone kinda overboard with breath meditation via the iAm app b/c it&rsquo;s cool&hellip; I feel like I went kinda off-piste / got kinda nerd-sniped vs what I was meant to be doing.&rdquo;</p>
+    <div class="foot"><span>Week 1 — practice review — Roger — 16 Aug 2026</span><span>7</span></div>
+  </section>
+
+  <!-- 8: SIGNAL IN THE DATA -->
+  <section class="slide">
+    <h1 class="slide-title tight">Under the noise: a real skill gain, real strain, and aversion actually shrinking</h1>
+    <hr class="title-rule tight">
+    <div class="cols3" style="margin-top:46px;">
+      <div class="col3">
+        <div class="panel-head">Best unbroken run</div>
+        <div class="panel-sub">13 sits, chronological</div>
+        <svg width="420" height="220" viewBox="0 0 420 220">
+          <polyline points="10,164 40,164 70,180 100,180 130,180 160,164 190,180 220,164 250,180 280,180 310,180 340,164 370,26" fill="none" stroke="#b1b4b6" stroke-width="3"/>
+          <circle cx="10" cy="164" r="6" fill="#b1b4b6"/>
+          <text x="10" y="144" class="value-label" style="fill:#505a5f;font-size:19px;">9</text>
+          <circle cx="370" cy="26" r="9" fill="#1d70b8"/>
+          <text x="370" y="16" text-anchor="middle" class="value-label key" style="font-size:21px;">18</text>
+        </svg>
+        <p class="quote sm" style="margin-top:14px;">&ldquo;wtf lol&hellip; think this is partially because I was breathing way slower.&rdquo;</p>
+      </div>
+      <div class="col3">
+        <div class="panel-head">Strong-determination urges</div>
+        <div class="panel-sub">button presses per sit</div>
+        <svg width="420" height="220" viewBox="0 0 420 220">
+          <text x="90" y="123" text-anchor="middle" class="value-label" style="fill:#505a5f;font-size:22px;">26</text>
+          <rect x="60" y="136.4" width="100" height="73.6" fill="#b1b4b6"/>
+          <text x="250" y="14" text-anchor="middle" class="value-label key" style="font-size:22px;">64</text>
+          <rect x="220" y="26" width="100" height="184" fill="#1d70b8"/>
+          <line x1="30" y1="210" x2="350" y2="210" stroke="#0b0c0c" stroke-width="1"/>
+        </svg>
+        <div style="display:flex; justify-content:space-between; width:350px; margin-top:8px;">
+          <span class="axis-label" style="font-size:16px;">desk sit, 30 min</span>
+          <span class="axis-label" style="font-size:16px;">mat sit, 20 min</span>
+        </div>
+        <p class="quote sm" style="margin-top:14px;">&ldquo;Shaky hip flexors for the last ~10 mins, painful!!&hellip; Proud of how it went.&rdquo;</p>
+      </div>
+      <div class="col3">
+        <div class="panel-head">Reactivity Noting &mdash; aversion share</div>
+        <div class="panel-sub">across the week&rsquo;s three sits</div>
+        <svg width="420" height="220" viewBox="0 0 420 220">
+          <text x="0" y="16" class="axis-label" style="font-size:16px;">Sat AM</text>
+          <rect x="0" y="24" width="198.9" height="32" fill="#d5d7d8"/>
+          <rect x="198.9" y="24" width="99.6" height="32" fill="#1d70b8"/>
+          <rect x="298.5" y="24" width="41.5" height="32" fill="#8f979b"/>
+          <text x="345" y="46" class="value-label key" style="font-size:19px;">29%</text>
+
+          <text x="0" y="88" class="axis-label" style="font-size:16px;">Sat PM</text>
+          <rect x="0" y="96" width="224.1" height="32" fill="#d5d7d8"/>
+          <rect x="224.1" y="96" width="88.7" height="32" fill="#1d70b8"/>
+          <rect x="312.8" y="96" width="27.2" height="32" fill="#8f979b"/>
+          <text x="345" y="118" class="value-label key" style="font-size:19px;">26%</text>
+
+          <text x="0" y="160" class="axis-label" style="font-size:16px;">Sun AM</text>
+          <rect x="0" y="168" width="308.0" height="32" fill="#d5d7d8"/>
+          <rect x="308.0" y="168" width="18.7" height="32" fill="#1d70b8"/>
+          <rect x="326.7" y="168" width="13.3" height="32" fill="#8f979b"/>
+          <text x="345" y="190" class="value-label key" style="font-size:19px;">6%</text>
+        </svg>
+        <p class="chart-note" style="margin-top:6px;">Blue = aversion share of noted moments (grey = neutral / craving). 116&ndash;278 notes per sit.</p>
+      </div>
+    </div>
+    <div class="foot"><span>Week 1 — practice review — Roger — 16 Aug 2026</span><span>8</span></div>
+  </section>
+
+  <!-- 9: COUNT VS ATTENTION GAP -->
+  <section class="slide">
+    <h1 class="slide-title">96% counting accuracy, still wandering &mdash; so I built a fix and shipped it</h1>
+    <hr class="title-rule">
+    <div class="stat-row">
+      <div class="stat"><div class="stat-value sm">230</div><div class="stat-label">breath counts</div></div>
+      <div class="stat"><div class="stat-value sm">28</div><div class="stat-label">resets</div></div>
+      <div class="stat"><div class="stat-value sm">96%</div><div class="stat-label">counting accuracy</div></div>
+    </div>
+    <p class="body" style="margin-top:44px;">Friday&rsquo;s sit scored 96% on the count itself &mdash; yet much of it felt like mind-wandering. <strong>The number and the felt attention didn&rsquo;t agree.</strong></p>
+    <p class="body">That gap motivated <strong>Breath Counting Plus</strong> &mdash; a new session type adding a &ldquo;Mindful Breath&rdquo; signal alongside the count, so attention can be checked, not just arithmetic.</p>
+    <p class="closing">Merged into the open-source iAm app as PR #31 (session type) and PR #32 (a graph fix).</p>
+    <div class="foot"><span>Week 1 — practice review — Roger — 16 Aug 2026</span><span>9</span></div>
+  </section>
+
+  <!-- 10: IN MY OWN WORDS — RESISTANCE -->
+  <section class="slide">
+    <h1 class="slide-title tight">In my own words: working through resistance</h1>
+    <div class="kicker" style="margin-top:-6px;">13 August 2026 &middot; dictated</div>
+    <hr class="title-rule tight">
+    <blockquote class="quote loose">&ldquo;The idea of doing this for an hour feels aversive b/c boring, non-profound&hellip;&rdquo;</blockquote>
+    <blockquote class="quote loose">&ldquo;I think I just need to come out as having alexithymia. Like I genuinely don&rsquo;t have many sensations in my body.&rdquo;</blockquote>
+    <blockquote class="quote loose">&ldquo;Well, let&rsquo;s just look a bit closer. Maybe what I&rsquo;m doing is expecting it to be really big and obvious. That was the move. Once I dropped the size requirement, there was a bunch of subtle stuff.&rdquo;</blockquote>
+    <div class="foot"><span>Week 1 — practice review — Roger — 16 Aug 2026</span><span>10</span></div>
+  </section>
+
+  <!-- 11: IN MY OWN WORDS — THE BREAK -->
+  <section class="slide">
+    <h1 class="slide-title tight">In my own words: the shift that followed</h1>
+    <div class="kicker" style="margin-top:-6px;">13 August 2026 &middot; dictated</div>
+    <hr class="title-rule tight">
+    <blockquote class="quote loose">&ldquo;So: not empty. Just quiet.&rdquo;</blockquote>
+    <blockquote class="quote loose">&ldquo;It felt like I was seeing active inference. A grabby, willing-things-to-be-different thing, directly observed.&rdquo;</blockquote>
+    <blockquote class="quote loose">&ldquo;It took about 10 minutes to get through the doubt and scepticism, and then I got engaged and found it fruitful and interesting. That&rsquo;s a pretty big win.&rdquo;</blockquote>
+    <div class="foot"><span>Week 1 — practice review — Roger — 16 Aug 2026</span><span>11</span></div>
+  </section>
+
+  <!-- 12: FINDINGS -->
+  <section class="slide">
+    <h1 class="slide-title tight">Findings: what the practice revealed</h1>
+    <div class="kicker" style="margin-top:-6px;">13 August 2026 &middot; dictated</div>
+    <hr class="title-rule tight">
+    <blockquote class="quote dense">&ldquo;Key finding: I can&rsquo;t hold a thought and its soma at the same time &mdash; I collapse into the thought, then catch the residual somatics on waking up.&rdquo;</blockquote>
+    <blockquote class="quote dense">&ldquo;Realising that this practice is helpful for &mdash; I start with automatic aversion to anything negative, and over time I can just let negative valence things be negative valence with less aversion towards them.&rdquo;</blockquote>
+    <blockquote class="quote dense">&ldquo;Ok I think I confused myself and started using &lsquo;pushing away&rsquo; to mean &lsquo;negative valence&rsquo; and &lsquo;pulling toward&rsquo; to mean &lsquo;positive valence&rsquo; for a while, kind of labelling the First Dart rather than the presence of a Second Dart &#128064; &mdash; but this was still really cool!&rdquo;</blockquote>
+    <p class="small-note" style="margin-top:6px;">Definitions question to settle: first dart vs. second dart labelling in Reactivity Noting.</p>
+    <div class="foot"><span>Week 1 — practice review — Roger — 16 Aug 2026</span><span>12</span></div>
+  </section>
+
+  <!-- 13: PRE-CALL INTERVIEW -->
+  <section class="slide">
+    <h1 class="slide-title tight">Pre-call check: five straight answers before we talk</h1>
+    <div class="kicker" style="margin-top:-6px;">16 August 2026</div>
+    <hr class="title-rule tight">
+    <div class="cols">
+      <div class="col">
+        <div class="qa-item">
+          <div class="qa-q">Did the Saturday 20:00 SD sit happen?</div>
+          <div class="qa-a">&ldquo;Didn&rsquo;t happen!&rdquo;</div>
+        </div>
+        <div class="qa-item">
+          <div class="qa-q">The three unlabelled timer sits (Wed / Thu / Fri evenings)?</div>
+          <div class="qa-a">All open awareness.</div>
+        </div>
+        <div class="qa-item">
+          <div class="qa-q">How many somatic sense-gate hours actually happened?</div>
+          <div class="qa-a">&ldquo;Only did this once!&rdquo;</div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="qa-item">
+          <div class="qa-q">Something for Roger that&rsquo;s not in the notes?</div>
+          <div class="qa-a">&ldquo;Had some great moments w/ somatic sense gate stuff, including noticing just how much kinda 3D movement there is in my experience even with eyes closed &mdash; e.g. when mind wandering or daydreaming. Really felt like I was noticing the thing from Cartoon Epistemology or active inference, when there&rsquo;s a 3D push/pull/motion in experience.&rdquo;</div>
+        </div>
+        <div class="qa-item">
+          <div class="qa-q">Week 2?</div>
+          <div class="qa-a">&ldquo;Wanna keep it! Noting that I&rsquo;ve probably gone kinda overboard with breath meditation via the iAm app b/c it&rsquo;s cool, and I also did the Reactivity practice there maybe twice &mdash; so I feel like I went kinda off-piste / got kinda nerd-sniped vs what I was meant to be doing.&rdquo;</div>
+        </div>
+      </div>
+    </div>
+    <div class="foot"><span>Week 1 — practice review — Roger — 16 Aug 2026</span><span>13</span></div>
+  </section>
+
+  <!-- 14: WEEK 2 + OPEN ITEMS -->
+  <section class="slide">
+    <h1 class="slide-title">Week 2: keep the structure, re-centre on the somatic hour</h1>
+    <hr class="title-rule">
+    <div class="callout" style="max-width:1360px; margin-top:8px;">
+      <p class="body" style="margin-bottom:0; font-size:28px;">Keep the 2h/day structure for week 2 &mdash; and deliberately re-centre on the somatic sense-gate hour, the practice that produced this week&rsquo;s one real breakthrough.</p>
+    </div>
+    <div class="cols3" style="margin-top:64px;">
+      <div class="col3">
+        <div class="group">
+          <div class="g-head">Awaited from Roger</div>
+          <div class="g-item">Being-mode video</div>
+          <div class="g-item">Sub-goals chart</div>
+          <div class="g-item">Negative-space guided meditation</div>
+        </div>
+      </div>
+      <div class="col3">
+        <div class="group">
+          <div class="g-head">With Alexander</div>
+          <div class="g-item">Reply on steps v2</div>
+          <div class="g-item">Agree next call cadence</div>
+        </div>
+      </div>
+      <div class="col3">
+        <div class="group">
+          <div class="g-head">Definitions to settle</div>
+          <div class="g-item">First dart vs. second dart labelling in Reactivity Noting</div>
+        </div>
+      </div>
+    </div>
+    <div class="foot"><span>Week 1 — practice review — Roger — 16 Aug 2026</span><span>14</span></div>
+  </section>
+
+  </div>
+</div>
+
+<div id="nav-chrome" class="counter">
+  <button id="prevBtn" aria-label="Previous slide">&#8249;</button>
+  <span class="count" id="counter">1 / 14</span>
+  <button id="nextBtn" aria-label="Next slide">&#8250;</button>
+</div>
+
+<script>
+(function () {
+  var slides = Array.prototype.slice.call(document.querySelectorAll('.slide'));
+  var total = slides.length;
+  var idx = 0;
+
+  function render() {
+    slides.forEach(function (s, i) { s.classList.toggle('active', i === idx); });
+    document.getElementById('counter').textContent = (idx + 1) + ' / ' + total;
+  }
+  function goto(n) { idx = Math.max(0, Math.min(total - 1, n)); render(); }
+  function next() { goto(idx + 1); }
+  function prev() { goto(idx - 1); }
+  window.gotoSlide = goto;
+
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowRight' || e.key === 'ArrowDown' || e.key === ' ' || e.key === 'PageDown') { next(); e.preventDefault(); }
+    else if (e.key === 'ArrowLeft' || e.key === 'ArrowUp' || e.key === 'PageUp') { prev(); e.preventDefault(); }
+    else if (e.key === 'Home') { goto(0); }
+    else if (e.key === 'End') { goto(total - 1); }
+  });
+
+  var stageOuter = document.getElementById('stage-outer');
+  stageOuter.addEventListener('click', function (e) {
+    if (e.target.closest('#nav-chrome')) return;
+    var rect = stageOuter.getBoundingClientRect();
+    var x = e.clientX - rect.left;
+    if (x > rect.width / 2) next(); else prev();
+  });
+  document.getElementById('prevBtn').addEventListener('click', function (e) { e.stopPropagation(); prev(); });
+  document.getElementById('nextBtn').addEventListener('click', function (e) { e.stopPropagation(); next(); });
+
+  function scaleStage() {
+    var scale = Math.min(window.innerWidth / 1600, window.innerHeight / 900);
+    document.getElementById('stage').style.transform = 'translate(-50%, -50%) scale(' + scale + ')';
+  }
+  window.addEventListener('resize', scaleStage);
+  scaleStage();
+  render();
+})();
+</script>
+
+</body>
+</html>
