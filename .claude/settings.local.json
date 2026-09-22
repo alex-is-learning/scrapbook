@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs -I {} sh -c 'echo \"\"=== {} ===\"\" && head -20 \"\"{}\"\"')",
+      "Bash(wc -l /Users/alexanderlarge/scrapbook/source/content/2026/*.md)",
+      "Bash(head -40 /Users/alexanderlarge/scrapbook/source/content/2026/*.md)",
+      "Bash(while read f)",
+      "Bash(do head -15 \"$f\")",
+      "Bash(echo \"File: $f\")",
+      "Bash(done)",
+      "Bash(node scripts/add-tags.mjs --dry-run)",
+      "Bash(npm root -g)",
+      "Bash(node scripts/add-tags.mjs)",
+      "Bash(xargs -I{} sh -c 'echo \"\"=== {} ===\"\"; head -8 \"\"{}\"\"')",
+      "Bash(node scripts/date-from-log.mjs --dry-run)",
+      "Bash(node scripts/date-from-log.mjs)",
+      "Bash(node scripts/update-wordcount.mjs)",
+      "Bash(bash scripts/update-wordcount.sh)",
+      "Bash(node -e \"const fs = require\\(''fs''\\); const s = fs.readFileSync\\(''content/index.md'', ''utf-8''\\); const line = s.split\\(''\\\\n''\\).find\\(l => l.includes\\(''scrapbook''\\)\\); console.log\\(JSON.stringify\\(line?.slice\\(0, 40\\)\\)\\);\")",
+      "Bash(node -e \"const fs = require\\(''fs''\\); const s = fs.readFileSync\\(''content/index.md'', ''utf-8''\\); const line = s.split\\(''\\\\n''\\).find\\(l => l.includes\\(''scrapbook''\\)\\); console.log\\([...line.slice\\(0,10\\)].map\\(c => c.charCodeAt\\(0\\)\\)\\);\")",
+      "Bash(node -e \":*)",
+      "Bash(node scripts/sort-topic-pages.mjs --dry-run)",
+      "Bash(node scripts/sort-topic-pages.mjs)",
+      "Bash(find /Users/alexanderlarge/scrapbook/source/content -type f -name '*Doing stuff in order to Figure It Out*' -o -name '*Getting back to Deep Okayness*' -o -name '*Why A B U is so useful*' -o -name 'A B U.md' -o -name index.md -o -name '*How to think in a rigorous way*' -o -name '*Re wanting to learn how to think*' -o -name '*Socratic Method*' -o -name '*Simone Weil*' -o -name '*Poor education*' -o -name '*Being Kegan 4*' -o -name *Consensus* -o -name '*Going with the flow*' -o -name '*Why thinking things through is aversive*' -o -name '*Turns out writing for an audience*')",
+      "Bash(curl -s https://raw.githubusercontent.com/saberzero1/quartz-themes/main/README.md)",
+      "Bash(gh api:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(curl -sL https://raw.githubusercontent.com/saberzero1/quartz-themes/master/README.md)",
+      "Bash(curl -s \"https://raw.githubusercontent.com/saberzero1/quartz-themes/master/themes/adrenaline/_index.scss\")",
+      "Bash(grep -r \"RecentNotes\" /Users/alexanderlarge/scrapbook/source --include=\"*.ts\" --include=\"*.tsx\" ! -path \"*/node_modules/*\")",
+      "Bash",
+      "Skill(update-config)"
+    ]
+  }
+}

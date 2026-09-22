@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash([ -f \"dave-log-schema-therapy.md\" ])",
+      "Bash([ -f \"dave-primer-schema-therapy.md\" ])",
+      "Bash(grep \"^[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]-schema-therapy\\\\.md$\")"
+    ]
+  }
+}
