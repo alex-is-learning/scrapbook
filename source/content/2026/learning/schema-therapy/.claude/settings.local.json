@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash([ ! -f \"dave-primer-test-topic.md\" ])"
-    ]
-  }
-}
