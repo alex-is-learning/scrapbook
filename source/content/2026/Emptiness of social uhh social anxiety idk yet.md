@@ -3,6 +3,7 @@ date: 2026-11-11
 ---
 - [[Log per day - 2026]]
 - *(Messy draft ofc, this is my scrapbook)*
+- *Another idea to explore - social anxiety as downstream of poor boundaries*
 - Goal:
 	- A daily source of (relatively minor, but persistent and pernicious) pain for me is devaluing myself, my own discernment, and subtly pedestalising others
 	- I recently did a Mahamudra retreat and it feels clear that I'm doing some reification is various directions and would like to explore it and get more clarity
@@ -75,6 +76,7 @@ date: 2026-11-11
 ## Where this comes from: World
 - "Other" already covers how e.g. Modernity includes subtle/invisible (doxa) pressures to appear Certain, Competent etc. The youtuber needs to have total conviction in their stance, the theory developer needs to be sure that they're onto something that will Change Everything. This is actually a useful, energy-giving posture a lot of the time, youthful naïveté or something
 - We don't live in a culture of humility. We live in a culture of blustering, posturing, arrogance (see Trump)
+- ![[1794392864028.webp]]
 # Progress that has already been made
 E.g.:
 - I remember the way I used to read fiction, feeling as if whatever the main character did was probably correct and something I should probably emulate, vs now having much more discernment 
