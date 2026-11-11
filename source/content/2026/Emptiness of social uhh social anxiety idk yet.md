@@ -82,6 +82,12 @@ E.g.:
 # Compassion
 - Quick note at the end that right now I actually get mad at confused people (especially if their confusion is causing damage), rather than feeling compassion for them
 - On the Mahamudra retreat (ooh nice organic wrap-up of this post lol) they talked about how once you fully "get it" then you of course have nothing but compassion for the confused/lost people (including your past self)
+# Appendix → showing ChatGPT this post and asking for relevant concepts
+> I'd love to get some new concepts, terms etc to help me think about this
+> I imagine there's stuff here that, if I got more memetically fit labels for them, would make it way easier to hold these insights, rather than it being this big murky thing that I don't successfully install without having to scaffold myself into the right frame
+
+- [[Emptiness of social uhh social anxiety idk yet - ChatGPT]]
+
 
 [^1]: "A's" in the A/B/U framework → [[Why A B U is so useful for me]]
 
