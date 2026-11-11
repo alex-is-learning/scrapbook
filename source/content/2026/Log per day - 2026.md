@@ -3,6 +3,10 @@ permalink: log-per-day
 date: 2026-03-12
 ---
 - [[source/content/index|Home Page]]
+# November 2026
+- 2026-11-11
+	- [[Emptiness of social uhh social anxiety idk yet]]
+	- [[Why the mahamudra retreat was so good]]
 # August 2026
 - 2026-08-07
 	- [[1 Home Page 🏠 (meditation with Roger Thisdell)]]
