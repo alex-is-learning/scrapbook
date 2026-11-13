@@ -4346,11 +4346,23 @@ var Breadcrumbs_default = /* @__PURE__ */ __name((opts) => {
 // quartz/components/Comments.tsx
 import { jsx as jsx31 } from "preact/jsx-runtime";
 
+// quartz/components/scripts/lockednote.inline.ts
+var lockednote_inline_default = "";
+
+// quartz/components/styles/lockednote.scss
+var lockednote_default = "";
+
+// quartz/components/LockedNote.tsx
+var LockedNote = /* @__PURE__ */ __name(() => null, "LockedNote");
+LockedNote.afterDOMLoaded = lockednote_inline_default;
+LockedNote.css = lockednote_default;
+var LockedNote_default = /* @__PURE__ */ __name(() => LockedNote, "default");
+
 // quartz.layout.ts
 var sharedPageComponents = {
   head: Head_default(),
   header: [],
-  afterBody: [],
+  afterBody: [LockedNote_default()],
   footer: Footer_default({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -5540,7 +5552,7 @@ var config = {
     },
     locale: "en-US",
     baseUrl: "alexanderlarge.com/scrapbook",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "**/*.locked.md"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

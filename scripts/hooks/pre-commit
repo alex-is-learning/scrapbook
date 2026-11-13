@@ -8,6 +8,9 @@ if [ -n "$ROOT" ]; then
   cd "$ROOT"
 fi
 
+# Encrypt changed `*.locked.md` notes into their public stubs
+bash scripts/lock-notes.sh
+
 # Refuse the commit if it would publish someone's phone/email
 bash scripts/pii-guard.sh
 

@@ -1,0 +1,32 @@
+.locked-note form {
+  display: flex;
+  gap: 0.5rem;
+  margin: 2rem 0;
+
+  input,
+  button {
+    font: inherit;
+    padding: 0.4rem 0.7rem;
+    border-radius: 5px;
+    border: 1px solid var(--lightgray);
+    background: var(--light);
+    color: var(--dark);
+  }
+
+  input {
+    flex: 1;
+    max-width: 18rem;
+  }
+
+  input.wrong {
+    border-color: #c0392b;
+    outline-color: #c0392b;
+  }
+
+  button {
+    cursor: pointer;
+    background: var(--secondary);
+    border-color: var(--secondary);
+    color: var(--light);
+  }
+}

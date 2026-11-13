@@ -23,7 +23,7 @@ function walkDir(dir) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const full = path.join(dir, entry.name)
     if (entry.isDirectory()) files.push(...walkDir(full))
-    else if (entry.isFile() && entry.name.endsWith(".md")) files.push(full)
+    else if (entry.isFile() && entry.name.endsWith(".md") && !entry.name.endsWith(".locked.md")) files.push(full)
   }
   return files
 }

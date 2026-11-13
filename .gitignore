@@ -2,3 +2,7 @@
 .obsidian/workspace.json
 
 **/.claude/settings.local.json
+
+# Plaintext of password-protected notes (see README, "Locked notes")
+*.locked.md
+.lock-build/

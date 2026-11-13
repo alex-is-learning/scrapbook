@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "alexanderlarge.com/scrapbook",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "**/*.locked.md"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

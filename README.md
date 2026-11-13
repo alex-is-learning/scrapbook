@@ -25,11 +25,25 @@ npm install
 npx quartz build --serve
 ```
 
+## Locked notes (password-protected)
+
+This repo is public, so a note is protected by encryption, not by hiding it.
+
+- **Lock a note:** name it `X.locked.md`. Git ignores `*.locked.md`, so the text never reaches GitHub.
+- **What gets published:** the pre-commit hook runs `source/scripts/lock-notes.mjs`. It renders the note with Quartz on this machine, encrypts the result (AES-256-GCM, key from PBKDF2-SHA256, 600,000 rounds) and writes `X.md`, a stub that holds only ciphertext. The page shows a password box and decrypts in the browser (`source/quartz/components/scripts/lockednote.inline.ts`).
+- **Password:** the first line of `~/.config/scrapbook/lock-password`. A note can set its own with `password: ...` in its frontmatter. A reader's browser remembers a password that worked.
+- **Still public:** the file name, and the frontmatter keys `title`, `date`, `tags`, `aliases` (plus `locked: true`). Images that the note embeds are also public files. All notes on the default password open together, and an old ciphertext stays in git history after a password change.
+- **Stale page:** a note is re-encrypted only when its own text changes. After a change to a linked note or to the theme, run `node source/scripts/lock-notes.mjs --force`.
+- **Limits:** an unlocked page has no hover previews or copy buttons on code blocks.
+- **Backup:** the stub holds the encrypted markdown too. `node source/scripts/lock-notes.mjs --restore` rebuilds each missing `X.locked.md` from its stub with the default password. Without the password, the text is gone, so keep the password in a password manager.
+- **Unlock a note for good:** delete `X.md`, then rename `X.locked.md` back to `X.md`.
+- **A note that was already committed in plain text stays readable in git history.** Locking protects new notes only.
+
 ## Scripts
 
 - `scripts/update-wordcount.sh` — updates the word count displayed on the homepage
 - `scripts/stamp-dates.sh` — adds `date:` frontmatter to notes added in the current commit (the Recent notes sidebar shows dated notes only)
-- `scripts/install-git-hooks.sh` — installs git hooks (pre-commit: PII guard, date stamp, word count)
+- `scripts/install-git-hooks.sh` — installs git hooks (pre-commit: lock notes, PII guard, date stamp, word count)
 - `source/scripts/stamp-dates.mjs` — the date stamper. `--staged` for the hook, no flag to backfill the current year's folder, `--all` for all of `content/`, `--dry-run` to preview. Date comes from a date in the filename, else the day the note is listed under in `Log per day - <year>.md`, else the day git first saw the file (today, for a new file).
 
 ## Gotcha: the Recent notes sidebar
