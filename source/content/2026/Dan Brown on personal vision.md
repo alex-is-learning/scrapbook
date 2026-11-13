@@ -2,6 +2,7 @@
 date: 2026-11-13
 ---
 - [[Log per day - 2026]]
+- How to do it: [[Personal vision — a method (Emmons strivings + Dan Brown)]]
 
 Source: *State of Emergence* (Terry Patten), [019 Dr. Daniel P. Brown – What Really Matters](https://newrepublicoftheheart.org/podcast/019-dr-daniel-p-brown-what-really-matters/) (53 min). Timestamps below are from that episode. Transcribed locally with mlx-whisper, so wording may be slightly off.
 
