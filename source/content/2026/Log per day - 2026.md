@@ -4,6 +4,8 @@ date: 2026-03-12
 ---
 - [[source/content/index|Home Page]]
 # November 2026
+- 2026-11-13
+	- [[Dan Brown on personal vision]]
 - 2026-11-11
 	- [[Emptiness of social uhh social anxiety idk yet]]
 	- [[Why the mahamudra retreat was so good]]

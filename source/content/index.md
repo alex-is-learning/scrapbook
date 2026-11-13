@@ -4,7 +4,7 @@ aliases:
   - Home Page
 permalink: home-page
 ---
-Hi, I'm [Alex](https://www.alexanderlarge.com/)! This is my digital scrapbook - currently at 411,752 words (AKA Infinite Jest x 0.71 or Order of the Phoenix x 1.60).
+Hi, I'm [Alex](https://www.alexanderlarge.com/)! This is my digital scrapbook - currently at 412,364 words (AKA Infinite Jest x 0.71 or Order of the Phoenix x 1.60).
 
 - [[Log per day - 2026]]
 - [[1 Home Page 🏠 (meditation with Roger Thisdell)]]
